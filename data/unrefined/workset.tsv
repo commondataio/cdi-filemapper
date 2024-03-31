@@ -1,0 +1,217 @@
+ext	mime	categories
+WSDL		api
+BZ2	application/x-bzip2	archives
+GZ	application/gzip	archives
+RAR	application/rar	archives
+TAR	application/x-tar	archives
+TAR.GZ	application/x-compressed-tar	archives
+XZ		archives
+ZIP	application/zip	archives
+7Z	application/x-7z-compressed	archves
+AAC		audio
+AIFF		audio
+AMF		audio
+CRD	application/x-mscardfile	audio
+FLAC		audio
+MIDI	audio/midi	audio
+MKA		audio
+MOD		audio
+MP3		audio
+OGG	audio/ogg	audio
+STM		audio
+WAV	audio/x-wave	audio
+WMA		audio
+ASM		code
+C	text/x-c	code
+CSS	text/css	code
+DO	text/x-stata-syntax	code
+F	text/x-fortran	code
+JAVA		code
+JS	text/javascript	code
+M	text/x-matlab	code
+PAS		code
+PY	text/x-python-script	code
+R		code
+SAS	application/x-sas-syntax	code
+WL		code
+ATOM	application/atom+xml	data
+BAG		data
+CDX		data
+CIF		data
+CSV	text/csv	data
+CZML		data
+DAP		data
+DAT	text/x-fixed-field	data
+DBF	application/dbf	data
+DTA	DTA	data
+EDI		data
+EML		data
+ERDDAP		data
+ERDDAP-TableDAP		data
+FASTA		data
+FCS	application/vnd.isac.fcs	data
+GTFS		data
+HDF	application/x-hdf	data
+HDF5	application/x-h5	data
+ICS		data
+ISO	application/x-iso9660-image	data
+JLD2		data
+JSON	application/json	data
+JSONL		data
+MAG		data
+MAT	application/matlab-mat	data
+MDB	application/x-msaccess	data
+MDL		data
+NC	application/netcdf	data
+NetCDF	application/netcdf	data
+ODS	application/vnd.oasis.opendocument.spreadsheet	data
+OPeNDAP		data
+P7C		data
+PCAP		data
+PDB		data
+PICKLE		data
+RData	application/x-rlang-transport	data
+RSS	application/rss+xml	data
+SAS7BDAT		data
+SAV	application/x-spss-sav	data
+SPS	application/x-spss-syntax	data
+SQL	application/x-sql	data
+SQLITE	application/x-sqlite3	data
+TAB		data
+TSV	text/tab-separated-values	data
+WARC	application/warc	data
+WARC.GZ		data
+WARC.XZ		data
+XLS	application/vnd.ms-excel	data
+XLSB		data
+XLSM		data
+XLSX		data
+XML	application/xml	data
+XSD		data
+YAML		data
+SDMX		statistics
+123		documents
+CDF		documents
+DOC	application/msword	documents
+DOCX	application/vnd.openxmlformats-officedocument.wordprocessingml.document	documents
+EPS		documents
+EPUB		documents
+HLP	application/winhlp	documents
+HTML	text/html	documents
+MAN	application/x-troff-man	documents
+MD	text/markdown	documents
+ODP		documents
+ODT	application/vnd.oasis.opendocument.text	documents
+PDF	application/pdf	documents
+PPT		documents
+PPTX	application/vnd.openxmlformats-officedocument.presentationml.presentation	documents
+PS	application/postscript	documents
+RTF		documents
+TEX		documents
+TXT	text/plain	documents
+VSD		documents
+XPS	application/vnd.ms-xpsdocument	documents
+AIXX		geodata
+CSW		geodata
+DWG	image/vnd.dwg	geodata
+Esri REST		geodata
+FGB		geodata
+FGDB		geodata
+G3W		geodata
+GDB		geodata
+GeoJSON	application/vnd.geo+json	geodata
+GeoTIFF	image/geotiff	geodata
+GML	application/gml+xml	geodata
+GPKG	application/x-gpkg	geodata
+GPX		geodata
+KML	application/vnd.google-earth.kml	geodata
+KMZ	application/vnd.google-earth.kmz	geodata
+LAS		geodata
+MIF	application/vnd.mif	geodata
+MVT	application/vnd.mapbox-vector-tile	geodata
+MXD		geodata
+PBF		geodata
+QGS		geodata
+SDF		geodata
+SGY		geodata
+SHP	application/shp	geodata
+SHX	application/shx	geodata
+SID	audio/prs.sid	geodata
+TopoJSON		geodata
+WCS		geodata
+WFC		geodata
+WFS		geodata
+WMS	application/vnd.ogc.wms_xml	geodata
+WMTS		geodata
+XYZ	chemical/x-xyz	geodata
+ADO	application/x-stata-ado	images
+AISF		images
+ARW	image/ARW	images
+BDF	application/x-font-bdf	images
+BIL	BIL	images
+BMP	image/x-ms-bmp	images
+CPT		images
+DCM	application/dicom	images
+DDS	image/dds	images
+DNG	image/dng	images
+DRLE	DRLE	images
+DXF	image/vnd.dxf	images
+ECW		images
+EMF		images
+FH		images
+FIG	application/x-xfig	images
+FITS	image/fits	images
+GIF	image/gif	images
+GLTF		images
+GPH		images
+HEIC	image.heic	images
+HFA		images
+JP2	image/jp2	images
+JPEG	image/jpeg	images
+JPG	image/jpeg	images
+NII	image/nii	images
+PNG	image/png	images
+PSD		images
+RAW	image/raw	images
+RWL		images
+SOS		images
+STL		images
+SVG	image/svg+xml	images
+TIFF	image/tiff	images
+VTU		images
+WEBP		images
+YUV		images
+ARFF		ml
+PARQUET	application/vnd.apache.parquet	ml
+EXE	application/x-msdos-program	other
+HDT	application/vnd.hdt	semweb
+JSONLD		semweb
+N3	text/n3	semweb
+RDF	application/rdf+xml	semweb
+SPARQL		semweb
+TTL	text/turtle	semweb
+TURTLE	text/turtle	semweb
+IVT	application/x-beyond2020	statistics
+JSONSTAT		statistics
+PC-AXIS		statistics
+PX	text/pc-axis	statistics
+AVI	ASM	video
+FLV		video
+H264	video/h264	video
+M4V	video/x-m4v	video
+MKV		video
+MOV	video/quicktime	video
+MP4	application/mp4	video
+MPG		video
+OGV	video/ogg	video
+SWF	application/x-shockwave-flash	video
+WEBM	video/webm	video
+WMV	video/x-msvideo	video
+ATX	application/vnd.antix.game-component	
+BIN		
+OAF		
+PHP		
+POR		
+PRJ		
+SHA256	text/plain	
+TTF		

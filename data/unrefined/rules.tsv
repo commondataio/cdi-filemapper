@@ -1,0 +1,238 @@
+text	mime	ext	count
+SHAPE-ZIP		.shp	188756
+GML2		.gml	175824
+gml3		.gml	175824
+gml32		.gml	175755
+WMS		.wms	175340
+GML2-GZIP		.gml	48164
+application/gzip		.gz	47643
+OGC:WFS		.wfs	40438
+excel		.xls	37188
+excel2007		.xlsx	27110
+http://publications.europa.eu/resource/authority/file-type/CSV		.csv	25415
+http://publications.europa.eu/resource/authority/file-type/JSON		.json	14300
+geopkg		.gpkg	13077
+gpkg		.gpkg	13077
+geopackage		.gpkg	13077
+OGC:WFS-1.0.0-http-get-capabilities		.wfs	12386
+excel		.xls	11990
+GLG:KML-2.0-http-get-map		.kml	11559
+OGC:WFS-2.0.0-http-get-capabilities		.wfs	10007
+gml2		.gml	9996
+OGC:WFS-2.0.0-http-get-feature		.wfs	9986
+MapInfo File		.tab	8851
+http://publications.europa.eu/resource/authority/file-type/WMS_SRVC		.wms	8764
+FileGDB		.fgdb	8662
+http://publications.europa.eu/resource/authority/file-type/ATOM		.atom	8028
+json-stat		.json	7133
+http://publications.europa.eu/resource/authority/file-type/PDF		.pdf	7125
+https://www.iana.org/assignments/media-types/text/csv		.csv	6932
+OGC:WCS		.wcs	6685
+OGC:GML		.gml	6502
+DXF-ZIP		.dxf	6407
+http://publications.europa.eu/resource/authority/file-type/WFS_SRVC		.wfs	5733
+OGC:KML		.kml	5709
+ZIP-SHAPE		.shp	5708
+QGIS		.qgs	4870
+OGR-KML		.kml	4320
+http://publications.europa.eu/resource/authority/file-type/PNG		.png	4140
+OGR-TAB		.tab	4110
+OGR-MIF		.mif	4110
+OGR-CSV		.csv	4110
+OGR-CSV		.csv	4110
+http://publications.europa.eu/resource/authority/file-type/HTML		.html	3893
+http://publications.europa.eu/resource/authority/file-type/XLSX		.xlsx	3730
+GTiff		.geotiff	3637
+http://publications.europa.eu/resource/authority/file-type/ZIP		.zip	3618
+OGC:CSW-2.0.2-http-get-capabilities		.csw	3416
+http://publications.europa.eu/resource/authority/file-type/SHP		.shp	3176
+http://publications.europa.eu/resource/authority/file-type/JPEG		.jpg	2935
+MapInfo MIF		.mif	2922
+JP2KAK		.jp2	2708
+JP2KAK_LOSSLESS		.jp2	2703
+https://www.iana.org/assignments/media-types/text/xml		.xml	2695
+http://publications.europa.eu/resource/authority/file-type/XLS		.xls	2677
+OGC:WCS-1.1.1-http-get-coverage		.wcs	2535
+OGC:WCS-1.1.1-http-get-capabilities		.wcs	2535
+Extended TAB		.tab	2490
+ATOM Syndication Format		.atom	2358
+http://publications.europa.eu/resource/authority/file-type/GML		.gml	2251
+OGC WMS		.wms	2200
+OGC WFS		.wfs	2148
+http://publications.europa.eu/resource/authority/file-type/KML		.kml	2127
+OGC:CSW		.csw	2032
+vnd.ms-excel		.xls	1831
+https://www.iana.org/assignments/media-types/application/gml+xml		.gml	1736
+https://www.iana.org/assignments/media-types/application/vnd.geospace		.g3w	1448
+OGC:WMTS		.wmts	1382
+http://publications.europa.eu/resource/authority/file-type/GEOJSON		.geojson	1312
+word		.doc	1164
+Sparse_ARFF		.arff	1149
+OGC:WFS-http-get-capabilities		.wfs	1071
+OGC:WFS-1.0.0-http-get-feature		.wfs	1005
+Shape		.shp	884
+http://publications.europa.eu/resource/authority/file-type/WCS_SRVC		.wcs	801
+http://publications.europa.eu/resource/authority/file-type/JSONLD		.jsonld	789
+http://publications.europa.eu/resource/authority/file-type/TURTLE		.ttl	789
+http://publications.europa.eu/resource/authority/file-type/RDFXML		.rdf	789
+http://publications.europa.eu/resource/authority/file-type/JSONL		.jsonld	789
+http://publications.europa.eu/resource/authority/file-type/FGB		.fgb	789
+csv-restricted-column		.csv	773
+csv-with-metadata-header		.csv	773
+Web Map Service (WMS)		.wms	770
+http://publications.europa.eu/resource/authority/file-type/TIFF		.tiff	760
+WMS_SRVC		.wms	758
+FGDB/GDB		.gdb	756
+http://publications.europa.eu/resource/authority/file-type/XML		.xml	753
+RDF XML		.rdf	736
+JSON-LD		.jsonld	726
+https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet		.xlsx	675
+GeoPackage		.gpkg	659
+wms:WMS_Capabilities (WMS 1.3.0)		.wms	602
+http://publications.europa.eu/resource/authority/file-type/PARQUET		.parquet	564
+Shape		.shp	512
+https://www.iana.org/assignments/media-types/application/json		.json	504
+http://www.opengis.net/def/serviceType/ogc/wfs		.wfs	476
+OGC:WFS-1.0.0-http-get-feature--shapefile		.wfs	437
+OGC:WCS-1.1.0-http-get-capabilities		.wcs	436
+https://www.iana.org/assignments/media-types/text/html		.html	364
+OGC:WMS		.wms	322
+http://publications.europa.eu/resource/authority/file-type/OV2		.json	306
+http://publications.europa.eu/resource/authority/file-type/GPX		.gpx	306
+Web Feature Service (WFS)		.wfs	300
+ESRI Shape file		.shp	298
+GEOPACKAGE		.gpkg	296
+https://www.iana.org/assignments/media-types/application/geo+json		.geojson	282
+GeoTIF		.geotiff	282
+https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml		.kml	277
+http://publications.europa.eu/resource/authority/file-type/GPKG		.gpkg	277
+OGC:WFS-1.1.0-http-getfeature		.wfs	266
+HTTP:OGC:WMS		.wms	259
+OGR-GPKG		.gpkg	233
+POWERPOINT		.ppt	230
+OGC:OGC-API-Features-items		.wfs	226
+rss+xml		.rss	222
+shapefile		.shp	216
+SHTML		.html	212
+OGR-SHP-ZIP		.shp	210
+OGR-TAB-ZIP		.tab	210
+OGR-KML-ZIP		.kml	210
+OGR-MIF-ZIP		.mif	210
+OGR-CSV-ZIP		.csv	210
+OGR-DGN-ZIP		.dgn	210
+OGR-DXF-ZIP		.dxf	210
+http://publications.europa.eu/resource/authority/file-type/GEOTIFF		.geotiff	210
+wcs:Capabilities (WCS 2.0)		.wcs	208
+zip (shp)		.shp	207
+http://publications.europa.eu/resource/authority/file-type/TXT		.txt	199
+WFS_SRVC		.wfs	189
+Zipped DAT		.zip	188
+OGC:WCS-2.0.0-http-get-coverage		.wcs	175
+shapefile (gezippt)		.shp	174
+http://publications.europa.eu/resource/authority/file-type/RDF		.rdf	174
+http://publications.europa.eu/resource/authority/file-type/ODS		.ods	167
+OGC:WPS		.wps	165
+JPEG 2000		.jpg	158
+OGC:WCS-2.0.1-http-get-coverage		.wcs	152
+Zipped SAS		.sas	146
+SHAPE		.shp	141
+OGC:WFS-1.1.0-http-get-feature		.wfs	139
+Zipped XLS		.xls	134
+plain		.txt	133
+https://www.iana.org/assignments/media-types/application/rdf+xml		.rdf	132
+zip, shp		.zip	130
+csv-geo-au		.csv	127
+CZML-ZIP		.czml	125
+OGC:WMTS-1.0.0-http-get-tile		.wmts	125
+svg+xml		.svg	119
+https://www.iana.org/assignments/media-types/application/zip		.zip	116
+Shapefile/ZIP		.shp	113
+geopackage		.gpkg	105
+Zipped CSV		.csv	104
+Shapefiles		.shp	102
+esri shapefile - zipped		.shp	102
+zipped shapefile		.shp	102
+OGC:WCS-1.1.0-http-get-coverage		.wcs	98
+gezippte CSV-Dateien		.csv	91
+https://www.iana.org/assignments/media-types/image/tiff		.tiff	89
+shapefiles		.shp	87
+https://www.iana.org/assignments/media-types/application/vnd.ms-excel		.xls	85
+CSV (comma-separated values)		.csv	82
+OGC:WCS-2.0.1-http-get-capabilities		.wcs	80
+Zipped SAS7BDAT		.sas	78
+OGC:WFS-1.1.0-http-get-capabilities		.wfs	76
+SHP / Zip		.shp	73
+shapefile (gezippt)		.shp	70
+http://publications.europa.eu/resource/authority/file-type/RDF_XML		.rdf	69
+vnd.google-earth.kmz		.kmz	69
+http://publications.europa.eu/resource/authority/file-type/WMS		.wms	68
+shp.zip		.shp	68
+http://publications.europa.eu/resource/authority/file-type/WFS		.wfs	68
+zipped esri file geodatabase		.zip	64
+gezippte shape		.shp	62
+OGC:WFS-2.0.0-http-describefeaturetype		.wfs	61
+shp / zip		.zip	57
+xml,rdf		.rdf	52
+ogc wms		.wms	52
+xml/soap		.xml	50
+GML (Geographic Markup Language)		.gml	50
+WMTS		.wmts	49
+http://publications.europa.eu/resource/authority/file-type/RSS		.rss	49
+KML (Google)		.kml	49
+http://publications.europa.eu/resource/authority/file-type/TAR_XZ		.tar.xz	45
+SHAPE FILE		.shp	43
+PDF/A-1		.pdf	40
+excel workbook (*.xlsx)		.xlsx	39
+http://publications.europa.eu/resource/authority/file-type/KMZ		.kmz	39
+http://publications.europa.eu/resource/authority/file-type/NETCDF		.nc	37
+MapInfo TAB		.tab	35
+shape file .shp		.shp	28
+https://www.iana.org/assignments/media-types/application/pdf		.pdf	25
+.zip shp		.shp	25
+RDFa		.rdf	24
+https://www.iana.org/assignments/media-types/image/png		.png	20
+https://www.iana.org/assignments/media-types/image/png		.png	20
+SAS txt file		.sas	18
+CSV (delimitado por comas)		.csv	18
+https://www.iana.org/assignments/media-types/application/ld+json		.jsonld	17
+https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet		.xlsx	17
+https://daten.berlin.de/schema/dist-format/wfs		.wfs	17
+https://www.iana.org/assignments/media-types/text/turtle		.ttl	16
+http://publications.europa.eu/resource/authority/file-type/GDB		.gdb	16
+https://www.iana.org/assignments/media-types/application/rdf+xml		.rdf	16
+OGC:GEOPACKAGE		.gpkg	15
+http://www.opengis.net/def/serviceType/ogc/wmts		.wmts	14
+https://www.iana.org/assignments/media-types/text/plain		.txt	13
+SHAPEFILES		.shp	13
+http://publications.europa.eu/resource/authority/file-type/DOC		.doc	12
+http://publications.europa.eu/resource/authority/file-type/JSON_LD		.jsonld	12
+https://www.iana.org/assignments/media-types/application/n-triples		.n3	11
+http://publications.europa.eu/resource/authority/file-type/CSV		.csv	11
+https://www.iana.org/assignments/media-types/image/jpeg		.jpg	11
+https://www.iana.org/assignments/media-types/application/n-triples		.n3	11
+http://publications.europa.eu/resource/authority/file-type/CSV		.csv	11
+https://www.iana.org/assignments/media-types/image/jpeg		.jpg	11
+https://www.iana.org/assignments/media-types/application/n-triples		.n3	11
+Geopackage		.gpkg	11
+https://www.iana.org/assignments/media-types/text/tab-separated-values		.tsv	8
+https://www.iana.org/assignments/media-types/text/tab-separated-values		.tsv	8
+http://publications.europa.eu/resource/authority/file-type/GeoJSON		.geojson	8
+http://publications.europa.eu/resource/authority/file-type/TSV		.tsv	8
+http://publications.europa.eu/resource/authority/file-type/DOCX		.docx	6
+https://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz		.kmz	5
+http://publications.europa.eu/resource/authority/file-type/geojson		.geojson	5
+SHP (ESRI SHAPE)		.shp	5
+http://publications.europa.eu/resource/authority/file-type/ODT		.odt	5
+ESRI Shapefile		.shp	5
+Turtle		.ttl	5
+https://www.iana.org/assignments/media-types/application/vnd.hdt		.hdt	4
+https://www.iana.org/assignments/media-types/application/vnd.hdt		.hdt	4
+7zip		.7z	4
+http://publications.europa.eu/resource/authority/file-type/ODP		.odp	4
+https://www.iana.org/assignments/media-types/application/vnd.ms-excel		.xls	4
+Cloud Optimized GeoTIFF		.geotiff	4
+http://publications.europa.eu/resource/authority/file-type/GZIP		.gz	4
+https://www.iana.org/assignments/media-types/application/vnd.hdt		.hdt	4
+GeoTiff		.geotiff	4
+parquet		.parquet	4
+RDF-XML		.rdf	4

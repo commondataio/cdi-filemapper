@@ -1,0 +1,1001 @@
+url	format	mime
+https://geoserver-staging.mapicture.com/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=mapicture:finder4wms_base&maxFeatures=5000&outputFormat=gml3		gml3
+https://archaeology.datastations.nl/api/access/datafile/2351481?gbrecs=true	xml	text/xml
+http://gacmda.gacm.mx:8880/files/opendata/opend/17043-AD-AS-DCAGI-SC-043-17/4.-%20TR/4.pdf	PDF	
+https://www1.ncdc.noaa.gov/pub/data/documentlibrary/tddoc/td3210.pdf	PDF	
+https://dataverse.harvard.edu/api/access/datafile/3452449?gbrecs=true	dbf	application/dbf
+http://geoserver.d4science-ii.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lmacroramphosusscolopax20130413033837718cest&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.2		text/xml; subtype=gml/3.2
+https://data.bris.ac.uk/datasets/1iqkndj4qfe1a28uihdt5y5bd5/Particpants%20Paper%20Exp%203b/TJJ_Init.mat	BIN	application/octet-stream
+http://archiv.transparenz.hamburg.de/hmbtgarchive/HMDK/schnelsen26_124_snap_1_15080_snap_1.PDF	PDF	
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/Ji7D6IR5Md/Ji7D6IR5Md_frame_317.xml	TXT	text/plain
+https://www2.census.gov/geo/tiger/TIGER2021/ROADS/tl_2021_45019_roads.zip	ZIP	
+https://secretariadeambiente.gov.co/arcgis/services/Calidad_aire/precipitacionanualacum/MapServer/WMSServer?request=GetCapabilities&service=WMS	WMS	
+http://catalogue.simocean.pt/dataset/bb7e2a20-c209-4567-b0ca-4720b0a7252b/resource/b2e5b525-c2c2-46f8-a1ea-732acacab6ac/download/swaalgarveoeste20220130swh.nc	application/x-netcdf	
+https://www.opendata.metro.tokyo.lg.jp/shinagawa/bokasuiso.geojson	GeoJSON	
+https://dataverse.harvard.edu/api/access/datafile/3875980?gbrecs=true	png	image/png
+https://dataverse.harvard.edu/api/access/datafile/3608002?gbrecs=true	txt	text/plain
+https://mapas.cundinamarca.gov.co/api/download/v1/items/2ef86c090da745b1880a9aaff9ecf7a9/csv?layers=12		text/csv
+http://cdn.ruarxive.org/public/datacollect/fedstat.ru/dump_20130805/data/data_37542_full.xls	XLS	
+https://www.portodimare.eu/geoserver/ows?srsName=EPSG%3A32633&outputFormat=json&service=WFS&srs=EPSG%3A32633&request=GetFeature&typename=geonode%3ATourism_2018_Emilia_Romagna_Region&version=1.0.0		
+https://api.foodsecurityportal.org/datastore/dump/743af729-17d9-5d4f-9378-fd35d3249b70		
+https://dadosdepesquisa.fiocruz.br/api/access/datafile/157889?gbrecs=true	jpg	image/jpeg
+https://data.bris.ac.uk/datasets/ypfrg4sz8jwi2ehjqjubbq526/TX12D14/TX12_D14_E3L/TX12_D14_E3L_361.tif	TIFF	image/tiff
+https://geos.polarview.aq/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=polarview:ARG_ICEBERGRISK_CURRENT&maxFeatures=5000&outputFormat=text/xml; subtype=gml/2.1.2		text/xml; subtype=gml/2.1.2
+https://www.geoportal.rlp.de/mapbender/php/wms.php?inspire=1&layer_id=41656&withChilds=1&REQUEST=GetCapabilities&SERVICE=WMS		application/vnd.ogc.wms_xml
+http://metaver.de/trefferanzeige?docuuid=BF01EA2C-0A48-4E25-BE58-4BE6830CD69B	HTML	
+https://geo.abds.is/geonetwork/srv/api/records/e4f6efc3-566a-4f2c-8ce1-e644b4c49808/attachments/F_3_31_Lemming.zip		
+https://archaeology.datastations.nl/api/access/datafile/160981?gbrecs=true	xml	text/xml
+https://ggis.un-igrac.org/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=twap_public:twap_ind_ns_humandepgwagricult&maxFeatures=5000&outputFormat=excel		excel
+http://catalogue.geo-ide.developpement-durable.gouv.fr/catalogue/srv/fre/catalog.search#/metadata/fr-120066022-jdd-29e5c30f-3a90-4bb9-8edb-f23a507da07f		WWW:DOWNLOAD-1.0-http--download
+https://data.ngdc.noaa.gov/platforms/ocean/nos/coast/H10001-H12000/H11976/BAG/H11976_MB_2m_MLLW_2of3.mb168.gz		
+https://escave.satellite.dvo.ru/wms/NOAA/2007/08/22/NOAA_18_20070822_153049.map		application/vnd.ogc.wms_xml
+https://dados.fortaleza.ce.gov.br/dataset/420db3e9-f3de-4034-85bd-9f9bfb8249df/resource/5eceb5a4-4b73-4e9d-937a-fd0cb36d33a6/download/rededeatencaoecuidadosdefortaleza.pdf	PDF	application/pdf
+https://data.bris.ac.uk/datasets/3owflku95bxsx24643cybxu3qh/8/4/3014.jpg	JPEG	image/jpeg
+http://data.treasury.ri.gov/dataset/7a752622-918c-44f0-9847-78ecc1e933d8/resource/02e79710-d28c-4a96-9577-ef7201a0203a/download/092816SICbook.pdf	PDF	
+http://landscapeportal.org:80/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=GeoPackage+%28mosaic%29&request=GetCoverage&height=324&width=571&version=1.0.0&BBox=-109.81510045260873%2C-68.39323288073001%2C-0.7415336726294999%2C30.324867006279522&Coverage=geonode%3Atreespp_coffee45ok		
+https://archaeology.datastations.nl/api/access/datafile/1894531?gbrecs=true	docx	application/vnd.openxmlformats-officedocument.wordprocessingml.document
+https://archaeology.datastations.nl/api/access/datafile/2676177?gbrecs=true	freelist	application/octet-stream
+https://data.bris.ac.uk/datasets/2rh8legncojmw1zdi4n1gdt1zf/NNB2/CRYSTAL/diamond.d3	TXT	text/plain
+http://amap.zju.edu.cn/geoserver/ows?outputFormat=csv&service=WFS&srs=EPSG%3A4610&request=GetFeature&typename=geonode%3Azhuyun123123&version=1.0.0		
+http://thredds.d4science.org/thredds/wms/public/netcdf/AquamapsNative/aquamaps_native_peprilus_burti.nc?service=wms&version=1.3.0&request=GetMap&layers=probability&bbox=20.25,-97.75,38.25,-64.25&styles=&width=640&height=480&srs=EPSG:4326&CRS=EPSG:4326&format=image/png&COLORSCALERANGE=auto	WMS	
+https://share-open-data-njtpa.hub.arcgis.com/api/download/v1/items/4034334be679438591d9017c3bb3b7c3/shapefile?layers=0		application/zip
+https://ontariogeohub-fr-lio.opendata.arcgis.com/api/download/v1/items/e38cc6a263a348d1b149676d6bd11353/kml?layers=21		application/vnd.google-earth.kml+xml
+https://geodata.zuid-holland.nl/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=omgevingsbeleid:DUURZAME_GIETWATERVOORZIENING&maxFeatures=5000&outputFormat=text/xml; subtype=gml/2.1.2		text/xml; subtype=gml/2.1.2
+https://geobretagne.fr/geoserver/lannion-tregor/ows?service=wfs&version=1.0.0&request=getfeature&typename=station_sqe_ltc&outputformat=shape-zip		application/octet-stream
+https://gcoos4.tamu.edu/erddap/tabledap/fk_CREMP_yearly_revisited_OBIS_Occurrence_v3_2009	ERDDAP-TableDAP	
+https://dataverse.harvard.edu/api/access/datafile/7250672?gbrecs=true	png	image/png
+https://geodienste.komm.one/ows/services/org.180.59590366-ab23-4976-bf66-11ed93bbad6e_wfs/org.180.b4a6d852-d87a-4ec9-83b0-0ce93e97f88a?SERVICE=WFS&Request=GetCapabilities		text/plain
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lhydrolagusalberti20130411223223153cest&maxFeatures=5000&outputFormat=GML2-GZIP		GML2-GZIP
+https://data.cityofnewyork.us/api/views/75g4-kk7x/rows.rdf?accessType=DOWNLOAD		application/rdf+xml
+https://geonode.seabee.sigma2.no/download/557	zip	application/octet-stream
+https://archaeology.datastations.nl/api/access/datafile/1474097?gbrecs=true	jpg	image/jpeg
+http://geoserver.d4science-ii.research-infrastructures.eu/geoserver/wms?service=wms&version=1.1.0&request=GetMap&layers=lcygnodracomawsoni20130410205807266cest&styles=&bbox=-180,-90,180,90&width=676&height=330&srs=EPSG:4326&crs=EPSG:4326&format=application/openlayers	WMS	
+https://dataverse.harvard.edu/api/access/datafile/7098357?gbrecs=true	pdf	application/pdf
+https://open.alberta.ca/dataset/aec3365f-15ca-4413-95b6-e3f694e5034f/resource/5a759176-7ade-4b98-ac4c-a52e1c11c2a4/download/goasharedhealthiabcrm-and-data-accesshipstatistical-supplement2020_202110-open-datatable_2.28-a.xlsx	XLSX	
+https://archaeology.datastations.nl/api/access/datafile/2620670?gbrecs=true	xml	text/xml
+https://borealisdata.ca/api/access/datafile/8093?gbrecs=true	pdf	application/pdf
+http://catalogue.simocean.pt/dataset/bd9432f6-139e-4dec-be88-c5c1fb2190cf/resource/af98f2aa-75ea-44db-aa48-18b82f68d402/download/ecmwfatp090sst03320200426000000.xml	XML	
+https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/623f0f19-a32a-4d71-b84d-58023de538e4/Genehmigung_nach_HBauO.pdf	PDF	
+https://dados.al.gov.br/catalogo/dataset/8fb79fd3-e169-46ae-98ae-d25dddb2ccdf/resource/92b52974-3e28-444d-b0a6-d5265f7344c5/download/grotafreidamiaomapasauxiliares.pdf	PDF	application/pdf
+https://data.bris.ac.uk/datasets/ypfrg4sz8jwi2ehjqjubbq526/TX12D2/TX12_D2_C1L/TX12_D2_C1L_303.tif	TIFF	image/tiff
+https://archaeology.datastations.nl/api/access/datafile/605480?gbrecs=true	jpg	image/jpeg
+http://webarchive.nationalarchives.gov.uk/+/http://www.thedataservice.org.uk/statistics/sfrdec09/sfr_dec09_table6.htm	HTML	
+https://archaeology.datastations.nl/api/access/datafile/493021?gbrecs=true	jpg	image/jpeg
+https://dataverse.harvard.edu/api/access/datafile/3409736?gbrecs=true	docx	application/vnd.openxmlformats-officedocument.wordprocessingml.document
+http://geo.cerdi.com.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=emv:quakesdd&maxFeatures=5000&outputFormat=csv		csv
+https://opendataservices.countygp.ab.ca/public/rest/services/Planning/MapServer/6		application/json
+https://offenerhaushalt.at/gemeinde/gratkorn/download?year=2021&rechnungsabschluss=va&haushalt=fhh&origin=gemeinde	CSV	
+https://data.qdr.syr.edu/api/access/datafile/18877?gbrecs=true	pdf	application/pdf
+https://dataverse.harvard.edu/api/access/datafile/7019995?gbrecs=true	tab	text/tab-separated-values
+https://dataverse.harvard.edu/api/access/datafile/4067139?gbrecs=true	docx	application/vnd.openxmlformats-officedocument.wordprocessingml.document
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/L8Om5uXvAa/L8Om5uXvAa_frame_234.xml	TXT	text/plain
+http://gis-vo.volganet.ru/arcgis/rest/services/OpenData/SZO_2019_2021/MapServer/8	Feature Layer	
+http://metrokota.ina-sdi.or.id/geoserver/wms?service=WFS&version=1.0.0&request=GetFeature&typeName=BAPPEDA:irigasi_metroselatan_ln_187220230710145046&outputFormat=shape-zip	WMS	
+https://karta.enkoping.se/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=ena_extern:pagaende_byggprojekt_planer_pkt&maxFeatures=5000&outputFormat=application/vnd.google-earth.kml xml		application/vnd.google-earth.kml xml
+https://datasets.seed.nsw.gov.au/dataset/9e21723b-451c-42c8-91ad-9b260d364933/resource/585c12e8-256c-4139-8cd2-b2b5314c2b9b/download/anzlicmetadata_nsw-blue-carbon-in-watersheds-of-instream-barriers.pdf	PDF	
+https://www150.statcan.gc.ca/n1/tbl/csv/38100151-fra.zip	CSV	
+https://datos.canarias.es/catalogos/estadisticas/dataset/44dc4231-b23c-464d-a0b3-709c55ff4571/resource/56623e48-83b8-4560-93ac-7190f67cf04d/download/paises_2016_geom_20.json	JSON	application/json
+http://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2014/06/Admitted-Provider-Dec14-revised-XLS-3756K.xls	XLS	
+https://ide.sedatu.gob.mx/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Ac2805_eje_2_poligonos_foa_2023&outputFormat=csv&srs=EPSG%3A6372		
+https://risk.spc.int/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=geonode:KI_OSM_boundary_polygon_other_relations&maxFeatures=5000&outputFormat=application/gml+xml; version=3.2		application/gml+xml; version=3.2
+https://joiss.kr:443/geonetwork/srv/eng//catalog.edit#/metadata/FPJ0000146		text/html
+https://dataverse.harvard.edu/api/access/datafile/7559550?gbrecs=true	jpg	image/jpeg
+https://field-geoserver.jrsrp.com/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aus:hemispheric&maxFeatures=5000&outputFormat=csv		csv
+https://archaeology.datastations.nl/api/access/datafile/120172?gbrecs=true	jpg	image/jpeg
+http://137.74.71.154/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Adeserts&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326		
+http://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS49633/E_I_1_j06.zip	ZIP	application/zip
+https://dataverse.csuc.cat/api/access/datafile/47211?gbrecs=true	txt	text/plain
+https://atlas.ihpan.edu.pl/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=hauland:LocationAreaType&maxFeatures=5000&outputFormat=GML2		GML2
+https://dataverse.harvard.edu/api/access/datafile/6833080?gbrecs=true	jpg	image/jpeg
+https://geoserver.dainst.org/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Apalmyra_strasse_tu_m_tachy&format=image%2Fpng&height=550&width=550&srs=EPSG%3A32637&bbox=432050.9450921%2C3823447.3203501%2C433075.1737921%2C3824376.1681501		
+https://sitzungsdienst-wandsbek.hamburg.de/bi/vo020.asp?VOLFDNR=1001331	HTML	
+https://carto.karugeo.fr/frontcarto/context/getOws/2423880		text/html
+http://catalogue.simocean.pt/dataset/33a148e5-1b96-433d-be4a-65cd00681d82/resource/1c053d51-2396-4ed2-8146-ae8f56e1d66a/download/swaalgarveeste20201228swh.nc	application/x-netcdf	
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/qizqy9ct0h/qizqy9ct0h_frame_20.xml	TXT	text/plain
+https://data.bris.ac.uk/datasets/110f0tkyy28pa2joru2pxxbrxd/tactip-331/model_surface2d/frames_bw/frame_1386_0.png	PNG	image/png
+https://gcoos5.geos.tamu.edu/erddap/tabledap/fasteddy_20120613_20121002_sys2_75kHz_Leg_113.graph	ERDDAP	
+https://gsq-prod-ckan-horizon-public.s3-ap-southeast-2.amazonaws.com/Report/102484/Document/350740/Report_Main_102484.json	JSON	
+https://data.qdr.syr.edu/api/access/datafile/2549?gbrecs=true	pdf	application/pdf
+https://edmond.mpdl.mpg.de/api/access/datafile/54712?gbrecs=true	tiff	image/tiff
+https://borealisdata.ca/api/access/datafile/149797?gbrecs=true	g01_p00_f28_o	application/octet-stream
+http://thredds.d4science.org/thredds/fileServer/public/netcdf/AquamapsNative2050/aquamaps_native2050_dosinia_discus.nc	application/x-netcdf	
+https://dataverse.nl/api/access/datafile/15441?gbrecs=true	sps	application/x-spss-syntax
+http://catalogue.simocean.pt/dataset/517cda89-81f1-4256-872e-32e6514fbb52/resource/d561a34b-6de0-4bd1-88a3-4924345c1fd6/download/hycall20200312sscv.nc	application/x-netcdf	
+https://gifu-opendata.pref.gifu.lg.jp/dataset/8cc9fade-2c81-40d9-a44d-8dc37e0172e9/resource/2daf71c2-8ca8-4118-b713-ef6245b628d8/download/keisen201215.xlsx	XLSX	
+https://gsq-prod-ckan-horizon-public.s3-ap-southeast-2.amazonaws.com/Report/29450/Document/570214/cr_29450_7.tif	tif	
+https://dataverse.harvard.edu/api/access/datafile/3597859?gbrecs=true	xlsm	application/vnd.ms-excel.sheet.macroenabled.12
+https://flooddata.ses.nsw.gov.au/dataset/d6124e09-ad50-443b-a5d6-866be3f5b0b1/resource/96e0aad3-4abc-40d2-a1b0-e9b726e8f418	pdf	
+https://pigma.org/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=cd-de-la-vienne:cd86_conseillers_numeriques-3&maxFeatures=5000&outputFormat=text/xml; subtype=gml/2.1.2		text/xml; subtype=gml/2.1.2
+https://dataverse.harvard.edu/api/access/datafile/7374036?gbrecs=true	tpr	application/octet-stream
+https://oat.ambiente.gob.ar/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aecorregiones_Sitios&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&srs=EPSG%3A4326		
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lspiofilicornis20130412122343226cest&maxFeatures=5000&outputFormat=csv		csv
+https://geopresovregion.sk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=geo-psk:wm_dotacie_pt&maxFeatures=5000&outputFormat=json		json
+https://data.opendevelopmentmyanmar.net/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=ODMekong:PF&maxFeatures=5000&outputFormat=excel2007		excel2007
+https://nexus.pacificdata.org/uploaded/thumbs/dataset-3583e9d0-7099-4fc4-a7c8-71a14ed3456b-thumb-f3d31995-e69d-4f43-a9e9-b84b70df0c42.png		
+https://dadosdepesquisa.fiocruz.br/api/access/datafile/108217?gbrecs=true	jpg	image/jpeg
+https://archaeology.datastations.nl/api/access/datafile/2732389?gbrecs=true	zip	application/zip
+https://www.correosdemexico.gob.mx/datosabiertos/DCAF/s_recursos_humanos/comparativosocupacionales.xlsx	vnd.ms-excel	
+https://escave.satellite.dvo.ru/wms/NOAA/2011/09/02/NOAA_15_20110902_081023.map		application/vnd.ogc.wms_xml
+https://data-gwrc.opendata.arcgis.com/datasets/GWRC::nrp-schedule-c3-ngāti-toa-rangātira.kml?outSR=%7B%22latestWkid%22%3A2193%2C%22wkid%22%3A2193%7D	KML	
+http://faust.izor.hr:8080/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=dipl:priobalne_vode&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.2		text/xml; subtype=gml/3.2
+https://archaeology.datastations.nl/api/access/datafile/1672646?gbrecs=true	jpg	image/jpeg
+https://data.bris.ac.uk/datasets/3owflku95bxsx24643cybxu3qh/20/6/33544.jpg	JPEG	image/jpeg
+https://agriculture.canada.ca/atlas/data_donnees/agriEnvironmentalIndicators/supportdocument_documentdesupport/fr/Indicateur_agroenvironnemental_Azote_residuel_dans_sol_et_risque_contamination_eau_par_azote_SPC_ISO_19131%20-%20annual.pdf		1
+https://archaeology.datastations.nl/api/access/datafile/1813747?gbrecs=true	pdf	application/pdf
+https://geodienste.komm.one/ows/services/org.28.112e9fdd-37cf-429a-a9ba-c8bcb0b39f82_wfs/org.28.ec9387d1-46fd-4b30-8439-68a94976afec?SERVICE=WFS&Request=GetCapabilities		text/plain
+https://www.portodimare.eu/geoserver/ows?srsName=EPSG%3A32628&outputFormat=json&service=WFS&srs=EPSG%3A32628&request=GetFeature&typename=geonode%3Awind_farms_emodnet&version=1.0.0	json	json
+http://geonode.copeco.gob.hn/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=geonode:Clase_de_tierra9&maxFeatures=5000&outputFormat=application/gml+xml; version=3.2		application/gml+xml; version=3.2
+https://dataverse.openforestdata.pl/api/access/datafile/26367?gbrecs=true	jpg	image/jpeg
+https://www.maps.north-ayrshire.gov.uk/arcgis/rest/services/AGOL/LDP2_Online/MapServer/35	Feature Layer	
+https://opendata.karanganyarkab.go.id/dataset/ff6a8b1c-16cc-4733-9c1b-835b278333da/resource/d3f590a2-a4d0-4b7c-a494-eba8b6812530/download/bahan-rakor-dengan-kasi-pmd-dan-kasi-peman-bankeu-sarpras-kabupaten-2022.docx	DOCX	application/vnd.openxmlformats-officedocument.wordprocessingml.document
+https://gsq-prod-ckan-horizon-public.s3-ap-southeast-2.amazonaws.com/Report/81161/Document/475177/Report_Main_81161.json	JSON	
+https://data.nist.gov/od/ds/ark:/88434/mds2-2581/NIST%20Video%20TEST%202-22/2-22%20HD%20Snapshots/2-22_00050ms_Front_UV_ND3.0.jpg.sha256	TEXT	text/plain
+https://magellan.airparif.fr/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=DIDON:alrt3j_idf&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.1.1		text/xml; subtype=gml/3.1.1
+https://sextant.ifremer.fr/services/wms/oceanographie_physique		5
+https://ienccloud.us/arcgis/rest/services/IENC/U37KA050/MapServer/6	Feature Layer	
+https://archaeology.datastations.nl/api/access/datafile/464580?gbrecs=true	xml	text/xml
+http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/SOS?observedProperty=http://mmisw.org/ont/cf/parameter/water_surface_height_above_reference_datum&service=SOS&responseFormat=text/csv&request=GetObservation&offering=urn:ioos:station:NOAA.NOS.CO-OPS:8739803&eventTime=2020-07-13T15:14:18/2020-07-13T17:14:18&version=1.0.0	sos	
+http://mdi-dienste.baw.de/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=EasyGSH_Kennwerte_2002:mean_salinity_95q_shp_100m_2002&maxFeatures=5000&outputFormat=application/json		application/json
+http://satudata.purworejokab.go.id/api/6839/1/laki-laki.json	JSON	application/json
+https://sitzungsdienst-hamburg-mitte.hamburg.de/bi//to010.asp?silfdnr=1000301	HTML	
+https://dadosdepesquisa.fiocruz.br/api/access/datafile/46320?gbrecs=true	jpg	image/jpeg
+https://adp.aurin.org.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=datasource-AU_Govt_DJSB-UoM_AURIN_DB:djsb_employment_by_occupation_gccsa_2018&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.1.1		text/xml; subtype=gml/3.1.1
+https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/24c2993c-28de-4125-b529-4b707f409fbe/Aenderungsbescheid.pdf	PDF	
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/iHoQnejOQm/iHoQnejOQm_frame_201.xml	TXT	text/plain
+https://home-pugonline.hub.arcgis.com/api/download/v1/items/34fbd538a9ad4a4d93b1b06eed82ba7c/geojson?layers=105214		application/vnd.geo+json
+https://console.cloud.google.com/storage/browser/nmfs_odp_nefsc/PARR/READ/PSB/NEST/27492		
+https://maps-cartes.services.geo.ca/server_serveur/rest/services/NRCan/Val-de-bois_scm7p5_fr/MapServer/		ESRI REST: Map Server
+https://api-proxy.edh.azure.cloud.dfo-mpo.gc.ca/catalogue/records/c48669a3-045b-400d-b730-48aafe8c5ee6/attachments/nuseds_report_definitions.csv	CSV	
+https://geodienste.komm.one/store/data/buckets/org/538/17e13cbf-fed6-4519-9f38-1b6cb7876176/zip		text/plain
+http://pfni.gesp.it/uploaded/thumbs/doc-4124-thumb.png		
+http://vmgeoserver.vd.dk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=VD:tra_servicearea_truck_bus&maxFeatures=5000&outputFormat=SHAPE-ZIP		SHAPE-ZIP
+http://catalogue.simocean.pt/dataset/40b2ade6-dbae-429a-b254-7d22c458506d/resource/4ed168d8-6290-420d-b0a6-52991a48651f/download/swaporto20220316swpp.nc	application/x-netcdf	
+http://sitservicios.lapaz.bo/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=lapaz:tblCoordenadaCarpetaGeomConcesiones&maxFeatures=5000&outputFormat=json		json
+http://geoserver2.d4science.research-infrastructures.eu/geoserver/wms?service=wms&version=1.1.0&request=GetMap&layers=laustrodecusglaciale20130414222449926cest&styles=&bbox=-180,-90,180,90&width=676&height=330&srs=EPSG:4326&crs=EPSG:4326&format=application/openlayers	WMS	
+http://cteco.uconn.edu/ctmaps/rest/services/Coastal/BluePlan_HU_HistoricCultural/MapServer/2	Feature Layer	
+https://gis.cumbria.gov.uk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=HIAMS:WandF_primary_school_names&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.2		text/xml; subtype=gml/3.2
+https://geodienste.komm.one/ows/services/org.18.b82229db-38c4-40fd-bdcc-2f0cdf8b1cef_wms/org.18.fffaf455-0ab7-46b0-90b3-aa7708c10dec?SERVICE=WMS&Request=GetCapabilities		application/vnd.ogc.wms_xml
+https://www.marine.csiro.au/data/trawler/dataset.cfm?survey=FR199509&data_type=ctd		WWW:DOWNLOAD-1.0-http--csiro-oa-app
+https://data.bris.ac.uk/datasets/1ycz4js3rgnzk2dxw07im4dat3/GULP/REBO/butene12/butene1229.gout	TXT	text/plain
+https://data.gns.cri.nz/rgmad/images/52621-53620/53439-l1.tif	TIFF	
+https://data.atlasfontium.pl/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=0ee0fbee-84ef-11ec-b493-6284abfab031&outputschema=http%3A%2F%2Fgcmd.gsfc.nasa.gov%2FAboutus%2Fxml%2Fdif%2F&elementsetname=full	xml	text/xml
+https://hidrocarburos.energianeuquen.gob.ar/geoserver/ows?service=WMS&version=1.3.0&request=GetMap&layers=Mineria:Demasias&styles=&srs=CRS:84&bbox=-70.69234594999173,-39.11424743054324,-68.97911398339357,-37.18013994780923&height=768&width=639&format=image/png		image/png
+https://data.thailand.opendevelopmentmekong.net/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=ODCambodia:biosphere_reserve_en&maxFeatures=5000&outputFormat=application/json		application/json
+https://data.usgs.gov/datacatalog/metadata/USGS.0bb7e6e5-fd30-4d54-a565-36b0ada16c36.xml	XML	text/xml
+http://geoserver.d4science-ii.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=W_mpa:shp_d1bc640632e940d8a49914a6970ada20&maxFeatures=5000&outputFormat=GML2-GZIP		GML2-GZIP
+https://data-bris.acrc.bris.ac.uk/datasets/77gg44j23mxe23k9h85a87s11/OBS/201731100102s.fits	application/fits	application/fits
+https://cmgs.gob.mx:6443/arcgis/rest/services/SIAP/Sembrando_Vida/MapServer/416	Feature Layer	
+https://risk.spc.int/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Avan_10_2500t&format=image%2Fpng&height=550&width=550&srs=EPSG%3A4326&bbox=166.5414850%2C-20.2494200%2C170.2374850%2C-13.0734200		
+https://opendata.jabarprov.go.id/id/dataset/jumlah-jenis-pekerjaan-di-desa-ciranggem-kec-jatigede-tahun-2021--	HTML	
+https://archaeology.datastations.nl/api/access/datafile/2634540?gbrecs=true	xml	text/xml
+https://dataverse.no/api/access/datafile/121853?gbrecs=true	txt	text/plain
+https://geonode.goosocean.org/download/60		
+http://185.17.146.157/catalogue/csw?outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2Fcsdgm&service=CSW&request=GetRecordById&version=2.0.2&elementsetname=full&id=27fc366e-a0ff-11ea-ae3c-06760a0009eb	xml	text/xml
+https://archaeology.datastations.nl/api/access/datafile/2739300?gbrecs=true	xml	text/xml
+http://dados.prefeitura.sp.gov.br/dataset/2cb733c9-d477-485f-b5d9-3c7d97889bec/resource/1ce0e0ae-421d-44fe-aa3b-161e00e362bd/download/fluxocaixaadmindireta.xlsx	XLSX	
+https://projects.eao.gov.bc.ca/p/davidson/docs?file=5887b816a4acd4014b82116e	HTML	
+https://data.demakkab.go.id/dataset/c6d6c25f-ef6c-4c0a-9ce8-f05718a88749/resource/1d73ee16-3993-46d0-a721-3b641c3d5f90/download/data-kontak-erat-perdesa-29-agustus-2022.xlsx	XLSX	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+https://dataverse.harvard.edu/api/access/datafile/5426677?gbrecs=true	pdf	application/pdf
+https://datasource.kapsarc.org/api/v2/catalog/datasets/number-of-non-saudi-domestic-pilgrims-by-nationality/exports/json		
+https://abacus.library.ubc.ca/api/access/datafile/105314?gbrecs=true	iso	application/x-iso9660-image
+https://maps.numeris.ca/arcgis/rest/services/NumerisRDMarketProfiles/5139BellvilleTrentonCTRL/MapServer/4	Feature Layer	
+https://komserv4gdi.service24.rlp.de/ows/wms/07137225_OG_Urmitz?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetFeatureInfo&WIDTH=1000&HEIGHT=650&SRS=EPSG:4326&BBOX=7.52525895172566,50.4127500634581,7.52613546532787,50.4132403540471&FORMAT=image/png&INFO_FORMAT=text/html&X=357&Y=116&FEATURE_COUNT=10&LAYERS=BPLAN.07137225.0&QUERY_LAYERS=BPLAN.07137225.0&STYLES=default		application/vnd.ogc.wms_xml
+http://catalogue.ceda.ac.uk/uuid/a98e4f158c8f48678075bea6e1c5a744		text/plain
+https://dadosdepesquisa.fiocruz.br/api/access/datafile/112276?gbrecs=true	jpg	image/jpeg
+https://atlas.ihpan.edu.pl/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=ihpan:sgkp_t_2_hasla_id&maxFeatures=5000&outputFormat=GML2		GML2
+https://archaeology.datastations.nl/api/access/datafile/1336251?gbrecs=true	pdf	application/pdf
+https://communautaire-esrica-apps.hub.arcgis.com/api/download/v1/items/8e9c25f773934a34a38b13e9fa2789d4/csv?layers=10		text/csv
+https://archaeology.datastations.nl/api/access/datafile/1700106?gbrecs=true	jpg	image/jpeg
+https://gcoos5.geos.tamu.edu/erddap/tabledap/deepwater_4_12_116_ctd.graph	ERDDAP	
+https://data.ngdc.noaa.gov/platforms/ocean/nos/coast/F00001-F02000/F00826/MBAB/F00826_MBAB_2m_S3005_300kHz_1of1.tif	TIFF	image/tiff
+https://sobigdata.d4science.org/group/sobigdatalab/method-engine?OperatorId=org.gcube.dataanalysis.wps.statisticalmanager.synchserver.mappedclasses.transducerers.ENGLISH_TWEET_TOKENIZER	method-engine	
+https://data.bris.ac.uk/datasets/280vqefjhtg7k21ieyoyx9od3c/2D/frag3/U1/depth7/occ0.5/vqe1_occ0.5.txt	TXT	text/plain
+https://archaeology.datastations.nl/api/access/datafile/72373?gbrecs=true	xml	text/xml
+https://services.arcgis.com/hQoYDJEEJMaPw8Sy/arcgis/rest/services/NRW_CFB_Gauge_data/FeatureServer/0		application/json
+https://data-cdfw.opendata.arcgis.com/datasets/CDFW::red-sesbania-distribution-lines-ds81.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D	GeoJSON	
+http://iowmeta.io-warnemuende.de/datatools/excelDownload.php?id=IOW-IOWDB-STID-10132		text/html
+https://data-pcc.opendata.arcgis.com/datasets/PCC::flood-hazard-stream-corridor-pdp.geojson?outSR=%7B%22latestWkid%22%3A2193%2C%22wkid%22%3A2193%7D	GeoJSON	
+https://metaver.de/trefferanzeige?docuuid=E5B9448B-D315-453E-ADE7-8F213E0AAF89	HTML	
+http://geoserver.d4science-ii.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:leurythoecomplanata20130414131107037cest&maxFeatures=5000&outputFormat=GML2-GZIP		GML2-GZIP
+https://www.floodinfo.ie/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=esds_floodmaps:ext_f_m_0100&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.1.1		text/xml; subtype=gml/3.1.1
+https://archaeology.datastations.nl/api/access/datafile/638815?gbrecs=true	jpg	image/jpeg
+https://geoservices.noord-holland.nl/ags/rest/services/oi_op/oi_natuurbeheerplan/MapServer/51	Feature Layer	
+https://data.goettingen-research-online.de/api/access/datafile/68679?gbrecs=true	csv	text/csv
+https://data.bris.ac.uk/datasets/2mm35j4o35nzj2ow42c0gqj4wx/models/fine_grain/power/breakdown/20210427_leon3_beebs_beebs_pwr_fngr_allev_nocyc_nocth_topdown_avgrelerr_nfolds_ools_1r.data	TXT	text/plain
+https://dadosdepesquisa.fiocruz.br/api/access/datafile/27890?gbrecs=true	jpg	image/jpeg
+https://ws.mapserver.transports.gouv.qc.ca/donnees/geomatique/crh_historique_geojson.zip	GeoJSON	application/zip
+https://archaeology.datastations.nl/api/access/datafile/2776467?gbrecs=true	xml	text/xml
+https://data.london.gov.uk/download/thameside-west-public-consultation-documents/275eb738-1c5f-485a-91d0-b5af1276168c/DAS%2520Vol%25202_Phase%25201_Part23.pdf	PDF	application/pdf
+https://data.princeedwardisland.ca/api/views/drw5-3nhv/rows.csv?accessType=DOWNLOAD		text/csv
+https://sitzungsdienst-altona.hamburg.de/bi/vo020.asp?VOLFDNR=1003358	HTML	
+https://dataverse.harvard.edu/api/access/datafile/3008656?gbrecs=true	m	text/plain; charset=US-ASCII
+https://data.demakkab.go.id/dataset/ea14f3e4-cc01-4177-849a-06d904faf15d/resource/d5428f13-5d7f-41dc-a5d4-643caf4bc284/download/57.-jumlah-pasien-tb-bta-yang-mendapatkan-pengobatan.xlsx	XLSX	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+https://geodienste.komm.one/ows/services/org.297.e9838d0b-9cd0-438e-a41e-7fbd1ba683fd_wfs/org.297.b5e24a9e-90d2-4e09-a895-94d31dfe747d?SERVICE=WFS&Request=GetCapabilities		text/plain
+https://data.bris.ac.uk/datasets/ypfrg4sz8jwi2ehjqjubbq526/TX13D0/TX13_D0_A4L/TX13_D0_A4L_367.tif	TIFF	image/tiff
+https://data.bris.ac.uk/datasets/2h0wyctxrd69j2oqccsi45hy1p/data/sphere-challenge-2016/test/00863/per_ann_location_0.csv	TXT	text/plain
+https://archaeology.datastations.nl/api/access/datafile/48960?gbrecs=true	jpg	image/jpeg
+https://geodienste.komm.one/ows/services/org.769.5b75c5b6-4759-4da1-8f3b-677786f480cb_wfs/org.769.239f82d7-4f8f-4ef0-ac45-7ffb643e61f3?SERVICE=WFS&Request=GetCapabilities		text/plain
+https://data.bris.ac.uk/datasets/1mgxi5jfxrc0y1iq1872uhkj5b/Fig%202%20-XPS/BaMnO3/BM.csv	TXT	text/plain
+https://map.gov.kz/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=8cfc960d-1b78-411e-b40a-88c279d3cf2b&outputschema=urn%3Aoasis%3Anames%3Atc%3Aebxml-regrep%3Axsd%3Arim%3A3.0&elementsetname=full	xml	text/xml
+https://data.bris.ac.uk/datasets/1jj0fszzrx9qf2ldcz654qp454/MGS_Paper_SI_Data_Figs/1_Single_Gene_KOs%20(Initial%20Input)/SingleKnockoutsFigs/seventenA/figs/singleKO_143.fig	BIN	application/octet-stream
+https://archaeology.datastations.nl/api/access/datafile/153653?gbrecs=true	xml	text/xml
+https://entrepot.recherche.data.gouv.fr/api/access/datafile/160178?gbrecs=true	gz	application/x-gzip
+https://geonode.seabee.sigma2.no/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:Team1Dag15_imsa_202305291249&STYLE=Team1Dag15_imsa_202305291249&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on	png	image/png
+https://floodmap.go.kr/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=floodmap:floodmap_basin_bg&maxFeatures=5000&outputFormat=gml3		gml3
+https://archaeology.datastations.nl/api/access/datafile/54717?gbrecs=true	xml	text/xml
+https://data.brno.cz/apps/mestobrno::mapa-majetku-města		text/html
+https://parcan.es/api/iniciativas/2003/6/EI?format=csv	CSV	
+http://opendata.kp.gov.pk/dataset/4b06e066-d310-49e9-9e68-ced72d94e14b/resource/4ab4b0b7-f51c-46e0-9db0-f1483fa4f939/download/total-number-of-cantt-areas-in-district-chitral-lower-year-2020.xlsx	XLSX	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+http://kartta.metla.fi/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=luke:beaver_winter_nest_density&maxFeatures=5000&outputFormat=GML2		GML2
+https://archaeology.datastations.nl/api/access/datafile/2650740?gbrecs=true	JPG	image/jpeg
+http://geoserver2.d4science.research-infrastructures.eu/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=lcarangoidesbartholomaei20130412224758300cest&format=json	WFS	
+https://archaeology.datastations.nl/api/access/datafile/531153?gbrecs=true	xml	text/xml
+https://www.opendata.metro.tokyo.lg.jp/fukushihoken/R3/houkokusho_204.csv	CSV	
+https://data.bris.ac.uk/datasets/1vw1mrp7hm84j2iw9o4m1whkcz/experimental_results/B-9-ss2/B-9-ss2-25400.jpg	PNG	image/png
+https://gisonline.mwa.co.th/arcgis/rest/services/mwa/CacheForWebcenter67_01_08/MapServer/18	Annotation SubLayer	
+https://minsegar-my.sharepoint.com/:b:/g/personal/dnec_minseg_gob_ar/EafXwaVK7f1EgveLdudViGoBVRzQxqC5ZQME1UDoQD3AFA?e=Yz4VIM&download=1		
+https://data.usgs.gov/datacatalog/metadata/USGS.5dd341c4-dcf9-4eaa-986a-7cbe51f6fa67.xml	XML	text/xml
+https://geoportal.bantulkab.go.id/geoserver/ows?service=WMS&request=GetMap&layers=portalgis%3Ajml_objek_pajak_terbayar_th_2021&format=image%2Fpng&height=550&width=550&srs=EPSG%3A4326&bbox=110.2045201%2C-8.0289057%2C110.5212921%2C-7.7677104	WMS	
+https://archaeology.datastations.nl/api/access/datafile/367733?gbrecs=true	xml	text/xml
+https://dataverse.no/api/access/datafile/37508?gbrecs=true	txt	text/plain
+https://open.alberta.ca/dataset/3675e470-646e-4f8a-86a7-c36c6f45471a/resource/d93d674c-3d5e-488e-ade4-024893ab17ab/download/394750-gov-heritage-fund-2014-15-annual-report.pdf	PDF	
+https://spatialags.vhb.com/arcgis/rest/services/29816_SIMS/SIMS_Mobile/MapServer/193	Feature Layer	
+https://www.resiliencemada.gov.mg/geoserver/wfs?outputFormat=csv&service=WFS&srs=EPSG%3A4326&request=GetFeature&typename=geonode%3Aoccupation_de_sol&version=1.0.0		
+https://geoportal.slemankab.go.id/uploaded/thumbs/layer-22b3113e-4642-4d07-96b6-11b52e68f33d-thumb-9ff4a6f0-00ba-4e61-94db-4eb0f88ac23f.png		
+https://gsq-prod-ckan-horizon-public.s3-ap-southeast-2.amazonaws.com/Report/31300/Document/578051/cr_31300_40.tif	tif	
+https://dados.tce.rs.gov.br/dados/municipal/empenhos/2015/85900.csv.7z	7Z	
+https://trouver.ternum-bfc.fr/dataset/unites-cartographiques-de-sol-de-nievre-mise-a-jour/resource/9ffa13b7-ec3e-438d-bf5e-8b91107ad295		WWW:DOWNLOAD-1.0-http--download
+https://archaeology.datastations.nl/api/access/datafile/2068302?gbrecs=true	mid	audio/midi
+https://www150.statcan.gc.ca/n1/tbl/csv/13100453-eng.zip	CSV	
+https://ftp.geogratis.gc.ca/pub/nrcan_rncan/vector/lithoprobe/links/sc/mt/gough/ten706.edi	EDI	
+https://archaeology.datastations.nl/api/access/datafile/1156609?gbrecs=true	jpg	image/jpeg
+https://dadosdepesquisa.fiocruz.br/api/access/datafile/82522?gbrecs=true	jpg	image/jpeg
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/26O25SE6N4/26O25SE6N4_frame_234.xml	TXT	text/plain
+https://dataverse.harvard.edu/api/access/datafile/7182469?gbrecs=true	nc	application/netcdf
+https://adp.aurin.org.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=datasource-AU_Govt_ABS_Census-UoM_AURIN_DB_1:b10c_aust_lga&maxFeatures=5000&outputFormat=text/xml; subtype=gml/2.1.2		text/xml; subtype=gml/2.1.2
+https://open.alberta.ca/dataset/c9e3eb61-006b-4400-95c5-e452369e4976/resource/865116b5-1e04-4bc7-9988-b081a425c5d2/download/health-mental-health-patient-advocate-office-annual-report-2012-2013.pdf	PDF	application/pdf
+https://insar.irea.cnr.it/layers/geonode%3Acskroma_a_18000_18999x2000_2999_topf1119		
+http://thredds.d4science.org/thredds/wcs/public/netcdf/AquamapsNative2050/aquamaps_native2050_raja_microocellata.nc?service=wcs&version=1.0.0&request=GetCoverage&coverage=probability&CRS=EPSG:4326&bbox=28.25,-25.75,65.25,9.25&width=640&height=480&format=geotiff	WCS	
+https://pacific-data.sprep.org/system/files/Social%2520Impact%2520Assessment%2520Report_0.pdf	PDF	application/pdf
+https://atom.geo-ide.developpement-durable.gouv.fr/atomArchive/GetResource?id=fr-120066022-orphan-residentifier-4dce175b-c7eb-4ae3-a481-fc9fb5ba6669&dataType=datasetAggregate		WWW:DOWNLOAD-1.0-http--download
+https://dataverse.harvard.edu/api/access/datafile/4980674?gbrecs=true	mat	application/matlab-mat
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/dVfP8wQMJE/dVfP8wQMJE_frame_227.xml	TXT	text/plain
+https://geoportal.karlsruhe.de/pdf/bplan/B_589_G.pdf		text/html
+https://archaeology.datastations.nl/api/access/datafile/321306?gbrecs=true	xml	text/xml
+https://www.ngdc.noaa.gov/metadata/published/NOAA/NESDIS/NGDC/MGG/NOS/H06001-H08000/iso/xml/H07681.xml	XML	application/xml
+https://dataverse.harvard.edu/api/access/datafile/6722022?gbrecs=true	jpg	image/jpeg
+https://data.internal.drpt.virginia.gov/api/views/57hg-92jc/rows.rdf?accessType=DOWNLOAD		application/rdf+xml
+https://data.nist.gov/od/ds/ark:/88434/mds2-2437/2021-06-10_v2/01-5xSSC-F3.fcs	BIN	application/octet-stream
+https://archaeology.datastations.nl/api/access/datafile/1403613?gbrecs=true	xml	text/xml
+https://www.transparenz.bremen.de/de/datensatz/bremen65.c.41590.de#distribution_146375		
+http://gstore.unm.edu/apps/rgisarchive/datasets/2fa950ba-fb37-47a5-b22f-64411a5aef88/metadata/FGDC-STD-012-2002.xml	XML	
+https://dataverse.harvard.edu/api/access/datafile/2665950?gbrecs=true	Questionnaire Prostate Specific Antigen Follow-Up Questionnaire	data/various-formats
+https://dataverse.harvard.edu/api/access/datafile/6551174?gbrecs=true	jpg	image/jpeg
+https://archaeology.datastations.nl/api/access/datafile/2791667?gbrecs=true	jpg	image/jpeg
+https://dataverse.harvard.edu/api/access/datafile/3148846?gbrecs=true	do	text/x-stata-syntax
+https://dataverse.harvard.edu/api/access/datafile/5713811?gbrecs=true	fits	application/fits
+https://archaeology.datastations.nl/api/access/datafile/36491?gbrecs=true	xml	text/xml
+https://dados.tce.rs.gov.br/dados/licitacon/contrato/orgao/66200.csv.zip	ZIP	
+https://dataverse.harvard.edu/api/access/datafile/7367145?gbrecs=true	mdp	application/octet-stream
+https://prdrse4all.spc.int/system/files/samoa_utility_2011_-_2013_epc_0.xlsx	DATA	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+http://amap.zju.edu.cn/geoserver/ows?outputFormat=csv&service=WFS&srs=EPSG%3A4326&request=GetFeature&typename=geonode%3Aqibiaojialine&version=1.0.0		
+https://www.city.yokohama.lg.jp/tsuzuki/kusei/tokei/tokeiyoran/opendata/opendate1.files/0139_20230224.csv	CSV	
+https://www.presupuestoabierto.gob.ar/datasets/2003/d-servicio-2003.zip		
+https://www.gov.uk/government/publications/defra-spending-over-25000-july-2021	HTML	
+http://catalogue.simocean.pt/dataset/d8d0e2b9-1db0-4607-97e4-147d4b80ae35/resource/13475709-01b4-4e5d-8c9e-879c4e91aa93/download/ecmwfatp090sst09620210207120000.xml	XML	
+https://darus.uni-stuttgart.de/api/access/datafile/59906?gbrecs=true	fid	application/octet-stream
+https://dataverse.harvard.edu/api/access/datafile/3811915?gbrecs=true	xls	application/vnd.ms-excel
+https://data.bris.ac.uk/datasets/11ja3p9r3iofn14v65lq51mzvo/GMOPST14/ARM/DATA/NullAesRAW/d000/aes_0101.dwfm	BIN	application/octet-stream
+https://archaeology.datastations.nl/api/access/datafile/1995183?gbrecs=true	jpg	image/jpeg
+https://daten-hamburg.de/geographie_geologie_geobasisdaten/virtuelle_passpunkte/Virtuelle_Passpunkte_HH_und_Bezirke_txt_2014-08-01.zip	TXT	
+https://open.alberta.ca/dataset/8b43666d-88ad-4987-82ad-ad595eb02034/resource/5931d9a6-c9f9-4019-a8c4-e44b82180e9f/download/28286322010-2011auditedjurisdictionholy-family-catholic.pdf	PDF	
+http://geoserver.d4science-ii.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lgerreslimbatus20130412235404760cest&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.1.1		text/xml; subtype=gml/3.1.1
+https://archaeology.datastations.nl/api/access/datafile/2090954?gbrecs=true	jpg	image/jpeg
+https://archaeology.datastations.nl/api/access/datafile/2014877?gbrecs=true	jpg	image/jpeg
+http://geo.stat.fi/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=tilastointialueet:avi4500k_2015&maxFeatures=5000&outputFormat=json		json
+https://gsq-prod-ckan-horizon-public.s3-ap-southeast-2.amazonaws.com/Site/1036556/Document/1277563/ssl_yanda_17_unknown_9.las	las	
+https://spatial.jacksoncounty.org/arcgis/rest/services/OpenData/BoundaryData/MapServer/10	Feature Layer	
+https://dadosdepesquisa.fiocruz.br/api/access/datafile/168065?gbrecs=true	jpg	image/jpeg
+http://thredds.d4science.org/thredds/wcs/public/netcdf/AquamapsNative/aquamaps_native_xenolepidichthys_dalgleishi.nc?service=wcs&version=1.0.0&request=GetCoverage&coverage=probability&CRS=EPSG:4326&bbox=7.25,-179.75,38.25,179.75&width=640&height=480&format=geotiff	WCS	
+https://archaeology.datastations.nl/api/access/datafile/1696776?gbrecs=true	csv	text/csv
+https://www.opendata.metro.tokyo.lg.jp/kouwan/yakuwari/31kouseicsv/31kousei_5/31kousei_5_17.csv	CSV	
+http://geo.ferhri.ru:8080/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=okh:JC0229030650L&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.2		text/xml; subtype=gml/3.2
+https://gis.lmi.is/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=LHG:landhelgi_12_milur_lina&maxFeatures=5000&outputFormat=application/vnd.google-earth.kml xml		application/vnd.google-earth.kml xml
+https://www2.census.gov/geo/tiger/TIGER2022/FACES/tl_2022_36063_faces.zip	ZIP	application/zip
+https://cuyahogacms.blob.core.windows.net/prod-fiscalofficer/pdf_fiscalofficer/en-us/BudgetCom/CompositeReductionFactorRptTY21.pdf#page=51		application/json
+https://data.opendatasoft.com/api/v2/catalog/datasets/restaurants-bars-et-cafes-de-juvignac@occitanie/exports/xls		
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lleptoserisscabra20130414231251756cest&maxFeatures=5000&outputFormat=GML2-GZIP		GML2-GZIP
+https://archaeology.datastations.nl/api/access/datafile/817565?gbrecs=true	xml	text/xml
+https://data.yorkopendata.org/dataset/314cb08b-ddec-45a7-bd82-d2ac9acb35fa/resource/b5e15973-f090-4ff3-9cdf-350e136b887d/download/seniorofficerssalaries2017.pdf	PDF	
+https://dataverse.harvard.edu/api/access/datafile/3273546?gbrecs=true	dcm	application/dicom
+http://geoserver.d4science-ii.research-infrastructures.eu/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=lclinocottusrecalvus20121219193641574cet&format=json	WFS	
+http://www.dov.vlaanderen.be:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=g3dv3_1:g3dv3_1_031102PA_AaBe_b_ih&maxFeatures=5000&outputFormat=SHAPE-ZIP		SHAPE-ZIP
+https://ils-geomonitoring.de/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:webgis2021_33Umland&STYLE=webgis2021_33Umland&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on	png	image/png
+http://wms.vsegei.ru/img.php?id=16321		text/html
+http://catalogue.simocean.pt/dataset/4832f80d-975e-4946-8a58-11e802116b20/resource/18b6da31-fcaf-4be4-84d2-95c208dd9ab5/download/swavianadocastelo20220328.xml	XML	
+http://mapserver.cepl.rssi.ru:8080/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=CFO:admpol_fo_2500 (Federal okrug)&maxFeatures=5000&outputFormat=application/vnd.google-earth.kml+xml		application/vnd.google-earth.kml+xml
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lacanthastreahillae20121222075850596cet&maxFeatures=5000&outputFormat=GML2-GZIP		GML2-GZIP
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lsargocentroncoruscum20121221125614495cet&maxFeatures=5000&outputFormat=GML2		GML2
+https://archaeology.datastations.nl/api/access/datafile/2102601?gbrecs=true	jpg	image/jpeg
+https://datamap.gov.wales/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=inspire-wg%3Apg_wimd2014_employment&outputFormat=csv&srs=EPSG%3A27700		
+https://data-waikatolass.opendata.arcgis.com/datasets/1b35c4d0828041ce833a65725b4e6771_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D	KML	
+https://dataverse.harvard.edu/api/access/datafile/6562665?gbrecs=true	contree	application/octet-stream
+https://www.cmar.csiro.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=AusSeabed:in2023_v01_Bathymetry_128m_CUBE_EPSG32752_G_20230316_DepthFP.tiff_contour&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.2		text/xml; subtype=gml/3.2
+https://gcoos4.tamu.edu/erddap/tabledap/CAGES_Alabama_CPUE_Trawl_study_OBIS_Event_1992	ERDDAP-TableDAP	
+https://data.purbalinggakab.go.id/dataset/fb387b10-233b-4303-aabb-1a956ec33052/resource/739e3b42-2484-44fe-a020-7088ee22f020/download/data-izin-lokasi-2018.xls	XLS	application/vnd.ms-excel
+https://archaeology.datastations.nl/api/access/datafile/292389?gbrecs=true	xml	text/xml
+https://archaeology.datastations.nl/api/access/datafile/189337?gbrecs=true	jpg	image/jpeg
+https://hellas.eugenius-asso.eu/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=SpaceForShore:S4S_GR_VSA_BEWID_3e_SINGL_20050729_LT05_UTM34&maxFeatures=5000&outputFormat=application/gml+xml; version=3.2		application/gml+xml; version=3.2
+https://abacus.library.ubc.ca/api/access/datafile/47420?gbrecs=true	hdr	application/octet-stream
+http://data.bris.ac.uk/datasets/upjtf9os1dzr154phmgvrupib/Isotope%20values/By%20instrument/Delta%20XL/120329_085458_13472hlw_TN-8b-0061.cf	application/x-thermo-isodat	application/x-thermo-isodat
+https://egozi.gsi.gov.il/arcgis/rest/services/Geo50K/Geo50K_Shefaram/MapServer/1	Feature Layer	
+https://dataverse.harvard.edu/api/access/datafile/3983953?gbrecs=true	png	image/png
+https://dataverse.harvard.edu/api/access/datafile/6813913?gbrecs=true	xlsx	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+https://www.universidata.es/sites/default/files/uam-presupuesto-de-ingresos-2024.csv		text/csv
+https://data.bris.ac.uk/datasets/280vqefjhtg7k21ieyoyx9od3c/1D/frag1/U8/depth2/occ0.15/vqe3_occ0.15.txt	TXT	text/plain
+https://geonode.centralasiaclimateportal.org/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3AEVI_Alert_at_analysis_date_2020_08_27&format=image%2Fjpeg&height=550&width=550&srs=EPSG%3A4326&bbox=46.4782788%2C35.1406469%2C87.3237960%2C55.4345503		
+https://edmond.mpdl.mpg.de/api/access/datafile/123491?gbrecs=true	lsm	image/tiff
+https://njogis-newjersey.opendata.arcgis.com/datasets/sussex::sussex-county-zoning-1.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D		application/vnd.google-earth.kml+xml
+https://archaeology.datastations.nl/api/access/datafile/1630785?gbrecs=true	jpg	image/jpeg
+https://observa.gijon.es/api/v2/catalog/datasets/paradas-de-taxis/exports/csv		
+https://ckan.pbh.gov.br/dataset/5466c0d7-ba44-42c7-88ca-8673e1dd1768/resource/88e5ce85-8b24-43f0-98b0-689652fd9ca5/download/2022-03_cadastros_veiculos_transporte_terra_entulho_emitidos.csv	CSV	text/csv
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:llutjanusguilcheri20130411135652691cest&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.1.1		text/xml; subtype=gml/3.1.1
+https://archaeology.datastations.nl/api/access/datafile/2044499?gbrecs=true	sql	application/x-sql
+https://www.dnp.go.th/botany/garden/gardendetail.html?id=13021&lat=18.14268327747985&lng=100.12949645883631	HTML	
+https://dataverse.harvard.edu/api/access/datafile/5714952?gbrecs=true	fits	application/fits
+https://www.datos.gov.co/api/views/d9mq-wcai/rows.rdf?accessType=DOWNLOAD		application/rdf+xml
+https://data.bantulkab.go.id/dataset/ca09750f-af31-4b55-9ee9-db8e1e3050ea/resource/5451312c-7414-4514-af73-e3f64655cd44/download/rincian-pendapatan-asli-daerah.csv	CSV	text/csv
+https://gsq-prod-ckan-horizon-public.s3-ap-southeast-2.amazonaws.com/Report/32356/Document/590775/cr_32356_317.tif	tif	
+https://loraincountyauditor.com/arcgis/rest/services/AGS_taxmap_wm/MapServer/51	Annotation SubLayer	
+http://ecotox.uvigo.es:8080/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=ecotox:zn12_16_s&maxFeatures=5000&outputFormat=GML2		GML2
+https://borealisdata.ca/api/access/datafile/575142?gbrecs=true	missRecode	application/octet-stream
+http://thredds.d4science.org/thredds/dodsC/public/netcdf/AquamapsNative2050/aquamaps_native2050_synapturichthys_kleinii.nc	application/x-netcdf	
+https://archaeology.datastations.nl/api/access/datafile/1873244?gbrecs=true	jpg	image/jpeg
+http://www.dov.vlaanderen.be:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=h3d:h3d_A0700_v&maxFeatures=5000&outputFormat=application/json		application/json
+https://www.data.brisbane.qld.gov.au/data/dataset/56a87266-e7b8-49b1-9ccf-a84d030617ba/resource/fef97bcb-411e-4454-8d60-80a6b8c349c8/download/cars-bis-open-data-food-safety-complaints-oct-to-dec-2018.csv	CSV	text/csv
+https://idefor.cnf.gob.mx/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=geonode:_4326_2017_prcp&maxFeatures=5000&outputFormat=excel2007		excel2007
+https://geonode.paranagua.pr.gov.br/geoserver/ows?srsName=EPSG%3A29192&outputFormat=json&service=WFS&srs=EPSG%3A29192&request=GetFeature&typename=geonode%3Aa__003_003_linhaLimiteDeMarinha&version=1.0.0	json	json
+https://adp.aurin.org.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=datasource-AU_Govt_ABS_Census-UoM_AURIN_DB_Census1991:e15_lng_spk_by_engprof_by_sex_p5_yrs_spk_lng_oth_eng_sla_1991&maxFeatures=5000&outputFormat=application/json		application/json
+https://portal.marineportal.gistda.or.th/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ALU__PRACHUAPKHIRIKHAN_2022&outputFormat=csv&srs=EPSG%3A32647	csv	csv
+http://coastwatch.pfeg.noaa.gov/erddap/wms/nesdisVHNnLw443Weekly/request?service=WMS&version=1.3.0&request=GetCapabilities	WMS	
+https://dados.tce.rs.gov.br/dados/municipal/empenhos/2023/85800.csv.7z	7Z	
+https://gcoos5.geos.tamu.edu/erddap/tabledap/fasteddy_20141022_20141207_sys2_150kHz_Leg_6.graph	ERDDAP	
+https://archaeology.datastations.nl/api/access/datafile/2038631?gbrecs=true	tif	image/tiff
+http://iowmeta.io-warnemuende.de/datatools/dataPreview.php?id=IOW-IOWDB-STID-24042		text/html
+https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/9d361816-dd02-4ef8-abf7-46511f083490/Akte_760.02-01.pdf	PDF	
+https://dataverse.harvard.edu/api/access/datafile/4506490?gbrecs=true	nc	application/x-netcdf
+http://catalogue.simocean.pt/dataset/c40be7d3-7cd7-4189-b04e-ab14bffac8e6/resource/79e18cfe-9766-4dbe-9700-e38830c2e048/download/hfrsul20220403sscu.nc	application/x-netcdf	
+http://atlas.geocenter.survey.ntua.gr:8080/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=w_ntaskagiannis:religion_150K&maxFeatures=5000&outputFormat=text/xml; subtype=gml/2.1.2		text/xml; subtype=gml/2.1.2
+https://ide-cigiden.hub.arcgis.com/api/download/v1/items/72213c48c0994babb1e12e15c2d69f4d/shapefile?layers=0		application/zip
+https://escave.satellite.dvo.ru/wms/NOAA/2012/07/15/NOAA_19_20120715_033829.map		application/vnd.ogc.wms_xml
+https://geoservicios.upra.gov.co/arcgis/rest/services/tipo_utilizacion_tierra/cundinamarca_aptitud/MapServer/7	Feature Layer	
+https://downloads.emodnet-bathymetry.eu/v10/H8_2020_rgb.tif		WWW:DOWNLOAD-1.0-link--download
+https://archaeology.datastations.nl/api/access/datafile/1703786?gbrecs=true	jpg	image/jpeg
+http://iowmeta.io-warnemuende.de/datatools/excelDownload.php?id=IOW-IOWDB-STID-270412		text/html
+https://archaeology.datastations.nl/api/access/datafile/2776048?gbrecs=true	xml	text/xml
+https://opendata.nesdc.go.th/dataset/df2e4f91-ecb1-4fea-99aa-2337606f2c4d/resource/6d8aabe7-c728-43d4-8d0c-704bfbd7898a/download/-1170-.pdf	pdf	application/pdf
+https://dataverse.harvard.edu/api/access/datafile/4595449?gbrecs=true	gz	application/gzip
+https://www.geoportal.rlp.de/mapbender/../portal/karten.html?LAYER%5Bzoom%5D=1&LAYER%5Bid%5D=62104	Webanwendung	
+https://risk.spc.int/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=geonode:tm_world_borders_0_3&maxFeatures=5000&outputFormat=csv		csv
+https://media.iranopendata.org/IODBU2/2023/05/13/iod-04013-comparison-intellectual-capital-index-national-iq-in-some-develop-en.csv	CSV	
+https://gcoos5.geos.tamu.edu/erddap/tabledap/deepwater_00596574_bdo	OPeNDAP	
+http://www.agr.gc.ca/atlas/rest/services/mapservices/gridded_slc_90m/MapServer/9	Raster Layer	
+http://files.ontario.ca/moe_mapping/downloads/metadata/opendata/Pesticide_Conc_In_Streamwater_EN.pdf	PDF	
+https://gis.fns.uniba.sk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=ts:Rieka&maxFeatures=5000&outputFormat=application/gml+xml; version=3.2		application/gml+xml; version=3.2
+https://datosestadistica.cba.gov.ar/dataset/969a5737-715e-49ea-b708-801ee3ba13c3/resource/3c292697-010b-469c-8671-5de6b7f8b90f/download/villa-icho-cruz_manzanas_2010.geojson	GeoJSON	
+https://datos.mec.gov.py/data/coordinadores_y_supervisores_032015.xlsx	xlsx	xlsx
+http://catalogue.simocean.pt/dataset/52afae2f-92b6-4b94-bd4a-2f312465778c/resource/191d51d3-531e-44ce-b7b6-5e20462ea9e6/download/ecmwfatp090sst01220211019000000.xml	XML	
+https://geoportal.asig.gov.al/service/adresar/wms?request=GetCapabilities		text/plain
+http://geoportal.rgis.rk.gov.ru/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=archive:fireobject_line&maxFeatures=5000&outputFormat=csv		csv
+http://data.d4science.org/gis?scope=%2Fd4science.research-infrastructures.eu&gis-UUID=d6586dc1-5f2d-47f8-a843-563d2cd8ff28		
+https://archaeology.datastations.nl/api/access/datafile/2525819?gbrecs=true	JPG	image/jpeg
+https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/jinko/nenrei/juki/r3nen.files/yp2103_minami.xlsx	xlsx	
+http://192.168.64.9/dataset/2dea5562-da5c-412e-b4ad-7704733caa00/resource/1658946d-2179-402c-9182-f56366b4d237/download/3h__daftar_kelompok_bumdes_se_kapanewon_pengasih_2020.xlsx	XLSX	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+https://gos-initiative-saskatchewan.hub.arcgis.com/api/download/v1/items/647158e898094e1680cd0a66e11c92a8/kml?layers=15		application/vnd.google-earth.kml+xml
+https://archaeology.datastations.nl/api/access/datafile/502642?gbrecs=true	xml	text/xml
+https://archaeology.datastations.nl/api/access/datafile/152935?gbrecs=true	jpg	image/jpeg
+https://archaeology.datastations.nl/api/access/datafile/1912765?gbrecs=true	pdf	application/pdf
+https://acdisc.gesdisc.eosdis.nasa.gov/data/Aura_MLS_Level2/ML2O3.004/	HTML	text/html
+http://geonode.copeco.gob.hn/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=geonode:Amenazas_a_Deslizamiento&maxFeatures=5000&outputFormat=application/vnd.google-earth.kml xml		application/vnd.google-earth.kml xml
+http://catalogue.simocean.pt/dataset/46141d82-6773-4ad0-b305-93f104a4b092/resource/a9f2c05d-346b-4baa-bc6e-b4d58b22f457/download/ecmwfatp090sst00020210114120000.xml	XML	
+https://mapservices.crd.bc.ca/arcgis/rest/services/Harbours/MapServer/19	Feature Layer	
+https://geonode.seabee.sigma2.no/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3ATeam1Dag7_tenneskjaer_202305212026&format=application%2Fpdf&height=550&width=550&srs=EPSG%3A32632&bbox=608761.4738500%2C6556468.6862490%2C608828.8395310%2C6556600.1164550		
+https://data.bris.ac.uk/datasets/110f0tkyy28pa2joru2pxxbrxd/digitac/model_surface2d/frames_bw/frame_2651_0.png	PNG	image/png
+https://archaeology.datastations.nl/api/access/datafile/2613640?gbrecs=true	zip	application/zip
+https://abacus.library.ubc.ca/api/access/datafile/66818?gbrecs=true	zip	application/octet-stream
+https://data.bris.ac.uk/datasets/2dh47v1ak21vi22o5pn5ki1tpy/simulation%20data/5%20sites%20with%20quality%20difference%20of%207/three_valued_mal_90/average_beliefs_radius_0.20.csv	TXT	text/plain
+https://archaeology.datastations.nl/api/access/datafile/684964?gbrecs=true	jpg	image/jpeg
+https://dataverse.harvard.edu/api/access/datafile/6166067?gbrecs=true	txt	text/plain
+https://archaeology.datastations.nl/api/access/datafile/250141?gbrecs=true	xml	text/xml
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lsiokunichthysherrei20121221052407423cet&maxFeatures=5000&outputFormat=GML2		GML2
+https://geoserver.opendevelopmentmekong.net/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=ODCambodia:fimen&maxFeatures=5000&outputFormat=SHAPE-ZIP		SHAPE-ZIP
+https://data.ntbprov.go.id/sites/default/files/Rekap%20Pensiun%20Pegawai%20Negeri%20Sipil%20Tahun%202020-2021.xlsx	xlsx	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+http://data.adriplan.eu/geoserver/wms/reflect?layers=geonode:owf_gr_in_or_vicinity_mpas_v2&width=200&height=150&format=image/png8		
+https://data.bris.ac.uk/datasets/10m32xl88x2b61zlkkgz3fml17/detection_and_localisation/images/000420.jpg	JPEG	image/jpeg
+http://obahia.dea.ufv.br/catalogue/csw?outputschema=http%3A%2F%2Fwww.w3.org%2F2005%2FAtom&service=CSW&request=GetRecordById&version=2.0.2&elementsetname=full&id=711fd2f2-ee44-11e8-95dc-d094666d597c	xml	text/xml
+http://riskprofilesundrr.org/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=geonode:gha_flood_c3_service_sector_future_aal&maxFeatures=5000&outputFormat=application/gml+xml; version=3.2		application/gml+xml; version=3.2
+https://tigerweb.geo.census.gov/arcgis/rest/services/Census2020/Labels/MapServer/159	Feature Layer	
+https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/NTA67/CSV/1.0/en	CSV	
+http://geo.sigamcb.pt:8080/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=Fundao:cm_veget_linha_fundao_view&maxFeatures=5000&outputFormat=gml3		gml3
+https://archaeology.datastations.nl/api/access/datafile/2377702?gbrecs=true	xml	text/xml
+https://geoscience.data.qld.gov.au/dataset/71f070de-4154-48c2-b10c-ce80111ac385/resource/0bbf3ca4-7e01-4ba3-9815-de74bece3d82/download/rumula_7964_surface_geology_100k_mga_55_2018_compilation.tif	TIFF	
+https://map.gov.kz/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:zaysan_economy_point5&STYLE=zaysan_economy_point5&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on	png	image/png
+https://gis.cenia.cz/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=fragmentace_krajiny_dopravou:Polygony_UAT_v_roce_2013&maxFeatures=5000&outputFormat=GML2		GML2
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lvalencienneapuellaris20121220170144823cet&maxFeatures=5000&outputFormat=csv		csv
+https://www.ngdc.noaa.gov/ships/knorr/KN145L17_mb.html	HTML	
+http://obahia.dea.ufv.br/catalogue/csw?outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2Fcsdgm&service=CSW&request=GetRecordById&version=2.0.2&elementsetname=full&id=1bf3351e-661d-11eb-b57f-d094666d597c	xml	text/xml
+https://data.cencoos.org/#metadata/127714/station		
+https://umweltanwendungen.schleswig-holstein.de/pegel/jsp/frictionless.jsp?mstnr=110159&thema=W	http://publications.europa.eu/resource/authority/file-type/JSON	
+http://catalogue.simocean.pt/dataset/dfbb3603-ec7e-4823-8b00-bb907591da78/resource/f7cf2f9b-7939-4d94-bc8d-bff1994b0679/download/preview.png	PNG	
+http://vogis.cnv.at/geoserver/vogis/saatgut/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=saatgut&maxFeatures=50000&outputFormat=SHAPE-ZIP		WWW:DOWNLOAD-1.0-http--download
+https://archaeology.datastations.nl/api/access/datafile/2429107?gbrecs=true	xml	text/xml
+https://dataverse.harvard.edu/api/access/datafile/5794767?gbrecs=true	do	text/plain
+http://catalogue.simocean.pt/dataset/5567fcf0-9887-411c-9e2c-ab320a88899c/resource/931fb56f-1687-4cf7-807d-8b53d3804d11/download/tidsines20210613.xml	XML	
+https://archaeology.datastations.nl/api/access/datafile/532999?gbrecs=true	jpg	image/jpeg
+https://archaeology.datastations.nl/api/access/datafile/985810?gbrecs=true	csv	text/comma-separated-values
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/Z4ddS3x9NG/Z4ddS3x9NG_frame_308.xml	TXT	text/plain
+https://gispub.epa.gov/arcgis/rest/services/OW/HydrologicUnits/MapServer/6	Feature Layer	
+https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/A_IV_3_j_S/A_IV_3_j17_SH.pdf	PDF	
+https://borealisdata.ca/api/access/datafile/70937?gbrecs=true	rar	application/x-rar-compressed
+https://dataverse.harvard.edu/api/access/datafile/6907912?gbrecs=true	xlsx	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+https://dataverse.harvard.edu/api/access/datafile/4319288?gbrecs=true	bmp	image/bmp
+https://www.ideandorra.ad/Serveis/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=wms_distfauna:Anthus_pratensis&maxFeatures=5000&outputFormat=csv		csv
+https://haleconnect.com/ows/services/org.1120.aa862410-d84a-4e8d-8ce6-7a2bb25dd03a_wfs/org.1120.bf2772a3-054d-46e1-9a1e-d15c11a01cea?SERVICE=WFS&Request=GetCapabilities		text/plain
+https://openbudgetsindia.org/dataset/5a61beaa-2f7e-429e-a0ce-5e820cfc361b/resource/bfd48189-f7a2-4643-92b3-f4a25690ea5f/download/fourth-state-finance-commission---adhisuchana.pdf	PDF	
+http://catalogue.simocean.pt/dataset/5378ff37-7a66-448b-99ec-64e9e5045ebf/resource/89a641e1-1e7d-4e51-a1ed-98877cef726b/download/ecmwfatp090sst05420200412000000.xml	XML	
+https://data.rochdale.gov.uk/files/2018-2019-rochdale-borough-council-parking.csv	CSV	text/csv
+https://geonode.goosocean.org/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Asouth_east_atlantic_fisheries_organisation&outputFormat=gml2&srs=EPSG%3A4326		
+http://geoserver.d4science-ii.research-infrastructures.eu/geoserver/wms?service=wms&version=1.1.0&request=GetMap&layers=lsphyrnatiburo20121220083718531cet&styles=&bbox=-180,-90,180,90&width=676&height=330&srs=EPSG:4326&crs=EPSG:4326&format=application/openlayers	WMS	
+https://geo.cerdi.edu.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=vvb:aus_states_2011&maxFeatures=5000&outputFormat=text/xml; subtype=gml/2.1.2		text/xml; subtype=gml/2.1.2
+http://archiv.transparenz.hamburg.de/hmbtgarchive/HMDK/trefferanzeige_33866_snap_6.HTML	HTML	
+https://webgis2.durhamnc.gov/server/rest/services/CityworksServices/Transportation/MapServer/4	Feature Layer	
+http://oganilirkab.ina-sdi.or.id/geoserver/wfs?service=WFS&version=1.0.0&request=GetFeature&typeName=ADMIN:arahan_penyediaan_sistem_persampahan_161020191213135726&outputFormat=shape-zip	WFS	
+https://adp.aurin.org.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=datasource-AU_Govt_AIHW-UoM_AURIN_DB:aihw_indigns_eye_health_hosp_rate_eye_disease_phn_2014_16&maxFeatures=5000&outputFormat=text/xml; subtype=gml/2.1.2		text/xml; subtype=gml/2.1.2
+https://ide.sedatu.gob.mx/uploaded/thumbs/layer-71a2aec8-ac4d-11ec-a0df-005056b8fa85-thumb.png		
+https://dataverse.harvard.edu/api/access/datafile/4746569?gbrecs=true	governor_tweet_dict_filter_4th_sample_no_timelimit_32	application/octet-stream
+https://edmond.mpdl.mpg.de/api/access/datafile/112841?gbrecs=true	tif	image/tiff
+http://atlas.geocenter.survey.ntua.gr:8080/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=w_zaharopoulou:athens_error_cat7&maxFeatures=5000&outputFormat=json		json
+https://geodata.skelleftea.se/arcgis/rest/services/Nivåkurvor/Solkarta/MapServer/4	Raster Layer	
+https://www.ngdc.noaa.gov/metadata/published/NOAA/NESDIS/NGDC/MGG/NOS/H08001-H10000/iso/xml/H08972.xml	XML	application/xml
+https://geoserver.infor.cl/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=simef-vestado:R09_Variables_estado_BN_Melipeuco_INFOR_2019&maxFeatures=5000&outputFormat=KML		KML
+https://archaeology.datastations.nl/api/access/datafile/2165962?gbrecs=true	jpg	image/jpeg
+https://home-pugonline.hub.arcgis.com/api/download/v1/items/0e509565ee6f48da8b2830ce367960d9/kml?layers=0		application/vnd.google-earth.kml+xml
+https://dataverse.harvard.edu/api/access/datafile/2666752?gbrecs=true	Cohort 15	data/various-formats
+https://iip.ekoportal.gov.pl/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=epl:NZ.pozary_2016&maxFeatures=5000&outputFormat=csv		csv
+https://maps1.klimaatatlas.net/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=agv_klimaatatlas:1814_agv_krw_plassen&maxFeatures=5000&outputFormat=KML		KML
+https://sig-altotamega.pt/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=geonode:ELEM_INDIF_SOLO_URBANIZ_RP&maxFeatures=5000&outputFormat=GML2		GML2
+https://sitzungsdienst-wandsbek.hamburg.de/bi/vo020.asp?VOLFDNR=1002898	HTML	
+https://archaeology.datastations.nl/api/access/datafile/1106004?gbrecs=true	jpg	image/jpeg
+http://catalogue.simocean.pt/dataset/50b2ba20-4c18-49fc-bb6c-122394ba03c4/resource/4b4b0bdf-35ec-449d-b245-4354e9b160f4/download/smwviana20210727swd.nc	application/x-netcdf	
+https://borealisdata.ca/api/access/datafile/686451?gbrecs=true	gz	application/x-gzip
+http://gtkimage.gtk.fi:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=Seabed_substrate:multiscale_1m&maxFeatures=5000&outputFormat=application/vnd.google-earth.kml xml		application/vnd.google-earth.kml xml
+https://geoserv.stat.fi/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=tilastointialueet:maakunta1000k_2014&maxFeatures=5000&outputFormat=excel2007		excel2007
+https://geonode.resilienceacademy.ac.tz/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:BRT_Drone_data&STYLE=BRT_Drone_data&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on		
+https://services5.arcgis.com/5D8Egs0Nl9XDgLjy/arcgis/rest/services/REGIONAL__Espace_PRCM_/FeatureServer/18		application/json
+https://data.usgs.gov/datacatalog/metadata/USGS.ed4b625f-5eba-481a-92eb-afba677d991a.xml	XML	text/xml
+https://archaeology.datastations.nl/api/access/datafile/2704366?gbrecs=true	qix	application/octet-stream
+https://gaia.arpa.veneto.it/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:sel_2014&STYLE=sel_2014&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on		
+https://data.usgs.gov/datacatalog/metadata/USGS.96b2334e-2daa-4b81-af07-47fc4551a76b.xml	XML	text/xml
+https://dataverse.harvard.edu/api/access/datafile/7529022?gbrecs=true	edr	application/octet-stream
+https://archaeology.datastations.nl/api/access/datafile/842810?gbrecs=true	xml	text/xml
+https://www.ncei.noaa.gov/access/paleo-search/study/19100		
+https://adp.aurin.org.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=datasource-VIC_Govt_DET-UoM_AURIN_DB:lga_vcams_indicator_31_1a_2008_13&maxFeatures=5000&outputFormat=application/gml+xml; version=3.2		application/gml+xml; version=3.2
+https://darus.uni-stuttgart.de/api/access/datafile/17114?gbrecs=true	JPG	image/jpeg
+https://data.bris.ac.uk/datasets/28n44fl84kgbp2o12ugep52ark/adhoc/22.01.20/Spatialsby20_1.3kW-410.fits/4_1.3kW-410.fits.csv	TXT	text/plain
+http://geomapmaker.online/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=siekierczynwmpzp:rysunekaktuplanowaniaprzestrzennego_id_40074&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.2		text/xml; subtype=gml/3.2
+https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/008/762/202102soumu9.pdf	PDF	
+http://catalogue.simocean.pt/dataset/a627950c-29d3-4781-b1a3-a1cd3500f9c9/resource/eaeb3655-6cd6-4f7c-9cf5-426259854a14/download/ecmwfatp090sst04520210405000000.nc	application/x-netcdf	
+http://atom.geo-ide.developpement-durable.gouv.fr/atomArchive/GetResource?id=5ba9d6a8-bee4-424c-9a90-e800b88e9d92&dataType=dataset		WWW:DOWNLOAD-1.0-http--download
+https://flax.svenskakyrkan.se/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=uff:kontrakt_2023-01-01&maxFeatures=5000&outputFormat=KML		KML
+https://www.ngdc.noaa.gov/metadata/published/NOAA/NESDIS/NGDC/MGG/NOS/H02001-H04000/iso/xml/H03969.xml	XML	application/xml
+https://library.sprep.org/sites/default/files/376.pdf		application/pdf
+https://map.gov.kz/download/876	zip	application/octet-stream
+http://amap.zju.edu.cn/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:_1_verbde&STYLE=_1_verbde&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on		
+https://opengeodata.zeeland.nl/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=p8:geonam_bdmsnrconvlk&maxFeatures=5000&outputFormat=text/xml; subtype=gml/2.1.2		text/xml; subtype=gml/2.1.2
+https://rdr.kuleuven.be/api/access/datafile/123051?gbrecs=true	enf	application/octet-stream
+https://dataverse.harvard.edu/api/access/datafile/3861902?gbrecs=true	csv	text/csv
+https://adp.aurin.org.au/geoserver/ows?service=WMS&version=1.3.0&request=GetMap&layers=datasource-TUA_PHIDU-UoM_AURIN_DB_1:phidu_aboriginal_females_pha_2016&styles=&srs=CRS:84&bbox=112.9211196899414,-43.74048237112875,159.10919189453125,-9.142305375136726&height=768&width=639&format=image/png		image/png
+https://archaeology.datastations.nl/api/access/datafile/2281050?gbrecs=true	xml	text/xml
+https://borealisdata.ca/api/access/datafile/12890?gbrecs=true	ivt	application/octet-stream
+https://gsq-prod-ckan-horizon-public.s3-ap-southeast-2.amazonaws.com/Report/58077/Document/622715/cr_58077_2.pdf	PDF	
+https://dataverse.openforestdata.pl/api/access/datafile/25439?gbrecs=true	tif	image/tiff
+https://geo2.maerkischer-kreis.de/arcgis/rest/services/ALKIS/ALKIS_Farbe/MapServer/70	Group Layer	
+https://www2.census.gov/geo/tiger/TIGER2022/ADDR/tl_2022_53049_addr.zip	ZIP	
+https://data.bris.ac.uk/datasets/ypfrg4sz8jwi2ehjqjubbq526/TX12D14/TX12_D14_E4R/TX12_D14_E4R_54.tif	TIFF	image/tiff
+https://dataverse.harvard.edu/api/access/datafile/4577978?gbrecs=true	tif	image/tiff
+https://datos.canarias.es/catalogos/estadisticas/dataset/a7efc79c-c328-4a05-a246-f67f488de6e1/resource/873dab5a-af4d-4e9c-b29a-cfed31cd6d63/download/c00034b_1187.csv	CSV	text/csv
+http://archiv.transparenz.hamburg.de/hmbtgarchive/HMDK/hh_wfs_schutzgebiete_166039_snap_20.GML	GML	
+https://dataverse.harvard.edu/api/access/datafile/6432192?gbrecs=true	bmp	image/bmp
+https://data.ngdc.noaa.gov/platforms/ocean/nos/coast/F00001-F02000/F00831/BAG/F00831_MB_VR_MLLW.bag		
+https://archaeology.datastations.nl/api/access/datafile/1900513?gbrecs=true	jpg	image/jpeg
+https://ide.emprendequillota.cl/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3AUUVV_1&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&srs=EPSG%3A32719	gml	text/xml; subtype=gml/3.1.1
+https://kaartportaal.drenthe.nl/documenten/metadata/shape/SHAPE-GBI_NAT_N2K_BG_ONTTREKKING_P.zip		download
+https://geo.onroerenderfgoed.be:443/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=vioe_geoportaal:pln_beheersplannen&maxFeatures=5000&outputFormat=application/vnd.google-earth.kml+xml		application/vnd.google-earth.kml+xml
+https://archaeology.datastations.nl/api/access/datafile/2579393?gbrecs=true	xml	text/xml
+https://dataverse.harvard.edu/api/access/datafile/3851247?gbrecs=true	csv	text/csv
+https://www.data.va.gov/api/views/ssqr-ywc8/rows.json?accessType=DOWNLOAD	JSON	application/json
+https://dataverse.harvard.edu/api/access/datafile/5011197?gbrecs=true	jpg	image/jpeg
+http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/SOS?observedProperty=http://mmisw.org/ont/cf/parameter/platform_orientation&service=SOS&responseFormat=text/csv&request=GetObservation&offering=urn:ioos:station:NOAA.NOS.CO-OPS:SEA0638&eventTime=2006-09-12T15:20:00/2006-09-12T17:20:00&version=1.0.0	sos	
+https://insar.irea.cnr.it/layers/geonode%3Acskboldesc_l2h_8000_8999_strip8_p05		
+http://103.86.138.102:5000/dataset/49305eda-ca23-4489-af6b-18e43a5bb5fd/resource/f64b097a-f090-4448-a536-d3a99ca06604/download/statistik-kesehatan-kecamatan-magelang-selatan-tahun-2015.csv	CSV	text/csv
+https://www2.census.gov/geo/tiger/TIGER2022/FACESAH/tl_2022_28153_facesah.zip	ZIP	
+https://gis.urban.brussels/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=BCR:UrbAdm_REGION&maxFeatures=5000&outputFormat=csv		csv
+https://dataverse.harvard.edu/api/access/datafile/6153921?gbrecs=true	partad	application/octet-stream
+https://archaeology.datastations.nl/api/access/datafile/1844670?gbrecs=true	jpg	image/jpeg
+https://archaeology.datastations.nl/api/access/datafile/2756834?gbrecs=true	xml	text/xml
+http://geonode.ciifen.org/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Ar_sec_sal2_speip_caniar&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature		
+http://www.buergerschaft-hh.de/parldok/tcl/PDDocView.tcl?mode=get&lp=21&doknum=13508	PDF	
+https://www25.swfwmd.state.fl.us/arcgis12/rest/services/Imagery/Imagery_2017_NC/MapServer/2	Feature Layer	
+https://alerta.ina.gob.ar/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=siyah:alturas_de_marea_meteo_FDelta&maxFeatures=5000&outputFormat=gml32		gml32
+https://www.deya-thermis.gr/wp-content/uploads/Analiseis/2019/B2019_Peristera_PanoDeksameni.pdf	PDF	
+http://sit.cittametropolitana.na.it/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=sit:qu_pleiades_superview1_2020&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.1.1		text/xml; subtype=gml/3.1.1
+http://data.adriplan.eu/geoserver/wfs?srsName=EPSG%3A4326&typename=geonode%3Ahabitat_ispra&outputFormat=json&version=1.0.0&service=WFS&request=GetFeature		
+http://www.gov.uk/government/uploads/system/uploads/attachment_data/file/611174/proven-reoffending-2015-q2.pdf	PDF	
+https://dataverse.harvard.edu/api/access/datafile/2442187?gbrecs=true	do	text/x-stata-syntax; charset=US-ASCII
+http://geo.ferhri.ru:8080/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=pgb:XC0255796100L&maxFeatures=5000&outputFormat=gml3		gml3
+https://dataverse.harvard.edu/api/access/datafile/3605239?gbrecs=true	fits	image/fits
+https://geonode.seabee.sigma2.no/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=6f611923-628b-4d46-b626-9a48828ca9e0&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2F2.0.2&elementsetname=full	xml	text/xml
+https://archaeology.datastations.nl/api/access/datafile/451975?gbrecs=true	xml	text/xml
+https://data.data4citizen.jp/dataset/bbe3177b-099f-4dab-9482-9b502b29aa28/resource/40fbe9da-bb2c-4fa7-a606-ecb665209e79/download/10000266.pdf	PDF	
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:leuphausiamucronata20121219034518269cet&maxFeatures=5000&outputFormat=gml3		gml3
+https://ciga-coronavirus-mexico-ciga-unam.hub.arcgis.com/api/download/v1/items/3752c5cbca0c4dd188540c9e00006bfc/csv?layers=0		text/csv
+https://maps.cheshireeast.gov.uk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=CERingwaySecured:TN_S_NationalRoute_LINE_CURRENT&maxFeatures=5000&outputFormat=application/json		application/json
+https://archaeology.datastations.nl/api/access/datafile/881578?gbrecs=true	tif	image/tiff
+https://escave.satellite.dvo.ru/wms/NOAA/2013/04/17/NOAA_18_20130417_183819.map		application/vnd.ogc.wms_xml
+https://maps.lakecountyil.gov/Output/DistrictMaps/schl/LakeForestCommunityHighSchoolDistrict115.pdf	ArcGIS GeoServices REST API	application/json
+https://archaeology.datastations.nl/api/access/datafile/578067?gbrecs=true	xml	text/xml
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1610007601	HTML	
+https://atom.geo-ide.e2.rie.gouv.fr/atomArchive/GetResource?id=c616ec20-b642-4b99-af69-c3a4901d1069&dataType=dataset		WWW:DOWNLOAD-1.0-http--download
+https://dataverse.harvard.edu/api/access/datafile/3545646?gbrecs=true	zip	application/zip
+https://archaeology.datastations.nl/api/access/datafile/500400?gbrecs=true	xml	text/xml
+https://data.bris.ac.uk/datasets/3owflku95bxsx24643cybxu3qh/9/7/9088.jpg	JPEG	image/jpeg
+http://gacmda.gacm.mx:8880/files/opendata/16005-ITP-AS-DCAGI-SC-005-16/11.-%20CS/11.pdf	PDF	
+http://catalogue.simocean.pt/dataset/f43e9908-5fbb-431a-8f8c-ba11de59e20c/resource/e2a9330e-e395-448f-bf78-91e7d527a665/download/swaalgarveeste20211017swh.nc	application/x-netcdf	
+https://opendata.jabarprov.go.id/id/dataset/angka-partisipasi-murni-apm-sekolah-menengah-pertama-smp-berdasarkan-kabupatenkota-di-jawa-barat	HTML	
+http://wms.vsegei.ru/img.php?id=26032		text/html
+http://wms.vsegei.ru/img.php?id=41225		text/html
+https://donnees-data.tpsgc-pwgsc.gc.ca/ba1/revenusplace-returninvest/revenusplace-returninvest-fra.csv	CSV	
+http://share.evk2cnr.org:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=gn:Gardiola_Main_Scarp&maxFeatures=5000&outputFormat=json		json
+https://archaeology.datastations.nl/api/access/datafile/1869669?gbrecs=true	map	application/octet-stream
+https://archaeology.datastations.nl/api/access/datafile/1404809?gbrecs=true	jpg	image/jpeg
+https://anrdl-integration-web-catalog-saxfirxkxt.s3-ap-southeast-2.amazonaws.com/warehouse/mmisrr9cl__035/mmisrr9cl__03511a04egageo___.zip		text/html
+https://hellas.eugenius-asso.eu/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=SpaceForShore:S4S_GR_PIE_WATLIN_2Aii_SINGL_20170806_LC08_UTM34&maxFeatures=5000&outputFormat=application/vnd.google-earth.kml+xml		application/vnd.google-earth.kml+xml
+https://data.fz-juelich.de/api/access/datafile/1898?gbrecs=true	png	image/png
+https://data.goettingen-research-online.de/api/access/datafile/39626?gbrecs=true	in	text/plain
+https://geohub.lacity.org/api/download/v1/items/aee9237a592a4e3cbc5e76319f702858/geojson?layers=2		application/vnd.geo+json
+https://data.gov.ro/dataset/f7db5c35-42fa-4c81-84b1-aad84cd6af79/resource/a482a3aa-aaa6-47b1-ab6b-62cd78f6b35b/download/statia-ro0156a-valori-nevalidate-aferente-lunii-februarie-anul-2016.xml	XML	
+https://dataverse.harvard.edu/api/access/datafile/4215714?gbrecs=true	tab	text/tab-separated-values
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/C5VD1zB6kw/C5VD1zB6kw_frame_191.xml	TXT	text/plain
+https://geonode.centrogeo.org.mx/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3A_1787_agi_mp_mexico706_s_fpkps6tda63989572271&format=image%2Fpng&height=550&width=550&srs=EPSG%3A4326&bbox=-126.4119455%2C18.9284709%2C-93.8989219%2C41.6920596		
+https://webgis.regione.sardegna.it/geoserver/wms?service=WMS&request=GetMap&layers=dbu:CHIESE		
+https://geoserver.dainst.org/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=69b2e6d7-6cbd-4646-97f6-3a6f9447da8f&outputschema=http%3A%2F%2Fgcmd.gsfc.nasa.gov%2FAboutus%2Fxml%2Fdif%2F&elementsetname=full	xml	text/xml
+https://dataverse.harvard.edu/api/access/datafile/5709869?gbrecs=true	fits	application/fits
+https://edmond.mpdl.mpg.de/api/access/datafile/72353?gbrecs=true	tif	image/tiff
+https://borealisdata.ca/api/access/datafile/164004?gbrecs=true	csv	text/csv
+https://dataverse.harvard.edu/api/access/datafile/7125196?gbrecs=true	bmp	image/bmp
+https://dadosdepesquisa.fiocruz.br/api/access/datafile/179022?gbrecs=true	jpg	image/jpeg
+https://archaeology.datastations.nl/api/access/datafile/2777854?gbrecs=true	xml	text/xml
+https://media.iranopendata.org/IODBU2/2023/01/01/iod-03052-salary-earners-national-pension-fund-according-state-retirement-amount-paid-them-fa.csv	CSV	text/csv
+https://dataverse.harvard.edu/api/access/datafile/6756798?gbrecs=true	txt	text/plain
+https://dataverse.harvard.edu/api/access/datafile/5030615?gbrecs=true	tab	text/tab-separated-values
+https://www.icane.es/data/api/saldo-flujo-migratorio-interautonomico-sexo-edad.rdf	RDF	application/rdf+xml
+https://www.cardiologia.org.mx/transparencia/obligaciones_de_transparencia/administracion/finanzas/cuenta_publica/2022/3_INFORMACION_PRESUPUESTARIA/3_12NCA_03_F_EAEPPEE_Estado_Analitico_del_Ejercicio_del_Presupuesto_de_Egresos_en_Clasificacion_Administrativa.xls	vnd.ms-excel	
+https://www.canada.ca/content/dam/cra-arc/prog-policy/stats/itstb-sipti/2021/tbl04_fr.pdf	PDF	
+https://erddap.aoos.org/erddap/tabledap/ca_hydro_05EC005	OPeNDAP	
+http://catalogue.ceda.ac.uk/uuid/fcebbb5ad28947378ee874ea1569c2a1		text/plain
+https://gsq-prod-ckan-horizon-public.s3.ap-southeast-2.amazonaws.com/Report%2f110352%2fDocument%2f523772%2fcr_110352_2.pdf	PDF	
+https://dataverse.harvard.edu/api/access/datafile/5007630?gbrecs=true	jpg	image/jpeg
+https://www.datos.gov.co/api/views/xjxh-fu7w/rows.rdf?accessType=DOWNLOAD		application/rdf+xml
+https://mapdirect-fdep.opendata.arcgis.com/api/download/v1/items/506e0c45dded4b87bf66b41ef4c6a83b/kml?layers=5		application/vnd.google-earth.kml+xml
+https://siac-datosabiertos-mads.hub.arcgis.com/api/download/v1/items/36625d90a71e4abca52ed6e55f6eecaf/geojson?layers=127		application/vnd.geo+json
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lbatrachomoeusdubius20130411172035640cest&maxFeatures=5000&outputFormat=gml32		gml32
+http://sitservicios.lapaz.bo/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=geosit:mora_atm_centro&maxFeatures=5000&outputFormat=gml3		gml3
+https://dataverse.harvard.edu/api/access/datafile/3639581?gbrecs=true	jpg	image/jpeg
+http://data.kalbarprov.go.id/dataset/3e89325e-505a-4dfc-90ec-8d5c31a012c3/resource/6d94fbf5-024a-437d-a908-7d1a5434f357/download/data-kependudukan-kab.-kapuas-hulu-kec.-bika-30-juni-2020.csv	CSV	text/csv
+http://download.geoportal.gov.gi/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=gibgis:admin_py&maxFeatures=5000&outputFormat=text/csv		text/csv
+https://dadosabertos.ufersa.edu.br/dataset/35b3e063-2982-4356-a4a9-a8f40288f317/resource/cae41dbb-5d6a-41e3-bcf4-89a1e3ee94e4/download/pda-ufersa-2019_2021-dicionario-de-dados-cursos-de-posgraduacao.csv	CSV	
+https://archaeology.datastations.nl/api/access/datafile/78085?gbrecs=true	xml	text/xml
+https://www.salzburg.gv.at/ogd/c8711f5c-a49f-446d-ad69-6435bbc5a78e/names-szg.json	JSON	
+https://pacificdata.org/data/dataset/700bd89e-f3bc-4d98-ab5f-d198bf6b63a5/resource/3739ad98-35b1-47e0-a07c-b64636cb3a17/download/education-and-training-sector-plan-2021-2030.pdf	PDF	application/pdf
+https://data.ngdc.noaa.gov/platforms/ocean/nos/coast/H04001-H06000/H05769/GEODAS/H05769.xyz.gz	XYZ	
+http://www.nwlh.nhs.uk/_assets/images/general/file/Invoices%20over%2025K%20April%202011.csv	CSV	
+https://borealisdata.ca/api/access/datafile/197747?gbrecs=true	tif	image/tiff
+https://data.ngdc.noaa.gov/platforms/ocean/nos/coast/H12001-H14000/H12737/MBAB/H12737_MBAB_1m_Blake_200kHz_1of1.tiff	TIFF	image/tiff
+https://maps.groningen.nl/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=geo-data:ensembles&maxFeatures=5000&outputFormat=application/gml+xml; version=3.2		application/gml+xml; version=3.2
+https://giportal.mot.go.th/arcgis/rest/services/Hosted/แม่น้ำตาปี_update/FeatureServer/3	Feature Layer	
+https://webgis.regione.sardegna.it/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=dbu:dbgt_10k_22_v03_09_citta_metropolitana_lr_7_21&maxFeatures=5000&outputFormat=application/vnd.google-earth.kml+xml		application/vnd.google-earth.kml+xml
+https://gisdata.pgplanning.org/arcgis/rest/services/Applications/Easement_Viewer/MapServer/11	Feature Layer	
+https://ider.cundinamarca.gov.co/api/download/v1/items/554838d2a64b4dd0b78cc4e457353997/geojson?layers=0		application/vnd.geo+json
+https://map.infogis2.ch/arcgis/rest/services/riedholz/riedholz_abwasser/MapServer/25	Annotation SubLayer	
+https://maps.oraotca.org/download/3125		
+https://dataverse.harvard.edu/api/access/datafile/2608435?gbrecs=true	ABC NewsUSA TODAYStanford University Pain Poll, April 2005	data/various-formats
+https://www.ncei.noaa.gov/archive/accession/download/268547		
+https://dataverse.harvard.edu/api/access/datafile/3656217?gbrecs=true	tab	text/tab-separated-values
+https://www.geoportal.rlp.de/mapbender/php/wms.php?inspire=1&layer_id=27691&withChilds=1&REQUEST=GetCapabilities&SERVICE=WMS		application/vnd.ogc.wms_xml
+http://opendata.karanganyarkab.go.id/dataset/99d864c6-9077-47ab-97c2-86a1f9216ffd/resource/ff08bb9d-bc8f-47fb-9cde-497c1b170f23/download/perbup-no-20-th-2016.pdf	PDF	application/pdf
+https://geonode.centrogeo.org.mx/uploaded/thumbs/dataset-2200471e-847a-4369-8e1e-c731e42a86f2-thumb-fe60303c-5590-43c9-8fc2-680f5e4b50fe.jpg		
+http://data.kalbarprov.go.id/dataset/14a4ecc1-9a17-4896-b07c-68af147cf320/resource/6563f765-1b4c-4cb0-82bf-ad45f3ef17cb/download/kec.-sintang_desa.teluk-kelansam.xml	XML	application/xml
+http://geonodesiam.invemar.org.co/documents/3779/download		
+http://data.d4science.org/gis?scope=%2Fd4science.research-infrastructures.eu&gis-UUID=f0f4d745-c2a0-49d6-bdf1-03de6e38e13a		
+https://portal.marineportal.gistda.or.th/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3As_chl_mean_20240206_20240206_010&format=image%2Fjpeg&height=550&width=550&srs=EPSG%3A4326&bbox=92.0661157%2C-0.0826446%2C113.6776860%2C24.6280992	jpg	image/jpeg
+http://gstore.unm.edu/apps/rgisarchive/datasets/35f62cf1-3d67-4223-b961-bdcaa2939146/services/ogc/wms?SERVICE=wms&REQUEST=GetCapabilities&VERSION=1.1.1	WMS	
+https://zetdcsdi.zedc.co.zw:5443/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Azim_lcgea_grid_expansion_mg_lv_nr&format=application%2Fpdf&height=550&width=550&srs=EPSG%3A3857&bbox=3239017.500000000000000%2C-2184350.000000000000000%2C3667050.000000000000000%2C-1820550.000000000000000		
+https://spatial-brisbane.opendata.arcgis.com/maps/ee980cef76a04c65ba764908371db0b6_3		text/html
+https://dataverse.harvard.edu/api/access/datafile/7508912?gbrecs=true	nd2	application/octet-stream
+https://data.goettingen-research-online.de/api/access/datafile/64330?gbrecs=true	tif	image/tiff
+http://geoserver.d4science-ii.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lcadulusaequatorialis20130731163655940cest&maxFeatures=5000&outputFormat=gml32		gml32
+https://obis.org/dataset/6959c7ad-efa9-4138-8111-d62fea26812e		HTTP
+https://dataverse.harvard.edu/api/access/datafile/7177373?gbrecs=true	nc	application/x-netcdf
+https://archaeology.datastations.nl/api/access/datafile/38622?gbrecs=true	xml	text/xml
+https://dataverse.harvard.edu/api/access/datafile/7185001?gbrecs=true	nc	application/netcdf
+ftp://ftp-oceans.ncei.noaa.gov/nodc/archive/arc0001/9500078/		
+http://gstore.unm.edu/apps/rgisarchive/datasets/45155924-687b-4875-ac4e-600af8d22caf/PLSSIntersected_CLOVIS.derived.json	JSON	
+https://archaeology.datastations.nl/api/access/datafile/2735431?gbrecs=true	zip	application/zip
+https://archaeology.datastations.nl/api/access/datafile/2697943?gbrecs=true	jpg	image/jpeg
+https://borealisdata.ca/api/access/datafile/578041?gbrecs=true	sas	application/x-sas-syntax
+https://ckan.open-governmentdata.org/dataset/4a7eb125-bb61-4ca5-a2c4-7127ef68e6db/resource/280fc6c9-dd60-4471-bfaa-029ef0f887ce/download/kogyo-youti-2.3-2001.xls	XLS	
+https://data.gov.ro/dataset/089d9065-97b9-4f4c-a430-1fe0de642e07/resource/3907f979-05a9-4e9a-a1c9-09cfd48ce25c/download/numar-crds-activi-la-31-martie-2021.xlsx	.xlsx	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+https://dataverse.no/api/access/datafile/42559?gbrecs=true	txt	text/plain
+https://gis.tartulv.ee/arcgis/rest/services/YP2040/YP2040_miljoo_muinsuskaitse/MapServer/22	Table	
+https://ider.cundinamarca.gov.co/maps/cundinamarca-map::cnivel-1		text/html
+https://data.bris.ac.uk/datasets/8jzw1c0jzjqj2jclybysvm0xj/experiment_1b/c_1/x_214.wav	audio/x-wav	audio/x-wav
+https://lipad-fmc.dream.upd.edu.ph/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Airaan_fh5yr_10m&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature		
+https://dataverse.harvard.edu/api/access/datafile/7563947?gbrecs=true	jpg	image/jpeg
+http://iowmeta.io-warnemuende.de/datatools/dataPreview.php?id=IOW-IOWDB-STID-300		text/html
+https://home-pugonline.hub.arcgis.com/api/download/v1/items/80d7e324a5cb4757abebe9f02ec6105e/geojson?layers=0		application/vnd.geo+json
+https://roadsafety.transport.nsw.gov.au/statistics/interactivecrashstats/index.html	HTTPS	text/html
+https://services9.arcgis.com/RCPJF8Z8BrfjscvL/arcgis/rest/services/RDC_WIAT_Challenge_Fund_Boundary_2007_2013/FeatureServer/0		application/json
+http://www.buergerschaft-hh.de/parldok/tcl/PDDocView.tcl?mode=get&lp=19&doknum=1849	PDF	
+https://service.gis-mannheim.de/plaene_docs/B_77_6a/BP_77_6a_BPlan.pdf		text/html
+https://gisdata.fultoncountyga.gov/maps/GARC::worker-type-by-atlanta-neighborhood-statistical-areas-e02-and-e06-2019		text/html
+http://geoserver4.d4science.research-infrastructures.eu/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=lmicropogoniasundulatus20121220081550499cet&format=json	WFS	
+https://gestion4-idearagon.aragon.es/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=RIESGOS:voluntarios&maxFeatures=5000&outputFormat=text/xml; subtype=gml/2.1.2		text/xml; subtype=gml/2.1.2
+http://data.bris.ac.uk/datasets/bx321kl8aur51legup83jb9hw/full%20pump/Tw3960/RDC%20new%20200um%20parapol%20time%20zero%20GOOD%20CAL_vrf1950_T1max21780_T1inc80Tw3960_scan1.txt	TXT	text/plain
+http://58.181.189.36:6080/arcgis/rest/services/FADGIS/fad_bkk/FeatureServer/0		
+https://gis.urban.brussels/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=URBAN_DCE_IVBE:INVENTARIS_ELEVATORS_DCE&maxFeatures=5000&outputFormat=gml3		gml3
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/dJ57etHmrY/dJ57etHmrY_frame_353.xml	TXT	text/plain
+https://data.gov.ro/dataset/f18d3b0b-3085-4d24-ba62-c1a5bae094aa/resource/6bc793ba-29cb-40d9-82e5-f42d2efa5592/download/18-nov.xls	XLS	application/vnd.ms-excel
+https://geoserver.evolutio.pt/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=gaia:servicos_publicos&maxFeatures=5000&outputFormat=gml32		gml32
+https://archaeology.datastations.nl/api/access/datafile/2677041?gbrecs=true	JPG	image/jpeg
+https://wms.inspire.geoportail.lu/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=am:AM.MajorAirportsNoiseExposureDelineation_LNIGHT&maxFeatures=5000&outputFormat=OGR-CSV		OGR-CSV
+https://dados.cvm.gov.br/dados/FII/DOC/INF_MENSAL/DADOS/inf_mensal_fii_2021.zip	ZIP	
+https://open.alberta.ca/dataset/d1162d94-fb13-42f2-8d8d-b74147b66fe2/resource/5460e442-29ab-4305-9539-6cea55cae424/download/hta-2015-11-10-prenatal-screening.pdf	PDF	application/pdf
+https://www.weather.go.kr/wgis-geos/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=kma_2023:tn_ex_subwln_l&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.1.1		text/xml; subtype=gml/3.1.1
+https://escave.satellite.dvo.ru/wms/NOAA/2002/04/26/NOAA_16______20020426_172956.map		application/vnd.ogc.wms_xml
+https://geodienste.komm.one/ows/services/org.152.fd3bb117-3fd9-4293-a0ff-6491e047520b_wfs/org.152.00bb0485-73e3-4b4e-bced-fe099f9e21b4?SERVICE=WFS&Request=GetCapabilities		text/plain
+https://data.lahatkab.go.id/sites/default/files/Data%20Sarana%20Perdagangan%20Kab.Lahat_.pdf		application/pdf
+https://geoportal.mhe.gob.bo/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:Centroide_Microred1&STYLE=Centroide_Microred1&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on	png	image/png
+https://data.bris.ac.uk/datasets/2ff7iylngq7x727hn5aot0hlk9/2Dres48/n266/r0300/s+0010/s+0360/numzones.mat	BIN	application/octet-stream
+http://geoserver3.d4science.research-infrastructures.eu/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=lapogonpleuron20130410020321078cest&format=json	WFS	
+http://uninmar.icmyl.unam.mx/externalObjects/zip/fluoSC0411.zip		text/html
+https://dataverse.csuc.cat/api/access/datafile/11856?gbrecs=true	jpg	image/jpeg
+http://servicios1.cenapred.unam.mx:6080/arcgis/rest/services/ANR/Eventos/MapServer/7	Group Layer	
+https://gcoos5.geos.tamu.edu/erddap/tabledap/4902286	OPeNDAP	
+https://data.opendatasoft.com/api/v2/catalog/datasets/p20-006-3-second-st@analyzejerseycity/attachments/3_second_street_application_pdf		application/pdf
+https://geonode.obapao.org/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3AMarines_Ecoregions_WA&outputFormat=json&srs=EPSG%3A4326&srsName=EPSG%3A4326		
+http://data.d4science.org/gis?scope=%2Fd4science.research-infrastructures.eu&gis-UUID=1ed7b5d2-8cb1-4381-aebc-c7515d213906		
+https://data.ferndalemi.gov/api/download/v1/items/dbec68d3fdeb41669e460f01fa7ddc20/csv?layers=6		text/csv
+https://borealisdata.ca/api/access/datafile/682606?gbrecs=true	txt	text/plain
+https://eland.cpami.gov.tw/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=postgis_ca:cs01011&maxFeatures=5000&outputFormat=application/vnd.google-earth.kml+xml		application/vnd.google-earth.kml+xml
+https://archaeology.datastations.nl/api/access/datafile/1807369?gbrecs=true	xml	text/xml
+https://dataverse.harvard.edu/api/access/datafile/2446740?gbrecs=true	pdf	application/pdf
+https://data.bris.ac.uk/datasets/hlo8uvij8yu02oh26rifpy6ju/data_dic/capture_20211123/20211123_IM7-Thin-S2_A90_aligned_drill-back/quasi-static-fail-thinS2_0110_1.tiff	TIFF	image/tiff
+http://dx.doi.org/10.5066/F70C4SXJ	XML	application/http
+https://ggis.un-igrac.org/geoserver/ows?service=WMS&version=1.3.0&request=GetMap&layers=igrac:twap_legalaspects_qlt_oldwll&styles=&srs=CRS:84&bbox=-121.533309936523,-53.6040191650391,138.973541259766,61.8864364624023&height=768&width=639&format=image/png		image/png
+https://data.cnra.ca.gov/dataset/a52b2049-4892-490e-bbf7-773fbc7fdbf7/resource/94ba4b73-86cd-40e6-ba5e-a3286dde347d/download/ncseabirdproductivity1doublecrestedcormorantdata20142015metadata.txt	TXT	
+https://flax.svenskakyrkan.se/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=uff_arenden:forsamlingar_31391409-b6b9-40b8-910d-3434d48eaeda&maxFeatures=5000&outputFormat=GML2		GML2
+https://archaeology.datastations.nl/api/access/datafile/1281514?gbrecs=true	xml	text/xml
+https://dataverse.harvard.edu/api/access/datafile/3312534?gbrecs=true	txt	text/plain
+https://data.novascotia.ca/api/geospatial/wrn9-n6se?method=export&format=Shapefile	SHP	
+https://opendata.brussel.be/api/v2/catalog/datasets/patrimoine-artistique-de-voiries-regionales-monuments-copie/exports/csv		
+http://thredds.d4science.org/thredds/wms/public/netcdf/AquamapsNative2050/aquamaps_native2050_ogcocephalus_rostellum.nc?service=wms&version=1.3.0&request=GetMap&layers=probability&bbox=17.25,-97.25,37.25,-61.25&styles=&width=640&height=480&srs=EPSG:4326&CRS=EPSG:4326&format=image/png&COLORSCALERANGE=auto	WMS	
+http://labora.dedagroup.it/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=main:WalkabilityComuneBO&maxFeatures=5000&outputFormat=application/gml+xml; version=3.2		application/gml+xml; version=3.2
+https://archaeology.datastations.nl/api/access/datafile/814275?gbrecs=true	jpg	image/jpeg
+https://archaeology.datastations.nl/api/access/datafile/933729?gbrecs=true	jpg	image/jpeg
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/MqJfQQHwZt/MqJfQQHwZt_frame_292.xml	TXT	text/plain
+https://erddap.aoos.org/erddap/tabledap/noaa_nos_co_ops_twc1687.graph	ERDDAP	
+https://archaeology.datastations.nl/api/access/datafile/2379144?gbrecs=true	xml	text/xml
+https://www.geoportal.rlp.de/mapbender/php/wms.php?inspire=1&layer_id=72781&withChilds=1&REQUEST=GetCapabilities&SERVICE=WMS		application/vnd.ogc.wms_xml
+https://open.alberta.ca/dataset/df7b7b00-c5c3-4d0e-97ff-5f902537fac0/resource/03e4117b-ae6d-4ee7-b5d5-360519d85c8b/download/aish-data-dictionary.xlsx	XLSX	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+https://dataverse.nl/api/access/datafile/203237?gbrecs=true	png	image/png
+https://datos.canarias.es/api/estadisticas/geographical-resources/indicadoresdemograficos/ows?service=WMS&version=1.1.1&bbox=-18.16%2C27.637732460793%2C-13.33%2C29.4160571351661&width=3072&height=1128&crs=EPSG%3A4326&request=GetMap&layers=Comarcas-20190101&styles=poblacion_15a64-comarcas-20190101&format=image/png	PNG	image/png
+https://prostor.zgs.gov.si/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=pregledovalnik:vetrolom_2017&maxFeatures=5000&outputFormat=text/csv		text/csv
+https://ogc.geo-ide.e2.rie.gouv.fr/wxs?map=/opt/data/carto/geoide-catalogue/1.4/org_37958/95745453-ef15-45a3-b23d-641f3942ee7b.intranet.map		text/plain
+https://geodienste.komm.one/ows/services/org.122.a626acec-d7bf-403a-8f53-fb7139102dad_wfs/org.122.fcd277cb-e956-4209-ac04-ac6d7617fce4?SERVICE=WFS&Request=GetCapabilities		text/plain
+https://trouver.datasud.fr/dataset/19585a82-da28-4f1a-a6be-9e1910892678/resource/bd91a773-c7f4-4dd6-884b-cf9d418a43e7/download/arr2022-672_laurent-soulier_cds-suera.pdf	PDF	application/pdf
+https://dataverse.csuc.cat/api/access/datafile/20955?gbrecs=true	wav	audio/vnd.wave
+https://mapasyestadisticas-cundinamarca-map.opendata.arcgis.com/api/download/v1/items/87ae4af29cd746c1b5196828f51fd2b1/geojson?layers=6		application/vnd.geo+json
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/jf1K5KaZSi/jf1K5KaZSi_frame_161.xml	TXT	text/plain
+https://entrepot.recherche.data.gouv.fr/api/access/datafile/118350?gbrecs=true	tab	text/tab-separated-values
+https://archaeology.datastations.nl/api/access/datafile/1974339?gbrecs=true	jpg	image/jpeg
+https://data.bris.ac.uk/datasets/110f0tkyy28pa2joru2pxxbrxd/digitac/model_edge2d/frames_bw/frame_16_0.png	PNG	image/png
+https://dataverse.harvard.edu/api/access/datafile/2649789?gbrecs=true	Chinese, Except Taiwanese, Alone	data/various-formats
+https://dados.tce.rs.gov.br/dados/municipal/balancete-receita/2019/88190.csv	CSV	
+http://iowmeta.io-warnemuende.de/datatools/graphicOverview.php?id=IOW-IOWDB-STID-274894		text/html
+https://archaeology.datastations.nl/api/access/datafile/904559?gbrecs=true	csv	text/csv
+https://dataverse.harvard.edu/api/access/datafile/3643370?gbrecs=true	jpg	image/jpeg
+https://data-lakecountyil.opendata.arcgis.com/documents/lakecountyil::fremont-township-udo-zoning	HTML	text/html
+https://data.bellevuewa.gov/maps/cobgis::bellevue-tech-startups-1		text/html
+https://opendata.jabarprov.go.id/id/dataset/jumlah-penderita-penyakit-di-desa-pamekaran-kec-rancakalong-tahun-2021	HTML	
+https://gsq-prod-ckan-horizon-public.s3-ap-southeast-2.amazonaws.com/Report/9730/Document/1246892/cr_9730_38.pdf	PDF	
+https://dataverse.harvard.edu/api/access/datafile/6938976?gbrecs=true	1	application/octet-stream
+https://ftp.geogratis.gc.ca/pub/nrcan_rncan/raster/atlas_6_ed/eng/6603_english_french_bilingualism_2001_csd.zip	ZIP	
+https://entrepot.recherche.data.gouv.fr/api/access/datafile/118635?gbrecs=true	txt	text/plain
+https://archaeology.datastations.nl/api/access/datafile/359686?gbrecs=true	xml	text/xml
+https://pigma.org/geoserver/ows?service=WMS&version=1.3.0&request=GetMap&layers=pigma_edit:at_enseignement_saisie_point&styles=&srs=CRS:84&bbox=-1.9807088235592822,42.92438533637464,1.3944943473940046,45.64958493189688&height=768&width=639&format=image/png		image/png
+https://www.canada.ca/content/dam/cra-arc/prog-policy/stats/t3-trust-statistics/2015-2019/tb02-fr.csv	CSV	
+https://borealisdata.ca/api/access/datafile/707183?gbrecs=true	html	text/html
+http://catalogue.simocean.pt/dataset/f431891c-e8e6-498f-990f-e3dd621d2ea8/resource/1977a1ce-037f-48d1-aa5d-04991dc43650/download/ecmwfatp090sst06620220404120000.nc	application/x-netcdf	
+https://dataverse.harvard.edu/api/access/datafile/3559787?gbrecs=true	tab	text/tab-separated-values
+https://prueba2-comunidadsig.opendata.arcgis.com/api/download/v1/items/07194227d220444a95b18f1bdd4cbb43/shapefile?layers=0		application/zip
+https://archaeology.datastations.nl/api/access/datafile/378205?gbrecs=true	xml	text/xml
+https://geodienste.komm.one/ows/services/org.711.4c09665b-2ad8-4ed8-9c93-f2e78ab31b72_wms/org.711.46fa234a-a0be-4872-825e-d6f4733d632d?SERVICE=WMS&Request=GetCapabilities		application/vnd.ogc.wms_xml
+http://geo.eatyrau.kz/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=atyrau:water_station&maxFeatures=5000&outputFormat=csv		csv
+http://iowmeta.io-warnemuende.de/datatools/excelDownload.php?id=IOW-IOWDB-STID-43085		text/html
+https://geoserver.gretasmap.de/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=regionale:reg4_abfallw_Deponien_in_Alkis_nicht_in_Addis_Alkis41002_2630&maxFeatures=5000&outputFormat=text/javascript		text/javascript
+https://hellas.eugenius-asso.eu/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=SpaceForShore:S4S_GR_EVR_WATLIN_2Aii_SINGL_20050604_LT05_UTM34&maxFeatures=5000&outputFormat=json		json
+https://escave.satellite.dvo.ru/wms/NOAA/2004/06/06/NOAA_12______20040606_070514.map		application/vnd.ogc.wms_xml
+http://data.kalbarprov.go.id/dataset/3826033a-a41a-4d6c-8e70-02e9b2fba97f/resource/04babce9-f757-4536-9c82-880094104c49/download/daftar-sekolah-tk-sma-di-kec.-singkawang-barat-kota-singkawang-ta-2020-2021-sms-gasal.csv	CSV	text/csv
+https://idearagon.aragon.es:443/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=VISOR2D:v103_cat_parcela_rus&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.1.1		text/xml; subtype=gml/3.1.1
+https://geodienste.komm.one/ows/services/org.735.76a5f4dc-3500-45ac-9744-7136e080aaf7_wms/org.735.1b66da9a-ea6e-4cb6-9762-0499a0432772?SERVICE=WMS&Request=GetCapabilities		application/vnd.ogc.wms_xml
+https://adp.aurin.org.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=datasource-AU_Govt_ABS_Census-UoM_AURIN_DB_2:sa4_w15e_occ_by_tot_prs_inc_by_pub_prv_emp_ind_census_2016&maxFeatures=5000&outputFormat=gml3		gml3
+https://www2.census.gov/geo/tiger/TIGER2021/ROADS/tl_2021_39071_roads.zip	ZIP	
+https://census2016-geohive.opendata.arcgis.com/maps/55d21255623f4924a656863979d524a7_0		text/html
+https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/058/130/r01-13-02.xls	XLS	
+https://mapas-gis-inter.carm.es/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=SIT_ORT_LITORAL_CARM:fotoslitoral&maxFeatures=5000&outputFormat=text/csv		text/csv
+https://gis3.nve.no/arcgis/rest/services/featureservice/AlarmInput/FeatureServer/2	Feature Layer	
+https://archaeology.datastations.nl/api/access/datafile/658351?gbrecs=true	xml	text/xml
+https://data.aussda.at/api/access/datafile/2559?gbrecs=true	zsav	text/plain
+https://borealisdata.ca/api/access/datafile/251252?gbrecs=true	tif	image/tiff
+https://geodienste.komm.one/store/data/buckets/org/105/05620cc4-d835-4322-8cc9-23def7c79520/zip		text/plain
+https://geoscience.data.qld.gov.au/dataset/a79309d7-765a-468a-a9a5-0e9e4d17edf3/resource/b62fe8f6-5e17-47a9-90e4-6afa382c24e5/download/6196.pdf	PDF	
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lholacanthuspasser20121218075848529cet&maxFeatures=5000&outputFormat=gml3		gml3
+https://gonini.org/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=gonini:Turtle_bycatch&maxFeatures=5000&outputFormat=KML		KML
+https://olinda.bcb.gov.br/olinda/servico/DASFN/versao/v1/odata/Recursos?$filter=CnpjInstituicao%20eq%20'03215790000110'%20and%20Api%20eq%20'canais_atendimento'%20and%20startswith(Versao,'1')&$format=json	JSON	
+https://www12.statcan.gc.ca/open-gc-ouvert/?CTLG=97-555-XCB2006059	XML	
+http://geoserver.d4science-ii.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lvulsellavulsella20121217163144045cet&maxFeatures=5000&outputFormat=gml3		gml3
+https://canwinmap.ad.umanitoba.ca/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aproject_boundingBoxes&outputFormat=excel&srs=EPSG%3A4326		
+http://mdi-dienste.baw.de/geoserver/ows?service=WMS&version=1.3.0&request=GetMap&layers=Windatlas:ffdd3_Wt15H_30_1800&styles=&srs=CRS:84&bbox=3416766.89100686,5941515.57833495,3512181.81252987,6036930.49985796&height=768&width=639&format=image/png		image/png
+https://dataverse.nl/api/access/datafile/118695?gbrecs=true	json	application/json
+https://data.gov.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=geelong-population-projections:ckan_1cb7e4a5_3789_4eef_804f_064ff9591148&maxFeatures=5000&outputFormat=csv		csv
+https://darus.uni-stuttgart.de/api/access/datafile/274427?gbrecs=true	zip	application/zip
+https://files.geo.data.gouv.fr/link-proxy/www.geograndest.fr/2020-01-24/5e2abc521a98420f8f41bc7f/fr-236700019-bdocs2000-2008-20112012-cigal-v2.zip/fr-236700019-bdocs2000-2008-20112012-cigal-v2/fr-236700019-bdocs2000-2008-20112012-cigal-v2/documentation/fr-236700019-bdocs2000-2008-20112012-cigal-v2.xls	xls	
+https://opengeodata.zeeland.nl/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=chs:geocmd_chstrbvln&maxFeatures=5000&outputFormat=geopkg		geopkg
+https://lipad-fmc.dream.upd.edu.ph/geoserver/gwc/service/gmaps?layers=geonode:ph051611000_fh25yr_10m&zoom={z}&x={x}&y={y}&format=image/png8		
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310029601	HTML	
+https://mapprod.environment.nsw.gov.au/arcgis/rest/services/Planning/Central_Coast_EPI/MapServer/31	Feature Layer	
+https://geonodeiigeo.umsa.bo/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=f379acf3-c13d-4f74-9dd2-73327b541b18&outputschema=urn%3Aoasis%3Anames%3Atc%3Aebxml-regrep%3Axsd%3Arim%3A3.0&elementsetname=full	xml	text/xml
+http://archiv.transparenz.hamburg.de/hmbtgarchive/HMDK/hh_wfs_xplan_dls_88302_snap_9.GML	GML	
+https://geohub.lacity.org/api/download/v1/items/7f87988e8ce247e0a9355602b8b6e968/shapefile?layers=5		application/zip
+http://geowww.agrocampus-ouest.fr/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=cipanhub:rpg_2020_sentinel_data&maxFeatures=5000&outputFormat=gml3		gml3
+https://opendata.maps.vic.gov.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=open-data-platform:annotation_text&maxFeatures=5000&outputFormat=GML2		GML2
+https://region.statistik-nord.de/detail_timelineexport/13/1103/21/1/348/	CSV	https://www.iana.org/assignments/media-types/text/csv
+http://www.geoportal.ulpgc.es/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=copernicus:MAC_NO3_min&maxFeatures=5000&outputFormat=GML2		GML2
+https://haleconnect.com/ows/services/org.1240.390f5ec1-81e8-4580-bbe9-9463dc96d4b5_wms/org.1240.51543f62-e377-4906-bf89-b2c639fb9612?SERVICE=WMS&Request=GetCapabilities		application/vnd.ogc.wms_xml
+https://mapdirect-fdep.opendata.arcgis.com/api/download/v1/items/547da4f198a348a89fcebd484029f616/geojson?layers=1		application/vnd.geo+json
+https://geodienste.komm.one/ows/services/org.301.f2657372-9205-4957-80d4-5b5b1d5a20a7_wms/org.301.f5929654-b181-4dbb-b7a2-5aee170f5257?SERVICE=WMS&Request=GetCapabilities		application/vnd.ogc.wms_xml
+https://geo.rijkswaterstaat.nl/services/ogc/gdr/actuele_wegenlijst/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=A20&outputFormat=json&content-disposition=attachment		JSON
+http://opendata.tegalkota.go.id/dataset/08817fbb-33de-4d6e-8c15-20c716118ad3/resource/c49e383b-b633-4e84-8784-384d30ff4966/download/1.-urusan-pendidikan.xlsx	XLSX	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+https://dataverse.csuc.cat/api/access/datafile/42398?gbrecs=true	mnova	application/octet-stream
+https://www.geoportal.rlp.de/mapbender/php/wms.php?inspire=1&layer_id=70481&withChilds=1&REQUEST=GetCapabilities&SERVICE=WMS		application/vnd.ogc.wms_xml
+https://dataverse.nl/api/access/datafile/220391?gbrecs=true	pdf	application/pdf
+http://amap.zju.edu.cn/uploaded/thumbs/layer-d41364e6-472c-11e9-9f9a-000c2955897d-thumb.png		
+https://archaeology.datastations.nl/api/access/datafile/2103620?gbrecs=true	pdf	application/pdf
+https://archaeology.datastations.nl/api/access/datafile/2064355?gbrecs=true	msg	application/octet-stream
+https://data.gov.ro/dataset/c2611835-299d-4f11-89ed-bb2ff45c2775/resource/b0ce874e-44f8-44b1-b99e-cbb9b6354d35/download/valori-validate-aferente-octombrie-anul-2011.xml	XML	
+https://dados.tce.rs.gov.br/dados/municipal/empenhos/2018/82000.csv.zip	ZIP	
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lnatatolanajaponensis20121217162457914cet&maxFeatures=5000&outputFormat=json		json
+https://archaeology.datastations.nl/api/access/datafile/370595?gbrecs=true	xml	text/xml
+https://dataworks.calderdale.gov.uk/download/vq9w4/rcw/Youth%20Centres%20-%20March%2021.csv		
+https://gcoos5.geos.tamu.edu/erddap/tabledap/C16295_075_Line0277_0	ERDDAP-TableDAP	
+https://dataverse.harvard.edu/api/access/datafile/4556398?gbrecs=true	tif	image/tiff
+https://opendata.surabaya.go.id/dataset/29db1ca4-d4cb-4001-a5b1-4ed504b8db0f/resource/176f2198-0c82-4d41-9e38-cb10db8112f8/download/data-2300-6432-60-12-2022.csv	CSV	text/csv
+https://gis.amberg-sulzbach.de/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=katastrophenschutz:Kinderbetreuung_Kiga&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.1.1		text/xml; subtype=gml/3.1.1
+https://dados.tce.rs.gov.br/dados/municipal/empenhos/2015/72500.csv.zip	ZIP	
+https://nexus.pacificdata.org/uploaded/thumbs/dataset-1144b2f6-4560-4b83-ad6f-0db278108541-thumb-cd6ebe64-6f94-4249-a23c-dd4390aa3672.png		
+https://services8.arcgis.com/x0l81el0LN7X67MM/arcgis/rest/services/CD0010/FeatureServer/0		application/json
+https://opendata.tangerangkab.go.id/sites/default/files/Jumlah%20Korban%20Yang%20Menerima%20Rehabilitasi%20Sosial%20Tahun%202019.csv	CSV	
+http://gis.nesco.gov.bd/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:Raipur&STYLE=Raipur&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on		
+https://archaeology.datastations.nl/api/access/datafile/104630?gbrecs=true	xml	text/xml
+https://www.ngs.noaa.gov/desc_reports/T08113.PDF	PDF	application/pdf
+https://wms.inspire.geoportail.lu/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=mf:MF.PointTimeSeriesObservation_Monthly_ASTA_avg_press&maxFeatures=5000&outputFormat=application/stac+json		application/stac+json
+https://gcoos5.geos.tamu.edu/erddap/tabledap/ENSCO_8505-2796-8919-130914-131218-42928-1	OPeNDAP	
+https://data.bris.ac.uk/datasets/fdi6ee6kby0s2hkxd5izwik9m/Thecodontosaurus%20BRSUG%2028221/BRSUG_28221_post_1771.tif	TIFF	image/tiff
+https://dataverse.harvard.edu/api/access/datafile/2902960?gbrecs=true	wav	audio/x-wave
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/LTvD5cN2pd/LTvD5cN2pd_frame_256.xml	TXT	text/plain
+https://sdi.noe.gv.at/at.gv.noe.geoserver/OGD/wfs?request=GetFeature&version=1.1.0&typeName=OGD:VERMESSUNGSAMT&srsName=EPSG:31259&outputFormat=application/json	JSON	
+http://catalogue.simocean.pt/dataset/8f54fbeb-20ee-45d7-ac30-b7770be9a33f/resource/23a52e44-e1f0-4e0f-a800-0afa477e3adb/download/swacostavicentina20211218.xml	XML	
+https://doi.org/10.1029/2020GL088061		
+https://www.broinspireservices.nl/arcgis/rest/services/dinoloket/lks_rgs_rd/MapServer/560	Raster Layer	
+https://borealisdata.ca/api/access/datafile/312578?gbrecs=true	mp4	video/mp4
+https://hellas.eugenius-asso.eu/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=SpaceForShore:S4S_GR_KIO_BEWID_3e_SINGL_20200827_S2B_UTM34&maxFeatures=5000&outputFormat=application/vnd.google-earth.kml xml		application/vnd.google-earth.kml xml
+https://geomaps.royalrain.go.th/arcgis/rest/services/Test/regwater/MapServer/33	Feature Layer	
+https://data.thailand.opendevelopmentmekong.net/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=ODCambodia:Community_fishery_kh&maxFeatures=5000&outputFormat=application/vnd.google-earth.kml xml		application/vnd.google-earth.kml xml
+https://www.opendata.metro.tokyo.lg.jp/zaimu/R3/2904tozaisei_5.csv	CSV	
+https://idepo.depo.es/server/rest/services/00_IDEPo/Camiño_de_Santiago/MapServer/13	Feature Layer	
+https://dadosdepesquisa.fiocruz.br/api/access/datafile/38173?gbrecs=true	jpg	image/jpeg
+https://dorel.univ-lorraine.fr/api/access/datafile/39206?gbrecs=true	tab	text/tab-separated-values
+https://dataverse.harvard.edu/api/access/datafile/6711792?gbrecs=true	tab	text/tab-separated-values
+https://map.infogis2.ch/arcgis/rest/services/lueterkofen/lueterkofen_wasser/MapServer/122	Feature Layer	
+https://geonode.centralasiaclimateportal.org/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=341b70d2-6509-41ba-b22e-6fc04f2c2308&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2Fcsdgm&elementsetname=full	xml	text/xml
+https://risk.spc.int/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Atowns&outputFormat=gml2&srs=EPSG%3A3460		
+https://entrepot.recherche.data.gouv.fr/api/access/datafile/185311?gbrecs=true	tab	text/tab-separated-values
+https://scholar.google.com/scholar?q=10.5067%2FPE6OJOW4Q2KU	HTML	text/html
+https://archaeology.datastations.nl/api/access/datafile/2049000?gbrecs=true	jpg	image/jpeg
+https://portal.marineportal.gistda.or.th/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3A79uth_9e5cbeba48b0b68aa5a66a5d25b4e14c&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8		
+http://www.dov.vlaanderen.be:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=g3dv3:g3dv3_031203PA_GeMe_t_ih&maxFeatures=5000&outputFormat=text/csv		text/csv
+http://geoserver.d4science-ii.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lfusigobiussignipinnis20121221061528826cet&maxFeatures=5000&outputFormat=GML2-GZIP		GML2-GZIP
+https://data.thailand.opendevelopmentmekong.net/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=ODVietnam:test&maxFeatures=5000&outputFormat=application/gml+xml; version=3.2		application/gml+xml; version=3.2
+https://archaeology.datastations.nl/api/access/datafile/775272?gbrecs=true	jpg	image/jpeg
+https://data.uni-hannover.de/dataset/b34a93ab-8a90-4c98-8246-d0dfd7a1d995/resource/a52b53cf-c7bb-4a3d-bf68-46855b7dd4fc/download/sennheiser_hd25_dsc_70r0_2_7.zip	ZIP	application/zip
+https://dataverse.harvard.edu/api/access/datafile/5598054?gbrecs=true	gif	image/gif
+https://sitzungsdienst-wandsbek.hamburg.de/bi/vo020.asp?VOLFDNR=1015536	HTML	
+http://catalogue.simocean.pt/dataset/f709a01a-50a8-44ed-8418-360be96fe468/resource/f16fac56-683f-42ed-a217-5861daa00677/download/ecmwfatp090sst08720201025120000.xml	XML	
+https://data.brin.go.id/api/access/datafile/163943?gbrecs=true	jpg	image/jpeg
+https://maps.nhvr.gov.au/agsm1/rest/services/vicroads/HML_NETWORK/MapServer/2	Group Layer	
+https://parcan.es/api/resultados_electorales/2003/6/38014?format=csv	CSV	
+https://geoportal.bantulkab.go.id/geoserver/ows?service=WMS&request=GetMap&layers=portalgis%3Ajml_pdd_dg_jns_pekerjaan_perancang_busana_th_2021&format=application%2Fpdf&height=550&width=550&srs=EPSG%3A4326&bbox=110.2045201%2C-8.0289057%2C110.5212921%2C-7.7677104	WMS	
+https://sustainability-wcupagis.hub.arcgis.com/api/download/v1/items/c0a7df5d6f6d4166b75f2f2254aa6e06/shapefile?layers=7		application/zip
+https://dataverse.harvard.edu/api/access/datafile/5861491?gbrecs=true	TXT	text/plain
+http://gstore.unm.edu/apps/rgisarchive/datasets/84665493-1e5d-4ab1-99c7-54975be9c582/h435106_sw_se.original.tif	TIFF	
+https://gis.ekurhuleni.gov.za/arcgis/rest/services/GMS/GMS/MapServer/72	Feature Layer	
+https://data.bris.ac.uk/datasets/6r7d8clxsjg724z70l84qjdwk/SP-2017-37/EPMA%20folder/SP-2017-37_0005_MAP_0001/data007_COMPO.jpg	JPEG	image/jpeg
+https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/europe/brit024ea-noaa.crn		
+https://purl.org/spc/digilib/doc/p6gpr		application/octet-stream
+https://gsq-prod-ckan-horizon-public.s3-ap-southeast-2.amazonaws.com/Report/31183/Document/1160768/cr_31183_257.jpg	JPEG	
+https://statistikbanken.dk/BIL50	CSV	
+https://datamap.gov.wales/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Acommunity_wards_may_2022&outputFormat=excel&srs=EPSG%3A27700		
+http://iowmeta.io-warnemuende.de/datatools/graphicOverview.php?id=IOW-IOWDB-STID-17905		text/html
+https://archaeology.datastations.nl/api/access/datafile/1319043?gbrecs=true	jpg	image/jpeg
+https://ideonion.go.cr/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Acurvas_nivel_5_m&outputFormat=excel&srs=EPSG%3A4326		
+https://edmond.mpdl.mpg.de/api/access/datafile/124535?gbrecs=true	txt	text/plain
+https://dataverse.harvard.edu/api/access/datafile/4407982?gbrecs=true	sac	application/octet-stream
+http://geoserver.d4science-ii.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:leviotaguttata20121221163953117cet&maxFeatures=5000&outputFormat=json		json
+https://metaver.de/trefferanzeige?docuuid=C7B04A8F-E155-4A52-85C2-EFE18A4E1F7D	HTML	
+https://castillalamancha.maps.arcgis.com/apps/webappviewer/index.html?id=f623bffb3d5c4ccc9e894aeae4c63ddb	html	html
+http://ratings.food.gov.uk/OpenDataFiles/FHRS060en-GB.xml	XML	
+https://borealisdata.ca/api/access/datafile/242456?gbrecs=true	tif	image/tiff
+http://catalogue.simocean.pt/dataset/043f1b95-7f1a-4b81-91c7-2b94ce2cc72b/resource/7df894dc-ad44-4a4e-8476-1efa00908e21/download/ecmwfatp090sst01220230112000000.xml	XML	
+https://s3-eu-west-1.amazonaws.com/data.defra.gov.uk/AnimalWelfare/producers-leasing-direct-sales-milk-quota-by-county_1998-to-1999.csv	CSV	
+https://dataverse.iit.it/api/access/datafile/12318?gbrecs=true	mat	application/matlab-mat
+http://landscapeportal.org:80/geoserver/wcs?crs=EPSG%3A4326&service=WCS&format=Gtopo30&request=GetCoverage&height=550&width=747&version=1.0.0&BBox=46.491855621338%2C8.552915194189012%2C110.19185562133796%2C55.42791519418899&Coverage=geonode%3Aswc_yr_clim		
+https://dataverse.harvard.edu/api/access/datafile/6372029?gbrecs=true	jpg	image/jpeg
+https://www.ncei.noaa.gov/archive/accession/download/216386		
+https://geoportal.kreis-guetersloh.de/opendata/dez4/ALKISHalleWestf_EPSG25832_NAS.zip	NAS	application/zip
+https://census-unfpapdp.hub.arcgis.com/maps/UNFPAPDP::gbv-specialist-1		text/html
+https://dataverse.no/api/access/datafile/114445?gbrecs=true	zip	application/zip
+https://meta.geo.census.gov/data/existing/decennial/GEO/CPMB/boundary/2020/kml/19110/cb_2020_48_tract_500k.kml.ea.iso.xml	XML	
+https://gsq-prod-ckan-horizon-public.s3-ap-southeast-2.amazonaws.com/Report/8516/Document/1228327/cr_8516_147.jpg	JPEG	
+https://explore.es-doc.org/cmip6/further-info?target=CMIP6.EC-Earth-Consortium.EC-Earth3.dcppA-hindcast.none.s2000-r7i1p1f1		text/plain
+https://data.opendevelopmentmyanmar.net/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=ODCambodia:fisheries_conservation_areas_enPolygon&maxFeatures=5000&outputFormat=application/json		application/json
+http://www.cps.gov.uk/data/case_outcomes/november_2011/principal_offence_cat_gwent_november_2011.csv	CSV	
+http://landscapeportal.org/geoserver/wfs?typename=geonode%3Aknuckleslanduse2016_new&outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&version=1.0.0&request=GetFeature&service=WFS		
+https://ide.sedatu.gob.mx/geoserver/ows?layers=geonode%3AZonificacionSecundaria_I2&service=WMS&format=image%2Fjpeg&request=GetMap&height=550&width=4014&bbox=-101.484397888184%2C19.4241924285889%2C-98.7226104736328%2C19.8025341033936&srs=EPSG%3A4326		
+https://serviziogc.regione.fvg.it/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=SIRPAC:VIMACP_A_LINE_VIEW&maxFeatures=5000&outputFormat=text/csv		text/csv
+https://www.ncei.noaa.gov/pub/data/paleo/pollen/na_gridded/		
+https://www.datos.gov.co/api/views/fvvz-az83/rows.xml?accessType=DOWNLOAD		application/xml
+https://arcgis.vu.lt/arcgis/rest/services/Čiurlionio_Campus/Medicinos_fakultetas_A_korpusas_20210201/MapServer/21	Feature Layer	
+https://www.tuebingen.de/blpdoc/Bebauungsplaene/303_De%20Fasz%2029a_PlanGeo.tif		text/html
+https://www.landkreismol.de/arcgis/rest/services/WebOffice/Radwege_Extern/MapServer/76	Feature Layer	
+https://haleconnect.com/ows/services/org.989.ef957ac7-350e-40c5-9cac-fc43392814b3_wfs?SERVICE=WFS&version=2.0.0&REQUEST=GetCapabilities		OGC:WFS-2.0.0-http-get-capabilities
+http://iowmeta.io-warnemuende.de/datatools/dataPreview.php?id=IOW-IOWDB-STID-279238		text/html
+http://sigvmeea.hidrocarburos.gob.bo/geoserver/wms?layers=geonode%3Asubestacion&width=865&bbox=-64.2057681293153%2C-20.0429060390906%2C-57.7485102715312%2C-15.9378144847284&service=WMS&format=image%2Fjpeg&srs=EPSG%3A4326&request=GetMap&height=550		
+https://dataverse.uclouvain.be/api/access/datafile/17755?gbrecs=true	rar	application/x-rar-compressed
+https://archaeology.datastations.nl/api/access/datafile/849554?gbrecs=true	atx	application/vnd.antix.game-component
+https://data.bris.ac.uk/datasets/35xripkf6hemi21msqq6i662g6/LSGO%20DEA%20actuation%20tests/LSGO-DEA_HV_results_Z24-Z37/20170908-190948_Z28_6000V_1Hz.png	PNG	image/png
+https://data.brin.go.id/api/access/datafile/15099?gbrecs=true	JPG	image/jpeg
+https://archaeology.datastations.nl/api/access/datafile/306322?gbrecs=true	xml	text/xml
+https://maps.oraotca.org/geoserver/wcs?service=WCS&request=GetCoverage&coverageid=geonode__corte_temperatura_maxima_inpe_limit_amazon_29_05_23&format=application%2Fx-gzip&version=2.0.1&srs=EPSG%3A4326&bbox=-79.7003%2C-20.495199999999997%2C-43.99696248888889%2C8.535517666666667		
+https://gestion4-idearagon.aragon.es/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=SITA:130203_02C&maxFeatures=5000&outputFormat=gml3		gml3
+https://tropomi.gesdisc.eosdis.nasa.gov/data/S5P_TROPOMI_Level1B/S5P_L1B_RA_BD5_HiR.2/	HTML	text/html
+https://risk.spc.int/uploaded/thumbs/layer-41214f2b-9ada-4993-827e-2c8301d47635-thumb-f0df7cca-f30d-4f75-90a7-f3d6c1e9b5fb.png		
+https://archaeology.datastations.nl/api/access/datafile/1253155?gbrecs=true	jpg	image/jpeg
+https://dataverse.harvard.edu/api/access/datafile/3253126?gbrecs=true	dcm	application/dicom
+https://archaeology.datastations.nl/api/access/datafile/1943154?gbrecs=true	jpg	image/jpeg
+http://default/system/files/Nauru%20KBA.jpg		image/jpeg
+https://gis-geoserver.ehealthafrica.org/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=mobile_coverage:states_bndry&maxFeatures=5000&outputFormat=text/javascript		text/javascript
+http://amap.zju.edu.cn/geoserver/ows?layers=geonode%3Awuzhaoqian_route&service=WMS&format=application%2Fpdf&request=GetMap&height=550&width=550&bbox=109.520000000000000%2C26.220000000000000%2C129.470000000000000%2C44.570000000000000&srs=EPSG%3A4610		
+https://home-pugonline.hub.arcgis.com/api/download/v1/items/559af922956a44c9914f82ba8c553f29/geojson?layers=0		application/vnd.geo+json
+http://sintangkab.ina-sdi.or.id/geoserver/wms?service=WMS&version=1.1.0&request=GetMap&layers=PSPIG:desa_puruk_beribit_biropem_des2019_ar50k_610520230227130914&styles=&bbox=112.679630387,-0.161175272,112.775701125,-0.105480745&width=768&height=768&srs=EPSG:4326&format=application/openlayers	WMS	
+https://dataverse.harvard.edu/api/access/datafile/5374930?gbrecs=true	RData	application/x-rlang-transport
+http://data.sukoharjokab.go.id/dataset/e41da7de-0332-415b-9bec-f60fc0719554/resource/77d2f914-c018-4372-8cc6-0872dc1713f1/download/4.-banyak-data-disabilitas-menurut-desa-di-kecamatan-nguter.xlsx	XLSX	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+http://amap.zju.edu.cn/geoserver/ows?outputFormat=text%2Fxml%3B+subtype%3Dgml%2F3.1.1&service=WFS&srs=EPSG%3A4610&request=GetFeature&typename=geonode%3Alinshu_point_1&version=1.0.0		
+https://metroairports.data.socrata.com/api/views/wk4f-seet/rows.json?accessType=DOWNLOAD		application/json
+https://dadosdepesquisa.fiocruz.br/api/access/datafile/137716?gbrecs=true	jpg	image/jpeg
+http://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/048/677/20180420.xls	XLS	
+https://services1.arcgis.com/x5wCko8UnSi4h0CB/arcgis/rest/services/CEF_Cemeteries/FeatureServer/21		application/json
+https://archaeology.datastations.nl/api/access/datafile/2072603?gbrecs=true	jpg	image/jpeg
+https://datos.gov.py/sites/default/files/d658dEducacion_poblacion%20de%2015%20a%2019%20anos%20y%20mas%20de%20edad%20que%20no%20asiste%20a%20una%20institucion%20de%20ensenanza%20formal_py_EPH%202016_2017.xls		application/vnd.ms-excel
+https://data-esrikrmkt.opendata.arcgis.com/api/download/v1/items/9d506f52c12a451c8de461ba34422a79/geojson?layers=3		application/vnd.geo+json
+https://pgeo.cimvdl.pt/opendata/get_social_shapefile?concelho=1811&tipo=44	SHP	
+https://mgrajewo.e-mapa.net		text/html
+https://dataverse.nl/api/access/datafile/353117?gbrecs=true	json	application/json
+https://data.bris.ac.uk/datasets/1q3gfn8eb06hh22sjzql2cu1qg/5_Computations/MeCOO%20rad/PES/mecooradwB2apes3.log	TXT	text/plain
+https://dadosdepesquisa.fiocruz.br/api/access/datafile/109634?gbrecs=true	jpg	image/jpeg
+http://data.graz.gv.at//katalog/verwaltung%20und%20politik/Gemeinderatsmitglieder/2013_07_17_Gemeinderatsmitglieder.csv	CSV	
+https://archaeology.datastations.nl/api/access/datafile/1370124?gbrecs=true	mif	application/vnd.mif
+https://data.melbourne.vic.gov.au/api/v2/catalog/datasets/traffic-count-vehicle-classification-2014-2017/attachments/data_dictionary_for_vehicle_classification_data_1_pdf		application/pdf
+https://dataverse.harvard.edu/api/access/datafile/4757412?gbrecs=true	nc	application/x-netcdf
+https://data.novascotia.ca/api/geospatial/458x-dmz3?method=export&format=GeoJSON		HTTPS
+https://dataverse.harvard.edu/api/access/datafile/4606868?gbrecs=true	tab	text/tab-separated-values
+http://data.daff.gov.au/data/warehouse/9aari/InnovInPolicy_20171114/PolicyInnovationReport_20171114_LQ_v1.0.0.pdf	PDF	
+https://www.idecanarias.es/resources/PLA_ENP_URB/URB_PLA/GC/Moga/290/indice.html	HTML	text/html
+https://www.atlasspincam.net/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Aplaya_anidi_pa&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8		
+https://dataverse.nl/api/access/datafile/108081?gbrecs=true	txt	text/plain
+https://opendata.city.minato.tokyo.jp/dataset/8e3aa499-6f6f-4a41-91cd-4373cb2a4a5a/resource/6eff829f-8c18-4972-9aed-64980aee369e/download/r02minato_zentai_chuuki.docx	DOCX	
+https://data.thailand.opendevelopmentmekong.net/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=ODCambodia:main_road&maxFeatures=5000&outputFormat=application/x-gpkg		application/x-gpkg
+https://dataverse.harvard.edu/api/access/datafile/6765453?gbrecs=true	jpg	image/jpeg
+https://data.bris.ac.uk/datasets/jh6hrovynjik2ix2h7m6fdea3/BehaviourAnnotations/wUgw8vWVtb/wUgw8vWVtb_frame_280.xml	TXT	text/plain
+https://gcoos5.geos.tamu.edu/erddap/tabledap/aa2b1c_1	ERDDAP-TableDAP	
+https://open.alberta.ca/dataset/270e9a71-b6af-41e5-9adc-8360ea28969b/resource/d7c79640-6f1d-4356-83c1-5c743df151b6/download/2015-lerb-annual-report.pdf	PDF	
+https://dataverse.no/api/access/datafile/95221?gbrecs=true	txt	text/plain
+http://catalogue.geo-ide.developpement-durable.gouv.fr/catalogue/srv/fre/catalog.search#/metadata/fr-120066022-ldd-6af3d65b-a699-4705-bc10-bae9993b8432		WWW:DOWNLOAD-1.0-http--download
+https://geodienste.komm.one/ows/services/org.665.7e67c15b-48d4-4363-9b6a-9667294d23f5_wfs/org.665.e6b2f587-ef08-4758-b6a6-85714b65a4d4?SERVICE=WFS&Request=GetCapabilities		text/plain
+https://data.bris.ac.uk/datasets/1ycz4js3rgnzk2dxw07im4dat3/DFTB/pbc/isobutane/isobutane_20/dftb_pin.hsd	TXT	text/plain
+https://www.premiers.qld.gov.au/right-to-info/published-info/assets/ministerial-office-establishment-31032017.csv	CSV	
+https://region.statistik-nord.de/detail_timelineexport/13/1103/3/1/346/499/	CSV	https://www.iana.org/assignments/media-types/text/csv
+https://dataverse.harvard.edu/api/access/datafile/3892012?gbrecs=true	mat	application/matlab-mat
+http://thredds.d4science.org/thredds/fileServer/public/netcdf/AquamapsNative/aquamaps_native_monodonta_labio.nc	application/x-netcdf	
+https://catalogue.sigena.fr/geosource/consultationWMS?IDT=73050808		text/html
+https://dados.tce.rs.gov.br/dados/municipal/balancete-receita/2004/71800.json	JSON	
+https://dataverse.harvard.edu/api/access/datafile/7252445?gbrecs=true	png	image/png
+http://geoserver2.d4science.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lpetrotilapiagenalutea20130607052714931cest&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.2		text/xml; subtype=gml/3.2
+https://docs.google.com/spreadsheets/d/1kK1kWhV_Bm8EphmkV9ch-S6JjYtM4Wov/edit?usp=sharing&ouid=102849352463476086269&rtpof=true&sd=true	XLSX	
+https://data.opendatasoft.com/api/v2/catalog/datasets/apartamentos@dipcas/exports/xls		
+https://opcc-ctp.org/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=opcc:origen_sub_lp5&maxFeatures=5000&outputFormat=application/gml+xml; version=3.2		application/gml+xml; version=3.2
+https://adp.aurin.org.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=datasource-AU_Govt_ABS_Census-UoM_AURIN_DB_2:sa2_g51a_industry_of_empl_by_age_by_sex_census_2016&maxFeatures=5000&outputFormat=KML		KML
+https://data.brin.go.id/api/access/datafile/5852?gbrecs=true	pdf	application/pdf
+https://www.datos.gov.co/api/views/2m9w-xveu/rows.rdf?accessType=DOWNLOAD		application/rdf+xml
+https://dataverse.harvard.edu/api/access/datafile/3007443?gbrecs=true	tab	text/tab-separated-values
+https://dadosdepesquisa.fiocruz.br/api/access/datafile/27408?gbrecs=true	jpg	image/jpeg
+https://www.icane.es/data/api/poblacion-16-64-anos-actividad-relacion-municipio-tipo-genero.json	JSON	application/json
+https://sitzungsdienst-harburg.hamburg.de/bi/vo020.asp?VOLFDNR=1008522	HTML	
+https://maps.skeenasalmon.info/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aesi_wetlands_4_8_py_esi_ssaf_area_3005_2020_0&format=application%2Fpdf&height=550&width=428&srs=EPSG%3A3005&bbox=760795.359999999%2C864395.494999999%2C1153794.241%2C1368420.563		
+https://geodata.nzdf.mil.nz/layer/7885-sw-pacific-smokestack-points/	CSV	
+https://archaeology.datastations.nl/api/access/datafile/2591298?gbrecs=true	xml	text/xml
+https://lipad-fmc.dream.upd.edu.ph/geoserver/wms?layers=geonode%3Aph175201000_fh5yr_10m&width=823&bbox=120.7901348404117%2C13.18666523516155%2C121.15103354461772%2C13.427705626778883&service=WMS&format=image%2Fpng&srs=EPSG%3A4326&request=GetMap&height=550		
+https://map.infogis2.ch/arcgis/rest/services/basic/basic_amtliche_vermessung_avt/MapServer/52	Feature Layer	
+https://geoserver.digitale-mrn.de/geoserver/metropolatlas/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=metropolatlas%3AMRN_anteil_einwohner_unter_20_jahre_in_prozent_Kreis_4326&outputFormat=application%2Fx-gpkg	http://publications.europa.eu/resource/authority/file-type/GPKG	
+https://www.dati.lombardia.it/api/views/m3ht-t3uu/rows.xml?accessType=DOWNLOAD		application/xml
+https://flax.svenskakyrkan.se/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=uff_arenden:kontrakt_9cbde7bd-6ccc-4c41-af81-ed12be44e2d4&maxFeatures=5000&outputFormat=application/vnd.google-earth.kml xml		application/vnd.google-earth.kml xml
+https://dados.tce.rs.gov.br/dados/municipal/balancete-verificacao/2023/64701.xml	XML	
+https://cera-www.dkrz.de/WDCC/ui/cerasearch/cmip6?input=CMIP6.CFMIP.AS-RCEC.TaiESM1.amip-future4K		text/plain
+https://map.bern.ch/arcgis/rest/services/Thema_TAB_SEW_Inhalt_Cache/MapServer/3	Group Layer	
+https://datos.canarias.es/api/estadisticas/structural-resources/v1.0/codelists/SDMX/CL_UNIT_MULT/1.1/codes.csv?fields=+description	CSV	text/csv
+https://datosestadistica.cba.gov.ar/dataset/1c818f6d-8349-4ff1-93e8-54df29ff773e/resource/fec06de5-ffc6-469f-9122-f81f76f1ae14/download/canteras-quilpo_fraccion.geojson	GeoJSON	
+https://data.ngdc.noaa.gov/platforms/ocean/nos/coast/H04001-H06000/H04156/GEODAS/H04156.xyz.gz	XYZ	
+https://archaeology.datastations.nl/api/access/datafile/721456?gbrecs=true	pdf	application/pdf
+https://geonode.seabee.sigma2.no/geoserver/ows?service=WCS&request=GetCoverage&coverageid=geonode__rogaland_froylandsvatnet_202306290942&format=image%2Ftiff&version=2.0.1&compression=DEFLATE&tileWidth=512&tileHeight=512		
+https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/275bb40c-3d8c-47bc-b56d-868fb42724c0	http://publications.europa.eu/resource/authority/file-type/JSON	
+https://webgis.dor.wa.gov/arcgis/rest/services/Programs/WADOR_PropertyTax/MapServer/400	Feature Layer	
+https://maps1.klimaatatlas.net/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=demo_purmer_regionaal:Purmer_wateroverlast_t1000_Panden&maxFeatures=5000&outputFormat=text/xml; subtype=gml/3.2		text/xml; subtype=gml/3.2
+https://transportation-loudoungis.opendata.arcgis.com/api/download/v1/items/548bf740956e4fec9626f48d9f189ef7/csv?layers=0		text/csv
+https://geoscience.data.qld.gov.au/dataset/ca838ce8-a0ae-4c21-b9c8-095eb1a9d81b/resource/af5f8dab-f5d3-4c57-9399-da7b52cceda4/download/1585.pdf	PDF	
+https://www.sciencebase.gov/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=CONUS_Range_2001:Lesser Nighthawk (Chordeiles acutipennis) bLENIx v1&maxFeatures=5000&outputFormat=application/json		application/json
+https://opendataprod.br7.org.il/dataset/501281a5-0e1f-4964-8f97-6099a9f03b6b/resource/dc2ba351-c118-4649-a179-6fc28fbf06a3/download/urban-nature.xlsx	XLSX	
+https://catalogue.atlasante.fr/geosource/panierDownloadFrontalParametrage?LAYERIDTS=16234089		WWW:DOWNLOAD-1.0-http--download
+https://archaeology.datastations.nl/api/access/datafile/735430?gbrecs=true	pdf	application/pdf
+https://doi.org/10.5066/P9WQU3P2	XML	application/http
+http://geonodesiam.invemar.org.co/uploaded/thumbs/doc-3412-thumb.png		
+https://archaeology.datastations.nl/api/access/datafile/2468715?gbrecs=true	xml	text/xml
+https://entrepot.recherche.data.gouv.fr/api/access/datafile/159874?gbrecs=true	gz	application/x-gzip
+https://archaeology.datastations.nl/api/access/datafile/1858690?gbrecs=true	jpg	image/jpeg
+https://mapsrv9.terra.gr/arcgis/rest/services/corridorRastersPart1/MapServer/1027	Raster Layer	
+https://dataverse.openforestdata.pl/api/access/datafile/108379?gbrecs=true	JPG	image/jpeg
+https://statistikbanken.dk/LIGEUB2	HTML	
+https://www.geoportal.rlp.de/mapbender/php/mod_inspireDownloadFeed.php?id=c2f09dd1-9141-247d-dd04-51f76848b5ab&type=SERVICE&generateFrom=wmslayer&layerid=42228		http-get
+https://idt2-geoserver.regione.veneto.it/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=rv:c1103015250_nuovocollferroviario&maxFeatures=5000&outputFormat=SHAPE-ZIP		SHAPE-ZIP
+https://archaeology.datastations.nl/api/access/datafile/1564786?gbrecs=true	xml	text/xml
+http://www.fao.org/fishery/species/13368		
+http://www.dov.vlaanderen.be:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=h3dv2_1:h3dv2_1_A0183_b_ih&maxFeatures=5000&outputFormat=application/geo+json		application/geo+json
+https://data.opendatasoft.com/api/v2/catalog/datasets/pistes-cyclables-de-grabels@occitanie/exports/xls		
+https://archaeology.datastations.nl/api/access/datafile/1597646?gbrecs=true	xml	text/xml
+http://geoserver.d4science-ii.research-infrastructures.eu:80/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=aquamaps:lraymunidalineata20130411182704119cest&maxFeatures=5000&outputFormat=json		json
+https://geo.cerdi.edu.au/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=wip:vcams_wip_lgas_2009&maxFeatures=5000&outputFormat=application/gml+xml; version=3.2		application/gml+xml; version=3.2
+https://darus.uni-stuttgart.de/api/access/datafile/67435?gbrecs=true	py	text/x-python
+https://archaeology.datastations.nl/api/access/datafile/1617126?gbrecs=true	xml	text/xml
+https://geoweba.transformatek.dz/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geoweba%3Abank_bna_branches&outputFormat=excel&srs=EPSG%3A4326	excel	excel
+https://dataverse.harvard.edu/api/access/datafile/7459442?gbrecs=true	png	image/png
+ftp://geoftp.ibge.gov.br/imagens_do_territorio/imagens_corrigidas/ortomosaicos/sp25/ofm_sp1_26021ne_v1.zip		"
+http://geo.eatyrau.kz/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=atyrau:map_kurmangazy_transpol&maxFeatures=5000&outputFormat=text/javascript		text/javascript
+http://geoportal.jogjaprov.go.id/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3AGaris_pantai&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8		

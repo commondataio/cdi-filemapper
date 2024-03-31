@@ -1,0 +1,6665 @@
+- categories: geodata
+  mime: image/vnd.dgn
+  exts:
+  - .dgn
+  default_mime: ''
+  name: MicroStation DGN File
+  default_ext: .dgn
+- categories: geodata
+  mime: application/dgn
+  exts:
+  - .dgn
+  default_mime: ''
+  name: MicroStation DGN File
+  default_ext: .dgn
+- categories: geodata
+  mime: application/vnd.geospace
+  exts:
+  - .g3w
+  default_mime: ''
+  name: G3W
+  default_ext: .g3w
+- categories: geodata
+  mime: application/x-filegdb
+  exts:
+  - .gdb
+  - .fgdb
+  default_mime: ''
+  name: FileGDB (Esri File Geodatabase)
+  default_ext: .gdb
+- categories: images
+  default_ext: .jpg
+  default_mime: ''
+  exts:
+  - .jpe
+  - .jpeg
+  - .jpg
+  - .pjpg
+  - .jfif
+  - .jfif-tbnl
+  - .jif
+  mime: image/jpeg
+  name: JPEG Image
+- categories: documents
+  default_ext: .txt
+  default_mime: ''
+  exts:
+  - .txt
+  - .text
+  mime: text/plain
+  name: Plain Text
+- categories: documents
+  default_ext: html
+  default_mime: ''
+  exts:
+  - .htm
+  - .html
+  mime: text/html
+  name: HTML
+- categories: data
+  default_ext: .xml
+  default_mime: ''
+  exts:
+  - .xml
+  mime: text/xml
+  name: XML
+- categories: data
+  default_ext: .csv
+  default_mime: ''
+  exts:
+  - .csv
+  mime: text/csv
+  name: Comma Separated Values
+- categories: documents
+  default_ext: .pdf
+  default_mime: ''
+  exts:
+  - .pdf
+  mime: application/pdf
+  name: Adobe PDF
+- categories: images
+  default_ext: .tif
+  default_mime: ''
+  exts:
+  - .tif
+  - .tiff
+  mime: image/tiff
+  name: TIFF Image
+- categories: geodata
+  count: '539684'
+  default_ext: .wms
+  default_mime: ''
+  exts:
+  - .wms
+  mime: application/vnd.ogc.wms_xml
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .bin
+  mime: application/octet-stream
+  name: Unknown
+- categories: data
+  default_ext: .json
+  default_mime: ''
+  exts:
+  - .json
+  - .json-stat
+  - .czml
+  mime: application/json
+  name: JSON
+- categories: geodata
+  default_ext: .kml
+  default_mime: ''
+  exts:
+  - .kml
+  mime: application/vnd.google-earth.kml+xml
+  name: Keyhole Markup Language
+- categories: images
+  default_ext: .png
+  default_mime: ''
+  exts:
+  - .png
+  mime: image/png
+  name: PNG Image
+- categories: archives
+  default_ext: .zip
+  default_mime: ''
+  exts:
+  - .zip
+  mime: application/zip
+  name: ZIP Archive
+- categories: data
+  default_ext: .xlsx
+  default_mime: ''
+  exts:
+  - .xlsx
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+  name: MS Excel Spreadsheet
+- categories: data
+  default_ext: .tsv
+  default_mime: ''
+  exts:
+  - .tsv
+  mime: text/tab-separated-values
+  name: Tab-Delimited
+- categories: geodata
+  count: '185813'
+  default_ext: .gml
+  default_mime: ''
+  exts:
+  - .gml
+  mime: text/xml; subtype=gml/3.1.1
+  name: ''
+- categories: geodata
+  count: '175827'
+  default_ext: .gml
+  default_mime: ''
+  exts:
+  - .gml
+  mime: text/xml; subtype=gml/2.1.2
+  name: ''
+- categories: geodata
+  count: '175755'
+  default_ext: .gml
+  default_mime: ''
+  exts:
+  - .gml
+  mime: text/xml; subtype=gml/3.2
+  name: ''
+- categories: geodata
+  default_ext: .kmz
+  default_mime: application/vnd.google-earth.kml+xml
+  exts:
+  - .kmz
+  mime: application/vnd.google-earth.kmz
+  name: Google Earth Archive
+- categories: images
+  default_ext: .gif
+  default_mime: ''
+  exts:
+  - .gif
+  mime: image/gif
+  name: GIF Image
+- categories: images
+  default_ext: .svg
+  default_mime: ''
+  exts:
+  - .svg
+  - .svgz
+  mime: image/svg+xml
+  name: SVG Image
+- categories: data
+  count: '163491'
+  default_ext: .atom
+  default_mime: ''
+  exts:
+  - .atom
+  mime: application/atom+xml
+  name: ''
+- categories: geodata,images
+  count: '163399'
+  default_ext: .geotiff
+  default_mime: ''
+  exts:
+  - .geotiff
+  mime: image/geotiff
+  name: ''
+- categories: geodata,images
+  count: '163399'
+  default_ext: .geotiff
+  default_mime: image/tiff
+  exts:
+  - .tif
+  - .tiff
+  mime: image/geotiff8
+  name: ''
+- categories: images
+  count: '163399'
+  default_ext: .tif
+  default_mime: image/tiff
+  exts:
+  - .tif
+  - .tiff
+  mime: image/tiff8
+  name: ''
+- categories: data
+  default_ext: .xml,.xpdl,.xsl
+  default_mime: text/xml
+  exts:
+  - .xml
+  - .xpdl
+  - .xsl
+  mime: application/xml
+  name: XML
+- categories: geodata
+  count: '145192'
+  default_ext: .geojson
+  default_mime: ''
+  exts:
+  - .geojson
+  mime: application/vnd.geo+json
+  name: ''
+- categories: images
+  count: '133941'
+  default_ext: .png
+  default_mime: image/png
+  exts:
+  - .png
+  mime: image/png; mode=8bit
+  name: ''
+- categories: geodata
+  count: '133235'
+  default_ext: .kml
+  default_mime: application/vnd.google-earth.kml+xml
+  exts:
+  - .kml
+  mime: application/vnd.google-earth.kml+xml;mode=networklink
+  name: ''
+- categories: documents
+  count: '131902'
+  default_ext: .html
+  default_mime: text/html
+  exts:
+  - .html
+  mime: text/html; subtype=openlayers
+  name: ''
+- categories: data
+  count: '131158'
+  default_ext: .rss
+  default_mime: ''
+  exts:
+  - .rss
+  - .xml
+  mime: application/rss+xml
+  name: ''
+- categories: geodata
+  count: '129421'
+  default_ext: .gml
+  default_mime: ''
+  exts:
+  - .gml
+  mime: application/gml+xml; version=3.2
+  name: ''
+- categories: geodata
+  count: '125506'
+  default_ext: .kml
+  default_mime: application/vnd.google-earth.kml+xml
+  exts:
+  - .kml
+  mime: application/vnd.google-earth.kml xml
+  name: ''
+- categories: geodata
+  count: '125433'
+  default_ext: .json
+  default_mime: application/json
+  exts:
+  - .json
+  mime: application/json;type=utfgrid
+  name: ''
+- categories: images
+  count: '125174'
+  default_ext: .png
+  default_mime: image/png
+  exts:
+  - .png
+  mime: image/vnd.jpeg-png
+  name: ''
+- categories: data
+  default_ext: .xls
+  default_mime: ''
+  exts:
+  - .xla
+  - .xlb
+  - .xlc
+  - .xlm
+  - .xls
+  - .xlt
+  - .xlw
+  mime: application/vnd.ms-excel
+  name: MS Excel Spreadsheet
+- categories: documents
+  count: '106539'
+  default_ext: .html
+  default_mime: text/html
+  exts:
+  - .html
+  mime: text/html; subtype=openlayers3
+  name: ''
+- categories: documents
+  count: '106539'
+  default_ext: .html
+  default_mime: text/html
+  exts:
+  - .html
+  mime: text/html; subtype=openlayers2
+  name: ''
+- categories: data
+  default_ext: .nc
+  default_mime: ''
+  exts:
+  - .cdf
+  - .nc
+  mime: application/x-netcdf
+  name: Network Common Data Form
+- categories: images
+  count: '98550'
+  default_ext: .png
+  default_mime: image/png
+  exts:
+  - .png
+  mime: image/vnd.jpeg-png8
+  name: ''
+- categories: semweb
+  count: '76270'
+  default_ext: .rdf
+  default_mime: ''
+  exts:
+  - .rdf
+  mime: application/rdf+xml
+  name: ''
+- categories: images
+  default_ext: .dcm
+  default_mime: ''
+  exts:
+  - .dcm
+  mime: application/dicom
+  name: DICOM Image
+- categories: data
+  default_ext: .dat
+  default_mime: ''
+  exts:
+  - .dat
+  mime: text/x-fixed-field
+  name: Fixed Field Text Data
+- categories: data
+  default_ext: .mat
+  default_mime: ''
+  exts:
+  - .mat
+  mime: application/matlab-mat
+  name: MATLAB Data
+- categories: archives
+  default_ext: .gz
+  default_mime: ''
+  exts:
+  - .gz
+  - .tgz
+  mime: application/gzip
+  name: Gzip Archive
+- categories: documents
+  count: '41229'
+  default_ext: .txt
+  default_mime: text/plain
+  exts:
+  - .txt
+  mime: text/plain; charset=US-ASCII
+  name: ''
+- categories: geodata
+  count: '37786'
+  default_ext: .geojson
+  default_mime: application/vnd.geo+json
+  exts:
+  - .geojson
+  mime: application/json;type=geojson
+  name: ''
+- categories: geodata
+  count: '37786'
+  default_ext: .topojson
+  default_mime: ''
+  exts:
+  - .topojson
+  mime: application/json;type=topojson
+  name: ''
+- categories: geodata
+  count: '37254'
+  default_ext: .mvt
+  default_mime: ''
+  exts:
+  - .mvt
+  mime: application/vnd.mapbox-vector-tile
+  name: ''
+- categories: archives
+  default_ext: .gz
+  default_mime: application/gzip
+  exts:
+  - .gz
+  - .tgz
+  mime: application/x-gzip
+  name: Gzip Archive
+- categories: code
+  default_ext: .do
+  default_mime: ''
+  exts:
+  - .do
+  mime: application/x-stata-syntax
+  name: Stata Syntax
+- categories: code
+  default_ext: .js
+  default_mime: ''
+  exts:
+  - .js
+  mime: text/javascript
+  name: Javascript Code
+- categories: geodata
+  default_ext: .geojson
+  default_mime: application/vnd.geo+json
+  exts:
+  - .geojson
+  mime: application/geo+json
+  name: GeoJSON
+- categories: images
+  count: '29524'
+  default_ext: .png
+  default_mime: image/png
+  exts:
+  - .png
+  mime: image/png8
+  name: ''
+- categories: code
+  default_ext: .r
+  default_mime: ''
+  exts:
+  - .r
+  mime: type/x-r-syntax
+  name: R Syntax
+- categories: documents
+  default_ext: .docx
+  default_mime: ''
+  exts:
+  - .docx
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+  name: MS Word
+- categories: images
+  default_ext: .fits
+  default_mime: ''
+  exts:
+  - .fits
+  mime: application/fits
+  name: FITS
+- categories: geodata
+  count: '26271'
+  default_ext: .mif
+  default_mime: ''
+  exts:
+  - .mif
+  mime: application/vnd.mif
+  name: ''
+- categories: audio
+  count: '26270'
+  default_ext: .mid
+  default_mime: ''
+  exts:
+  - .kar
+  - .mid
+  - .midi
+  - .rmi
+  mime: audio/midi
+  name: ''
+- categories: data
+  default_ext: .nc
+  default_mime: ''
+  exts:
+  - .netcdf
+  mime: application/netcdf
+  name: Network Common Data Form
+- categories: geodata
+  count: '24780'
+  default_ext: .sid
+  default_mime: ''
+  exts:
+  - .sid
+  mime: audio/prs.sid
+  name: ''
+- categories: documents
+  default_ext: .docx
+  default_mime: ''
+  exts:
+  - .doc
+  - .dot
+  - .wiz
+  mime: application/msword
+  name: MS Word
+- categories: data
+  default_ext: .hdf5
+  default_mime: ''
+  exts:
+  - .hdf
+  mime: application/x-hdf
+  name: Hierarchical Data Format
+- categories: code
+  default_ext: .m
+  default_mime: ''
+  exts:
+  - .m
+  mime: text/x-matlab
+  name: MATLAB Source Code
+- categories: video
+  count: '15887'
+  default_ext: .mp4
+  default_mime: ''
+  exts:
+  - .mp4s
+  - .mp4
+  mime: application/mp4
+  name: ''
+- categories: geodata
+  default_ext: .xyz
+  default_mime: ''
+  exts:
+  - .xyz
+  mime: chemical/x-xyz
+  name: Co-Ordinate Animation
+- categories: geodata
+  count: '15241'
+  default_ext: .gpkg
+  default_mime: ''
+  exts:
+  - .gpkg
+  mime: application/x-gpkg
+  name: ''
+- categories: images
+  default_ext: .fits
+  default_mime: application/fits
+  exts:
+  - .fits
+  mime: image/fits
+  name: FITS
+- categories: images
+  count: '13360'
+  default_ext: .dng
+  default_mime: ''
+  exts:
+  - .dng
+  mime: image/x-adobe-dng
+  name: ''
+- categories: video
+  default_ext: .mp4
+  default_mime: ''
+  exts:
+  - .mp4
+  - .mp4v
+  - .mpg4
+  mime: video/mp4
+  name: MPEG-4 Video
+- categories: geodata
+  count: '12857'
+  default_ext: .json
+  default_mime: application/json
+  exts:
+  - .json
+  mime: application/stac+json
+  name: ''
+- categories: data
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-stata
+  name: Stata Binary
+- categories: data,statistics
+  count: '12062'
+  default_ext: .csv
+  default_mime: text/csv
+  exts:
+  - .csv
+  mime: application/vnd.sdmx.data+csv; charset=utf-8; labels=both
+  name: ''
+- categories: geodata
+  default_ext: .shp
+  default_mime: ''
+  exts:
+  - .shp
+  mime: application/zipped-shapefile
+  name: Zipped Shapefiles
+- categories: geodata
+  default_ext: .prj
+  default_mime: ''
+  exts:
+  - .prj
+  mime: application/prj
+  name: ESRI Shapefile
+- categories: geodata
+  count: '10231'
+  default_ext: .gpkg
+  default_mime: application/x-gpkg
+  exts:
+  - .gpkg
+  mime: application/geopackage+sqlite3
+  name: ''
+- categories: data
+  default_ext: .csv
+  default_mime: text/csv
+  exts:
+  - .csv
+  mime: text/comma-separated-values
+  name: Comma Separated Values
+- categories: data
+  default_ext: .dbf
+  default_mime: ''
+  exts:
+  - .dbf
+  mime: application/dbf
+  name: dBASE Table for ESRI Shapefile
+- categories: archives
+  default_ext: .tar
+  default_mime: ''
+  exts:
+  - .tar
+  mime: application/x-tar
+  name: TAR Archive
+- categories: images
+  count: '9552'
+  default_ext: .bmp
+  default_mime: ''
+  exts:
+  - .bmp
+  mime: image/x-ms-bmp
+  name: ''
+- categories: data
+  default_ext: .rdata
+  default_mime: ''
+  exts:
+  - .rdata
+  mime: application/x-rlang-transport
+  name: R Data
+- categories: data
+  default_ext: .tsv
+  default_mime: text/tab-separated-values
+  exts:
+  - .tsv
+  mime: text/tsv
+  name: Tab-Separated Values
+- categories: audio
+  default_ext: .wav
+  default_mime: ''
+  exts:
+  - .wav
+  mime: audio/x-wav
+  name: Waveform Audio
+- categories: data
+  default_ext: .hdf5
+  default_mime: ''
+  exts:
+  - .hdf5
+  mime: application/x-hdf5
+  name: Hierarchical Data Format
+- categories: geodata
+  default_ext: .shp
+  default_mime: ''
+  exts:
+  - .shp
+  mime: application/shp
+  name: Shape
+- categories: geodata
+  default_ext: .shx
+  default_mime: ''
+  exts:
+  - .shx
+  mime: application/shx
+  name: Shape
+- categories: audio
+  count: '7786'
+  default_ext: .wav
+  default_mime: audio/x-wav
+  exts:
+  - .wav
+  mime: audio/vnd.wave
+  name: ''
+- categories: data
+  default_ext: .ods
+  default_mime: ''
+  exts:
+  - .ods
+  mime: application/vnd.oasis.opendocument.spreadsheet
+  name: OpenOffice Spreadsheet
+- categories: images
+  default_ext: .bmp
+  default_mime: ''
+  exts:
+  - .bmp
+  mime: image/bmp
+  name: Bitmap Image
+- categories: documents
+  default_ext: .tex
+  default_mime: ''
+  exts:
+  - .tex
+  mime: application/x-tex
+  name: LaTeX
+- categories: geodata
+  count: '6400'
+  default_ext: .gml
+  default_mime: ''
+  exts:
+  - .gml
+  mime: application/gml+xml
+  name: ''
+- categories: code
+  default_ext: .py
+  default_mime: ''
+  exts:
+  - .py
+  mime: text/x-python
+  name: Python Source Code
+- categories: audio
+  default_ext: .wav
+  default_mime: audio/x-wav
+  exts:
+  - .wav
+  mime: audio/wav
+  name: Waveform Audio
+- categories: video
+  default_ext: .mp3
+  default_mime: ''
+  exts:
+  - .m2a
+  - .m3a
+  - .mp2
+  - .mp2a
+  - .mp3
+  - .mpga
+  mime: audio/mpeg
+  name: MP3 Audio
+- categories: statistics
+  count: '5892'
+  default_ext: .px
+  default_mime: ''
+  exts:
+  - .px
+  mime: text/pc-axis
+  name: ''
+- categories: data
+  default_ext: .sav
+  default_mime: ''
+  exts:
+  - .sav
+  mime: application/x-spss-sav
+  name: SPSS Binary
+- categories: data
+  default_ext: .sqlite
+  default_mime: ''
+  exts:
+  - .sql
+  mime: application/x-sql
+  name: SQL Code
+- categories: data
+  count: '5312'
+  default_ext: .sqlite
+  default_mime: ''
+  exts:
+  - .db
+  - .sqlite
+  - .sqlite3
+  - .db-wal
+  - .sqlite-wal
+  - .db-shm
+  - .sqlite-shm
+  mime: application/x-sqlite3
+  name: ''
+- categories: images
+  count: '5228'
+  default_ext: .arw
+  default_mime: image/arw
+  exts:
+  - .arw
+  mime: image/arw
+  name: ''
+- categories: images
+  default_ext: .nii
+  default_mime: ''
+  exts:
+  - .nii
+  mime: image/nii
+  name: NIfTI Image
+- categories: documents
+  default_ext: .ps
+  default_mime: ''
+  exts:
+  - .ai
+  - .eps
+  - .ps
+  mime: application/postscript
+  name: Postscript
+- categories: code
+  default_ext: .sas
+  default_mime: ''
+  exts:
+  - .sas
+  mime: application/x-sas-syntax
+  name: SAS Syntax
+- categories: other
+  count: '4495'
+  default_ext: .exe
+  default_mime: ''
+  exts:
+  - .exe
+  mime: application/x-msdos-program
+  name: ''
+- categories: data
+  default_ext: .stl
+  default_mime: ''
+  exts:
+  - .stl
+  mime: application/vnd.ms-pki.stl
+  name: STL Format
+- categories: data
+  count: '4094'
+  default_ext: .pdb
+  default_mime: ''
+  exts:
+  - .oprc
+  - .pdb
+  - .pqa
+  mime: application/vnd.palm
+  name: ''
+- categories: geodata
+  count: '4069'
+  default_ext: .wms
+  default_mime: ''
+  exts:
+  - .wms
+  mime: text/wms
+  name: ''
+- categories: video
+  default_ext: .mov
+  default_mime: ''
+  exts:
+  - .mov
+  - .qt
+  mime: video/quicktime
+  name: Quicktime Video
+- categories: archives
+  default_ext: .rar
+  default_mime: ''
+  exts:
+  - .rar
+  mime: application/x-rar-compressed
+  name: RAR Archive
+- categories: data
+  default_ext: .hdf5
+  default_mime: application/x-hdf5
+  exts:
+  - .hdf5
+  mime: application/x-h5
+  name: Hierarchical Data Format
+- categories: video
+  count: '3618'
+  default_ext: .mp4
+  default_mime: video/mp4
+  exts:
+  - .mp4
+  mime: video/mpeg4
+  name: ''
+- categories: archves
+  default_ext: .7z
+  default_mime: ''
+  exts:
+  - .7z
+  mime: application/x-7z-compressed
+  name: 7Z Archive
+- categories: archives
+  default_ext: .boz,.bz2
+  default_mime: ''
+  exts:
+  - .boz
+  - .bz2
+  mime: application/x-bzip2
+  name: Bzip Archive
+- categories: images
+  default_ext: .ado
+  default_mime: ''
+  exts:
+  - .ado
+  mime: application/x-stata-ado
+  name: Stata Ado Script
+- categories: images
+  count: '3256'
+  default_ext: .dxf
+  default_mime: ''
+  exts:
+  - .dxf
+  mime: image/vnd.dxf
+  name: ''
+- categories: video
+  default_ext: .avi
+  default_mime: ''
+  exts:
+  - .avi
+  - .wmv
+  mime: video/x-msvideo
+  name: AVI Video
+- categories: documents
+  default_ext: .pptx
+  default_mime: ''
+  exts:
+  - .pptx
+  mime: application/vnd.openxmlformats-officedocument.presentationml.presentation
+  name: MS Powerpoint
+- categories: data
+  default_ext: .sps
+  default_mime: ''
+  exts:
+  - .sps
+  mime: application/x-spss-syntax
+  name: SPSS Syntax
+- categories: archives
+  default_ext: .zip
+  default_mime: ''
+  exts:
+  - .zip
+  mime: application/x-zip-compressed
+  name: ZIP Archive
+- categories: code
+  count: '2850'
+  default_ext: .do
+  default_mime: application/x-stata-syntax
+  exts:
+  - .do
+  mime: text/x-stata-syntax; charset=US-ASCII
+  name: ''
+- categories: documents
+  default_ext: .md
+  default_mime: ''
+  exts:
+  - .md
+  - .markdown
+  - .mdown
+  - .markdn
+  mime: text/markdown
+  name: Markdown Text
+- categories: data
+  default_ext: .fcs
+  default_mime: ''
+  exts:
+  - .fcs
+  mime: application/vnd.isac.fcs
+  name: FCS Data
+- categories: audio
+  default_ext: .wav
+  default_mime: audio/x-wav
+  exts:
+  - .wav
+  mime: audio/x-wave
+  name: Waveform Audio
+- categories: data
+  default_ext: .mat
+  default_mime: ''
+  exts:
+  - .mat
+  mime: application/x-matlab-data
+  name: MATLAB Data
+- categories: other
+  default_ext: .atx
+  default_mime: ''
+  exts:
+  - .atx
+  mime: application/vnd.antix.game-component
+  name: ATX Archive
+- categories: statistics,data
+  count: '2504'
+  default_ext: .px
+  default_mime: ''
+  exts:
+  - .px
+  mime: application/vnd.pc-axis
+  name: ''
+- categories: images
+  default_ext: .fig
+  default_mime: ''
+  exts:
+  - .fig
+  mime: application/x-xfig
+  name: MATLAB Figure
+- categories: data
+  count: '2392'
+  default_ext: .csv
+  default_mime: text/csv
+  exts:
+  - .csv
+  mime: application/vnd.sdmx.data+csv; labels=both; charset=utf-8
+  name: ''
+- categories: semweb,data
+  default_ext: .tt;
+  default_mime: ''
+  exts:
+  - .turtle
+  - .ttl
+  mime: text/turtle
+  name: Turtle RDF
+- categories: images
+  default_ext: .gph
+  default_mime: ''
+  exts:
+  - .gph
+  mime: application/vnd.flographit
+  name: FloGraphIt Media
+- categories: images
+  count: '2204'
+  default_ext: .bil
+  default_mime: ''
+  exts:
+  - .bil
+  mime: image/bil
+  name: ''
+- categories: images
+  count: '2204'
+  default_ext: .dds
+  default_mime: ''
+  exts:
+  - .dds
+  mime: image/dds
+  name: ''
+- categories: code
+  default_ext: .sas
+  default_mime: ''
+  exts:
+  - .sas
+  mime: text/x-sas-syntax
+  name: SAS Syntax
+- categories: geodata
+  default_ext: .sbn
+  default_mime: ''
+  exts:
+  - .sbn
+  mime: application/sbn
+  name: ESRI Spatial Index
+- categories: geodata
+  default_ext: .sbx
+  default_mime: ''
+  exts:
+  - .sbx
+  mime: application/sbx
+  name: ESRI Spatial Index
+- categories: geodata
+  count: '2051'
+  default_ext: .qgs
+  default_mime: ''
+  exts:
+  - .qgs
+  mime: application/x-qgis
+  name: QGIS Project
+- categories: geodata
+  count: '2044'
+  default_ext: .json
+  default_mime: application/json
+  exts:
+  - .json
+  mime: application/vnd.ogc.fg+json
+  name: ''
+- categories: data
+  count: '1949'
+  default_ext: .csv
+  default_mime: text/csv
+  exts:
+  - .csv
+  mime: text/csv+extended
+  name: ''
+- categories: documents
+  count: '1865'
+  default_ext: .txt
+  default_mime: text/plain
+  exts:
+  - .txt
+  mime: text/plain; charset=UTF-8
+  name: ''
+- categories: code
+  default_ext: .c
+  default_mime: ''
+  exts:
+  - .c
+  - .cc
+  - .cpp
+  - .cxx
+  - .dic
+  - .h
+  - .hh
+  mime: text/x-c
+  name: C++ Source
+- categories: documents
+  default_ext: .rtf
+  default_mime: ''
+  exts:
+  - .rtf
+  mime: application/rtf
+  name: Rich Text Format
+- categories: data
+  default_ext: .graphml
+  default_mime: ''
+  exts:
+  - .graphml
+  mime: text/xml-graphml
+  name: GraphML Network Data
+- categories: data
+  default_ext: .xlsm
+  default_mime: ''
+  exts:
+  - .xlsm
+  mime: application/vnd.ms-excel.sheet.macroenabled.12
+  name: MS Excel Spreadsheet
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-stata-14
+  name: Stata 14 Binary
+- categories: documents
+  count: '1712'
+  default_ext: .itp
+  default_mime: ''
+  exts:
+  - .itp
+  mime: application/vnd.shana.informed.formtemplate
+  name: ''
+- categories: audio
+  default_ext: .ogg
+  default_mime: ''
+  exts:
+  - .oga
+  - .ogg
+  - .spx
+  mime: audio/ogg
+  name: OGG Audio
+- categories: ''
+  count: '1650'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-thermo-isodat
+  name: ''
+- categories: video
+  default_ext: .avi
+  default_mime: video/x-msvideo
+  exts:
+  - .avi
+  mime: video/avi
+  name: AVI Video
+- categories: code
+  default_ext: .ipynb
+  default_mime: ''
+  exts:
+  - .ipynb
+  mime: application/x-ipynb+json
+  name: Jupyter Notebook
+- categories: statistics
+  count: '1405'
+  default_ext: .ivt
+  default_mime: ''
+  exts:
+  - .ivt
+  mime: application/x-beyond2020
+  name: ''
+- categories: geodata
+  count: '1319'
+  default_ext: .protobuf
+  default_mime: ''
+  exts:
+  - .protobud
+  mime: application/x-protobuf;type=mapbox-vector
+  name: ''
+- categories: video
+  count: '1310'
+  default_ext: .swf
+  default_mime: ''
+  exts:
+  - .swf
+  mime: application/x-shockwave-flash
+  name: ''
+- categories: code
+  default_ext: .java
+  default_mime: ''
+  exts:
+  - .java
+  mime: text/x-java-source
+  name: Java Source Code
+- categories: data
+  count: '1213'
+  default_ext: .sxm
+  default_mime: ''
+  exts:
+  - .sxm
+  mime: application/vnd.sun.xml.math
+  name: ''
+- categories: code
+  default_ext: .f
+  default_mime: ''
+  exts:
+  - .f
+  - .f77
+  - .f90
+  - .for
+  mime: text/x-fortran
+  name: Fortran Source Code
+- categories: documents
+  count: '1196'
+  default_ext: .html
+  default_mime: text/html
+  exts:
+  - .html
+  mime: application/html
+  name: ''
+- categories: archives
+  count: '1179'
+  default_ext: .cpt
+  default_mime: ''
+  exts:
+  - .cpt
+  mime: application/mac-compactpro
+  name: ''
+- categories: archives
+  default_ext: .tar.gz
+  default_mime: ''
+  exts:
+  - .tar.gz
+  mime: application/x-compressed-tar
+  name: TAR Archive
+- categories: ''
+  count: '1092'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-spss-syntax; charset=US-ASCII
+  name: ''
+- categories: images
+  count: '1061'
+  default_ext: .jpg
+  default_mime: image/jpeg
+  exts:
+  - .jpe
+  - .jpeg
+  - .jpg
+  - .pjpg
+  - .jfi
+  - .jfif
+  - .jfif-tbnl
+  - .jif
+  mime: image/pjpeg
+  name: ''
+- categories: other
+  default_ext: .vcf
+  default_mime: ''
+  exts:
+  - .vcf
+  mime: text/x-vcard
+  name: Virtual Contact File
+- categories: archives
+  default_ext: .bz
+  default_mime: ''
+  exts:
+  - .bz
+  mime: application/x-bzip
+  name: Bzip Archive
+- categories: archives
+  default_ext: .gz
+  default_mime: application/gzip
+  exts:
+  - .gz
+  mime: application/x-compressed
+  name: Compressed Archive
+- categories: archives
+  default_ext: .rar
+  default_mime: application/x-rar-compressed
+  exts:
+  - .rar
+  mime: application/rar
+  name: RAR Archive
+- categories: archives
+  default_ext: .js
+  default_mime: text/javascript
+  exts:
+  - .js
+  mime: application/javascript
+  name: Javascript Code
+- categories: other
+  count: '1012'
+  default_ext: .pcap
+  default_mime: ''
+  exts:
+  - .pcap
+  mime: application/vnd.tcpdump.pcap
+  name: ''
+- categories: ''
+  count: '1010'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-tika-msoffice
+  name: ''
+- categories: documents
+  count: '979'
+  default_ext: .apr
+  default_mime: ''
+  exts:
+  - .apr
+  mime: application/vnd.lotus-approach
+  name: ''
+- categories: software
+  default_ext: .exe
+  default_mime: ''
+  exts:
+  - .bat
+  - .com
+  - .dll
+  - .exe
+  - .msi
+  mime: application/x-msdownload
+  name: Windows Executable
+- categories: code
+  default_ext: .sh
+  default_mime: ''
+  exts:
+  - .sh
+  mime: application/x-sh
+  name: Shell Script
+- categories: other
+  count: '893'
+  default_ext: .vtu
+  default_mime: ''
+  exts:
+  - .vtu
+  mime: model/vnd.vtu
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-spss-por
+  name: SPSS Portable
+- categories: data
+  default_ext: .mdb
+  default_mime: ''
+  exts:
+  - .mdb
+  mime: application/x-msaccess
+  name: MS Access
+- categories: geodata
+  count: '866'
+  default_ext: .dwg
+  default_mime: ''
+  exts:
+  - .dwg
+  mime: image/vnd.dwg
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-stata-smcl
+  name: Stata Markup and Control Language
+- categories: documents
+  count: '857'
+  default_ext: .txt
+  default_mime: text/plain
+  exts:
+  - .txt
+  mime: text/plain;charset=UTF-8
+  name: ''
+- categories: video
+  count: '856'
+  default_ext: .h264
+  default_mime: ''
+  exts:
+  - .h264
+  mime: video/h264
+  name: ''
+- categories: code
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-objcsrc
+  name: Objective-C Source Code
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-sas-system
+  name: SAS System
+- categories: documents
+  count: '807'
+  default_ext: .hlp
+  default_mime: ''
+  exts:
+  - .hlp
+  mime: application/winhlp
+  name: ''
+- categories: images
+  count: '798'
+  default_ext: .dng
+  default_mime: image/x-adobe-dng
+  exts:
+  - .dng
+  mime: image/dng
+  name: ''
+- categories: ''
+  count: '774'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/xls
+  name: ''
+- categories: code
+  default_ext: .py
+  default_mime: text/x-python
+  exts:
+  - .py
+  mime: text/x-python-script
+  name: Python Source Code
+- categories: documents
+  default_ext: .rtf
+  default_mime: ''
+  exts:
+  - .rtf
+  mime: text/rtf
+  name: Rich Text Format
+- categories: documents
+  default_ext: .ppt
+  default_mime: ''
+  exts:
+  - .pot
+  - .ppa
+  - .pps
+  - .ppt
+  - .pwz
+  mime: application/vnd.ms-powerpoint
+  name: MS Powerpoint
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-log
+  name: Application Log
+- categories: images
+  count: '707'
+  default_ext: .fh
+  default_mime: ''
+  exts:
+  - .fh
+  - .fh4
+  - .fh5
+  - .fh7
+  - .fhc
+  mime: image/x-freehand
+  name: ''
+- categories: code
+  default_ext: .do
+  default_mime: application/x-stata-syntax
+  exts:
+  - .do
+  mime: text/x-stata-syntax
+  name: Stata Syntax
+- categories: code
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-r-notebook
+  name: R Notebook
+- categories: images
+  count: '630'
+  default_ext: .bdf
+  default_mime: ''
+  exts:
+  - .bdf
+  mime: application/x-font-bdf
+  name: ''
+- categories: ''
+  count: '622'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ogc.ows
+  name: ''
+- categories: code
+  default_ext: .class
+  default_mime: ''
+  exts:
+  - .class
+  mime: application/java-vm
+  name: Java Class
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-matlab-workspace
+  name: MATLAB Workspace
+- categories: images
+  default_ext: .raw
+  default_mime: ''
+  exts:
+  - .raw
+  mime: image/raw
+  name: Bitmap Image
+- categories: data
+  count: '601'
+  default_ext: .xls
+  default_mime: ''
+  exts:
+  - .xls
+  mime: application/excel
+  name: ''
+- categories: documents
+  count: '598'
+  default_ext: '.123'
+  default_mime: ''
+  exts:
+  - '.123'
+  mime: application/vnd.lotus-1-2-3
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-stata-13
+  name: Stata 13 Binary
+- categories: code
+  default_ext: .css
+  default_mime: ''
+  exts:
+  - .css
+  mime: text/css
+  name: Cascading Style Sheet
+- categories: 'semweb'
+  count: '568'
+  default_ext: '.jsonld'
+  default_mime: ''
+  exts:
+  - '.jsonld'
+  mime: application/ld+json
+  name: 'JSON-LD (JavaScript Object Notation for Linked Data)'
+- categories: data
+  count: '564'
+  default_ext: .mrc
+  default_mime: ''
+  exts:
+  - .mrc
+  mime: application/marc
+  name: ''
+- categories: semweb
+  count: '553'
+  default_ext: .n3
+  default_mime: ''
+  exts:
+  - .n3
+  mime: text/n3
+  name: ''
+- categories: code
+  default_ext: .r
+  default_mime: type/x-r-syntax
+  exts:
+  - .r
+  mime: text/x-r-source
+  name: R Source Code
+- categories: images
+  count: '518'
+  default_ext: .arw
+  default_mime: ''
+  exts:
+  - .arw
+  mime: image/x-sony-arw
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-tgif
+  name: TGIF File
+- categories: images
+  default_ext: .drle
+  default_mime: ''
+  exts:
+  - .drle
+  mime: image/dicom-rle
+  name: DICOM Image
+- categories: other
+  count: '502'
+  default_ext: .ims
+  default_mime: ''
+  exts:
+  - .ims
+  mime: application/vnd.ms-ims
+  name: ''
+- categories: data
+  count: '494'
+  default_ext: .xlsm
+  default_mime: ''
+  exts:
+  - .xlsm
+  mime: application/vnd.ms-excel.sheet.macroEnabled.12
+  name: ''
+- categories: ''
+  count: '486'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - '.wfs'
+  mime: application/vnd.ogc.wfs_xml
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/cnt
+  name: Windows Help Contents File
+- categories: archives
+  default_ext: .xz
+  default_mime: ''
+  exts:
+  - .xz
+  - .tar.xz
+  mime: application/x-xz
+  name: XZ Archive
+- categories: archives
+  default_ext: .iso
+  default_mime: ''
+  exts:
+  - .iso
+  - .isoimg
+  - .cdr
+  mime: application/x-iso9660-image
+  name: Optical Disc Image
+- categories: data
+  default_ext: .warc
+  default_mime: ''
+  exts:
+  - .warc
+  mime: application/warc
+  name: Web Archive
+- categories: documents
+  count: '413'
+  default_ext: .odt
+  default_mime: ''
+  exts:
+  - .odt
+  mime: application/vnd.oasis.opendocument.text
+  name: ''
+- categories: 'geodata'
+  count: '412'
+  default_ext: '.fgb'
+  default_mime: ''
+  exts:
+  - '.fgb'
+  mime: application/flatgeobuf
+  name: 'Flatgeobuf'
+- categories: images
+  count: '406'
+  default_ext: .gsf
+  default_mime: ''
+  exts:
+  - .gsf
+  mime: application/x-font-ghostscript
+  name: ''
+- categories: other
+  count: '383'
+  default_ext: .p7b
+  default_mime: ''
+  exts:
+  - .p7b
+  - .spc
+  mime: application/x-pkcs7-certificates
+  name: ''
+- categories: data
+  count: '365'
+  default_ext: .csv
+  default_mime: text/csv
+  exts:
+  - .csv
+  mime: application/csv
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-spss-syntax
+  name: SPSS Syntax
+- categories: ''
+  count: '334'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-sas-syntax; charset=US-ASCII
+  name: ''
+- categories: ''
+  count: '333'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/x-aac
+  name: ''
+- categories: audio
+  count: '321'
+  default_ext: .crd
+  default_mime: ''
+  exts:
+  - .crd
+  mime: application/x-mscardfile
+  name: ''
+- categories: video
+  default_ext: .webm
+  default_mime: ''
+  exts:
+  - .webm
+  mime: video/webm
+  name: WebM Video
+- categories: ''
+  count: '298'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vndms-excel
+  name: ''
+- categories: code
+  default_ext: .pas
+  default_mime: ''
+  exts:
+  - .p
+  - .pas
+  - .pp
+  - .inc
+  mime: text/x-pascal
+  name: Pascal Source Code
+- categories: images
+  count: '282'
+  default_ext: .png
+  default_mime: image/png
+  exts:
+  - .png
+  mime: image/x-png
+  name: ''
+- categories: archives
+  count: '281'
+  default_ext: .rar
+  default_mime: application/x-rar-compressed
+  exts:
+  - .rar
+  mime: application/vnd.rar
+  name: ''
+- categories: documents
+  count: '269'
+  default_ext: .wpd
+  default_mime: ''
+  exts:
+  - .wpd
+  mime: application/vnd.wordperfect
+  name: ''
+- categories: 'geodata'
+  count: '263'
+  default_ext: '.gpx'
+  default_mime: ''
+  exts:
+  - '.gpx'
+  mime: application/gpx+xml
+  name: 'GPS Exchange Format'
+- categories: code
+  default_ext: .ma
+  default_mime: ''
+  exts:
+  - .ma
+  - .mb
+  - .nb
+  mime: application/mathematica
+  name: Mathematica
+- categories: images
+  count: '257'
+  default_ext: .tif
+  default_mime: image/tiff
+  exts:
+  - .tiff
+  - .tif
+  mime: image/x-tiff
+  name: ''
+- categories: video
+  default_ext: .mp4
+  default_mime: ''
+  exts:
+  - .m1v
+  - .m2v
+  - .mpa
+  - .mpe
+  - .mpeg
+  - .mpg
+  mime: video/mpeg
+  name: MPEG Video
+- categories: images
+  count: '231'
+  default_ext: .emf
+  default_mime: ''
+  exts:
+  - .emf
+  mime: image/emf
+  name: ''
+- categories: data
+  count: '230'
+  default_ext: .xlsb
+  default_mime: ''
+  exts:
+  - .xlsb
+  mime: application/vnd.ms-excel.sheet.binary.macroenabled.12
+  name: ''
+- categories: geodata
+  count: '222'
+  default_ext: .shp
+  default_mime: ''
+  exts:
+  - .shp
+  mime: application/x-shapefile
+  name: ''
+- categories: images
+  count: '207'
+  default_ext: .png
+  default_mime: image/png
+  exts:
+  - .png
+  mime: image/x-apple-ios-png
+  name: ''
+- categories: audio
+  default_ext: .aif
+  default_mime: ''
+  exts:
+  - .aif
+  - .aifc
+  - .aiff
+  mime: audio/x-aiff
+  name: AIFF Audio
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-sas
+  name: SAS
+- categories: documents
+  count: '182'
+  default_ext: .txt,.text
+  default_mime: text/plain
+  exts:
+  - .txt
+  - .text
+  mime: text/plain;charset=US-ASCII
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-r-markdown
+  name: R Markdown Text
+- categories: ''
+  count: '176'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/unknown
+  name: ''
+- categories: ''
+  count: '172'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/vnd.ascii-art
+  name: ''
+- categories: documents
+  count: '169'
+  default_ext: .html
+  default_mime: ''
+  exts:
+  - .html
+  mime: text/html; charset=utf-8
+  name: ''
+- categories: images
+  default_ext: .psd
+  default_mime: ''
+  exts:
+  - .psd
+  mime: image/vnd.adobe.photoshop
+  name: Photoshop Image
+- categories: ''
+  count: '161'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-research-info-systems
+  name: ''
+- categories: archives
+  default_ext: .rar
+  default_mime: application/x-rar-compressed
+  exts:
+  - .rar
+  mime: application/x-rar
+  name: RAR Archive
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-sas-data
+  name: SAS Data
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.realvnc.bed
+  name: PLINK Binary
+- categories: data
+  count: '153'
+  default_ext: .json
+  default_mime: application/json
+  exts:
+  - .json
+  mime: text/json
+  name: ''
+- categories: ''
+  count: '149'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/biosequence.fasta
+  name: ''
+- categories: ''
+  count: '146'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-rsrc
+  name: ''
+- categories: code
+  default_ext: .sh
+  default_mime: ''
+  exts:
+  - .sh
+  mime: text/x-sh
+  name: Shell Script
+- categories: ''
+  count: '144'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/txt
+  name: ''
+- categories: ''
+  count: '142'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ms-excel.sheet.binary.macroEnabled.12
+  name: ''
+- categories: data
+  count: '139'
+  default_ext: .cif
+  default_mime: ''
+  exts:
+  - .cif
+  mime: chemical/x-cif
+  name: ''
+- categories: ''
+  count: '138'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/x-pdb
+  name: ''
+- categories: ''
+  count: '134'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/msaccess
+  name: ''
+- categories: ''
+  count: '134'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.shp+zip
+  name: ''
+- categories: ''
+  count: '132'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/Data Viewer
+  name: ''
+- categories: images
+  count: '130'
+  default_ext: .3ds
+  default_mime: ''
+  exts:
+  - .3ds
+  mime: image/x-3ds
+  name: ''
+- categories: other
+  count: '130'
+  default_ext: .tpl
+  default_mime: ''
+  exts:
+  - .tpl
+  mime: application/vnd.groove-tool-template
+  name: ''
+- categories: video
+  default_ext: .m4v
+  default_mime: ''
+  exts:
+  - .m4v
+  mime: video/x-m4v
+  name: MPEG-4 Video
+- categories: code
+  default_ext: .sh
+  default_mime: ''
+  exts:
+  - .sh
+  mime: application/x-shellscript
+  name: Shell Script
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/mp3
+  name: MP3 Audio
+- categories: ''
+  count: '116'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.api+json
+  name: ''
+- categories: ''
+  count: '113'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/acad
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/x-m4a
+  name: MPEG-4 Audio
+- categories: other
+  count: '107'
+  default_ext: .eml
+  default_mime: ''
+  exts:
+  - .eml
+  - .mht
+  - .mhtml
+  - .mime
+  - .nws
+  mime: message/rfc822
+  name: ''
+- categories: ''
+  count: '105'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/x-mdl-sdfile
+  name: ''
+- categories: archives
+  count: '102'
+  default_ext: .jar
+  default_mime: ''
+  exts:
+  - .jar
+  mime: application/java-archive
+  name: ''
+- categories: ''
+  count: '102'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: model/x3d+xml
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.wolfram.mathematica.package
+  name: Wolfram Mathematica Code
+- categories: ''
+  count: '100'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/html;charset=utf-8
+  name: ''
+- categories: images
+  default_ext: .wmf
+  default_mime: ''
+  exts:
+  - .wmf
+  mime: application/x-msmetafile
+  name: Enhanced Metafile
+- categories: images
+  count: '98'
+  default_ext: .heif,.heic
+  default_mime: ''
+  exts:
+  - .heif
+  - .heic
+  mime: image/heic
+  name: ''
+- categories: documents
+  count: '96'
+  default_ext: .jp2
+  default_mime: ''
+  exts:
+  - .xps
+  mime: application/vnd.ms-xpsdocument
+  name: ''
+- categories: ''
+  count: '94'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/rdf+xml
+  name: ''
+- categories: ''
+  count: '94'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/plain; charset=utf-8
+  name: ''
+- categories: ''
+  count: '94'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: appliation/zip
+  name: ''
+- categories: ''
+  count: '93'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/wfs
+  name: ''
+- categories: 'data'
+  default_ext: '.dta'
+  default_mime: ''
+  exts:
+  - '.dta'
+  mime: application/x-stata-dta
+  name: Stata Data Script
+- categories: images
+  count: '90'
+  default_ext: .ttf
+  default_mime: ''
+  exts:
+  - .ttc
+  - .ttf
+  mime: application/x-font-ttf
+  name: ''
+- categories: other
+  default_ext: .nsf
+  default_mime: ''
+  exts:
+  - .nsf
+  mime: application/vnd.lotus-notes
+  name: Notes Storage Facility
+- categories: ''
+  count: '89'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/CDFV2
+  name: ''
+- categories: documents
+  count: '87'
+  default_ext: .xht
+  default_mime: ''
+  exts:
+  - .xht
+  - .xhtml
+  mime: application/xhtml+xml
+  name: ''
+- categories: video
+  count: '84'
+  default_ext: .wmv
+  default_mime: ''
+  exts:
+  - .wmv
+  mime: video/x-ms-wmv
+  name: ''
+- categories: documents
+  count: '81'
+  default_ext: .man
+  default_mime: ''
+  exts:
+  - .man
+  mime: application/x-troff-man
+  name: ''
+- categories: ''
+  count: '78'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/pgp-keys
+  name: ''
+- categories: documents
+  count: '76'
+  default_ext: .man
+  default_mime: ''
+  exts:
+  - .man
+  - .me
+  - .ms
+  - .roff
+  - .t
+  - .tr
+  mime: text/troff
+  name: ''
+- categories: data
+  count: '76'
+  default_ext: .rq
+  default_mime: ''
+  exts:
+  - .rq
+  mime: application/sparql-query
+  name: ''
+- categories: documents
+  default_ext: .pdf
+  default_mime: ''
+  exts:
+  - .pdf
+  mime: text/pdf
+  name: Adobe PDF
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-tex
+  name: LaTeX
+- categories: ''
+  count: '72'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.shp
+  name: ''
+- categories: ''
+  count: '70'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-dbf
+  name: ''
+- categories: other
+  count: '69'
+  default_ext: .dsc
+  default_mime: ''
+  exts:
+  - .dsc
+  mime: text/prs.lines.tag
+  name: ''
+- categories: other
+  count: '66'
+  default_ext: .qps
+  default_mime: ''
+  exts:
+  - .qps
+  mime: application/vnd.publishare-delta-tree
+  name: ''
+- categories: ''
+  count: '66'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/api
+  name: ''
+- categories: images
+  default_ext: .jp2
+  default_mime: ''
+  exts:
+  - .jp2
+  mime: image/jp2
+  name: JPEG-2000 Image
+- categories: video
+  count: '65'
+  default_ext: .mkv
+  default_mime: ''
+  exts:
+  - .mkv
+  mime: video/x-matroska
+  name: ''
+- categories: ''
+  count: '63'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-iwork-keynote-sffkey
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-swc
+  name: Shockwave Flash Component
+- categories: other
+  count: '62'
+  default_ext: .flx
+  default_mime: ''
+  exts:
+  - .flx
+  mime: text/vnd.fmi.flexstor
+  name: ''
+- categories: ''
+  count: '61'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: dwg/dxf
+  name: ''
+- categories: ''
+  count: '61'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/text
+  name: ''
+- categories: ''
+  count: '60'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-troff
+  name: ''
+- categories: ''
+  count: '60'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/x-flac
+  name: ''
+- categories: ''
+  count: '59'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/download
+  name: ''
+- categories: other
+  count: '58'
+  default_ext: .au
+  default_mime: ''
+  exts:
+  - .au
+  - .snd
+  mime: audio/basic
+  name: ''
+- categories: other
+  count: '58'
+  default_ext: .str
+  default_mime: ''
+  exts:
+  - .str
+  mime: application/vnd.pg.format
+  name: ''
+- categories: documents
+  count: '57'
+  default_ext: .docm
+  default_mime: ''
+  exts:
+  - .docm
+  mime: application/vnd.ms-word.document.macroenabled.12
+  name: ''
+- categories: code
+  count: '56'
+  default_ext: .tcl
+  default_mime: ''
+  exts:
+  - .tcl
+  mime: application/x-tcl
+  name: ''
+- categories: ''
+  count: '56'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-graphpad-prism-pzfx
+  name: ''
+- categories: ''
+  count: '56'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-yaml
+  name: ''
+- categories: other
+  count: '54'
+  default_ext: .nml
+  default_mime: ''
+  exts:
+  - .nml
+  mime: application/vnd.enliven
+  name: ''
+- categories: ''
+  count: '54'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-matroska
+  name: ''
+- categories: ''
+  count: '53'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/vcard
+  name: ''
+- categories: other
+  count: '52'
+  default_ext: .mag
+  default_mime: ''
+  exts:
+  - .mag
+  mime: application/vnd.ecowin.chart
+  name: ''
+- categories: ''
+  count: '52'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/dat
+  name: ''
+- categories: other
+  count: '51'
+  default_ext: .acc
+  default_mime: ''
+  exts:
+  - .acc
+  mime: application/vnd.americandynamics.acc
+  name: ''
+- categories: ''
+  count: '51'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/pjnz
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-comma-separated-values
+  name: Comma Separated Values
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-sas-catalog
+  name: SAS Catalog
+- categories: 'data'
+  count: '48'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - '.tab'
+  mime: text/tab
+  name: ''
+- categories: ''
+  count: '48'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-fasta
+  name: ''
+- categories: other
+  count: '47'
+  default_ext: .ics
+  default_mime: ''
+  exts:
+  - .ics
+  - .ifb
+  mime: text/calendar
+  name: ''
+- categories: video
+  default_ext: .ogv
+  default_mime: ''
+  exts:
+  - .ogv
+  mime: video/ogg
+  name: OGG Video
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/softgrid-do
+  name: Softgrid DTA Script
+- categories: data
+  count: '45'
+  default_ext: .dtd
+  default_mime: ''
+  exts:
+  - .dtd
+  mime: application/xml-dtd
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-matlab-figure
+  name: MATLAB Figure
+- categories: documents
+  count: '43'
+  default_ext: .odc
+  default_mime: ''
+  exts:
+  - .odc
+  mime: application/vnd.oasis.opendocument.chart
+  name: ''
+- categories: audio
+  count: '43'
+  default_ext: .wma
+  default_mime: ''
+  exts:
+  - .wma
+  mime: audio/x-ms-wma
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-r-data
+  name: R Data
+- categories: ''
+  count: '43'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ogc.wmc
+  name: ''
+- categories: ''
+  count: '43'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/csv; charset=utf-8
+  name: ''
+- categories: ''
+  count: '42'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/html; charset=UTF-8
+  name: ''
+- categories: other
+  count: '41'
+  default_ext: .skd
+  default_mime: ''
+  exts:
+  - .skd
+  - .skm
+  - .skp
+  - .skt
+  mime: application/vnd.koan
+  name: ''
+- categories: ''
+  count: '41'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-zipped-shp
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-emf
+  name: Extended Metafile
+- categories: ''
+  count: '40'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: multipart/x-zip
+  name: ''
+- categories: ''
+  count: '40'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-gameboy-rom
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-esri-shape
+  name: ESRI Shapefile
+- categories: ''
+  count: '39'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/p21
+  name: ''
+- categories: ''
+  count: '39'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/icms
+  name: ''
+- categories: ''
+  count: '38'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-json-hypothesis
+  name: ''
+- categories: ''
+  count: '37'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/sis
+  name: ''
+- categories: ''
+  count: '37'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/sla
+  name: ''
+- categories: images
+  count: '36'
+  default_ext: .fst
+  default_mime: ''
+  exts:
+  - .fst
+  mime: image/vnd.fst
+  name: ''
+- categories: ''
+  count: '36'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/xcap-diff+xml
+  name: ''
+- categories: ''
+  count: '35'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/wave
+  name: ''
+- categories: images
+  count: '34'
+  default_ext: .webp
+  default_mime: ''
+  exts:
+  - .webp
+  mime: image/webp
+  name: ''
+- categories: ''
+  count: '34'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-bibtex-text-file
+  name: ''
+- categories: other
+  count: '33'
+  default_ext: .res
+  default_mime: ''
+  exts:
+  - .res
+  mime: application/x-dtbresource+xml
+  name: ''
+- categories: other
+  count: '33'
+  default_ext: .vml
+  default_mime: ''
+  exts:
+  - .vrml
+  - .wrl
+  mime: model/vrml
+  name: ''
+- categories: ''
+  count: '33'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/shapefile
+  name: ''
+- categories: ''
+  count: '33'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/nappdf
+  name: ''
+- categories: ''
+  count: '33'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-msexcel
+  name: ''
+- categories: ''
+  count: '32'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/blender
+  name: ''
+- categories: ''
+  count: '32'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/x-panasonic-rw
+  name: ''
+- categories: ''
+  count: '32'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.openxmlformats-officedocument.presentationml.pre
+  name: ''
+- categories: ''
+  count: '32'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-tar-compressed
+  name: ''
+- categories: other
+  count: '30'
+  default_ext: .dna
+  default_mime: ''
+  exts:
+  - .dna
+  mime: application/vnd.dna
+  name: ''
+- categories: other
+  count: '30'
+  default_ext: .gtar
+  default_mime: ''
+  exts:
+  - .gtar
+  mime: application/x-gtar
+  name: ''
+- categories: other
+  count: '30'
+  default_ext: .ssf
+  default_mime: ''
+  exts:
+  - .ssf
+  mime: application/vnd.epson.ssf
+  name: ''
+- categories: ''
+  count: '30'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/opensearchdescription+xml
+  name: ''
+- categories: ''
+  count: '29'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/macbinary
+  name: ''
+- categories: ''
+  count: '29'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.shx
+  name: ''
+- categories: other
+  count: '27'
+  default_ext: .sig
+  default_mime: ''
+  exts:
+  - .asc
+  - .sig
+  mime: application/pgp-signature
+  name: ''
+- categories: ''
+  count: '27'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-webarchive
+  name: ''
+- categories: ''
+  count: '27'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-aportisdoc
+  name: ''
+- categories: ''
+  count: '27'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/WMS
+  name: ''
+- categories: documents
+  default_ext: .md
+  default_mime: text/markdown
+  exts:
+  - .md
+  - .markdown
+  - .mdown
+  - .markdn
+  mime: text/x-markdown
+  name: Markdown Text
+- categories: ''
+  count: '26'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-spss-syntax; charset=UTF-8
+  name: ''
+- categories: ''
+  count: '26'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-web-markdown
+  name: ''
+- categories: ''
+  count: '26'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/pkix-attr-cert
+  name: ''
+- categories: ''
+  count: '26'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/mod
+  name: ''
+- categories: ''
+  count: '25'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-ms-shortcut
+  name: ''
+- categories: ''
+  count: '25'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: xml/soap
+  name: ''
+- categories: other
+  count: '24'
+  default_ext: .lbe
+  default_mime: ''
+  exts:
+  - .lbe
+  mime: application/vnd.llamagraphics.life-balance.exchange+xml
+  name: ''
+- categories: other
+  count: '24'
+  default_ext: .src
+  default_mime: ''
+  exts:
+  - .src
+  mime: application/x-wais-source
+  name: ''
+- categories: ''
+  count: '24'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.openxmlformats
+  name: ''
+- categories: ''
+  count: '24'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/rwl
+  name: ''
+- categories: ''
+  count: '24'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.wolfram.nb
+  name: ''
+- categories: other
+  count: '23'
+  default_ext: .stc
+  default_mime: ''
+  exts:
+  - .stc
+  mime: application/vnd.sun.xml.calc.template
+  name: ''
+- categories: ''
+  count: '23'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-123
+  name: ''
+- categories: ''
+  count: '23'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-font-woff
+  name: ''
+- categories: other
+  count: '22'
+  default_ext: .p7s
+  default_mime: ''
+  exts:
+  - .p7s
+  mime: application/pkcs7-signature
+  name: ''
+- categories: ''
+  count: '22'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-dbase
+  name: ''
+- categories: other
+  count: '21'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .cct
+  - .cst
+  - .cxt
+  - .dcr
+  - .dir
+  - .dxr
+  - .fgd
+  - .swa
+  - .w3d
+  mime: application/x-director
+  name: ''
+- categories: documents
+  count: '21'
+  default_ext: .chm
+  default_mime: ''
+  exts:
+  - .chm
+  mime: application/vnd.ms-htmlhelp
+  name: ''
+- categories: documents
+  count: '21'
+  default_ext: .pub
+  default_mime: ''
+  exts:
+  - .pub
+  mime: application/x-mspublisher
+  name: ''
+- categories: archives
+  count: '21'
+  default_ext: .zip
+  default_mime: ''
+  exts:
+  - .zip
+  mime: application/x-zip
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-spss-sps
+  name: SPSS Script Syntax
+- categories: 'geodata'
+  count: '21'
+  default_ext: '.wmts'
+  default_mime: ''
+  exts:
+  - '.wmts'
+  mime: application/vnd.ogc.wmts_xml
+  name: 'WMTS'
+- categories: documents
+  count: '20'
+  default_ext: .afm
+  default_mime: ''
+  exts:
+  - .afm
+  - .pfa
+  - .pfb
+  - .pfm
+  mime: application/x-font-type1
+  name: ''
+- categories: data
+  count: '20'
+  default_ext: .yaml
+  default_mime: ''
+  exts:
+  - .yaml
+  - .yml
+  mime: text/x-yaml
+  name: ''
+- categories: ''
+  count: '20'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-uri
+  name: ''
+- categories: ''
+  count: '20'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/rat-file
+  name: ''
+- categories: other
+  count: '19'
+  default_ext: .dts
+  default_mime: ''
+  exts:
+  - .dts
+  mime: audio/vnd.dts
+  name: ''
+- categories: code
+  default_ext: .php
+  default_mime: ''
+  exts:
+  - .php
+  mime: text/php
+  name: PHP Source Code
+- categories: data
+  count: '19'
+  default_ext: .yaml
+  default_mime: ''
+  exts:
+  - .yaml
+  - .yml
+  mime: application/yaml
+  name: ''
+- categories: ''
+  count: '19'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/n-triples
+  name: ''
+- categories: ''
+  count: '19'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/json; charset=utf-8
+  name: ''
+- categories: ''
+  count: '19'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/morphographx.mgxm
+  name: ''
+- categories: ''
+  count: '19'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-download
+  name: ''
+- categories: video
+  count: '19'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: video/vnd.dlna.mpeg-tts
+  name: ''
+- categories: ''
+  count: '19'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-jmp-data
+  name: ''
+- categories: other
+  count: '18'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .geo
+  mime: application/vnd.dynageo
+  name: ''
+- categories: video
+  default_ext: .mp4
+  default_mime: ''
+  exts:
+  - .mp4
+  - .m4a
+  - .m4b
+  - .m4p
+  - .m4r
+  - .m4v
+  - .mp4v
+  - .3gp
+  - .3g2
+  - .3ga
+  - .3gpa
+  - .3gpp
+  - .3gpp2
+  - .3gp2
+  mime: audio/mp4
+  name: MPEG-4 Audio
+- categories: ''
+  count: '18'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/html; charset=iso-8859-1
+  name: ''
+- categories: ''
+  count: '18'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/directory
+  name: ''
+- categories: ''
+  count: '18'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd
+  name: ''
+- categories: ''
+  count: '18'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/fdt+xml
+  name: ''
+- categories: ''
+  count: '17'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-r-doc
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-c++src
+  name: C++ Source
+- categories: ''
+  count: '17'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.wm.igor.pxp
+  name: ''
+- categories: ''
+  count: '17'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/sql
+  name: ''
+- categories: ''
+  count: '17'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.google-apps.document
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-sas-transport
+  name: SAS Transport
+- categories: other
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .ser
+  mime: application/java-serialized-object
+  name: Java Serialized Object
+- categories: ''
+  count: '16'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-bibtex
+  name: ''
+- categories: ''
+  count: '16'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.d
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-pdf
+  name: Adobe PDF
+- categories: ''
+  count: '16'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/audible
+  name: ''
+- categories: ''
+  count: '16'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/wms
+  name: ''
+- categories: 'geodata'
+  count: '16'
+  default_ext: '.csw'
+  default_mime: ''
+  exts:
+  - '.csw'
+  mime: application/vnd.ogc.csw.capabilities.response_xml
+  name: 'CSW'
+- categories: images
+  count: '15'
+  default_ext: .ico
+  default_mime: ''
+  exts:
+  - .ico
+  mime: image/vnd.microsoft.icon
+  name: ''
+- categories: code
+  count: '15'
+  default_ext: .asm
+  default_mime: ''
+  exts:
+  - .asm
+  - .s
+  mime: text/x-asm
+  name: ''
+- categories: ''
+  count: '15'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/Groundwater Level Data Viewer
+  name: ''
+- categories: video
+  count: '14'
+  default_ext: .flv
+  default_mime: ''
+  exts:
+  - .flv
+  mime: video/x-flv
+  name: ''
+- categories: other
+  count: '14'
+  default_ext: .igs
+  default_mime: ''
+  exts:
+  - .iges
+  - .igs
+  mime: model/iges
+  name: ''
+- categories: code
+  count: '14'
+  default_ext: .pyc
+  default_mime: ''
+  exts:
+  - .pyc
+  - .pyo
+  mime: application/x-python-code
+  name: ''
+- categories: ''
+  count: '14'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/rdf
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-perl-script
+  name: Perl Script
+- categories: ''
+  count: '14'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-cfs-compressed
+  name: ''
+- categories: ''
+  count: '14'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/x-gamess-input
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-sas-log
+  name: SAS Log
+- categories: ''
+  count: '14'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: multipart/mixed
+  name: ''
+- categories: ''
+  count: '14'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-iwork-keynote-sffnumbers
+  name: ''
+- categories: ''
+  count: '14'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/xlsx
+  name: ''
+- categories: ''
+  count: '14'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-bibtex
+  name: ''
+- categories: ''
+  count: '14'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/jpg
+  name: ''
+- categories: ''
+  count: '14'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-archive
+  name: ''
+- categories: images
+  count: '13'
+  default_ext: .png
+  default_mime: image/png
+  exts:
+  - .png
+  mime: image/png;charset=UTF-8
+  name: ''
+- categories: other
+  count: '13'
+  default_ext: .sit
+  default_mime: ''
+  exts:
+  - .sit
+  mime: application/x-stuffit
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-makefile
+  name: Makefile Script
+- categories: ''
+  count: '13'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-expect
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-docker-file
+  name: Docker Image File
+- categories: other
+  count: '12'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .cdx
+  mime: chemical/x-cdx
+  name: ''
+- categories: other
+  count: '12'
+  default_ext: .mesh
+  default_mime: ''
+  exts:
+  - .mesh
+  - .msh
+  - .silo
+  mime: model/mesh
+  name: ''
+- categories: images
+  count: '12'
+  default_ext: .svg
+  default_mime: ''
+  exts:
+  - .svg
+  mime: image/svg
+  name: ''
+- categories: ''
+  count: '12'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-jmp-script
+  name: ''
+- categories: ''
+  count: '12'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/html; charset="utf-8"
+  name: ''
+- categories: ''
+  count: '12'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/aspx
+  name: ''
+- categories: ''
+  count: '12'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.google-earth
+  name: ''
+- categories: ''
+  count: '12'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/x-mopac-input
+  name: ''
+- categories: ''
+  count: '12'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.snapgene.dna
+  name: ''
+- categories: ''
+  count: '12'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-jmp-report
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.wolfram.mathematica
+  name: Wolfram Mathematica Code
+- categories: ''
+  count: '12'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.Kinar
+  name: ''
+- categories: ''
+  count: '12'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/x-raw-panasonic
+  name: ''
+- categories: images
+  count: '11'
+  default_ext: .ico
+  default_mime: ''
+  exts:
+  - .ico
+  mime: image/x-icon
+  name: ''
+- categories: ''
+  count: '11'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .org
+  mime: application/vnd.lotus-organizer
+  name: ''
+- categories: documents
+  count: '11'
+  default_ext: .xltx
+  default_mime: ''
+  exts:
+  - .xltx
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.template
+  name: ''
+- categories: ''
+  count: '11'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-stata-syntax; charset=UTF-8
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/tar
+  name: TAR Archive
+- categories: ''
+  count: '11'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-wine-extension-do
+  name: ''
+- categories: ''
+  count: '11'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/vnd.dlna.adts
+  name: ''
+- categories: ''
+  count: '11'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-ruby
+  name: ''
+- categories: ''
+  count: '11'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.google-earth.kmz+xml
+  name: ''
+- categories: ''
+  count: '11'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/docx
+  name: ''
+- categories: ''
+  count: '10'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .eot
+  mime: application/vnd.ms-fontobject
+  name: ''
+- categories: images
+  count: '10'
+  default_ext: .tif
+  default_mime: image/tiff
+  exts:
+  - .tif
+  - .tiff
+  mime: image/tiff; application=geotiff
+  name: ''
+- categories: ''
+  count: '10'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/html; subtype=emikat
+  name: ''
+- categories: ''
+  count: '10'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/jsv
+  name: ''
+- categories: video
+  count: '10'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: video/x-smv
+  name: ''
+- categories: ''
+  count: '10'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/x-ape
+  name: ''
+- categories: ''
+  count: '10'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ms-office
+  name: ''
+- categories: ''
+  count: '10'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-itunes-itlp
+  name: ''
+- categories: ''
+  count: '10'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/xls; charset=utf-8
+  name: ''
+- categories: ''
+  count: '10'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/xml;charset=UTF-8
+  name: ''
+- categories: ''
+  count: '10'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.shee
+  name: ''
+- categories: documents
+  count: '9'
+  default_ext: .xslt
+  default_mime: ''
+  exts:
+  - .xslt
+  mime: application/xslt+xml
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/asp
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-qml
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-julia
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/force-download
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/JSON
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: test/42
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: zip/shp
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/wfs
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: biosequence/fasta
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-tika-ooxml
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/haansoftdocx
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/WMTS
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/xml+gml
+  name: ''
+- categories: ''
+  count: '9'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/PDF
+  name: ''
+- categories: other
+  count: '8'
+  default_ext: .mbox
+  default_mime: ''
+  exts:
+  - .mbox
+  mime: application/mbox
+  name: ''
+- categories: ''
+  count: '8'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .mcd
+  mime: application/vnd.mcd
+  name: ''
+- categories: ''
+  count: '8'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-common-lisp
+  name: ''
+- categories: ''
+  count: '8'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ms-pkistl
+  name: ''
+- categories: ''
+  count: '8'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: binary/octet-stream
+  name: ''
+- categories: ''
+  count: '8'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/x-lwo
+  name: ''
+- categories: ''
+  count: '8'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.inquisit.data
+  name: ''
+- categories: ''
+  count: '8'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/seq-na-genbank
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-sas-output
+  name: SAS Output
+- categories: ''
+  count: '8'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ms-access
+  name: ''
+- categories: ''
+  count: '8'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/x-eps
+  name: ''
+- categories: ''
+  count: '7'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .mgz
+  mime: application/vnd.proteus.magazine
+  name: ''
+- categories: ''
+  count: '7'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/>octet-stream
+  name: ''
+- categories: ''
+  count: '7'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-apple-diskimage
+  name: ''
+- categories: ''
+  count: '7'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/x-hdr
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-javascript
+  name: Javascript Code
+- categories: ''
+  count: '7'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/rpki-ghostbusters
+  name: ''
+- categories: ''
+  count: '7'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/mx20
+  name: ''
+- categories: ''
+  count: '7'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/nx
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: .daf
+  default_mime: ''
+  exts:
+  - .daf
+  mime: application/vnd.mobius.daf
+  name: ''
+- categories: data
+  count: '6'
+  default_ext: .sqlite
+  default_mime: application/x-sqlite3
+  exts:
+  - .db
+  - .sqlite
+  - .sqlite3
+  - .db-wal
+  - .sqlite-wal
+  - .db-shm
+  - .sqlite-shm
+  mime: application/vnd.sqlite3
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: .es3
+  default_mime: ''
+  exts:
+  - .es3
+  - .et3
+  mime: application/vnd.eszigno3+xml
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .msf
+  mime: application/vnd.epson.msf
+  name: ''
+- categories: documents
+  count: '6'
+  default_ext: .ppsx
+  default_mime: ''
+  exts:
+  - .ppsx
+  mime: application/vnd.openxmlformats-officedocument.presentationml.slideshow
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-chdr
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/HTML
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/example
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-Research-Info-Systems
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/xqgis
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: model/example
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/tsv
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/kmz
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-iwork-numbers-sffnumbers
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.afpc.modca-overlay
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/x-embl-dl-nucleotide
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/WFS
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-turtle
+  name: ''
+- categories: ''
+  count: '6'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/7-zip
+  name: ''
+- categories: documents
+  count: '5'
+  default_ext: .epub
+  default_mime: ''
+  exts:
+  - .epub
+  mime: application/epub+zip
+  name: ''
+- categories: documents
+  count: '5'
+  default_ext: .odp
+  default_mime: ''
+  exts:
+  - .odp
+  mime: application/vnd.oasis.opendocument.presentation
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: .wmz
+  default_mime: ''
+  exts:
+  - .wmz
+  mime: application/x-ms-wmz
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-haxe
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/xml;charset=UTF-8
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/json;charset=UTF-8
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/x-tga
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ms-officetheme
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/nc
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.multiad.creator.cif
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-python
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-sql
+  name: SQL Code
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/csv;charset=UTF-8
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-esri-crs
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ms-outlook
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-gzip-compressed
+  name: Gzip Archive
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-rss+xml
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.dbf
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/mx22
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/x-sdlfile
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-stata-do
+  name: Stata Do Script
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-applix-spreadsheet
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-endnote-connect
+  name: ''
+- categories: ''
+  count: '5'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-r-project
+  name: ''
+- categories: code
+  count: '4'
+  default_ext: .apk
+  default_mime: ''
+  exts:
+  - .apk
+  mime: application/vnd.android.package-archive
+  name: ''
+- categories: code
+  count: '4'
+  default_ext: .csh
+  default_mime: ''
+  exts:
+  - .csh
+  mime: application/x-csh
+  name: ''
+- categories: geodata
+  count: '4'
+  default_ext: .gpkg
+  default_mime: application/x-gpkg
+  exts:
+  - .gpkg
+  mime: application/gpkg
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .irm
+  mime: application/vnd.ibm.rights-management
+  name: ''
+- categories: video
+  count: '4'
+  default_ext: .m3u
+  default_mime: ''
+  exts:
+  - .m3u
+  mime: audio/x-mpegurl
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .shar
+  mime: application/x-shar
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/xlsx
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/SGML
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-lzh-compressed
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/viplab+json
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-patch
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/illustrator
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.arinc
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-photoshop
+  name: Photoshop Image
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/x-molfile
+  name: ''
+- categories: video
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: video/example
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: document/unknown
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-perl
+  name: Perl Script
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/xhdf5
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: unknown/unknown
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-executable
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-sharedlib
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-ole-storage
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-ns-proxy-autoconfig
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vndams-excel
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/ppt
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.pmi.widget
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/x-cerius
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-dna
+  name: ''
+- categories: ''
+  count: '4'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-fasta+txt
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .cdxml
+  mime: application/vnd.chemdraw+xml
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .cgm
+  mime: image/cgm
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .cod
+  mime: application/vnd.rim.cod
+  name: ''
+- categories: images
+  count: '3'
+  default_ext: .gv
+  default_mime: ''
+  exts:
+  - .gv
+  mime: text/vnd.graphviz
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .cu
+  mime: application/cu-seeme
+  name: ''
+- categories: documents
+  count: '3'
+  default_ext: .dotx
+  default_mime: ''
+  exts:
+  - .dotx
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.template
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .dvi
+  mime: application/x-dvi
+  name: ''
+- categories: documents
+  count: '3'
+  default_ext: .latex
+  default_mime: ''
+  exts:
+  - .latex
+  mime: application/x-latex
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .mka
+  mime: audio/x-matroska
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .mxf
+  mime: application/mxf
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .pm
+  - .pl
+  mime: application/x-perl
+  name: ''
+- categories: images
+  count: '3'
+  default_ext: .png
+  default_mime: image/png
+  exts:
+  - .png
+  mime: Image/png
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .pptm
+  mime: application/vnd.ms-powerpoint.presentation.macroenabled.12
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .sda
+  mime: application/vnd.stardivision.draw
+  name: ''
+- categories: code
+  count: '3'
+  default_ext: .wsdl
+  default_mime: ''
+  exts:
+  - .wsdl
+  mime: application/wsdl+xml
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-c++hdr
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/zip
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/rest
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-dosexec
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/gml+xml
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/softgrid-7z
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/asx
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: test/csv
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-octet-stream
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-sfv
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/nvivo-project
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-chimera
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/a-qgis
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: apploication/vnd.ms-excel
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/text-plain:formatted
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ms-excel.template.macroEnabled.12
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.google-apps.map
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/softgrid-sps
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: tesxt/json
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/Data Download
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/png
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-graphpad-prism-pzf
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/haansofthwp
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/xqis
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/ascii
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.snesdev-page-table
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/shapefiles
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/x-ms-wmv
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/x-applix-graphics
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/json+gzip
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-msi
+  name: ''
+- categories: ''
+  count: '3'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/dsb
+  name: ''
+- categories: documents
+  count: '2'
+  default_ext: .abw
+  default_mime: ''
+  exts:
+  - .abw
+  mime: application/x-abiword
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .application
+  mime: application/x-ms-application
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .aw
+  mime: application/applixware
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .cat
+  mime: application/vnd.ms-pki.seccat
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .cmx
+  mime: image/x-cmx
+  name: ''
+- categories: documents
+  default_ext: .rst
+  default_mime: ''
+  exts:
+  - .rst
+  mime: text/x-rst
+  name: reStructuredText
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .mmd
+  mime: application/vnd.chipnuts.karaoke-mmd
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .odb
+  mime: application/vnd.oasis.opendocument.database
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .otf
+  mime: application/x-font-otf
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .pgm
+  mime: image/x-portable-graymap
+  name: Graymap Image
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .psf
+  mime: application/x-font-linux-psf
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .rm
+  mime: application/vnd.rn-realmedia
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .sdw
+  - .vor
+  mime: application/vnd.stardivision.writer
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .sitx
+  mime: application/x-stuffitx
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .smi
+  - .smil
+  mime: application/smil+xml
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .snf
+  mime: application/x-font-snf
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .stk
+  mime: application/hyperstudio
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/example
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/html; charset=utf-8; charset=utf-8
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/example
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-fityk
+  name: ''
+- categories: video
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: video/vnd.dece-mp4
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/ibooks
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-ms-regedit
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/KaluzaAnalysis
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.t
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/wps-office.docx
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-python-bytecode
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/tif
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-desktop
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.wolfram.player
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/html;charset=ISO-8859-1
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/nlogo
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/csv; charset=utf-8
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/html;charset=UTF-8
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/mid
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/htm
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/softgrid-inp
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: appplication/pdf
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/x-mrsid-image
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ms-publisher
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/unknown
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.clustal.aln
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/vnd.dvb.subtitle
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-rtf
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-tcl
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/x-emf
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: applicaton/octet-stream
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/x-wmf
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.wolfram.cdf
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/rdata
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/htmlf
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/gff3
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.nexus.nex
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/vtt
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/x-stm
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-pkcs7-crl
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/r
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-tex-pk
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/dwg
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-trash
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/jpx
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: model/stl
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/xls
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/twbx
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-readme
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: biosequence/phylip
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ms-word.document.12
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/jpeg
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/DCD
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/irp
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/vnd.radiance
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: audio/x-sd2
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/wordperfect
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-osptracker
+  name: ''
+- categories: video
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: video/x-dv
+  name: ''
+- categories: ''
+  count: '2'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/zip; charset=utf-8
+  name: ''
+- categories: video
+  count: '1'
+  default_ext: .3gp
+  default_mime: ''
+  exts:
+  - .3gp
+  mime: video/3gpp
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .cla
+  mime: application/vnd.claymore
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .cml
+  mime: chemical/x-cml
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .ext
+  mime: application/vnd.novadigm.ext
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .g3
+  mime: image/g3fax
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .ggb
+  mime: application/vnd.geogebra.file
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .hps
+  mime: application/vnd.hp-hps
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .icc
+  - .icm
+  mime: application/vnd.iccprofile
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .mobi
+  - .prc
+  mime: application/x-mobipocket-ebook
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .mpkg
+  mime: application/vnd.apple.installer+xml
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .mseed
+  mime: application/vnd.fdsn.mseed
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .mts
+  mime: model/vnd.mts
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .mxl
+  mime: application/vnd.recordare.musicxml
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .ncx
+  mime: application/x-dtbncx+xml
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .opf
+  mime: application/oebps-package+xml
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .ots
+  mime: application/vnd.oasis.opendocument.spreadsheet-template
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .p12
+  - .pfx
+  mime: application/x-pkcs12
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .pcf
+  mime: application/x-font-pcf
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .pct
+  - .pic
+  mime: image/x-pict
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .sdd
+  mime: application/vnd.stardivision.impress
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .smf
+  mime: application/vnd.stardivision.math
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .spl
+  mime: application/x-futuresplash
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .spq
+  mime: application/scvp-vp-request
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .stw
+  mime: application/vnd.sun.xml.writer.template
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .tra
+  mime: application/vnd.trueapp
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .vsd
+  - .vss
+  - .vst
+  - .vsw
+  - .vsdx
+  - .vssx
+  - .vstx
+  - .vssm
+  - .vstm
+  mime: application/vnd.visio
+  name: ''
+- categories: data
+  count: '1'
+  default_ext: .xltm
+  default_mime: ''
+  exts:
+  - .xltm
+  mime: application/vnd.ms-excel.template.macroenabled.12
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .3dml
+  mime: text/vnd.in3d.3dml
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - .rtx
+  mime: text/richtext
+  name: Rich Text Format
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.nitf
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/xhtml+xml;charset=UTF-8
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/mipc
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/haansoftxls
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/zstd
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-jdf
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/softgrid-tex
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: appication/xml
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/nvivo-qdpx-project
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-wine-extension-opj
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/attachment
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/gxf
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-wtt
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ogc.csw_xml
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/x-jcamp-dx
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-qgis-project-container
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-emacs-lisp
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-qtiplot
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/wps-office.pdf
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-iwork-pages-sffpages
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-info
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/x-molconn-Z
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/rcp
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.google-apps.presentation
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-raw-disk-image
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.oma.drm.content
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.eln+zip
+  name: ELN Archive
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-extension-fcstd
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-stata-15
+  name: Stata 15 Binary
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-gtar-compressed
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ms-powerpoint.presentation.macroEnabled.12
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: x-gis/x-shapefile
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ms-word
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-virtualbox-ova
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/ms-excel
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-maximasession
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/font-woff
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.ms-pdf
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-maker
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-ms-dos-executable
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: api/json
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-csl
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-troff-me
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: 'text/html; charset: utf-8; charset=utf-8'
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-moz-deleted
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/html; charset=us-ascii
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-lzh
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/x-xcf
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-bzip-compressed-tar
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/haansoftpptx
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/msword-template
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-wine-extension-ztt
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/tiff+zip
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: aplication/vnd.ogc.wms_xml
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-httpd-php
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: multipart/related
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-001-compressed
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/calendar;charset=UTF-8
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: model/x.stl-binary
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-endnote-library
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-wine-extension-ztq
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-troff-me
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/fits-gzipped
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/x-vmd
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-maple-worksheet
+  name: ''
+- categories: ''
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/pdf
+  name: Adobe PDF
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-empty
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/softgrid-rdata
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-tar-gz
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/mspowerpoint
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-gretldata
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: model/gltf-binary
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.sun.xml.base
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.nokia.n-gage.ac+xml
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-compress
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: image/jpeg2000
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: chemical/x-fastq
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/x-awk
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-sas-syntax;charset=US-ASCII
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.hal+xml
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/zlib
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/vnd.openxmlformats-officedocument.word
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/oxps
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: text/x-go
+  name: ''
+- categories: ''
+  count: '1'
+  default_ext: ''
+  default_mime: ''
+  exts:
+  - ''
+  mime: application/mex
+  name: ''
+- categories: 'geodata'
+  count: '1'
+  default_ext: '.wcs'
+  default_mime: ''
+  exts:
+  - '.wcs'
+  mime: application/vnd.ogc.wcs_xml
+  name: ''
+- categories: data
+  count: ''
+  default_ext: .bson
+  default_mime: ''
+  exts:
+  - .bson
+  mime: application/bson
+  name: ''
+- categories: data
+  count: ''
+  default_ext: .hdt
+  default_mime: ''
+  exts:
+  - .hdt
+  mime: application/vnd.hdt
+  name: ''
+- categories: data
+  count: ''
+  default_ext: .jsonl
+  default_mime: ''
+  exts:
+  - .jsonl
+  mime: application/jsonl
+  name: ''
+- categories: data
+  count: ''
+  default_ext: .ndjson
+  default_mime: ''
+  exts:
+  - .ndjson
+  mime: application/x-ndjson
+  name: ''
+- categories: data
+  count: ''
+  default_ext: .parquet
+  default_mime: ''
+  exts:
+  - .parquet
+  mime: application/vnd.apache.parquet
+  name: ''

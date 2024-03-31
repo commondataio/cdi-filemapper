@@ -1,0 +1,8933 @@
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shape-zip
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/3.1.1
+  text: gml2
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/3.1.1
+  text: gml3
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/3.1.1
+  text: gml32
+- categories:
+  - geodata
+  ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: wms
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/3.1.1
+  text: gml2-gzip
+- categories:
+  - archives
+  ext: .gz
+  mime: application/gzip
+  text: application/gzip
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc:wfs
+- categories:
+  - data
+  ext: .xls
+  mime: application/vnd.ms-excel
+  text: excel
+- categories:
+  - data
+  ext: .xlsx
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+  text: excel2007
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: http://publications.europa.eu/resource/authority/file-type/csv
+- categories:
+  - data
+  ext: .json
+  mime: application/json
+  text: http://publications.europa.eu/resource/authority/file-type/json
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/x-gpkg
+  text: geopkg
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/x-gpkg
+  text: gpkg
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/x-gpkg
+  text: geopackage
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc:wfs-1.0.0-http-get-capabilities
+- categories:
+  - geodata
+  ext: .kml
+  mime: application/vnd.google-earth.kml+xml
+  text: glg:kml-2.0-http-get-map
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc:wfs-2.0.0-http-get-capabilities
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/3.1.1
+  text: gml2
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc:wfs-2.0.0-http-get-feature
+- categories:
+  - data
+  ext: .tab
+  mime: text/tab
+  text: mapinfo file
+- categories:
+  - geodata
+  ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: http://publications.europa.eu/resource/authority/file-type/wms_srvc
+- categories:
+  - geodata
+  ext: .fgdb
+  mime: application/x-filegdb
+  text: filegdb
+- categories:
+  - data
+  ext: .atom
+  mime: application/atom+xml
+  text: http://publications.europa.eu/resource/authority/file-type/atom
+- categories:
+  - data
+  ext: .json
+  mime: application/json
+  text: json-stat
+- categories:
+  - documents
+  ext: .pdf
+  mime: application/pdf
+  text: http://publications.europa.eu/resource/authority/file-type/pdf
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: https://www.iana.org/assignments/media-types/text/csv
+- categories:
+  - geodata
+  ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: ogc:wcs
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/3.1.1
+  text: ogc:gml
+- categories:
+  - images
+  ext: .dxf
+  mime: image/vnd.dxf
+  text: dxf-zip
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: http://publications.europa.eu/resource/authority/file-type/wfs_srvc
+- categories:
+  - geodata
+  ext: .kml
+  mime: application/vnd.google-earth.kml+xml
+  text: ogc:kml
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: zip-shape
+- categories:
+  - geodata
+  ext: .qgs
+  mime: application/x-qgis
+  text: qgis
+- categories:
+  - geodata
+  ext: .kml
+  mime: application/vnd.google-earth.kml+xml
+  text: ogr-kml
+- categories:
+  - images
+  ext: .png
+  mime: image/png
+  text: http://publications.europa.eu/resource/authority/file-type/png
+- categories:
+  - data
+  ext: .tab
+  mime: text/tab
+  text: ogr-tab
+- categories:
+  - geodata
+  ext: .mif
+  mime: application/vnd.mif
+  text: ogr-mif
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: ogr-csv
+- categories:
+  - documents
+  ext: .html
+  mime: text/html
+  text: http://publications.europa.eu/resource/authority/file-type/html
+- categories:
+  - data
+  ext: .xlsx
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+  text: http://publications.europa.eu/resource/authority/file-type/xlsx
+- categories:
+  - geodata
+  - images
+  ext: .geotiff
+  mime: image/geotiff
+  text: gtiff
+- categories:
+  - archives
+  ext: .zip
+  mime: application/zip
+  text: http://publications.europa.eu/resource/authority/file-type/zip
+- categories:
+  - geodata
+  ext: .csw
+  mime: application/vnd.ogc.csw.capabilities.response_xml
+  text: ogc:csw-2.0.2-http-get-capabilities
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: http://publications.europa.eu/resource/authority/file-type/shp
+- categories:
+  - images
+  ext: .jpg
+  mime: image/jpeg
+  text: http://publications.europa.eu/resource/authority/file-type/jpeg
+- categories:
+  - geodata
+  ext: .mif
+  mime: application/vnd.mif
+  text: mapinfo mif
+- categories:
+  - images
+  ext: .jp2
+  mime: image/jp2
+  text: jp2kak
+- categories:
+  - images
+  ext: .jp2
+  mime: image/jp2
+  text: jp2kak_lossless
+- categories:
+  - data
+  ext: .xml
+  mime: text/xml
+  text: https://www.iana.org/assignments/media-types/text/xml
+- categories:
+  - data
+  ext: .xls
+  mime: application/vnd.ms-excel
+  text: http://publications.europa.eu/resource/authority/file-type/xls
+- categories:
+  - geodata
+  ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: ogc:wcs-1.1.1-http-get-coverage
+- categories:
+  - geodata
+  ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: ogc:wcs-1.1.1-http-get-capabilities
+- categories:
+  - data
+  ext: .tab
+  mime: text/tab
+  text: extended tab
+- categories:
+  - data
+  ext: .atom
+  mime: application/atom+xml
+  text: atom syndication format
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/3.1.1
+  text: http://publications.europa.eu/resource/authority/file-type/gml
+- categories:
+  - geodata
+  ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: ogc wms
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc wfs
+- categories:
+  - geodata
+  ext: .kml
+  mime: application/vnd.google-earth.kml+xml
+  text: http://publications.europa.eu/resource/authority/file-type/kml
+- categories:
+  - geodata
+  ext: .csw
+  mime: application/vnd.ogc.csw.capabilities.response_xml
+  text: ogc:csw
+- categories:
+  - data
+  ext: .xls
+  mime: application/vnd.ms-excel
+  text: vnd.ms-excel
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/3.1.1
+  text: https://www.iana.org/assignments/media-types/application/gml+xml
+- categories:
+  - geodata
+  ext: .g3w
+  mime: application/vnd.geospace
+  text: https://www.iana.org/assignments/media-types/application/vnd.geospace
+- categories:
+  - geodata
+  ext: .wmts
+  mime: application/vnd.ogc.wmts_xml
+  text: ogc:wmts
+- categories:
+  - geodata
+  ext: .geojson
+  mime: application/vnd.geo+json
+  text: http://publications.europa.eu/resource/authority/file-type/geojson
+- categories:
+  - documents
+  ext: .doc
+  mime: application/msword
+  text: word
+- categories:
+  - data
+  ext: .arff
+  mime: text/plain
+  text: sparse_arff
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc:wfs-http-get-capabilities
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc:wfs-1.0.0-http-get-feature
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shape
+- categories:
+  - geodata
+  ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: http://publications.europa.eu/resource/authority/file-type/wcs_srvc
+- categories:
+  - semweb
+  ext: .jsonld
+  mime: application/ld+json
+  text: http://publications.europa.eu/resource/authority/file-type/jsonld
+- categories:
+  - semweb
+  ext: .ttl
+  mime: text/turtle
+  text: http://publications.europa.eu/resource/authority/file-type/turtle
+- categories:
+  - semweb
+  ext: .rdf
+  mime: application/rdf+xml
+  text: http://publications.europa.eu/resource/authority/file-type/rdfxml
+- categories:
+  - semweb
+  ext: .jsonld
+  mime: application/ld+json
+  text: http://publications.europa.eu/resource/authority/file-type/jsonl
+- categories:
+  - geodata
+  ext: .fgb
+  mime: application/flatgeobuf
+  text: http://publications.europa.eu/resource/authority/file-type/fgb
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: csv-restricted-column
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: csv-with-metadata-header
+- categories:
+  - geodata
+  ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: web map service (wms)
+- categories:
+  - images
+  ext: .tiff
+  mime: image/tiff
+  text: http://publications.europa.eu/resource/authority/file-type/tiff
+- categories:
+  - geodata
+  ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: wms_srvc
+- categories:
+  - geodata
+  ext: .gdb
+  mime: application/x-filegdb
+  text: fgdb/gdb
+- categories:
+  - data
+  ext: .xml
+  mime: text/xml
+  text: http://publications.europa.eu/resource/authority/file-type/xml
+- categories:
+  - semweb
+  ext: .rdf
+  mime: application/rdf+xml
+  text: rdf xml
+- categories:
+  - semweb
+  ext: .jsonld
+  mime: application/ld+json
+  text: json-ld
+- categories:
+  - data
+  ext: .xlsx
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+  text: https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/x-gpkg
+  text: geopackage
+- categories:
+  - geodata
+  ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: wms:wms_capabilities (wms 1.3.0)
+- categories:
+  - data
+  ext: .parquet
+  mime: application/vnd.apache.parquet
+  text: http://publications.europa.eu/resource/authority/file-type/parquet
+- categories:
+  - data
+  ext: .json
+  mime: application/json
+  text: https://www.iana.org/assignments/media-types/application/json
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: http://www.opengis.net/def/servicetype/ogc/wfs
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc:wfs-1.0.0-http-get-feature--shapefile
+- categories:
+  - geodata
+  ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: ogc:wcs-1.1.0-http-get-capabilities
+- categories:
+  - documents
+  ext: .html
+  mime: text/html
+  text: https://www.iana.org/assignments/media-types/text/html
+- categories:
+  - geodata
+  ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: ogc:wms
+- categories:
+  - data
+  ext: .json
+  mime: application/json
+  text: http://publications.europa.eu/resource/authority/file-type/ov2
+- categories:
+  - geodata
+  ext: .gpx
+  mime: application/gpx+xml
+  text: http://publications.europa.eu/resource/authority/file-type/gpx
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: web feature service (wfs)
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: esri shape file
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/x-gpkg
+  text: geopackage
+- categories:
+  - geodata
+  ext: .geojson
+  mime: application/vnd.geo+json
+  text: https://www.iana.org/assignments/media-types/application/geo+json
+- categories:
+  - geodata
+  - images
+  ext: .geotiff
+  mime: image/geotiff
+  text: geotif
+- categories:
+  - geodata
+  ext: .kml
+  mime: application/vnd.google-earth.kml+xml
+  text: https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/x-gpkg
+  text: http://publications.europa.eu/resource/authority/file-type/gpkg
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc:wfs-1.1.0-http-getfeature
+- categories:
+  - geodata
+  ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: http:ogc:wms
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/x-gpkg
+  text: ogr-gpkg
+- categories:
+  - documents
+  ext: .ppt
+  mime: application/vnd.ms-powerpoint
+  text: powerpoint
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc:ogc-api-features-items
+- categories:
+  - data
+  ext: .rss
+  mime: application/rss+xml
+  text: rss+xml
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shapefile
+- categories:
+  - documents
+  ext: .html
+  mime: text/html
+  text: shtml
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: ogr-shp-zip
+- categories:
+  - data
+  ext: .tab
+  mime: text/tab
+  text: ogr-tab-zip
+- categories:
+  - geodata
+  ext: .kml
+  mime: application/vnd.google-earth.kml+xml
+  text: ogr-kml-zip
+- categories:
+  - geodata
+  ext: .mif
+  mime: application/vnd.mif
+  text: ogr-mif-zip
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: ogr-csv-zip
+- categories:
+  - geodata
+  ext: .dgn
+  mime: image/vnd.dgn
+  text: ogr-dgn-zip
+- categories:
+  - images
+  ext: .dxf
+  mime: image/vnd.dxf
+  text: ogr-dxf-zip
+- categories:
+  - geodata
+  - images
+  ext: .geotiff
+  mime: image/geotiff
+  text: http://publications.europa.eu/resource/authority/file-type/geotiff
+- categories:
+  - geodata
+  ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: wcs:capabilities (wcs 2.0)
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: zip (shp)
+- categories:
+  - documents
+  ext: .txt
+  mime: text/plain
+  text: http://publications.europa.eu/resource/authority/file-type/txt
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: wfs_srvc
+- categories:
+  - archives
+  ext: .zip
+  mime: application/zip
+  text: zipped dat
+- categories:
+  - geodata
+  ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: ogc:wcs-2.0.0-http-get-coverage
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shapefile (gezippt)
+- categories:
+  - semweb
+  ext: .rdf
+  mime: application/rdf+xml
+  text: http://publications.europa.eu/resource/authority/file-type/rdf
+- categories:
+  - data
+  ext: .ods
+  mime: application/vnd.oasis.opendocument.spreadsheet
+  text: http://publications.europa.eu/resource/authority/file-type/ods
+- categories:
+  - images
+  ext: .jpg
+  mime: image/jpeg
+  text: jpeg 2000
+- categories:
+  - geodata
+  ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: ogc:wcs-2.0.1-http-get-coverage
+- categories:
+  - code
+  ext: .sas
+  mime: application/x-sas-syntax
+  text: zipped sas
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shape
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc:wfs-1.1.0-http-get-feature
+- categories:
+  - data
+  ext: .xls
+  mime: application/vnd.ms-excel
+  text: zipped xls
+- categories:
+  - documents
+  ext: .txt
+  mime: text/plain
+  text: plain
+- categories:
+  - semweb
+  ext: .rdf
+  mime: application/rdf+xml
+  text: https://www.iana.org/assignments/media-types/application/rdf+xml
+- categories:
+  - archives
+  ext: .zip
+  mime: application/zip
+  text: zip, shp
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: csv-geo-au
+- categories:
+  - geodata
+  ext: .czml
+  mime: application/json
+  text: czml-zip
+- categories:
+  - geodata
+  ext: .wmts
+  mime: application/vnd.ogc.wmts_xml
+  text: ogc:wmts-1.0.0-http-get-tile
+- categories:
+  - images
+  ext: .svg
+  mime: image/svg+xml
+  text: svg+xml
+- categories:
+  - archives
+  ext: .zip
+  mime: application/zip
+  text: https://www.iana.org/assignments/media-types/application/zip
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shapefile/zip
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: zipped csv
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shapefiles
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: esri shapefile - zipped
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: zipped shapefile
+- categories:
+  - geodata
+  ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: ogc:wcs-1.1.0-http-get-coverage
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: gezippte csv-dateien
+- categories:
+  - images
+  ext: .tiff
+  mime: image/tiff
+  text: https://www.iana.org/assignments/media-types/image/tiff
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shapefiles
+- categories:
+  - data
+  ext: .xls
+  mime: application/vnd.ms-excel
+  text: https://www.iana.org/assignments/media-types/application/vnd.ms-excel
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: csv (comma-separated values)
+- categories:
+  - geodata
+  ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: ogc:wcs-2.0.1-http-get-capabilities
+- categories:
+  - code
+  ext: .sas
+  mime: application/x-sas-syntax
+  text: zipped sas7bdat
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc:wfs-1.1.0-http-get-capabilities
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shp / zip
+- categories:
+  - semweb
+  ext: .rdf
+  mime: application/rdf+xml
+  text: http://publications.europa.eu/resource/authority/file-type/rdf_xml
+- categories:
+  - geodata
+  ext: .kmz
+  mime: application/vnd.google-earth.kml+xml
+  text: vnd.google-earth.kmz
+- categories:
+  - geodata
+  ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: http://publications.europa.eu/resource/authority/file-type/wms
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shp.zip
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: http://publications.europa.eu/resource/authority/file-type/wfs
+- categories:
+  - archives
+  ext: .zip
+  mime: application/zip
+  text: zipped esri file geodatabase
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: gezippte shape
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: ogc:wfs-2.0.0-http-describefeaturetype
+- categories:
+  - archives
+  ext: .zip
+  mime: application/zip
+  text: shp / zip
+- categories:
+  - semweb
+  ext: .rdf
+  mime: application/rdf+xml
+  text: xml,rdf
+- categories:
+  - geodata
+  ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: ogc wms
+- categories:
+  - data
+  ext: .xml
+  mime: text/xml
+  text: xml/soap
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/3.1.1
+  text: gml (geographic markup language)
+- categories:
+  - geodata
+  ext: .wmts
+  mime: application/vnd.ogc.wmts_xml
+  text: wmts
+- categories:
+  - data
+  ext: .rss
+  mime: application/rss+xml
+  text: http://publications.europa.eu/resource/authority/file-type/rss
+- categories:
+  - geodata
+  ext: .kml
+  mime: application/vnd.google-earth.kml+xml
+  text: kml (google)
+- categories:
+  - archives
+  ext: .tar.xz
+  mime: application/x-xz
+  text: http://publications.europa.eu/resource/authority/file-type/tar_xz
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shape file
+- categories:
+  - documents
+  ext: .pdf
+  mime: application/pdf
+  text: pdf/a-1
+- categories:
+  - data
+  ext: .xlsx
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+  text: excel workbook (*.xlsx)
+- categories:
+  - geodata
+  ext: .kmz
+  mime: application/vnd.google-earth.kml+xml
+  text: http://publications.europa.eu/resource/authority/file-type/kmz
+- categories:
+  - data
+  ext: .nc
+  mime: application/x-netcdf
+  text: http://publications.europa.eu/resource/authority/file-type/netcdf
+- categories:
+  - data
+  ext: .tab
+  mime: text/tab
+  text: mapinfo tab
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shape file .shp
+- categories:
+  - documents
+  ext: .pdf
+  mime: application/pdf
+  text: https://www.iana.org/assignments/media-types/application/pdf
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: .zip shp
+- categories:
+  - semweb
+  ext: .rdf
+  mime: application/rdf+xml
+  text: rdfa
+- categories:
+  - images
+  ext: .png
+  mime: image/png
+  text: https://www.iana.org/assignments/media-types/image/png
+- categories:
+  - code
+  ext: .sas
+  mime: application/x-sas-syntax
+  text: sas txt file
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: csv (delimitado por comas)
+- categories:
+  - semweb
+  ext: .jsonld
+  mime: application/ld+json
+  text: https://www.iana.org/assignments/media-types/application/ld+json
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: https://daten.berlin.de/schema/dist-format/wfs
+- categories:
+  - semweb
+  ext: .ttl
+  mime: text/turtle
+  text: https://www.iana.org/assignments/media-types/text/turtle
+- categories:
+  - geodata
+  ext: .gdb
+  mime: application/x-filegdb
+  text: http://publications.europa.eu/resource/authority/file-type/gdb
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/x-gpkg
+  text: ogc:geopackage
+- categories:
+  - geodata
+  ext: .wmts
+  mime: application/vnd.ogc.wmts_xml
+  text: http://www.opengis.net/def/servicetype/ogc/wmts
+- categories:
+  - documents
+  ext: .txt
+  mime: text/plain
+  text: https://www.iana.org/assignments/media-types/text/plain
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shapefiles
+- categories:
+  - documents
+  ext: .doc
+  mime: application/msword
+  text: http://publications.europa.eu/resource/authority/file-type/doc
+- categories:
+  - semweb
+  ext: .jsonld
+  mime: application/ld+json
+  text: http://publications.europa.eu/resource/authority/file-type/json_ld
+- categories:
+  - semweb
+  ext: .n3
+  mime: text/n3
+  text: https://www.iana.org/assignments/media-types/application/n-triples
+- categories:
+  - images
+  ext: .jpg
+  mime: image/jpeg
+  text: https://www.iana.org/assignments/media-types/image/jpeg
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/x-gpkg
+  text: geopackage
+- categories:
+  - data
+  ext: .tsv
+  mime: text/tab-separated-values
+  text: https://www.iana.org/assignments/media-types/text/tab-separated-values
+- categories:
+  - geodata
+  ext: .geojson
+  mime: application/vnd.geo+json
+  text: http://publications.europa.eu/resource/authority/file-type/geojson
+- categories:
+  - data
+  ext: .tsv
+  mime: text/tab-separated-values
+  text: http://publications.europa.eu/resource/authority/file-type/tsv
+- categories:
+  - documents
+  ext: .docx
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+  text: http://publications.europa.eu/resource/authority/file-type/docx
+- categories:
+  - geodata
+  ext: .kmz
+  mime: application/vnd.google-earth.kml+xml
+  text: https://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz
+- categories:
+  - geodata
+  ext: .geojson
+  mime: application/vnd.geo+json
+  text: http://publications.europa.eu/resource/authority/file-type/geojson
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shp (esri shape)
+- categories:
+  - documents
+  ext: .odt
+  mime: application/vnd.oasis.opendocument.text
+  text: http://publications.europa.eu/resource/authority/file-type/odt
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: esri shapefile
+- categories:
+  - semweb
+  ext: .ttl
+  mime: text/turtle
+  text: turtle
+- categories:
+  - data
+  ext: .hdt
+  mime: application/vnd.hdt
+  text: https://www.iana.org/assignments/media-types/application/vnd.hdt
+- categories:
+  - archves
+  ext: .7z
+  mime: application/x-7z-compressed
+  text: 7zip
+- categories:
+  - documents
+  ext: .odp
+  mime: application/vnd.oasis.opendocument.presentation
+  text: http://publications.europa.eu/resource/authority/file-type/odp
+- categories:
+  - geodata
+  - images
+  ext: .geotiff
+  mime: image/geotiff
+  text: cloud optimized geotiff
+- categories:
+  - archives
+  ext: .gz
+  mime: application/gzip
+  text: http://publications.europa.eu/resource/authority/file-type/gzip
+- categories:
+  - geodata
+  - images
+  ext: .geotiff
+  mime: image/geotiff
+  text: geotiff
+- categories:
+  - data
+  ext: .parquet
+  mime: application/vnd.apache.parquet
+  text: parquet
+- categories:
+  - semweb
+  ext: .rdf
+  mime: application/rdf+xml
+  text: rdf-xml
+- ext: .dta
+  mime: application/x-stata-dta
+  text: .dta
+- categories:
+  - data
+  ext: .dta
+  mime: application/x-stata-dta
+  text: dta
+- ext: .czml
+  mime: application/json
+  text: .czml
+- categories:
+  - geodata
+  ext: .czml
+  mime: application/json
+  text: czml
+- ext: .dgn
+  mime: image/vnd.dgn
+  text: .dgn
+- categories:
+  - geodata
+  ext: .dgn
+  mime: image/vnd.dgn
+  text: dgn
+- ext: .fgb
+  mime: application/flatgeobuf
+  text: .fgb
+- categories:
+  - geodata
+  ext: .fgb
+  mime: application/flatgeobuf
+  text: fgb
+- ext: .gpx
+  mime: application/gpx+xml
+  text: .gpx
+- categories:
+  - geodata
+  ext: .gpx
+  mime: application/gpx+xml
+  text: gpx
+- ext: .wmts
+  mime: application/vnd.ogc.wmts_xml
+  text: .wmts
+- categories:
+  - geodata
+  ext: .wmts
+  mime: application/vnd.ogc.wmts_xml
+  text: wmts
+- ext: .g3w
+  mime: application/vnd.geospace
+  text: .g3w
+- categories:
+  - geodata
+  ext: .g3w
+  mime: application/vnd.geospace
+  text: g3w
+- ext: .csw
+  mime: application/vnd.ogc.csw.capabilities.response_xml
+  text: .csw
+- categories:
+  - geodata
+  ext: .csw
+  mime: application/vnd.ogc.csw.capabilities.response_xml
+  text: csw
+- ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: .wcs
+- categories:
+  - geodata
+  ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: wcs
+- ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: .wfs
+- categories:
+  - geodata
+  ext: .wfs
+  mime: application/vnd.ogc.wfs_xml
+  text: wfs
+- ext: .fgdb
+  mime: application/x-filegdb
+  text: .fgdb
+- categories:
+  - geodata
+  ext: .fgdb
+  mime: application/x-filegdb
+  text: fgdb
+- ext: .gdb
+  mime: application/x-filegdb
+  text: .gdb
+- categories:
+  - geodata
+  ext: .gdb
+  mime: application/x-filegdb
+  text: gdb
+- ext: .ttl
+  mime: text/turtle
+  text: .ttl
+- categories:
+  - semweb
+  ext: .ttl
+  mime: text/turtle
+  text: ttl
+- ext: .jsonld
+  mime: application/ld+json
+  text: .jsonld
+- categories:
+  - semweb
+  ext: .jsonld
+  mime: application/ld+json
+  text: jsonld
+- ext: .arff
+  mime: text/plain
+  text: .arff
+- categories:
+  - data
+  ext: .arff
+  mime: text/plain
+  text: arff
+- ext: .tab
+  mime: text/tab
+  text: .tab
+- categories:
+  - data
+  ext: .tab
+  mime: text/tab
+  text: tab
+- ext: .jpe
+  mime: image/jpeg
+  text: .jpe
+- categories:
+  - images
+  ext: .jpe
+  mime: image/jpeg
+  text: jpe
+- ext: .jpeg
+  mime: image/jpeg
+  text: .jpeg
+- categories:
+  - images
+  ext: .jpeg
+  mime: image/jpeg
+  text: jpeg
+- ext: .jpg
+  mime: image/jpeg
+  text: .jpg
+- categories:
+  - images
+  ext: .jpg
+  mime: image/jpeg
+  text: jpg
+- ext: .pjpg
+  mime: image/jpeg
+  text: .pjpg
+- categories:
+  - images
+  ext: .pjpg
+  mime: image/jpeg
+  text: pjpg
+- ext: .jfif
+  mime: image/jpeg
+  text: .jfif
+- categories:
+  - images
+  ext: .jfif
+  mime: image/jpeg
+  text: jfif
+- ext: .jfif-tbnl
+  mime: image/jpeg
+  text: .jfif-tbnl
+- categories:
+  - images
+  ext: .jfif-tbnl
+  mime: image/jpeg
+  text: jfif-tbnl
+- ext: .jif
+  mime: image/jpeg
+  text: .jif
+- categories:
+  - images
+  ext: .jif
+  mime: image/jpeg
+  text: jif
+- ext: .txt
+  mime: text/plain
+  text: .txt
+- categories:
+  - documents
+  ext: .txt
+  mime: text/plain
+  text: txt
+- ext: .text
+  mime: text/plain
+  text: .text
+- categories:
+  - documents
+  ext: .text
+  mime: text/plain
+  text: text
+- ext: .htm
+  mime: text/html
+  text: .htm
+- categories:
+  - documents
+  ext: .htm
+  mime: text/html
+  text: htm
+- ext: .html
+  mime: text/html
+  text: .html
+- categories:
+  - documents
+  ext: .html
+  mime: text/html
+  text: html
+- ext: .xml
+  mime: text/xml
+  text: .xml
+- categories:
+  - data
+  ext: .xml
+  mime: text/xml
+  text: xml
+- ext: .csv
+  mime: text/csv
+  text: .csv
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: csv
+- ext: .pdf
+  mime: application/pdf
+  text: .pdf
+- categories:
+  - documents
+  ext: .pdf
+  mime: application/pdf
+  text: pdf
+- ext: .tif
+  mime: image/tiff
+  text: .tif
+- categories:
+  - images
+  ext: .tif
+  mime: image/tiff
+  text: tif
+- ext: .tiff
+  mime: image/tiff
+  text: .tiff
+- categories:
+  - images
+  ext: .tiff
+  mime: image/tiff
+  text: tiff
+- ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: .wms
+- categories:
+  - geodata
+  ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: wms
+- ext: .bin
+  mime: application/octet-stream
+  text: .bin
+- categories:
+  - other
+  ext: .bin
+  mime: application/octet-stream
+  text: bin
+- ext: .json
+  mime: application/json
+  text: .json
+- categories:
+  - data
+  ext: .json
+  mime: application/json
+  text: json
+- ext: .kml
+  mime: application/vnd.google-earth.kml+xml
+  text: .kml
+- categories:
+  - geodata
+  ext: .kml
+  mime: application/vnd.google-earth.kml+xml
+  text: kml
+- ext: .png
+  mime: image/png
+  text: .png
+- categories:
+  - images
+  ext: .png
+  mime: image/png
+  text: png
+- ext: .zip
+  mime: application/zip
+  text: .zip
+- categories:
+  - archives
+  ext: .zip
+  mime: application/zip
+  text: zip
+- ext: .xlsx
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+  text: .xlsx
+- categories:
+  - data
+  ext: .xlsx
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+  text: xlsx
+- ext: .tsv
+  mime: text/tab-separated-values
+  text: .tsv
+- categories:
+  - data
+  ext: .tsv
+  mime: text/tab-separated-values
+  text: tsv
+- ext: .gml
+  mime: text/xml; subtype=gml/3.1.1
+  text: .gml
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/3.1.1
+  text: gml
+- ext: .kmz
+  mime: application/vnd.google-earth.kml+xml
+  text: .kmz
+- categories:
+  - geodata
+  ext: .kmz
+  mime: application/vnd.google-earth.kml+xml
+  text: kmz
+- ext: .gif
+  mime: image/gif
+  text: .gif
+- categories:
+  - images
+  ext: .gif
+  mime: image/gif
+  text: gif
+- ext: .svg
+  mime: image/svg+xml
+  text: .svg
+- categories:
+  - images
+  ext: .svg
+  mime: image/svg+xml
+  text: svg
+- ext: .svgz
+  mime: image/svg+xml
+  text: .svgz
+- categories:
+  - images
+  ext: .svgz
+  mime: image/svg+xml
+  text: svgz
+- ext: .atom
+  mime: application/atom+xml
+  text: .atom
+- categories:
+  - data
+  ext: .atom
+  mime: application/atom+xml
+  text: atom
+- ext: .geotiff
+  mime: image/geotiff
+  text: .geotiff
+- categories:
+  - geodata
+  - images
+  ext: .geotiff
+  mime: image/geotiff
+  text: geotiff
+- ext: .xpdl
+  mime: text/xml
+  text: .xpdl
+- categories:
+  - data
+  ext: .xpdl
+  mime: text/xml
+  text: xpdl
+- ext: .xsl
+  mime: text/xml
+  text: .xsl
+- categories:
+  - data
+  ext: .xsl
+  mime: text/xml
+  text: xsl
+- ext: .geojson
+  mime: application/vnd.geo+json
+  text: .geojson
+- categories:
+  - geodata
+  ext: .geojson
+  mime: application/vnd.geo+json
+  text: geojson
+- ext: .rss
+  mime: application/rss+xml
+  text: .rss
+- categories:
+  - data
+  ext: .rss
+  mime: application/rss+xml
+  text: rss
+- ext: .xla
+  mime: application/vnd.ms-excel
+  text: .xla
+- categories:
+  - data
+  ext: .xla
+  mime: application/vnd.ms-excel
+  text: xla
+- ext: .xlb
+  mime: application/vnd.ms-excel
+  text: .xlb
+- categories:
+  - data
+  ext: .xlb
+  mime: application/vnd.ms-excel
+  text: xlb
+- ext: .xlc
+  mime: application/vnd.ms-excel
+  text: .xlc
+- categories:
+  - data
+  ext: .xlc
+  mime: application/vnd.ms-excel
+  text: xlc
+- ext: .xlm
+  mime: application/vnd.ms-excel
+  text: .xlm
+- categories:
+  - data
+  ext: .xlm
+  mime: application/vnd.ms-excel
+  text: xlm
+- ext: .xls
+  mime: application/vnd.ms-excel
+  text: .xls
+- categories:
+  - data
+  ext: .xls
+  mime: application/vnd.ms-excel
+  text: xls
+- ext: .xlt
+  mime: application/vnd.ms-excel
+  text: .xlt
+- categories:
+  - data
+  ext: .xlt
+  mime: application/vnd.ms-excel
+  text: xlt
+- ext: .xlw
+  mime: application/vnd.ms-excel
+  text: .xlw
+- categories:
+  - data
+  ext: .xlw
+  mime: application/vnd.ms-excel
+  text: xlw
+- ext: .cdf
+  mime: application/x-netcdf
+  text: .cdf
+- categories:
+  - data
+  ext: .cdf
+  mime: application/x-netcdf
+  text: cdf
+- ext: .nc
+  mime: application/x-netcdf
+  text: .nc
+- categories:
+  - data
+  ext: .nc
+  mime: application/x-netcdf
+  text: nc
+- ext: .rdf
+  mime: application/rdf+xml
+  text: .rdf
+- categories:
+  - semweb
+  ext: .rdf
+  mime: application/rdf+xml
+  text: rdf
+- ext: .dcm
+  mime: application/dicom
+  text: .dcm
+- categories:
+  - images
+  ext: .dcm
+  mime: application/dicom
+  text: dcm
+- ext: .dat
+  mime: text/x-fixed-field
+  text: .dat
+- categories:
+  - data
+  ext: .dat
+  mime: text/x-fixed-field
+  text: dat
+- ext: .mat
+  mime: application/matlab-mat
+  text: .mat
+- categories:
+  - data
+  ext: .mat
+  mime: application/matlab-mat
+  text: mat
+- ext: .gz
+  mime: application/gzip
+  text: .gz
+- categories:
+  - archives
+  ext: .gz
+  mime: application/gzip
+  text: gz
+- ext: .tar.gz
+  mime: application/x-compressed-tar
+  text: .tar.gz
+- categories:
+  - archives
+  ext: .tar.gz
+  mime: application/x-compressed-tar
+  text: tar.gz
+- ext: .tgz
+  mime: application/gzip
+  text: .tgz
+- categories:
+  - archives
+  ext: .tgz
+  mime: application/gzip
+  text: tgz
+- ext: .topojson
+  mime: application/json;type=topojson
+  text: .topojson
+- categories:
+  - geodata
+  ext: .topojson
+  mime: application/json;type=topojson
+  text: topojson
+- ext: .mvt
+  mime: application/vnd.mapbox-vector-tile
+  text: .mvt
+- categories:
+  - geodata
+  ext: .mvt
+  mime: application/vnd.mapbox-vector-tile
+  text: mvt
+- ext: .do
+  mime: application/x-stata-syntax
+  text: .do
+- categories:
+  - code
+  ext: .do
+  mime: application/x-stata-syntax
+  text: do
+- ext: .js
+  mime: text/javascript
+  text: .js
+- categories:
+  - code
+  ext: .js
+  mime: text/javascript
+  text: js
+- ext: .r
+  mime: type/x-r-syntax
+  text: .r
+- categories:
+  - code
+  ext: .r
+  mime: type/x-r-syntax
+  text: r
+- ext: .docx
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+  text: .docx
+- categories:
+  - documents
+  ext: .docx
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+  text: docx
+- ext: .fits
+  mime: application/fits
+  text: .fits
+- categories:
+  - images
+  ext: .fits
+  mime: application/fits
+  text: fits
+- ext: .mif
+  mime: application/vnd.mif
+  text: .mif
+- categories:
+  - geodata
+  ext: .mif
+  mime: application/vnd.mif
+  text: mif
+- ext: .kar
+  mime: audio/midi
+  text: .kar
+- categories:
+  - audio
+  ext: .kar
+  mime: audio/midi
+  text: kar
+- ext: .mid
+  mime: audio/midi
+  text: .mid
+- categories:
+  - audio
+  ext: .mid
+  mime: audio/midi
+  text: mid
+- ext: .midi
+  mime: audio/midi
+  text: .midi
+- categories:
+  - audio
+  ext: .midi
+  mime: audio/midi
+  text: midi
+- ext: .rmi
+  mime: audio/midi
+  text: .rmi
+- categories:
+  - audio
+  ext: .rmi
+  mime: audio/midi
+  text: rmi
+- ext: .netcdf
+  mime: application/netcdf
+  text: .netcdf
+- categories:
+  - data
+  ext: .netcdf
+  mime: application/netcdf
+  text: netcdf
+- ext: .sid
+  mime: audio/prs.sid
+  text: .sid
+- categories:
+  - geodata
+  ext: .sid
+  mime: audio/prs.sid
+  text: sid
+- ext: .doc
+  mime: application/msword
+  text: .doc
+- categories:
+  - documents
+  ext: .doc
+  mime: application/msword
+  text: doc
+- ext: .dot
+  mime: application/msword
+  text: .dot
+- categories:
+  - documents
+  ext: .dot
+  mime: application/msword
+  text: dot
+- ext: .wiz
+  mime: application/msword
+  text: .wiz
+- categories:
+  - documents
+  ext: .wiz
+  mime: application/msword
+  text: wiz
+- ext: .hdf
+  mime: application/x-hdf
+  text: .hdf
+- categories:
+  - data
+  ext: .hdf
+  mime: application/x-hdf
+  text: hdf
+- ext: .m
+  mime: text/x-matlab
+  text: .m
+- categories:
+  - code
+  ext: .m
+  mime: text/x-matlab
+  text: m
+- ext: .mp4s
+  mime: application/mp4
+  text: .mp4s
+- categories:
+  - video
+  ext: .mp4s
+  mime: application/mp4
+  text: mp4s
+- ext: .mp4
+  mime: application/mp4
+  text: .mp4
+- categories:
+  - video
+  ext: .mp4
+  mime: application/mp4
+  text: mp4
+- ext: .xyz
+  mime: chemical/x-xyz
+  text: .xyz
+- categories:
+  - geodata
+  ext: .xyz
+  mime: chemical/x-xyz
+  text: xyz
+- ext: .gpkg
+  mime: application/x-gpkg
+  text: .gpkg
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/x-gpkg
+  text: gpkg
+- ext: .dng
+  mime: image/x-adobe-dng
+  text: .dng
+- categories:
+  - images
+  ext: .dng
+  mime: image/x-adobe-dng
+  text: dng
+- ext: .mp4v
+  mime: video/mp4
+  text: .mp4v
+- categories:
+  - video
+  ext: .mp4v
+  mime: video/mp4
+  text: mp4v
+- ext: .mpg4
+  mime: video/mp4
+  text: .mpg4
+- categories:
+  - video
+  ext: .mpg4
+  mime: video/mp4
+  text: mpg4
+- ext: .shp
+  mime: application/zipped-shapefile
+  text: .shp
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: shp
+- ext: .prj
+  mime: application/prj
+  text: .prj
+- categories:
+  - geodata
+  ext: .prj
+  mime: application/prj
+  text: prj
+- ext: .dbf
+  mime: application/dbf
+  text: .dbf
+- categories:
+  - data
+  ext: .dbf
+  mime: application/dbf
+  text: dbf
+- ext: .tar
+  mime: application/x-tar
+  text: .tar
+- categories:
+  - archives
+  ext: .tar
+  mime: application/x-tar
+  text: tar
+- ext: .bmp
+  mime: image/x-ms-bmp
+  text: .bmp
+- categories:
+  - images
+  ext: .bmp
+  mime: image/x-ms-bmp
+  text: bmp
+- ext: .rdata
+  mime: application/x-rlang-transport
+  text: .rdata
+- categories:
+  - data
+  ext: .rdata
+  mime: application/x-rlang-transport
+  text: rdata
+- ext: .wav
+  mime: audio/x-wav
+  text: .wav
+- categories:
+  - audio
+  ext: .wav
+  mime: audio/x-wav
+  text: wav
+- ext: .hdf5
+  mime: application/x-hdf5
+  text: .hdf5
+- categories:
+  - data
+  ext: .hdf5
+  mime: application/x-hdf5
+  text: hdf5
+- ext: .shx
+  mime: application/shx
+  text: .shx
+- categories:
+  - geodata
+  ext: .shx
+  mime: application/shx
+  text: shx
+- ext: .ods
+  mime: application/vnd.oasis.opendocument.spreadsheet
+  text: .ods
+- categories:
+  - data
+  ext: .ods
+  mime: application/vnd.oasis.opendocument.spreadsheet
+  text: ods
+- ext: .tex
+  mime: application/x-tex
+  text: .tex
+- categories:
+  - documents
+  ext: .tex
+  mime: application/x-tex
+  text: tex
+- ext: .py
+  mime: text/x-python
+  text: .py
+- categories:
+  - code
+  ext: .py
+  mime: text/x-python
+  text: py
+- ext: .m2a
+  mime: audio/mpeg
+  text: .m2a
+- categories:
+  - video
+  ext: .m2a
+  mime: audio/mpeg
+  text: m2a
+- ext: .m3a
+  mime: audio/mpeg
+  text: .m3a
+- categories:
+  - video
+  ext: .m3a
+  mime: audio/mpeg
+  text: m3a
+- ext: .mp2
+  mime: audio/mpeg
+  text: .mp2
+- categories:
+  - video
+  ext: .mp2
+  mime: audio/mpeg
+  text: mp2
+- ext: .mp2a
+  mime: audio/mpeg
+  text: .mp2a
+- categories:
+  - video
+  ext: .mp2a
+  mime: audio/mpeg
+  text: mp2a
+- ext: .mp3
+  mime: audio/mpeg
+  text: .mp3
+- categories:
+  - video
+  ext: .mp3
+  mime: audio/mpeg
+  text: mp3
+- ext: .mpga
+  mime: audio/mpeg
+  text: .mpga
+- categories:
+  - video
+  ext: .mpga
+  mime: audio/mpeg
+  text: mpga
+- ext: .px
+  mime: text/pc-axis
+  text: .px
+- categories:
+  - statistics
+  ext: .px
+  mime: text/pc-axis
+  text: px
+- ext: .sav
+  mime: application/x-spss-sav
+  text: .sav
+- categories:
+  - data
+  ext: .sav
+  mime: application/x-spss-sav
+  text: sav
+- ext: .sql
+  mime: application/x-sql
+  text: .sql
+- categories:
+  - data
+  ext: .sql
+  mime: application/x-sql
+  text: sql
+- ext: .db
+  mime: application/x-sqlite3
+  text: .db
+- categories:
+  - data
+  ext: .db
+  mime: application/x-sqlite3
+  text: db
+- ext: .sqlite
+  mime: application/x-sqlite3
+  text: .sqlite
+- categories:
+  - data
+  ext: .sqlite
+  mime: application/x-sqlite3
+  text: sqlite
+- ext: .sqlite3
+  mime: application/x-sqlite3
+  text: .sqlite3
+- categories:
+  - data
+  ext: .sqlite3
+  mime: application/x-sqlite3
+  text: sqlite3
+- ext: .db-wal
+  mime: application/x-sqlite3
+  text: .db-wal
+- categories:
+  - data
+  ext: .db-wal
+  mime: application/x-sqlite3
+  text: db-wal
+- ext: .sqlite-wal
+  mime: application/x-sqlite3
+  text: .sqlite-wal
+- categories:
+  - data
+  ext: .sqlite-wal
+  mime: application/x-sqlite3
+  text: sqlite-wal
+- ext: .db-shm
+  mime: application/x-sqlite3
+  text: .db-shm
+- categories:
+  - data
+  ext: .db-shm
+  mime: application/x-sqlite3
+  text: db-shm
+- ext: .sqlite-shm
+  mime: application/x-sqlite3
+  text: .sqlite-shm
+- categories:
+  - data
+  ext: .sqlite-shm
+  mime: application/x-sqlite3
+  text: sqlite-shm
+- ext: .arw
+  mime: image/arw
+  text: .arw
+- categories:
+  - images
+  ext: .arw
+  mime: image/arw
+  text: arw
+- ext: .nii
+  mime: image/nii
+  text: .nii
+- categories:
+  - images
+  ext: .nii
+  mime: image/nii
+  text: nii
+- ext: .ai
+  mime: application/postscript
+  text: .ai
+- categories:
+  - documents
+  ext: .ai
+  mime: application/postscript
+  text: ai
+- ext: .eps
+  mime: application/postscript
+  text: .eps
+- categories:
+  - documents
+  ext: .eps
+  mime: application/postscript
+  text: eps
+- ext: .ps
+  mime: application/postscript
+  text: .ps
+- categories:
+  - documents
+  ext: .ps
+  mime: application/postscript
+  text: ps
+- ext: .sas
+  mime: application/x-sas-syntax
+  text: .sas
+- categories:
+  - code
+  ext: .sas
+  mime: application/x-sas-syntax
+  text: sas
+- ext: .exe
+  mime: application/x-msdos-program
+  text: .exe
+- categories:
+  - other
+  ext: .exe
+  mime: application/x-msdos-program
+  text: exe
+- ext: .stl
+  mime: application/vnd.ms-pki.stl
+  text: .stl
+- categories:
+  - data
+  ext: .stl
+  mime: application/vnd.ms-pki.stl
+  text: stl
+- ext: .oprc
+  mime: application/vnd.palm
+  text: .oprc
+- categories:
+  - data
+  ext: .oprc
+  mime: application/vnd.palm
+  text: oprc
+- ext: .pdb
+  mime: application/vnd.palm
+  text: .pdb
+- categories:
+  - data
+  ext: .pdb
+  mime: application/vnd.palm
+  text: pdb
+- ext: .pqa
+  mime: application/vnd.palm
+  text: .pqa
+- categories:
+  - data
+  ext: .pqa
+  mime: application/vnd.palm
+  text: pqa
+- ext: .mov
+  mime: video/quicktime
+  text: .mov
+- categories:
+  - video
+  ext: .mov
+  mime: video/quicktime
+  text: mov
+- ext: .qt
+  mime: video/quicktime
+  text: .qt
+- categories:
+  - video
+  ext: .qt
+  mime: video/quicktime
+  text: qt
+- ext: .rar
+  mime: application/x-rar-compressed
+  text: .rar
+- categories:
+  - archives
+  ext: .rar
+  mime: application/x-rar-compressed
+  text: rar
+- ext: .7z
+  mime: application/x-7z-compressed
+  text: .7z
+- categories:
+  - archves
+  ext: .7z
+  mime: application/x-7z-compressed
+  text: 7z
+- ext: .boz
+  mime: application/x-bzip2
+  text: .boz
+- categories:
+  - archives
+  ext: .boz
+  mime: application/x-bzip2
+  text: boz
+- ext: .bz2
+  mime: application/x-bzip2
+  text: .bz2
+- categories:
+  - archives
+  ext: .bz2
+  mime: application/x-bzip2
+  text: bz2
+- ext: .ado
+  mime: application/x-stata-ado
+  text: .ado
+- categories:
+  - images
+  ext: .ado
+  mime: application/x-stata-ado
+  text: ado
+- ext: .dxf
+  mime: image/vnd.dxf
+  text: .dxf
+- categories:
+  - images
+  ext: .dxf
+  mime: image/vnd.dxf
+  text: dxf
+- ext: .avi
+  mime: video/x-msvideo
+  text: .avi
+- categories:
+  - video
+  ext: .avi
+  mime: video/x-msvideo
+  text: avi
+- ext: .wmv
+  mime: video/x-msvideo
+  text: .wmv
+- categories:
+  - video
+  ext: .wmv
+  mime: video/x-msvideo
+  text: wmv
+- ext: .pptx
+  mime: application/vnd.openxmlformats-officedocument.presentationml.presentation
+  text: .pptx
+- categories:
+  - documents
+  ext: .pptx
+  mime: application/vnd.openxmlformats-officedocument.presentationml.presentation
+  text: pptx
+- ext: .sps
+  mime: application/x-spss-syntax
+  text: .sps
+- categories:
+  - data
+  ext: .sps
+  mime: application/x-spss-syntax
+  text: sps
+- ext: .md
+  mime: text/markdown
+  text: .md
+- categories:
+  - documents
+  ext: .md
+  mime: text/markdown
+  text: md
+- ext: .markdown
+  mime: text/markdown
+  text: .markdown
+- categories:
+  - documents
+  ext: .markdown
+  mime: text/markdown
+  text: markdown
+- ext: .mdown
+  mime: text/markdown
+  text: .mdown
+- categories:
+  - documents
+  ext: .mdown
+  mime: text/markdown
+  text: mdown
+- ext: .markdn
+  mime: text/markdown
+  text: .markdn
+- categories:
+  - documents
+  ext: .markdn
+  mime: text/markdown
+  text: markdn
+- ext: .fcs
+  mime: application/vnd.isac.fcs
+  text: .fcs
+- categories:
+  - data
+  ext: .fcs
+  mime: application/vnd.isac.fcs
+  text: fcs
+- ext: .atx
+  mime: application/vnd.antix.game-component
+  text: .atx
+- categories:
+  - other
+  ext: .atx
+  mime: application/vnd.antix.game-component
+  text: atx
+- ext: .fig
+  mime: application/x-xfig
+  text: .fig
+- categories:
+  - images
+  ext: .fig
+  mime: application/x-xfig
+  text: fig
+- ext: .turtle
+  mime: text/turtle
+  text: .turtle
+- categories:
+  - semweb
+  - data
+  ext: .turtle
+  mime: text/turtle
+  text: turtle
+- ext: .gph
+  mime: application/vnd.flographit
+  text: .gph
+- categories:
+  - images
+  ext: .gph
+  mime: application/vnd.flographit
+  text: gph
+- ext: .bil
+  mime: image/bil
+  text: .bil
+- categories:
+  - images
+  ext: .bil
+  mime: image/bil
+  text: bil
+- ext: .dds
+  mime: image/dds
+  text: .dds
+- categories:
+  - images
+  ext: .dds
+  mime: image/dds
+  text: dds
+- ext: .sbn
+  mime: application/sbn
+  text: .sbn
+- categories:
+  - geodata
+  ext: .sbn
+  mime: application/sbn
+  text: sbn
+- ext: .sbx
+  mime: application/sbx
+  text: .sbx
+- categories:
+  - geodata
+  ext: .sbx
+  mime: application/sbx
+  text: sbx
+- ext: .qgs
+  mime: application/x-qgis
+  text: .qgs
+- categories:
+  - geodata
+  ext: .qgs
+  mime: application/x-qgis
+  text: qgs
+- ext: .c
+  mime: text/x-c
+  text: .c
+- categories:
+  - code
+  ext: .c
+  mime: text/x-c
+  text: c
+- ext: .cc
+  mime: text/x-c
+  text: .cc
+- categories:
+  - code
+  ext: .cc
+  mime: text/x-c
+  text: cc
+- ext: .cpp
+  mime: text/x-c
+  text: .cpp
+- categories:
+  - code
+  ext: .cpp
+  mime: text/x-c
+  text: cpp
+- ext: .cxx
+  mime: text/x-c
+  text: .cxx
+- categories:
+  - code
+  ext: .cxx
+  mime: text/x-c
+  text: cxx
+- ext: .dic
+  mime: text/x-c
+  text: .dic
+- categories:
+  - code
+  ext: .dic
+  mime: text/x-c
+  text: dic
+- ext: .h
+  mime: text/x-c
+  text: .h
+- categories:
+  - code
+  ext: .h
+  mime: text/x-c
+  text: h
+- ext: .hh
+  mime: text/x-c
+  text: .hh
+- categories:
+  - code
+  ext: .hh
+  mime: text/x-c
+  text: hh
+- ext: .rtf
+  mime: application/rtf
+  text: .rtf
+- categories:
+  - documents
+  ext: .rtf
+  mime: application/rtf
+  text: rtf
+- ext: .graphml
+  mime: text/xml-graphml
+  text: .graphml
+- categories:
+  - data
+  ext: .graphml
+  mime: text/xml-graphml
+  text: graphml
+- ext: .xlsm
+  mime: application/vnd.ms-excel.sheet.macroenabled.12
+  text: .xlsm
+- categories:
+  - data
+  ext: .xlsm
+  mime: application/vnd.ms-excel.sheet.macroenabled.12
+  text: xlsm
+- ext: .itp
+  mime: application/vnd.shana.informed.formtemplate
+  text: .itp
+- categories:
+  - documents
+  ext: .itp
+  mime: application/vnd.shana.informed.formtemplate
+  text: itp
+- ext: .oga
+  mime: audio/ogg
+  text: .oga
+- categories:
+  - audio
+  ext: .oga
+  mime: audio/ogg
+  text: oga
+- ext: .ogg
+  mime: audio/ogg
+  text: .ogg
+- categories:
+  - audio
+  ext: .ogg
+  mime: audio/ogg
+  text: ogg
+- ext: .spx
+  mime: audio/ogg
+  text: .spx
+- categories:
+  - audio
+  ext: .spx
+  mime: audio/ogg
+  text: spx
+- ext: .ipynb
+  mime: application/x-ipynb+json
+  text: .ipynb
+- categories:
+  - code
+  ext: .ipynb
+  mime: application/x-ipynb+json
+  text: ipynb
+- ext: .ivt
+  mime: application/x-beyond2020
+  text: .ivt
+- categories:
+  - statistics
+  ext: .ivt
+  mime: application/x-beyond2020
+  text: ivt
+- ext: .protobud
+  mime: application/x-protobuf;type=mapbox-vector
+  text: .protobud
+- categories:
+  - geodata
+  ext: .protobud
+  mime: application/x-protobuf;type=mapbox-vector
+  text: protobud
+- ext: .swf
+  mime: application/x-shockwave-flash
+  text: .swf
+- categories:
+  - video
+  ext: .swf
+  mime: application/x-shockwave-flash
+  text: swf
+- ext: .java
+  mime: text/x-java-source
+  text: .java
+- categories:
+  - code
+  ext: .java
+  mime: text/x-java-source
+  text: java
+- ext: .sxm
+  mime: application/vnd.sun.xml.math
+  text: .sxm
+- categories:
+  - data
+  ext: .sxm
+  mime: application/vnd.sun.xml.math
+  text: sxm
+- ext: .f
+  mime: text/x-fortran
+  text: .f
+- categories:
+  - code
+  ext: .f
+  mime: text/x-fortran
+  text: f
+- ext: .f77
+  mime: text/x-fortran
+  text: .f77
+- categories:
+  - code
+  ext: .f77
+  mime: text/x-fortran
+  text: f77
+- ext: .f90
+  mime: text/x-fortran
+  text: .f90
+- categories:
+  - code
+  ext: .f90
+  mime: text/x-fortran
+  text: f90
+- ext: .for
+  mime: text/x-fortran
+  text: .for
+- categories:
+  - code
+  ext: .for
+  mime: text/x-fortran
+  text: for
+- ext: .cpt
+  mime: application/mac-compactpro
+  text: .cpt
+- categories:
+  - archives
+  ext: .cpt
+  mime: application/mac-compactpro
+  text: cpt
+- ext: .tar.gz
+  mime: application/x-compressed-tar
+  text: .tar.gz
+- categories:
+  - archives
+  ext: .tar.gz
+  mime: application/x-compressed-tar
+  text: tar.gz
+- ext: .jfi
+  mime: image/jpeg
+  text: .jfi
+- categories:
+  - images
+  ext: .jfi
+  mime: image/jpeg
+  text: jfi
+- ext: .vcf
+  mime: text/x-vcard
+  text: .vcf
+- categories:
+  - other
+  ext: .vcf
+  mime: text/x-vcard
+  text: vcf
+- ext: .bz
+  mime: application/x-bzip
+  text: .bz
+- categories:
+  - archives
+  ext: .bz
+  mime: application/x-bzip
+  text: bz
+- ext: .pcap
+  mime: application/vnd.tcpdump.pcap
+  text: .pcap
+- categories:
+  - other
+  ext: .pcap
+  mime: application/vnd.tcpdump.pcap
+  text: pcap
+- ext: .apr
+  mime: application/vnd.lotus-approach
+  text: .apr
+- categories:
+  - documents
+  ext: .apr
+  mime: application/vnd.lotus-approach
+  text: apr
+- ext: .bat
+  mime: application/x-msdownload
+  text: .bat
+- categories:
+  - software
+  ext: .bat
+  mime: application/x-msdownload
+  text: bat
+- ext: .com
+  mime: application/x-msdownload
+  text: .com
+- categories:
+  - software
+  ext: .com
+  mime: application/x-msdownload
+  text: com
+- ext: .dll
+  mime: application/x-msdownload
+  text: .dll
+- categories:
+  - software
+  ext: .dll
+  mime: application/x-msdownload
+  text: dll
+- ext: .msi
+  mime: application/x-msdownload
+  text: .msi
+- categories:
+  - software
+  ext: .msi
+  mime: application/x-msdownload
+  text: msi
+- ext: .sh
+  mime: application/x-sh
+  text: .sh
+- categories:
+  - code
+  ext: .sh
+  mime: application/x-sh
+  text: sh
+- ext: .vtu
+  mime: model/vnd.vtu
+  text: .vtu
+- categories:
+  - other
+  ext: .vtu
+  mime: model/vnd.vtu
+  text: vtu
+- ext: .mdb
+  mime: application/x-msaccess
+  text: .mdb
+- categories:
+  - data
+  ext: .mdb
+  mime: application/x-msaccess
+  text: mdb
+- ext: .dwg
+  mime: image/vnd.dwg
+  text: .dwg
+- categories:
+  - geodata
+  ext: .dwg
+  mime: image/vnd.dwg
+  text: dwg
+- ext: .h264
+  mime: video/h264
+  text: .h264
+- categories:
+  - video
+  ext: .h264
+  mime: video/h264
+  text: h264
+- ext: .hlp
+  mime: application/winhlp
+  text: .hlp
+- categories:
+  - documents
+  ext: .hlp
+  mime: application/winhlp
+  text: hlp
+- ext: .pot
+  mime: application/vnd.ms-powerpoint
+  text: .pot
+- categories:
+  - documents
+  ext: .pot
+  mime: application/vnd.ms-powerpoint
+  text: pot
+- ext: .ppa
+  mime: application/vnd.ms-powerpoint
+  text: .ppa
+- categories:
+  - documents
+  ext: .ppa
+  mime: application/vnd.ms-powerpoint
+  text: ppa
+- ext: .pps
+  mime: application/vnd.ms-powerpoint
+  text: .pps
+- categories:
+  - documents
+  ext: .pps
+  mime: application/vnd.ms-powerpoint
+  text: pps
+- ext: .ppt
+  mime: application/vnd.ms-powerpoint
+  text: .ppt
+- categories:
+  - documents
+  ext: .ppt
+  mime: application/vnd.ms-powerpoint
+  text: ppt
+- ext: .pwz
+  mime: application/vnd.ms-powerpoint
+  text: .pwz
+- categories:
+  - documents
+  ext: .pwz
+  mime: application/vnd.ms-powerpoint
+  text: pwz
+- ext: .fh
+  mime: image/x-freehand
+  text: .fh
+- categories:
+  - images
+  ext: .fh
+  mime: image/x-freehand
+  text: fh
+- ext: .fh4
+  mime: image/x-freehand
+  text: .fh4
+- categories:
+  - images
+  ext: .fh4
+  mime: image/x-freehand
+  text: fh4
+- ext: .fh5
+  mime: image/x-freehand
+  text: .fh5
+- categories:
+  - images
+  ext: .fh5
+  mime: image/x-freehand
+  text: fh5
+- ext: .fh7
+  mime: image/x-freehand
+  text: .fh7
+- categories:
+  - images
+  ext: .fh7
+  mime: image/x-freehand
+  text: fh7
+- ext: .fhc
+  mime: image/x-freehand
+  text: .fhc
+- categories:
+  - images
+  ext: .fhc
+  mime: image/x-freehand
+  text: fhc
+- ext: .bdf
+  mime: application/x-font-bdf
+  text: .bdf
+- categories:
+  - images
+  ext: .bdf
+  mime: application/x-font-bdf
+  text: bdf
+- ext: .class
+  mime: application/java-vm
+  text: .class
+- categories:
+  - code
+  ext: .class
+  mime: application/java-vm
+  text: class
+- ext: .raw
+  mime: image/raw
+  text: .raw
+- categories:
+  - images
+  ext: .raw
+  mime: image/raw
+  text: raw
+- ext: '.123'
+  mime: application/vnd.lotus-1-2-3
+  text: '.123'
+- categories:
+  - documents
+  ext: '.123'
+  mime: application/vnd.lotus-1-2-3
+  text: '123'
+- ext: .css
+  mime: text/css
+  text: .css
+- categories:
+  - code
+  ext: .css
+  mime: text/css
+  text: css
+- ext: .mrc
+  mime: application/marc
+  text: .mrc
+- categories:
+  - data
+  ext: .mrc
+  mime: application/marc
+  text: mrc
+- ext: .n3
+  mime: text/n3
+  text: .n3
+- categories:
+  - semweb
+  ext: .n3
+  mime: text/n3
+  text: n3
+- ext: .drle
+  mime: image/dicom-rle
+  text: .drle
+- categories:
+  - images
+  ext: .drle
+  mime: image/dicom-rle
+  text: drle
+- ext: .ims
+  mime: application/vnd.ms-ims
+  text: .ims
+- categories:
+  - other
+  ext: .ims
+  mime: application/vnd.ms-ims
+  text: ims
+- ext: .xz
+  mime: application/x-xz
+  text: .xz
+- categories:
+  - archives
+  ext: .xz
+  mime: application/x-xz
+  text: xz
+- ext: .tar.xz
+  mime: application/x-xz
+  text: .tar.xz
+- categories:
+  - archives
+  ext: .tar.xz
+  mime: application/x-xz
+  text: tar.xz
+- ext: .iso
+  mime: application/x-iso9660-image
+  text: .iso
+- categories:
+  - archives
+  ext: .iso
+  mime: application/x-iso9660-image
+  text: iso
+- ext: .isoimg
+  mime: application/x-iso9660-image
+  text: .isoimg
+- categories:
+  - archives
+  ext: .isoimg
+  mime: application/x-iso9660-image
+  text: isoimg
+- ext: .cdr
+  mime: application/x-iso9660-image
+  text: .cdr
+- categories:
+  - archives
+  ext: .cdr
+  mime: application/x-iso9660-image
+  text: cdr
+- ext: .warc
+  mime: application/warc
+  text: .warc
+- categories:
+  - data
+  ext: .warc
+  mime: application/warc
+  text: warc
+- ext: .odt
+  mime: application/vnd.oasis.opendocument.text
+  text: .odt
+- categories:
+  - documents
+  ext: .odt
+  mime: application/vnd.oasis.opendocument.text
+  text: odt
+- ext: .gsf
+  mime: application/x-font-ghostscript
+  text: .gsf
+- categories:
+  - images
+  ext: .gsf
+  mime: application/x-font-ghostscript
+  text: gsf
+- ext: .p7b
+  mime: application/x-pkcs7-certificates
+  text: .p7b
+- categories:
+  - other
+  ext: .p7b
+  mime: application/x-pkcs7-certificates
+  text: p7b
+- ext: .spc
+  mime: application/x-pkcs7-certificates
+  text: .spc
+- categories:
+  - other
+  ext: .spc
+  mime: application/x-pkcs7-certificates
+  text: spc
+- ext: .crd
+  mime: application/x-mscardfile
+  text: .crd
+- categories:
+  - audio
+  ext: .crd
+  mime: application/x-mscardfile
+  text: crd
+- ext: .webm
+  mime: video/webm
+  text: .webm
+- categories:
+  - video
+  ext: .webm
+  mime: video/webm
+  text: webm
+- ext: .p
+  mime: text/x-pascal
+  text: .p
+- categories:
+  - code
+  ext: .p
+  mime: text/x-pascal
+  text: p
+- ext: .pas
+  mime: text/x-pascal
+  text: .pas
+- categories:
+  - code
+  ext: .pas
+  mime: text/x-pascal
+  text: pas
+- ext: .pp
+  mime: text/x-pascal
+  text: .pp
+- categories:
+  - code
+  ext: .pp
+  mime: text/x-pascal
+  text: pp
+- ext: .inc
+  mime: text/x-pascal
+  text: .inc
+- categories:
+  - code
+  ext: .inc
+  mime: text/x-pascal
+  text: inc
+- ext: .wpd
+  mime: application/vnd.wordperfect
+  text: .wpd
+- categories:
+  - documents
+  ext: .wpd
+  mime: application/vnd.wordperfect
+  text: wpd
+- ext: .ma
+  mime: application/mathematica
+  text: .ma
+- categories:
+  - code
+  ext: .ma
+  mime: application/mathematica
+  text: ma
+- ext: .mb
+  mime: application/mathematica
+  text: .mb
+- categories:
+  - code
+  ext: .mb
+  mime: application/mathematica
+  text: mb
+- ext: .nb
+  mime: application/mathematica
+  text: .nb
+- categories:
+  - code
+  ext: .nb
+  mime: application/mathematica
+  text: nb
+- ext: .m1v
+  mime: video/mpeg
+  text: .m1v
+- categories:
+  - video
+  ext: .m1v
+  mime: video/mpeg
+  text: m1v
+- ext: .m2v
+  mime: video/mpeg
+  text: .m2v
+- categories:
+  - video
+  ext: .m2v
+  mime: video/mpeg
+  text: m2v
+- ext: .mpa
+  mime: video/mpeg
+  text: .mpa
+- categories:
+  - video
+  ext: .mpa
+  mime: video/mpeg
+  text: mpa
+- ext: .mpe
+  mime: video/mpeg
+  text: .mpe
+- categories:
+  - video
+  ext: .mpe
+  mime: video/mpeg
+  text: mpe
+- ext: .mpeg
+  mime: video/mpeg
+  text: .mpeg
+- categories:
+  - video
+  ext: .mpeg
+  mime: video/mpeg
+  text: mpeg
+- ext: .mpg
+  mime: video/mpeg
+  text: .mpg
+- categories:
+  - video
+  ext: .mpg
+  mime: video/mpeg
+  text: mpg
+- ext: .emf
+  mime: image/emf
+  text: .emf
+- categories:
+  - images
+  ext: .emf
+  mime: image/emf
+  text: emf
+- ext: .xlsb
+  mime: application/vnd.ms-excel.sheet.binary.macroenabled.12
+  text: .xlsb
+- categories:
+  - data
+  ext: .xlsb
+  mime: application/vnd.ms-excel.sheet.binary.macroenabled.12
+  text: xlsb
+- ext: .aif
+  mime: audio/x-aiff
+  text: .aif
+- categories:
+  - audio
+  ext: .aif
+  mime: audio/x-aiff
+  text: aif
+- ext: .aifc
+  mime: audio/x-aiff
+  text: .aifc
+- categories:
+  - audio
+  ext: .aifc
+  mime: audio/x-aiff
+  text: aifc
+- ext: .aiff
+  mime: audio/x-aiff
+  text: .aiff
+- categories:
+  - audio
+  ext: .aiff
+  mime: audio/x-aiff
+  text: aiff
+- ext: .psd
+  mime: image/vnd.adobe.photoshop
+  text: .psd
+- categories:
+  - images
+  ext: .psd
+  mime: image/vnd.adobe.photoshop
+  text: psd
+- ext: .cif
+  mime: chemical/x-cif
+  text: .cif
+- categories:
+  - data
+  ext: .cif
+  mime: chemical/x-cif
+  text: cif
+- ext: .3ds
+  mime: image/x-3ds
+  text: .3ds
+- categories:
+  - images
+  ext: .3ds
+  mime: image/x-3ds
+  text: 3ds
+- ext: .tpl
+  mime: application/vnd.groove-tool-template
+  text: .tpl
+- categories:
+  - other
+  ext: .tpl
+  mime: application/vnd.groove-tool-template
+  text: tpl
+- ext: .m4v
+  mime: video/x-m4v
+  text: .m4v
+- categories:
+  - video
+  ext: .m4v
+  mime: video/x-m4v
+  text: m4v
+- ext: .eml
+  mime: message/rfc822
+  text: .eml
+- categories:
+  - other
+  ext: .eml
+  mime: message/rfc822
+  text: eml
+- ext: .mht
+  mime: message/rfc822
+  text: .mht
+- categories:
+  - other
+  ext: .mht
+  mime: message/rfc822
+  text: mht
+- ext: .mhtml
+  mime: message/rfc822
+  text: .mhtml
+- categories:
+  - other
+  ext: .mhtml
+  mime: message/rfc822
+  text: mhtml
+- ext: .mime
+  mime: message/rfc822
+  text: .mime
+- categories:
+  - other
+  ext: .mime
+  mime: message/rfc822
+  text: mime
+- ext: .nws
+  mime: message/rfc822
+  text: .nws
+- categories:
+  - other
+  ext: .nws
+  mime: message/rfc822
+  text: nws
+- ext: .jar
+  mime: application/java-archive
+  text: .jar
+- categories:
+  - archives
+  ext: .jar
+  mime: application/java-archive
+  text: jar
+- ext: .wmf
+  mime: application/x-msmetafile
+  text: .wmf
+- categories:
+  - images
+  ext: .wmf
+  mime: application/x-msmetafile
+  text: wmf
+- ext: .heif
+  mime: image/heic
+  text: .heif
+- categories:
+  - images
+  ext: .heif
+  mime: image/heic
+  text: heif
+- ext: .heic
+  mime: image/heic
+  text: .heic
+- categories:
+  - images
+  ext: .heic
+  mime: image/heic
+  text: heic
+- ext: .xps
+  mime: application/vnd.ms-xpsdocument
+  text: .xps
+- categories:
+  - documents
+  ext: .xps
+  mime: application/vnd.ms-xpsdocument
+  text: xps
+- ext: .ttc
+  mime: application/x-font-ttf
+  text: .ttc
+- categories:
+  - images
+  ext: .ttc
+  mime: application/x-font-ttf
+  text: ttc
+- ext: .ttf
+  mime: application/x-font-ttf
+  text: .ttf
+- categories:
+  - images
+  ext: .ttf
+  mime: application/x-font-ttf
+  text: ttf
+- ext: .nsf
+  mime: application/vnd.lotus-notes
+  text: .nsf
+- categories:
+  - other
+  ext: .nsf
+  mime: application/vnd.lotus-notes
+  text: nsf
+- ext: .xht
+  mime: application/xhtml+xml
+  text: .xht
+- categories:
+  - documents
+  ext: .xht
+  mime: application/xhtml+xml
+  text: xht
+- ext: .xhtml
+  mime: application/xhtml+xml
+  text: .xhtml
+- categories:
+  - documents
+  ext: .xhtml
+  mime: application/xhtml+xml
+  text: xhtml
+- ext: .man
+  mime: application/x-troff-man
+  text: .man
+- categories:
+  - documents
+  ext: .man
+  mime: application/x-troff-man
+  text: man
+- ext: .me
+  mime: text/troff
+  text: .me
+- categories:
+  - documents
+  ext: .me
+  mime: text/troff
+  text: me
+- ext: .ms
+  mime: text/troff
+  text: .ms
+- categories:
+  - documents
+  ext: .ms
+  mime: text/troff
+  text: ms
+- ext: .roff
+  mime: text/troff
+  text: .roff
+- categories:
+  - documents
+  ext: .roff
+  mime: text/troff
+  text: roff
+- ext: .t
+  mime: text/troff
+  text: .t
+- categories:
+  - documents
+  ext: .t
+  mime: text/troff
+  text: t
+- ext: .tr
+  mime: text/troff
+  text: .tr
+- categories:
+  - documents
+  ext: .tr
+  mime: text/troff
+  text: tr
+- ext: .rq
+  mime: application/sparql-query
+  text: .rq
+- categories:
+  - data
+  ext: .rq
+  mime: application/sparql-query
+  text: rq
+- ext: .dsc
+  mime: text/prs.lines.tag
+  text: .dsc
+- categories:
+  - other
+  ext: .dsc
+  mime: text/prs.lines.tag
+  text: dsc
+- ext: .qps
+  mime: application/vnd.publishare-delta-tree
+  text: .qps
+- categories:
+  - other
+  ext: .qps
+  mime: application/vnd.publishare-delta-tree
+  text: qps
+- ext: .jp2
+  mime: image/jp2
+  text: .jp2
+- categories:
+  - images
+  ext: .jp2
+  mime: image/jp2
+  text: jp2
+- ext: .mkv
+  mime: video/x-matroska
+  text: .mkv
+- categories:
+  - video
+  ext: .mkv
+  mime: video/x-matroska
+  text: mkv
+- ext: .flx
+  mime: text/vnd.fmi.flexstor
+  text: .flx
+- categories:
+  - other
+  ext: .flx
+  mime: text/vnd.fmi.flexstor
+  text: flx
+- ext: .au
+  mime: audio/basic
+  text: .au
+- categories:
+  - other
+  ext: .au
+  mime: audio/basic
+  text: au
+- ext: .snd
+  mime: audio/basic
+  text: .snd
+- categories:
+  - other
+  ext: .snd
+  mime: audio/basic
+  text: snd
+- ext: .str
+  mime: application/vnd.pg.format
+  text: .str
+- categories:
+  - other
+  ext: .str
+  mime: application/vnd.pg.format
+  text: str
+- ext: .docm
+  mime: application/vnd.ms-word.document.macroenabled.12
+  text: .docm
+- categories:
+  - documents
+  ext: .docm
+  mime: application/vnd.ms-word.document.macroenabled.12
+  text: docm
+- ext: .tcl
+  mime: application/x-tcl
+  text: .tcl
+- categories:
+  - code
+  ext: .tcl
+  mime: application/x-tcl
+  text: tcl
+- ext: .nml
+  mime: application/vnd.enliven
+  text: .nml
+- categories:
+  - other
+  ext: .nml
+  mime: application/vnd.enliven
+  text: nml
+- ext: .mag
+  mime: application/vnd.ecowin.chart
+  text: .mag
+- categories:
+  - other
+  ext: .mag
+  mime: application/vnd.ecowin.chart
+  text: mag
+- ext: .acc
+  mime: application/vnd.americandynamics.acc
+  text: .acc
+- categories:
+  - other
+  ext: .acc
+  mime: application/vnd.americandynamics.acc
+  text: acc
+- ext: .ics
+  mime: text/calendar
+  text: .ics
+- categories:
+  - other
+  ext: .ics
+  mime: text/calendar
+  text: ics
+- ext: .ifb
+  mime: text/calendar
+  text: .ifb
+- categories:
+  - other
+  ext: .ifb
+  mime: text/calendar
+  text: ifb
+- ext: .ogv
+  mime: video/ogg
+  text: .ogv
+- categories:
+  - video
+  ext: .ogv
+  mime: video/ogg
+  text: ogv
+- ext: .dtd
+  mime: application/xml-dtd
+  text: .dtd
+- categories:
+  - data
+  ext: .dtd
+  mime: application/xml-dtd
+  text: dtd
+- ext: .odc
+  mime: application/vnd.oasis.opendocument.chart
+  text: .odc
+- categories:
+  - documents
+  ext: .odc
+  mime: application/vnd.oasis.opendocument.chart
+  text: odc
+- ext: .wma
+  mime: audio/x-ms-wma
+  text: .wma
+- categories:
+  - audio
+  ext: .wma
+  mime: audio/x-ms-wma
+  text: wma
+- ext: .skd
+  mime: application/vnd.koan
+  text: .skd
+- categories:
+  - other
+  ext: .skd
+  mime: application/vnd.koan
+  text: skd
+- ext: .skm
+  mime: application/vnd.koan
+  text: .skm
+- categories:
+  - other
+  ext: .skm
+  mime: application/vnd.koan
+  text: skm
+- ext: .skp
+  mime: application/vnd.koan
+  text: .skp
+- categories:
+  - other
+  ext: .skp
+  mime: application/vnd.koan
+  text: skp
+- ext: .skt
+  mime: application/vnd.koan
+  text: .skt
+- categories:
+  - other
+  ext: .skt
+  mime: application/vnd.koan
+  text: skt
+- ext: .fst
+  mime: image/vnd.fst
+  text: .fst
+- categories:
+  - images
+  ext: .fst
+  mime: image/vnd.fst
+  text: fst
+- ext: .webp
+  mime: image/webp
+  text: .webp
+- categories:
+  - images
+  ext: .webp
+  mime: image/webp
+  text: webp
+- ext: .res
+  mime: application/x-dtbresource+xml
+  text: .res
+- categories:
+  - other
+  ext: .res
+  mime: application/x-dtbresource+xml
+  text: res
+- ext: .vrml
+  mime: model/vrml
+  text: .vrml
+- categories:
+  - other
+  ext: .vrml
+  mime: model/vrml
+  text: vrml
+- ext: .wrl
+  mime: model/vrml
+  text: .wrl
+- categories:
+  - other
+  ext: .wrl
+  mime: model/vrml
+  text: wrl
+- ext: .dna
+  mime: application/vnd.dna
+  text: .dna
+- categories:
+  - other
+  ext: .dna
+  mime: application/vnd.dna
+  text: dna
+- ext: .gtar
+  mime: application/x-gtar
+  text: .gtar
+- categories:
+  - other
+  ext: .gtar
+  mime: application/x-gtar
+  text: gtar
+- ext: .ssf
+  mime: application/vnd.epson.ssf
+  text: .ssf
+- categories:
+  - other
+  ext: .ssf
+  mime: application/vnd.epson.ssf
+  text: ssf
+- ext: .asc
+  mime: application/pgp-signature
+  text: .asc
+- categories:
+  - other
+  ext: .asc
+  mime: application/pgp-signature
+  text: asc
+- ext: .sig
+  mime: application/pgp-signature
+  text: .sig
+- categories:
+  - other
+  ext: .sig
+  mime: application/pgp-signature
+  text: sig
+- ext: .lbe
+  mime: application/vnd.llamagraphics.life-balance.exchange+xml
+  text: .lbe
+- categories:
+  - other
+  ext: .lbe
+  mime: application/vnd.llamagraphics.life-balance.exchange+xml
+  text: lbe
+- ext: .src
+  mime: application/x-wais-source
+  text: .src
+- categories:
+  - other
+  ext: .src
+  mime: application/x-wais-source
+  text: src
+- ext: .stc
+  mime: application/vnd.sun.xml.calc.template
+  text: .stc
+- categories:
+  - other
+  ext: .stc
+  mime: application/vnd.sun.xml.calc.template
+  text: stc
+- ext: .p7s
+  mime: application/pkcs7-signature
+  text: .p7s
+- categories:
+  - other
+  ext: .p7s
+  mime: application/pkcs7-signature
+  text: p7s
+- ext: .cct
+  mime: application/x-director
+  text: .cct
+- categories:
+  - other
+  ext: .cct
+  mime: application/x-director
+  text: cct
+- ext: .cst
+  mime: application/x-director
+  text: .cst
+- categories:
+  - other
+  ext: .cst
+  mime: application/x-director
+  text: cst
+- ext: .cxt
+  mime: application/x-director
+  text: .cxt
+- categories:
+  - other
+  ext: .cxt
+  mime: application/x-director
+  text: cxt
+- ext: .dcr
+  mime: application/x-director
+  text: .dcr
+- categories:
+  - other
+  ext: .dcr
+  mime: application/x-director
+  text: dcr
+- ext: .dir
+  mime: application/x-director
+  text: .dir
+- categories:
+  - other
+  ext: .dir
+  mime: application/x-director
+  text: dir
+- ext: .dxr
+  mime: application/x-director
+  text: .dxr
+- categories:
+  - other
+  ext: .dxr
+  mime: application/x-director
+  text: dxr
+- ext: .fgd
+  mime: application/x-director
+  text: .fgd
+- categories:
+  - other
+  ext: .fgd
+  mime: application/x-director
+  text: fgd
+- ext: .swa
+  mime: application/x-director
+  text: .swa
+- categories:
+  - other
+  ext: .swa
+  mime: application/x-director
+  text: swa
+- ext: .w3d
+  mime: application/x-director
+  text: .w3d
+- categories:
+  - other
+  ext: .w3d
+  mime: application/x-director
+  text: w3d
+- ext: .chm
+  mime: application/vnd.ms-htmlhelp
+  text: .chm
+- categories:
+  - documents
+  ext: .chm
+  mime: application/vnd.ms-htmlhelp
+  text: chm
+- ext: .pub
+  mime: application/x-mspublisher
+  text: .pub
+- categories:
+  - documents
+  ext: .pub
+  mime: application/x-mspublisher
+  text: pub
+- ext: .afm
+  mime: application/x-font-type1
+  text: .afm
+- categories:
+  - documents
+  ext: .afm
+  mime: application/x-font-type1
+  text: afm
+- ext: .pfa
+  mime: application/x-font-type1
+  text: .pfa
+- categories:
+  - documents
+  ext: .pfa
+  mime: application/x-font-type1
+  text: pfa
+- ext: .pfb
+  mime: application/x-font-type1
+  text: .pfb
+- categories:
+  - documents
+  ext: .pfb
+  mime: application/x-font-type1
+  text: pfb
+- ext: .pfm
+  mime: application/x-font-type1
+  text: .pfm
+- categories:
+  - documents
+  ext: .pfm
+  mime: application/x-font-type1
+  text: pfm
+- ext: .yaml
+  mime: text/x-yaml
+  text: .yaml
+- categories:
+  - data
+  ext: .yaml
+  mime: text/x-yaml
+  text: yaml
+- ext: .yml
+  mime: text/x-yaml
+  text: .yml
+- categories:
+  - data
+  ext: .yml
+  mime: text/x-yaml
+  text: yml
+- ext: .dts
+  mime: audio/vnd.dts
+  text: .dts
+- categories:
+  - other
+  ext: .dts
+  mime: audio/vnd.dts
+  text: dts
+- ext: .php
+  mime: text/php
+  text: .php
+- categories:
+  - code
+  ext: .php
+  mime: text/php
+  text: php
+- ext: .geo
+  mime: application/vnd.dynageo
+  text: .geo
+- categories:
+  - other
+  ext: .geo
+  mime: application/vnd.dynageo
+  text: geo
+- ext: .m4a
+  mime: audio/mp4
+  text: .m4a
+- categories:
+  - video
+  ext: .m4a
+  mime: audio/mp4
+  text: m4a
+- ext: .m4b
+  mime: audio/mp4
+  text: .m4b
+- categories:
+  - video
+  ext: .m4b
+  mime: audio/mp4
+  text: m4b
+- ext: .m4p
+  mime: audio/mp4
+  text: .m4p
+- categories:
+  - video
+  ext: .m4p
+  mime: audio/mp4
+  text: m4p
+- ext: .m4r
+  mime: audio/mp4
+  text: .m4r
+- categories:
+  - video
+  ext: .m4r
+  mime: audio/mp4
+  text: m4r
+- ext: .3gp
+  mime: audio/mp4
+  text: .3gp
+- categories:
+  - video
+  ext: .3gp
+  mime: audio/mp4
+  text: 3gp
+- ext: .3g2
+  mime: audio/mp4
+  text: .3g2
+- categories:
+  - video
+  ext: .3g2
+  mime: audio/mp4
+  text: 3g2
+- ext: .3ga
+  mime: audio/mp4
+  text: .3ga
+- categories:
+  - video
+  ext: .3ga
+  mime: audio/mp4
+  text: 3ga
+- ext: .3gpa
+  mime: audio/mp4
+  text: .3gpa
+- categories:
+  - video
+  ext: .3gpa
+  mime: audio/mp4
+  text: 3gpa
+- ext: .3gpp
+  mime: audio/mp4
+  text: .3gpp
+- categories:
+  - video
+  ext: .3gpp
+  mime: audio/mp4
+  text: 3gpp
+- ext: .3gpp2
+  mime: audio/mp4
+  text: .3gpp2
+- categories:
+  - video
+  ext: .3gpp2
+  mime: audio/mp4
+  text: 3gpp2
+- ext: .3gp2
+  mime: audio/mp4
+  text: .3gp2
+- categories:
+  - video
+  ext: .3gp2
+  mime: audio/mp4
+  text: 3gp2
+- ext: .ser
+  mime: application/java-serialized-object
+  text: .ser
+- categories:
+  - other
+  ext: .ser
+  mime: application/java-serialized-object
+  text: ser
+- ext: .ico
+  mime: image/vnd.microsoft.icon
+  text: .ico
+- categories:
+  - images
+  ext: .ico
+  mime: image/vnd.microsoft.icon
+  text: ico
+- ext: .asm
+  mime: text/x-asm
+  text: .asm
+- categories:
+  - code
+  ext: .asm
+  mime: text/x-asm
+  text: asm
+- ext: .s
+  mime: text/x-asm
+  text: .s
+- categories:
+  - code
+  ext: .s
+  mime: text/x-asm
+  text: s
+- ext: .flv
+  mime: video/x-flv
+  text: .flv
+- categories:
+  - video
+  ext: .flv
+  mime: video/x-flv
+  text: flv
+- ext: .iges
+  mime: model/iges
+  text: .iges
+- categories:
+  - other
+  ext: .iges
+  mime: model/iges
+  text: iges
+- ext: .igs
+  mime: model/iges
+  text: .igs
+- categories:
+  - other
+  ext: .igs
+  mime: model/iges
+  text: igs
+- ext: .pyc
+  mime: application/x-python-code
+  text: .pyc
+- categories:
+  - code
+  ext: .pyc
+  mime: application/x-python-code
+  text: pyc
+- ext: .pyo
+  mime: application/x-python-code
+  text: .pyo
+- categories:
+  - code
+  ext: .pyo
+  mime: application/x-python-code
+  text: pyo
+- ext: .sit
+  mime: application/x-stuffit
+  text: .sit
+- categories:
+  - other
+  ext: .sit
+  mime: application/x-stuffit
+  text: sit
+- ext: .cdx
+  mime: chemical/x-cdx
+  text: .cdx
+- categories:
+  - other
+  ext: .cdx
+  mime: chemical/x-cdx
+  text: cdx
+- ext: .mesh
+  mime: model/mesh
+  text: .mesh
+- categories:
+  - other
+  ext: .mesh
+  mime: model/mesh
+  text: mesh
+- ext: .msh
+  mime: model/mesh
+  text: .msh
+- categories:
+  - other
+  ext: .msh
+  mime: model/mesh
+  text: msh
+- ext: .silo
+  mime: model/mesh
+  text: .silo
+- categories:
+  - other
+  ext: .silo
+  mime: model/mesh
+  text: silo
+- ext: .org
+  mime: application/vnd.lotus-organizer
+  text: .org
+- categories:
+  - other
+  ext: .org
+  mime: application/vnd.lotus-organizer
+  text: org
+- ext: .xltx
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.template
+  text: .xltx
+- categories:
+  - documents
+  ext: .xltx
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.template
+  text: xltx
+- ext: .eot
+  mime: application/vnd.ms-fontobject
+  text: .eot
+- categories:
+  - other
+  ext: .eot
+  mime: application/vnd.ms-fontobject
+  text: eot
+- ext: .xslt
+  mime: application/xslt+xml
+  text: .xslt
+- categories:
+  - documents
+  ext: .xslt
+  mime: application/xslt+xml
+  text: xslt
+- ext: .mbox
+  mime: application/mbox
+  text: .mbox
+- categories:
+  - other
+  ext: .mbox
+  mime: application/mbox
+  text: mbox
+- ext: .mcd
+  mime: application/vnd.mcd
+  text: .mcd
+- categories:
+  - other
+  ext: .mcd
+  mime: application/vnd.mcd
+  text: mcd
+- ext: .mgz
+  mime: application/vnd.proteus.magazine
+  text: .mgz
+- categories:
+  - other
+  ext: .mgz
+  mime: application/vnd.proteus.magazine
+  text: mgz
+- ext: .daf
+  mime: application/vnd.mobius.daf
+  text: .daf
+- categories:
+  - other
+  ext: .daf
+  mime: application/vnd.mobius.daf
+  text: daf
+- ext: .es3
+  mime: application/vnd.eszigno3+xml
+  text: .es3
+- categories:
+  - other
+  ext: .es3
+  mime: application/vnd.eszigno3+xml
+  text: es3
+- ext: .et3
+  mime: application/vnd.eszigno3+xml
+  text: .et3
+- categories:
+  - other
+  ext: .et3
+  mime: application/vnd.eszigno3+xml
+  text: et3
+- ext: .msf
+  mime: application/vnd.epson.msf
+  text: .msf
+- categories:
+  - other
+  ext: .msf
+  mime: application/vnd.epson.msf
+  text: msf
+- ext: .ppsx
+  mime: application/vnd.openxmlformats-officedocument.presentationml.slideshow
+  text: .ppsx
+- categories:
+  - documents
+  ext: .ppsx
+  mime: application/vnd.openxmlformats-officedocument.presentationml.slideshow
+  text: ppsx
+- ext: .epub
+  mime: application/epub+zip
+  text: .epub
+- categories:
+  - documents
+  ext: .epub
+  mime: application/epub+zip
+  text: epub
+- ext: .odp
+  mime: application/vnd.oasis.opendocument.presentation
+  text: .odp
+- categories:
+  - documents
+  ext: .odp
+  mime: application/vnd.oasis.opendocument.presentation
+  text: odp
+- ext: .wmz
+  mime: application/x-ms-wmz
+  text: .wmz
+- categories:
+  - other
+  ext: .wmz
+  mime: application/x-ms-wmz
+  text: wmz
+- ext: .apk
+  mime: application/vnd.android.package-archive
+  text: .apk
+- categories:
+  - code
+  ext: .apk
+  mime: application/vnd.android.package-archive
+  text: apk
+- ext: .csh
+  mime: application/x-csh
+  text: .csh
+- categories:
+  - code
+  ext: .csh
+  mime: application/x-csh
+  text: csh
+- ext: .irm
+  mime: application/vnd.ibm.rights-management
+  text: .irm
+- categories:
+  - other
+  ext: .irm
+  mime: application/vnd.ibm.rights-management
+  text: irm
+- ext: .m3u
+  mime: audio/x-mpegurl
+  text: .m3u
+- categories:
+  - video
+  ext: .m3u
+  mime: audio/x-mpegurl
+  text: m3u
+- ext: .shar
+  mime: application/x-shar
+  text: .shar
+- categories:
+  - other
+  ext: .shar
+  mime: application/x-shar
+  text: shar
+- ext: .cdxml
+  mime: application/vnd.chemdraw+xml
+  text: .cdxml
+- categories:
+  - other
+  ext: .cdxml
+  mime: application/vnd.chemdraw+xml
+  text: cdxml
+- ext: .cgm
+  mime: image/cgm
+  text: .cgm
+- categories:
+  - other
+  ext: .cgm
+  mime: image/cgm
+  text: cgm
+- ext: .cod
+  mime: application/vnd.rim.cod
+  text: .cod
+- categories:
+  - other
+  ext: .cod
+  mime: application/vnd.rim.cod
+  text: cod
+- ext: .gv
+  mime: text/vnd.graphviz
+  text: .gv
+- categories:
+  - images
+  ext: .gv
+  mime: text/vnd.graphviz
+  text: gv
+- ext: .cu
+  mime: application/cu-seeme
+  text: .cu
+- categories:
+  - other
+  ext: .cu
+  mime: application/cu-seeme
+  text: cu
+- ext: .dotx
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.template
+  text: .dotx
+- categories:
+  - documents
+  ext: .dotx
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.template
+  text: dotx
+- ext: .dvi
+  mime: application/x-dvi
+  text: .dvi
+- categories:
+  - other
+  ext: .dvi
+  mime: application/x-dvi
+  text: dvi
+- ext: .latex
+  mime: application/x-latex
+  text: .latex
+- categories:
+  - documents
+  ext: .latex
+  mime: application/x-latex
+  text: latex
+- ext: .mka
+  mime: audio/x-matroska
+  text: .mka
+- categories:
+  - other
+  ext: .mka
+  mime: audio/x-matroska
+  text: mka
+- ext: .mxf
+  mime: application/mxf
+  text: .mxf
+- categories:
+  - other
+  ext: .mxf
+  mime: application/mxf
+  text: mxf
+- ext: .pm
+  mime: application/x-perl
+  text: .pm
+- categories:
+  - other
+  ext: .pm
+  mime: application/x-perl
+  text: pm
+- ext: .pl
+  mime: application/x-perl
+  text: .pl
+- categories:
+  - other
+  ext: .pl
+  mime: application/x-perl
+  text: pl
+- ext: .pptm
+  mime: application/vnd.ms-powerpoint.presentation.macroenabled.12
+  text: .pptm
+- categories:
+  - other
+  ext: .pptm
+  mime: application/vnd.ms-powerpoint.presentation.macroenabled.12
+  text: pptm
+- ext: .sda
+  mime: application/vnd.stardivision.draw
+  text: .sda
+- categories:
+  - other
+  ext: .sda
+  mime: application/vnd.stardivision.draw
+  text: sda
+- ext: .wsdl
+  mime: application/wsdl+xml
+  text: .wsdl
+- categories:
+  - code
+  ext: .wsdl
+  mime: application/wsdl+xml
+  text: wsdl
+- ext: .abw
+  mime: application/x-abiword
+  text: .abw
+- categories:
+  - documents
+  ext: .abw
+  mime: application/x-abiword
+  text: abw
+- ext: .application
+  mime: application/x-ms-application
+  text: .application
+- categories:
+  - other
+  ext: .application
+  mime: application/x-ms-application
+  text: application
+- ext: .aw
+  mime: application/applixware
+  text: .aw
+- categories:
+  - other
+  ext: .aw
+  mime: application/applixware
+  text: aw
+- ext: .cat
+  mime: application/vnd.ms-pki.seccat
+  text: .cat
+- categories:
+  - other
+  ext: .cat
+  mime: application/vnd.ms-pki.seccat
+  text: cat
+- ext: .cmx
+  mime: image/x-cmx
+  text: .cmx
+- categories:
+  - other
+  ext: .cmx
+  mime: image/x-cmx
+  text: cmx
+- ext: .rst
+  mime: text/x-rst
+  text: .rst
+- categories:
+  - documents
+  ext: .rst
+  mime: text/x-rst
+  text: rst
+- ext: .mmd
+  mime: application/vnd.chipnuts.karaoke-mmd
+  text: .mmd
+- categories:
+  - other
+  ext: .mmd
+  mime: application/vnd.chipnuts.karaoke-mmd
+  text: mmd
+- ext: .odb
+  mime: application/vnd.oasis.opendocument.database
+  text: .odb
+- categories:
+  - other
+  ext: .odb
+  mime: application/vnd.oasis.opendocument.database
+  text: odb
+- ext: .otf
+  mime: application/x-font-otf
+  text: .otf
+- categories:
+  - other
+  ext: .otf
+  mime: application/x-font-otf
+  text: otf
+- ext: .pgm
+  mime: image/x-portable-graymap
+  text: .pgm
+- categories:
+  - other
+  ext: .pgm
+  mime: image/x-portable-graymap
+  text: pgm
+- ext: .psf
+  mime: application/x-font-linux-psf
+  text: .psf
+- categories:
+  - other
+  ext: .psf
+  mime: application/x-font-linux-psf
+  text: psf
+- ext: .rm
+  mime: application/vnd.rn-realmedia
+  text: .rm
+- categories:
+  - other
+  ext: .rm
+  mime: application/vnd.rn-realmedia
+  text: rm
+- ext: .sdw
+  mime: application/vnd.stardivision.writer
+  text: .sdw
+- categories:
+  - other
+  ext: .sdw
+  mime: application/vnd.stardivision.writer
+  text: sdw
+- ext: .vor
+  mime: application/vnd.stardivision.writer
+  text: .vor
+- categories:
+  - other
+  ext: .vor
+  mime: application/vnd.stardivision.writer
+  text: vor
+- ext: .sitx
+  mime: application/x-stuffitx
+  text: .sitx
+- categories:
+  - other
+  ext: .sitx
+  mime: application/x-stuffitx
+  text: sitx
+- ext: .smi
+  mime: application/smil+xml
+  text: .smi
+- categories:
+  - other
+  ext: .smi
+  mime: application/smil+xml
+  text: smi
+- ext: .smil
+  mime: application/smil+xml
+  text: .smil
+- categories:
+  - other
+  ext: .smil
+  mime: application/smil+xml
+  text: smil
+- ext: .snf
+  mime: application/x-font-snf
+  text: .snf
+- categories:
+  - other
+  ext: .snf
+  mime: application/x-font-snf
+  text: snf
+- ext: .stk
+  mime: application/hyperstudio
+  text: .stk
+- categories:
+  - other
+  ext: .stk
+  mime: application/hyperstudio
+  text: stk
+- ext: .cla
+  mime: application/vnd.claymore
+  text: .cla
+- categories:
+  - other
+  ext: .cla
+  mime: application/vnd.claymore
+  text: cla
+- ext: .cml
+  mime: chemical/x-cml
+  text: .cml
+- categories:
+  - other
+  ext: .cml
+  mime: chemical/x-cml
+  text: cml
+- ext: .ext
+  mime: application/vnd.novadigm.ext
+  text: .ext
+- categories:
+  - other
+  ext: .ext
+  mime: application/vnd.novadigm.ext
+  text: ext
+- ext: .g3
+  mime: image/g3fax
+  text: .g3
+- categories:
+  - other
+  ext: .g3
+  mime: image/g3fax
+  text: g3
+- ext: .ggb
+  mime: application/vnd.geogebra.file
+  text: .ggb
+- categories:
+  - other
+  ext: .ggb
+  mime: application/vnd.geogebra.file
+  text: ggb
+- ext: .hps
+  mime: application/vnd.hp-hps
+  text: .hps
+- categories:
+  - other
+  ext: .hps
+  mime: application/vnd.hp-hps
+  text: hps
+- ext: .icc
+  mime: application/vnd.iccprofile
+  text: .icc
+- categories:
+  - other
+  ext: .icc
+  mime: application/vnd.iccprofile
+  text: icc
+- ext: .icm
+  mime: application/vnd.iccprofile
+  text: .icm
+- categories:
+  - other
+  ext: .icm
+  mime: application/vnd.iccprofile
+  text: icm
+- ext: .mobi
+  mime: application/x-mobipocket-ebook
+  text: .mobi
+- categories:
+  - other
+  ext: .mobi
+  mime: application/x-mobipocket-ebook
+  text: mobi
+- ext: .prc
+  mime: application/x-mobipocket-ebook
+  text: .prc
+- categories:
+  - other
+  ext: .prc
+  mime: application/x-mobipocket-ebook
+  text: prc
+- ext: .mpkg
+  mime: application/vnd.apple.installer+xml
+  text: .mpkg
+- categories:
+  - other
+  ext: .mpkg
+  mime: application/vnd.apple.installer+xml
+  text: mpkg
+- ext: .mseed
+  mime: application/vnd.fdsn.mseed
+  text: .mseed
+- categories:
+  - other
+  ext: .mseed
+  mime: application/vnd.fdsn.mseed
+  text: mseed
+- ext: .mts
+  mime: model/vnd.mts
+  text: .mts
+- categories:
+  - other
+  ext: .mts
+  mime: model/vnd.mts
+  text: mts
+- ext: .mxl
+  mime: application/vnd.recordare.musicxml
+  text: .mxl
+- categories:
+  - other
+  ext: .mxl
+  mime: application/vnd.recordare.musicxml
+  text: mxl
+- ext: .ncx
+  mime: application/x-dtbncx+xml
+  text: .ncx
+- categories:
+  - other
+  ext: .ncx
+  mime: application/x-dtbncx+xml
+  text: ncx
+- ext: .opf
+  mime: application/oebps-package+xml
+  text: .opf
+- categories:
+  - other
+  ext: .opf
+  mime: application/oebps-package+xml
+  text: opf
+- ext: .ots
+  mime: application/vnd.oasis.opendocument.spreadsheet-template
+  text: .ots
+- categories:
+  - other
+  ext: .ots
+  mime: application/vnd.oasis.opendocument.spreadsheet-template
+  text: ots
+- ext: .p12
+  mime: application/x-pkcs12
+  text: .p12
+- categories:
+  - other
+  ext: .p12
+  mime: application/x-pkcs12
+  text: p12
+- ext: .pfx
+  mime: application/x-pkcs12
+  text: .pfx
+- categories:
+  - other
+  ext: .pfx
+  mime: application/x-pkcs12
+  text: pfx
+- ext: .pcf
+  mime: application/x-font-pcf
+  text: .pcf
+- categories:
+  - other
+  ext: .pcf
+  mime: application/x-font-pcf
+  text: pcf
+- ext: .pct
+  mime: image/x-pict
+  text: .pct
+- categories:
+  - other
+  ext: .pct
+  mime: image/x-pict
+  text: pct
+- ext: .pic
+  mime: image/x-pict
+  text: .pic
+- categories:
+  - other
+  ext: .pic
+  mime: image/x-pict
+  text: pic
+- ext: .sdd
+  mime: application/vnd.stardivision.impress
+  text: .sdd
+- categories:
+  - other
+  ext: .sdd
+  mime: application/vnd.stardivision.impress
+  text: sdd
+- ext: .smf
+  mime: application/vnd.stardivision.math
+  text: .smf
+- categories:
+  - other
+  ext: .smf
+  mime: application/vnd.stardivision.math
+  text: smf
+- ext: .spl
+  mime: application/x-futuresplash
+  text: .spl
+- categories:
+  - other
+  ext: .spl
+  mime: application/x-futuresplash
+  text: spl
+- ext: .spq
+  mime: application/scvp-vp-request
+  text: .spq
+- categories:
+  - other
+  ext: .spq
+  mime: application/scvp-vp-request
+  text: spq
+- ext: .stw
+  mime: application/vnd.sun.xml.writer.template
+  text: .stw
+- categories:
+  - other
+  ext: .stw
+  mime: application/vnd.sun.xml.writer.template
+  text: stw
+- ext: .tra
+  mime: application/vnd.trueapp
+  text: .tra
+- categories:
+  - other
+  ext: .tra
+  mime: application/vnd.trueapp
+  text: tra
+- ext: .vsd
+  mime: application/vnd.visio
+  text: .vsd
+- categories:
+  - other
+  ext: .vsd
+  mime: application/vnd.visio
+  text: vsd
+- ext: .vss
+  mime: application/vnd.visio
+  text: .vss
+- categories:
+  - other
+  ext: .vss
+  mime: application/vnd.visio
+  text: vss
+- ext: .vst
+  mime: application/vnd.visio
+  text: .vst
+- categories:
+  - other
+  ext: .vst
+  mime: application/vnd.visio
+  text: vst
+- ext: .vsw
+  mime: application/vnd.visio
+  text: .vsw
+- categories:
+  - other
+  ext: .vsw
+  mime: application/vnd.visio
+  text: vsw
+- ext: .vsdx
+  mime: application/vnd.visio
+  text: .vsdx
+- categories:
+  - other
+  ext: .vsdx
+  mime: application/vnd.visio
+  text: vsdx
+- ext: .vssx
+  mime: application/vnd.visio
+  text: .vssx
+- categories:
+  - other
+  ext: .vssx
+  mime: application/vnd.visio
+  text: vssx
+- ext: .vstx
+  mime: application/vnd.visio
+  text: .vstx
+- categories:
+  - other
+  ext: .vstx
+  mime: application/vnd.visio
+  text: vstx
+- ext: .vssm
+  mime: application/vnd.visio
+  text: .vssm
+- categories:
+  - other
+  ext: .vssm
+  mime: application/vnd.visio
+  text: vssm
+- ext: .vstm
+  mime: application/vnd.visio
+  text: .vstm
+- categories:
+  - other
+  ext: .vstm
+  mime: application/vnd.visio
+  text: vstm
+- ext: .xltm
+  mime: application/vnd.ms-excel.template.macroenabled.12
+  text: .xltm
+- categories:
+  - data
+  ext: .xltm
+  mime: application/vnd.ms-excel.template.macroenabled.12
+  text: xltm
+- ext: .3dml
+  mime: text/vnd.in3d.3dml
+  text: .3dml
+- categories:
+  - other
+  ext: .3dml
+  mime: text/vnd.in3d.3dml
+  text: 3dml
+- ext: .rtx
+  mime: text/richtext
+  text: .rtx
+- categories:
+  - other
+  ext: .rtx
+  mime: text/richtext
+  text: rtx
+- ext: .bson
+  mime: application/bson
+  text: .bson
+- categories:
+  - data
+  ext: .bson
+  mime: application/bson
+  text: bson
+- ext: .hdt
+  mime: application/vnd.hdt
+  text: .hdt
+- categories:
+  - data
+  ext: .hdt
+  mime: application/vnd.hdt
+  text: hdt
+- ext: .jsonl
+  mime: application/jsonl
+  text: .jsonl
+- categories:
+  - data
+  ext: .jsonl
+  mime: application/jsonl
+  text: jsonl
+- ext: .ndjson
+  mime: application/x-ndjson
+  text: .ndjson
+- categories:
+  - data
+  ext: .ndjson
+  mime: application/x-ndjson
+  text: ndjson
+- ext: .parquet
+  mime: application/vnd.apache.parquet
+  text: .parquet
+- categories:
+  - data
+  ext: .parquet
+  mime: application/vnd.apache.parquet
+  text: parquet
+- categories:
+  - geodata
+  ext: .dgn
+  mime: image/vnd.dgn
+  text: image/vnd.dgn
+- categories:
+  - geodata
+  ext: .dgn
+  mime: application/dgn
+  text: application/dgn
+- categories:
+  - geodata
+  ext: .g3w
+  mime: application/vnd.geospace
+  text: application/vnd.geospace
+- categories:
+  - geodata
+  ext: .gdb
+  mime: application/x-filegdb
+  text: application/x-filegdb
+- categories:
+  - images
+  ext: .jpg
+  mime: image/jpeg
+  text: image/jpeg
+- categories:
+  - documents
+  ext: .txt
+  mime: text/plain
+  text: text/plain
+- categories:
+  - documents
+  ext: html
+  mime: text/html
+  text: text/html
+- categories:
+  - data
+  ext: .xml
+  mime: text/xml
+  text: text/xml
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv
+  text: text/csv
+- categories:
+  - documents
+  ext: .pdf
+  mime: application/pdf
+  text: application/pdf
+- categories:
+  - images
+  ext: .tif
+  mime: image/tiff
+  text: image/tiff
+- categories:
+  - geodata
+  ext: .wms
+  mime: application/vnd.ogc.wms_xml
+  text: application/vnd.ogc.wms_xml
+- categories:
+  - other
+  ext: ''
+  mime: application/octet-stream
+  text: application/octet-stream
+- categories:
+  - data
+  ext: .json
+  mime: application/json
+  text: application/json
+- categories:
+  - geodata
+  ext: .kml
+  mime: application/vnd.google-earth.kml+xml
+  text: application/vnd.google-earth.kml+xml
+- categories:
+  - images
+  ext: .png
+  mime: image/png
+  text: image/png
+- categories:
+  - archives
+  ext: .zip
+  mime: application/zip
+  text: application/zip
+- categories:
+  - data
+  ext: .xlsx
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+  text: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+- categories:
+  - data
+  ext: .tsv
+  mime: text/tab-separated-values
+  text: text/tab-separated-values
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/3.1.1
+  text: text/xml; subtype=gml/3.1.1
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/2.1.2
+  text: text/xml; subtype=gml/2.1.2
+- categories:
+  - geodata
+  ext: .gml
+  mime: text/xml; subtype=gml/3.2
+  text: text/xml; subtype=gml/3.2
+- categories:
+  - geodata
+  ext: .kmz
+  mime: application/vnd.google-earth.kmz
+  text: application/vnd.google-earth.kmz
+- categories:
+  - images
+  ext: .gif
+  mime: image/gif
+  text: image/gif
+- categories:
+  - images
+  ext: .svg
+  mime: image/svg+xml
+  text: image/svg+xml
+- categories:
+  - data
+  ext: .atom
+  mime: application/atom+xml
+  text: application/atom+xml
+- categories:
+  - geodata
+  - images
+  ext: .geotiff
+  mime: image/geotiff
+  text: image/geotiff
+- categories:
+  - geodata
+  - images
+  ext: .geotiff
+  mime: image/geotiff8
+  text: image/geotiff8
+- categories:
+  - images
+  ext: .tif
+  mime: image/tiff8
+  text: image/tiff8
+- categories:
+  - data
+  ext: .xml,.xpdl,.xsl
+  mime: application/xml
+  text: application/xml
+- categories:
+  - geodata
+  ext: .geojson
+  mime: application/vnd.geo+json
+  text: application/vnd.geo+json
+- categories:
+  - images
+  ext: .png
+  mime: image/png; mode=8bit
+  text: image/png; mode=8bit
+- categories:
+  - geodata
+  ext: .kml
+  mime: application/vnd.google-earth.kml+xml;mode=networklink
+  text: application/vnd.google-earth.kml+xml;mode=networklink
+- categories:
+  - documents
+  ext: .html
+  mime: text/html; subtype=openlayers
+  text: text/html; subtype=openlayers
+- categories:
+  - data
+  ext: .rss
+  mime: application/rss+xml
+  text: application/rss+xml
+- categories:
+  - geodata
+  ext: .gml
+  mime: application/gml+xml; version=3.2
+  text: application/gml+xml; version=3.2
+- categories:
+  - geodata
+  ext: .kml
+  mime: application/vnd.google-earth.kml xml
+  text: application/vnd.google-earth.kml xml
+- categories:
+  - geodata
+  ext: .json
+  mime: application/json;type=utfgrid
+  text: application/json;type=utfgrid
+- categories:
+  - images
+  ext: .png
+  mime: image/vnd.jpeg-png
+  text: image/vnd.jpeg-png
+- categories:
+  - data
+  ext: .xls
+  mime: application/vnd.ms-excel
+  text: application/vnd.ms-excel
+- categories:
+  - documents
+  ext: .html
+  mime: text/html; subtype=openlayers3
+  text: text/html; subtype=openlayers3
+- categories:
+  - documents
+  ext: .html
+  mime: text/html; subtype=openlayers2
+  text: text/html; subtype=openlayers2
+- categories:
+  - data
+  ext: .nc
+  mime: application/x-netcdf
+  text: application/x-netcdf
+- categories:
+  - images
+  ext: .png
+  mime: image/vnd.jpeg-png8
+  text: image/vnd.jpeg-png8
+- categories:
+  - semweb
+  ext: .rdf
+  mime: application/rdf+xml
+  text: application/rdf+xml
+- categories:
+  - images
+  ext: .dcm
+  mime: application/dicom
+  text: application/dicom
+- categories:
+  - data
+  ext: .dat
+  mime: text/x-fixed-field
+  text: text/x-fixed-field
+- categories:
+  - data
+  ext: .mat
+  mime: application/matlab-mat
+  text: application/matlab-mat
+- categories:
+  - archives
+  ext: .gz
+  mime: application/gzip
+  text: application/gzip
+- categories:
+  - documents
+  ext: .txt
+  mime: text/plain; charset=US-ASCII
+  text: text/plain; charset=us-ascii
+- categories:
+  - geodata
+  ext: .geojson
+  mime: application/json;type=geojson
+  text: application/json;type=geojson
+- categories:
+  - geodata
+  ext: .topojson
+  mime: application/json;type=topojson
+  text: application/json;type=topojson
+- categories:
+  - geodata
+  ext: .mvt
+  mime: application/vnd.mapbox-vector-tile
+  text: application/vnd.mapbox-vector-tile
+- categories:
+  - archives
+  ext: .gz
+  mime: application/x-gzip
+  text: application/x-gzip
+- categories:
+  - code
+  ext: .do
+  mime: application/x-stata-syntax
+  text: application/x-stata-syntax
+- categories:
+  - code
+  ext: .js
+  mime: text/javascript
+  text: text/javascript
+- categories:
+  - geodata
+  ext: .geojson
+  mime: application/geo+json
+  text: application/geo+json
+- categories:
+  - images
+  ext: .png
+  mime: image/png8
+  text: image/png8
+- categories:
+  - code
+  ext: .r
+  mime: type/x-r-syntax
+  text: type/x-r-syntax
+- categories:
+  - documents
+  ext: .docx
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+  text: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+- categories:
+  - images
+  ext: .fits
+  mime: application/fits
+  text: application/fits
+- categories:
+  - geodata
+  ext: .mif
+  mime: application/vnd.mif
+  text: application/vnd.mif
+- categories:
+  - audio
+  ext: .mid
+  mime: audio/midi
+  text: audio/midi
+- categories:
+  - data
+  ext: .nc
+  mime: application/netcdf
+  text: application/netcdf
+- categories:
+  - geodata
+  ext: .sid
+  mime: audio/prs.sid
+  text: audio/prs.sid
+- categories:
+  - documents
+  ext: .docx
+  mime: application/msword
+  text: application/msword
+- categories:
+  - data
+  ext: .hdf5
+  mime: application/x-hdf
+  text: application/x-hdf
+- categories:
+  - code
+  ext: .m
+  mime: text/x-matlab
+  text: text/x-matlab
+- categories:
+  - video
+  ext: .mp4
+  mime: application/mp4
+  text: application/mp4
+- categories:
+  - geodata
+  ext: .xyz
+  mime: chemical/x-xyz
+  text: chemical/x-xyz
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/x-gpkg
+  text: application/x-gpkg
+- categories:
+  - images
+  ext: .fits
+  mime: image/fits
+  text: image/fits
+- categories:
+  - images
+  ext: .dng
+  mime: image/x-adobe-dng
+  text: image/x-adobe-dng
+- categories:
+  - video
+  ext: .mp4
+  mime: video/mp4
+  text: video/mp4
+- categories:
+  - geodata
+  ext: .json
+  mime: application/stac+json
+  text: application/stac+json
+- categories:
+  - data
+  ext: ''
+  mime: application/x-stata
+  text: application/x-stata
+- categories:
+  - data
+  - statistics
+  ext: .csv
+  mime: application/vnd.sdmx.data+csv; charset=utf-8; labels=both
+  text: application/vnd.sdmx.data+csv; charset=utf-8; labels=both
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/zipped-shapefile
+  text: application/zipped-shapefile
+- categories:
+  - geodata
+  ext: .prj
+  mime: application/prj
+  text: application/prj
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/geopackage+sqlite3
+  text: application/geopackage+sqlite3
+- categories:
+  - data
+  ext: .csv
+  mime: text/comma-separated-values
+  text: text/comma-separated-values
+- categories:
+  - data
+  ext: .dbf
+  mime: application/dbf
+  text: application/dbf
+- categories:
+  - archives
+  ext: .tar
+  mime: application/x-tar
+  text: application/x-tar
+- categories:
+  - images
+  ext: .bmp
+  mime: image/x-ms-bmp
+  text: image/x-ms-bmp
+- categories:
+  - data
+  ext: .rdata
+  mime: application/x-rlang-transport
+  text: application/x-rlang-transport
+- categories:
+  - data
+  ext: .tsv
+  mime: text/tsv
+  text: text/tsv
+- categories:
+  - audio
+  ext: .wav
+  mime: audio/x-wav
+  text: audio/x-wav
+- categories:
+  - data
+  ext: .hdf5
+  mime: application/x-hdf5
+  text: application/x-hdf5
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/shp
+  text: application/shp
+- categories:
+  - geodata
+  ext: .shx
+  mime: application/shx
+  text: application/shx
+- categories:
+  - audio
+  ext: .wav
+  mime: audio/vnd.wave
+  text: audio/vnd.wave
+- categories:
+  - data
+  ext: .ods
+  mime: application/vnd.oasis.opendocument.spreadsheet
+  text: application/vnd.oasis.opendocument.spreadsheet
+- categories:
+  - images
+  ext: .bmp
+  mime: image/bmp
+  text: image/bmp
+- categories:
+  - documents
+  ext: .tex
+  mime: application/x-tex
+  text: application/x-tex
+- categories:
+  - geodata
+  ext: .gml
+  mime: application/gml+xml
+  text: application/gml+xml
+- categories:
+  - code
+  ext: .py
+  mime: text/x-python
+  text: text/x-python
+- categories:
+  - audio
+  ext: .wav
+  mime: audio/wav
+  text: audio/wav
+- categories:
+  - video
+  ext: .mp3
+  mime: audio/mpeg
+  text: audio/mpeg
+- categories:
+  - statistics
+  ext: .px
+  mime: text/pc-axis
+  text: text/pc-axis
+- categories:
+  - data
+  ext: .sav
+  mime: application/x-spss-sav
+  text: application/x-spss-sav
+- categories:
+  - data
+  ext: .sqlite
+  mime: application/x-sql
+  text: application/x-sql
+- categories:
+  - data
+  ext: .sqlite
+  mime: application/x-sqlite3
+  text: application/x-sqlite3
+- categories:
+  - images
+  ext: .arw
+  mime: image/arw
+  text: image/arw
+- categories:
+  - images
+  ext: .nii
+  mime: image/nii
+  text: image/nii
+- categories:
+  - documents
+  ext: .ps
+  mime: application/postscript
+  text: application/postscript
+- categories:
+  - code
+  ext: .sas
+  mime: application/x-sas-syntax
+  text: application/x-sas-syntax
+- categories:
+  - other
+  ext: .exe
+  mime: application/x-msdos-program
+  text: application/x-msdos-program
+- categories:
+  - data
+  ext: .stl
+  mime: application/vnd.ms-pki.stl
+  text: application/vnd.ms-pki.stl
+- categories:
+  - data
+  ext: .pdb
+  mime: application/vnd.palm
+  text: application/vnd.palm
+- categories:
+  - geodata
+  ext: .wms
+  mime: text/wms
+  text: text/wms
+- categories:
+  - video
+  ext: .mov
+  mime: video/quicktime
+  text: video/quicktime
+- categories:
+  - archives
+  ext: .rar
+  mime: application/x-rar-compressed
+  text: application/x-rar-compressed
+- categories:
+  - data
+  ext: .hdf5
+  mime: application/x-h5
+  text: application/x-h5
+- categories:
+  - video
+  ext: .mp4
+  mime: video/mpeg4
+  text: video/mpeg4
+- categories:
+  - archves
+  ext: .7z
+  mime: application/x-7z-compressed
+  text: application/x-7z-compressed
+- categories:
+  - archives
+  ext: .boz,.bz2
+  mime: application/x-bzip2
+  text: application/x-bzip2
+- categories:
+  - images
+  ext: .ado
+  mime: application/x-stata-ado
+  text: application/x-stata-ado
+- categories:
+  - images
+  ext: .dxf
+  mime: image/vnd.dxf
+  text: image/vnd.dxf
+- categories:
+  - video
+  ext: .avi
+  mime: video/x-msvideo
+  text: video/x-msvideo
+- categories:
+  - documents
+  ext: .pptx
+  mime: application/vnd.openxmlformats-officedocument.presentationml.presentation
+  text: application/vnd.openxmlformats-officedocument.presentationml.presentation
+- categories:
+  - data
+  ext: .sps
+  mime: application/x-spss-syntax
+  text: application/x-spss-syntax
+- categories:
+  - archives
+  ext: .zip
+  mime: application/x-zip-compressed
+  text: application/x-zip-compressed
+- categories:
+  - code
+  ext: .do
+  mime: text/x-stata-syntax; charset=US-ASCII
+  text: text/x-stata-syntax; charset=us-ascii
+- categories:
+  - documents
+  ext: .md
+  mime: text/markdown
+  text: text/markdown
+- categories:
+  - data
+  ext: .fcs
+  mime: application/vnd.isac.fcs
+  text: application/vnd.isac.fcs
+- categories:
+  - audio
+  ext: .wav
+  mime: audio/x-wave
+  text: audio/x-wave
+- categories:
+  - data
+  ext: .mat
+  mime: application/x-matlab-data
+  text: application/x-matlab-data
+- categories:
+  - other
+  ext: .atx
+  mime: application/vnd.antix.game-component
+  text: application/vnd.antix.game-component
+- categories:
+  - statistics
+  - data
+  ext: .px
+  mime: application/vnd.pc-axis
+  text: application/vnd.pc-axis
+- categories:
+  - images
+  ext: .fig
+  mime: application/x-xfig
+  text: application/x-xfig
+- categories:
+  - data
+  ext: .csv
+  mime: application/vnd.sdmx.data+csv; labels=both; charset=utf-8
+  text: application/vnd.sdmx.data+csv; labels=both; charset=utf-8
+- categories:
+  - semweb
+  - data
+  ext: .tt;
+  mime: text/turtle
+  text: text/turtle
+- categories:
+  - images
+  ext: .gph
+  mime: application/vnd.flographit
+  text: application/vnd.flographit
+- categories:
+  - images
+  ext: .bil
+  mime: image/bil
+  text: image/bil
+- categories:
+  - images
+  ext: .dds
+  mime: image/dds
+  text: image/dds
+- categories:
+  - code
+  ext: .sas
+  mime: text/x-sas-syntax
+  text: text/x-sas-syntax
+- categories:
+  - geodata
+  ext: .sbn
+  mime: application/sbn
+  text: application/sbn
+- categories:
+  - geodata
+  ext: .sbx
+  mime: application/sbx
+  text: application/sbx
+- categories:
+  - geodata
+  ext: .qgs
+  mime: application/x-qgis
+  text: application/x-qgis
+- categories:
+  - geodata
+  ext: .json
+  mime: application/vnd.ogc.fg+json
+  text: application/vnd.ogc.fg+json
+- categories:
+  - data
+  ext: .csv
+  mime: text/csv+extended
+  text: text/csv+extended
+- categories:
+  - documents
+  ext: .txt
+  mime: text/plain; charset=UTF-8
+  text: text/plain; charset=utf-8
+- categories:
+  - code
+  ext: .c
+  mime: text/x-c
+  text: text/x-c
+- categories:
+  - documents
+  ext: .rtf
+  mime: application/rtf
+  text: application/rtf
+- categories:
+  - data
+  ext: .graphml
+  mime: text/xml-graphml
+  text: text/xml-graphml
+- categories:
+  - data
+  ext: .xlsm
+  mime: application/vnd.ms-excel.sheet.macroenabled.12
+  text: application/vnd.ms-excel.sheet.macroenabled.12
+- categories:
+  - other
+  ext: ''
+  mime: application/x-stata-14
+  text: application/x-stata-14
+- categories:
+  - documents
+  ext: .itp
+  mime: application/vnd.shana.informed.formtemplate
+  text: application/vnd.shana.informed.formtemplate
+- categories:
+  - audio
+  ext: .ogg
+  mime: audio/ogg
+  text: audio/ogg
+- categories:
+  - other
+  ext: ''
+  mime: application/x-thermo-isodat
+  text: application/x-thermo-isodat
+- categories:
+  - video
+  ext: .avi
+  mime: video/avi
+  text: video/avi
+- categories:
+  - code
+  ext: .ipynb
+  mime: application/x-ipynb+json
+  text: application/x-ipynb+json
+- categories:
+  - statistics
+  ext: .ivt
+  mime: application/x-beyond2020
+  text: application/x-beyond2020
+- categories:
+  - geodata
+  ext: .protobuf
+  mime: application/x-protobuf;type=mapbox-vector
+  text: application/x-protobuf;type=mapbox-vector
+- categories:
+  - video
+  ext: .swf
+  mime: application/x-shockwave-flash
+  text: application/x-shockwave-flash
+- categories:
+  - code
+  ext: .java
+  mime: text/x-java-source
+  text: text/x-java-source
+- categories:
+  - data
+  ext: .sxm
+  mime: application/vnd.sun.xml.math
+  text: application/vnd.sun.xml.math
+- categories:
+  - code
+  ext: .f
+  mime: text/x-fortran
+  text: text/x-fortran
+- categories:
+  - documents
+  ext: .html
+  mime: application/html
+  text: application/html
+- categories:
+  - archives
+  ext: .cpt
+  mime: application/mac-compactpro
+  text: application/mac-compactpro
+- categories:
+  - archives
+  ext: .tar.gz
+  mime: application/x-compressed-tar
+  text: application/x-compressed-tar
+- categories:
+  - other
+  ext: ''
+  mime: text/x-spss-syntax; charset=US-ASCII
+  text: text/x-spss-syntax; charset=us-ascii
+- categories:
+  - images
+  ext: .jpg
+  mime: image/pjpeg
+  text: image/pjpeg
+- categories:
+  - other
+  ext: .vcf
+  mime: text/x-vcard
+  text: text/x-vcard
+- categories:
+  - archives
+  ext: .bz
+  mime: application/x-bzip
+  text: application/x-bzip
+- categories:
+  - archives
+  ext: .gz
+  mime: application/x-compressed
+  text: application/x-compressed
+- categories:
+  - archives
+  ext: .rar
+  mime: application/rar
+  text: application/rar
+- categories:
+  - archives
+  ext: .js
+  mime: application/javascript
+  text: application/javascript
+- categories:
+  - other
+  ext: .pcap
+  mime: application/vnd.tcpdump.pcap
+  text: application/vnd.tcpdump.pcap
+- categories:
+  - other
+  ext: ''
+  mime: application/x-tika-msoffice
+  text: application/x-tika-msoffice
+- categories:
+  - documents
+  ext: .apr
+  mime: application/vnd.lotus-approach
+  text: application/vnd.lotus-approach
+- categories:
+  - software
+  ext: .exe
+  mime: application/x-msdownload
+  text: application/x-msdownload
+- categories:
+  - code
+  ext: .sh
+  mime: application/x-sh
+  text: application/x-sh
+- categories:
+  - other
+  ext: .vtu
+  mime: model/vnd.vtu
+  text: model/vnd.vtu
+- categories:
+  - other
+  ext: ''
+  mime: application/x-spss-por
+  text: application/x-spss-por
+- categories:
+  - data
+  ext: .mdb
+  mime: application/x-msaccess
+  text: application/x-msaccess
+- categories:
+  - geodata
+  ext: .dwg
+  mime: image/vnd.dwg
+  text: image/vnd.dwg
+- categories:
+  - other
+  ext: ''
+  mime: application/x-stata-smcl
+  text: application/x-stata-smcl
+- categories:
+  - documents
+  ext: .txt
+  mime: text/plain;charset=UTF-8
+  text: text/plain;charset=utf-8
+- categories:
+  - video
+  ext: .h264
+  mime: video/h264
+  text: video/h264
+- categories:
+  - code
+  ext: ''
+  mime: text/x-objcsrc
+  text: text/x-objcsrc
+- categories:
+  - other
+  ext: ''
+  mime: application/x-sas-system
+  text: application/x-sas-system
+- categories:
+  - documents
+  ext: .hlp
+  mime: application/winhlp
+  text: application/winhlp
+- categories:
+  - images
+  ext: .dng
+  mime: image/dng
+  text: image/dng
+- categories:
+  - other
+  ext: ''
+  mime: application/xls
+  text: application/xls
+- categories:
+  - code
+  ext: .py
+  mime: text/x-python-script
+  text: text/x-python-script
+- categories:
+  - documents
+  ext: .rtf
+  mime: text/rtf
+  text: text/rtf
+- categories:
+  - documents
+  ext: .ppt
+  mime: application/vnd.ms-powerpoint
+  text: application/vnd.ms-powerpoint
+- categories:
+  - other
+  ext: ''
+  mime: text/x-log
+  text: text/x-log
+- categories:
+  - images
+  ext: .fh
+  mime: image/x-freehand
+  text: image/x-freehand
+- categories:
+  - code
+  ext: .do
+  mime: text/x-stata-syntax
+  text: text/x-stata-syntax
+- categories:
+  - code
+  ext: ''
+  mime: text/x-r-notebook
+  text: text/x-r-notebook
+- categories:
+  - images
+  ext: .bdf
+  mime: application/x-font-bdf
+  text: application/x-font-bdf
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ogc.ows
+  text: application/vnd.ogc.ows
+- categories:
+  - code
+  ext: .class
+  mime: application/java-vm
+  text: application/java-vm
+- categories:
+  - other
+  ext: ''
+  mime: application/x-matlab-workspace
+  text: application/x-matlab-workspace
+- categories:
+  - images
+  ext: .raw
+  mime: image/raw
+  text: image/raw
+- categories:
+  - data
+  ext: .xls
+  mime: application/excel
+  text: application/excel
+- categories:
+  - documents
+  ext: '.123'
+  mime: application/vnd.lotus-1-2-3
+  text: application/vnd.lotus-1-2-3
+- categories:
+  - other
+  ext: ''
+  mime: application/x-stata-13
+  text: application/x-stata-13
+- categories:
+  - code
+  ext: .css
+  mime: text/css
+  text: text/css
+- categories:
+  - semweb
+  ext: .jsonld
+  mime: application/ld+json
+  text: application/ld+json
+- categories:
+  - data
+  ext: .mrc
+  mime: application/marc
+  text: application/marc
+- categories:
+  - semweb
+  ext: .n3
+  mime: text/n3
+  text: text/n3
+- categories:
+  - code
+  ext: .r
+  mime: text/x-r-source
+  text: text/x-r-source
+- categories:
+  - images
+  ext: .arw
+  mime: image/x-sony-arw
+  text: image/x-sony-arw
+- categories:
+  - other
+  ext: ''
+  mime: application/x-tgif
+  text: application/x-tgif
+- categories:
+  - images
+  ext: .drle
+  mime: image/dicom-rle
+  text: image/dicom-rle
+- categories:
+  - other
+  ext: .ims
+  mime: application/vnd.ms-ims
+  text: application/vnd.ms-ims
+- categories:
+  - data
+  ext: .xlsm
+  mime: application/vnd.ms-excel.sheet.macroEnabled.12
+  text: application/vnd.ms-excel.sheet.macroenabled.12
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ogc.wfs_xml
+  text: application/vnd.ogc.wfs_xml
+- categories:
+  - other
+  ext: ''
+  mime: application/cnt
+  text: application/cnt
+- categories:
+  - archives
+  ext: .xz
+  mime: application/x-xz
+  text: application/x-xz
+- categories:
+  - archives
+  ext: .iso
+  mime: application/x-iso9660-image
+  text: application/x-iso9660-image
+- categories:
+  - data
+  ext: .warc
+  mime: application/warc
+  text: application/warc
+- categories:
+  - documents
+  ext: .odt
+  mime: application/vnd.oasis.opendocument.text
+  text: application/vnd.oasis.opendocument.text
+- categories:
+  - geodata
+  ext: .fgb
+  mime: application/flatgeobuf
+  text: application/flatgeobuf
+- categories:
+  - images
+  ext: .gsf
+  mime: application/x-font-ghostscript
+  text: application/x-font-ghostscript
+- categories:
+  - other
+  ext: .p7b
+  mime: application/x-pkcs7-certificates
+  text: application/x-pkcs7-certificates
+- categories:
+  - data
+  ext: .csv
+  mime: application/csv
+  text: application/csv
+- categories:
+  - other
+  ext: ''
+  mime: text/x-spss-syntax
+  text: text/x-spss-syntax
+- categories:
+  - other
+  ext: ''
+  mime: text/x-sas-syntax; charset=US-ASCII
+  text: text/x-sas-syntax; charset=us-ascii
+- categories:
+  - other
+  ext: ''
+  mime: audio/x-aac
+  text: audio/x-aac
+- categories:
+  - audio
+  ext: .crd
+  mime: application/x-mscardfile
+  text: application/x-mscardfile
+- categories:
+  - video
+  ext: .webm
+  mime: video/webm
+  text: video/webm
+- categories:
+  - other
+  ext: ''
+  mime: application/vndms-excel
+  text: application/vndms-excel
+- categories:
+  - code
+  ext: .pas
+  mime: text/x-pascal
+  text: text/x-pascal
+- categories:
+  - images
+  ext: .png
+  mime: image/x-png
+  text: image/x-png
+- categories:
+  - archives
+  ext: .rar
+  mime: application/vnd.rar
+  text: application/vnd.rar
+- categories:
+  - documents
+  ext: .wpd
+  mime: application/vnd.wordperfect
+  text: application/vnd.wordperfect
+- categories:
+  - geodata
+  ext: .gpx
+  mime: application/gpx+xml
+  text: application/gpx+xml
+- categories:
+  - code
+  ext: .ma
+  mime: application/mathematica
+  text: application/mathematica
+- categories:
+  - images
+  ext: .tif
+  mime: image/x-tiff
+  text: image/x-tiff
+- categories:
+  - video
+  ext: .mp4
+  mime: video/mpeg
+  text: video/mpeg
+- categories:
+  - images
+  ext: .emf
+  mime: image/emf
+  text: image/emf
+- categories:
+  - data
+  ext: .xlsb
+  mime: application/vnd.ms-excel.sheet.binary.macroenabled.12
+  text: application/vnd.ms-excel.sheet.binary.macroenabled.12
+- categories:
+  - geodata
+  ext: .shp
+  mime: application/x-shapefile
+  text: application/x-shapefile
+- categories:
+  - images
+  ext: .png
+  mime: image/x-apple-ios-png
+  text: image/x-apple-ios-png
+- categories:
+  - audio
+  ext: .aif
+  mime: audio/x-aiff
+  text: audio/x-aiff
+- categories:
+  - other
+  ext: ''
+  mime: application/x-sas
+  text: application/x-sas
+- categories:
+  - documents
+  ext: .txt,.text
+  mime: text/plain;charset=US-ASCII
+  text: text/plain;charset=us-ascii
+- categories:
+  - other
+  ext: ''
+  mime: text/x-r-markdown
+  text: text/x-r-markdown
+- categories:
+  - other
+  ext: ''
+  mime: application/unknown
+  text: application/unknown
+- categories:
+  - other
+  ext: ''
+  mime: text/vnd.ascii-art
+  text: text/vnd.ascii-art
+- categories:
+  - documents
+  ext: .html
+  mime: text/html; charset=utf-8
+  text: text/html; charset=utf-8
+- categories:
+  - images
+  ext: .psd
+  mime: image/vnd.adobe.photoshop
+  text: image/vnd.adobe.photoshop
+- categories:
+  - other
+  ext: ''
+  mime: application/x-research-info-systems
+  text: application/x-research-info-systems
+- categories:
+  - archives
+  ext: .rar
+  mime: application/x-rar
+  text: application/x-rar
+- categories:
+  - other
+  ext: ''
+  mime: application/x-sas-data
+  text: application/x-sas-data
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.realvnc.bed
+  text: application/vnd.realvnc.bed
+- categories:
+  - data
+  ext: .json
+  mime: text/json
+  text: text/json
+- categories:
+  - other
+  ext: ''
+  mime: application/biosequence.fasta
+  text: application/biosequence.fasta
+- categories:
+  - other
+  ext: ''
+  mime: text/x-rsrc
+  text: text/x-rsrc
+- categories:
+  - code
+  ext: .sh
+  mime: text/x-sh
+  text: text/x-sh
+- categories:
+  - other
+  ext: ''
+  mime: application/txt
+  text: application/txt
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-excel.sheet.binary.macroEnabled.12
+  text: application/vnd.ms-excel.sheet.binary.macroenabled.12
+- categories:
+  - data
+  ext: .cif
+  mime: chemical/x-cif
+  text: chemical/x-cif
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-pdb
+  text: chemical/x-pdb
+- categories:
+  - other
+  ext: ''
+  mime: application/msaccess
+  text: application/msaccess
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.shp+zip
+  text: application/vnd.shp+zip
+- categories:
+  - other
+  ext: ''
+  mime: application/Data Viewer
+  text: application/data viewer
+- categories:
+  - images
+  ext: .3ds
+  mime: image/x-3ds
+  text: image/x-3ds
+- categories:
+  - other
+  ext: .tpl
+  mime: application/vnd.groove-tool-template
+  text: application/vnd.groove-tool-template
+- categories:
+  - video
+  ext: .m4v
+  mime: video/x-m4v
+  text: video/x-m4v
+- categories:
+  - code
+  ext: .sh
+  mime: application/x-shellscript
+  text: application/x-shellscript
+- categories:
+  - other
+  ext: ''
+  mime: audio/mp3
+  text: audio/mp3
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.api+json
+  text: application/vnd.api+json
+- categories:
+  - other
+  ext: ''
+  mime: application/acad
+  text: application/acad
+- categories:
+  - other
+  ext: ''
+  mime: audio/x-m4a
+  text: audio/x-m4a
+- categories:
+  - other
+  ext: .eml
+  mime: message/rfc822
+  text: message/rfc822
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-mdl-sdfile
+  text: chemical/x-mdl-sdfile
+- categories:
+  - archives
+  ext: .jar
+  mime: application/java-archive
+  text: application/java-archive
+- categories:
+  - other
+  ext: ''
+  mime: model/x3d+xml
+  text: model/x3d+xml
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.wolfram.mathematica.package
+  text: application/vnd.wolfram.mathematica.package
+- categories:
+  - other
+  ext: ''
+  mime: text/html;charset=utf-8
+  text: text/html;charset=utf-8
+- categories:
+  - images
+  ext: .wmf
+  mime: application/x-msmetafile
+  text: application/x-msmetafile
+- categories:
+  - images
+  ext: .heif,.heic
+  mime: image/heic
+  text: image/heic
+- categories:
+  - documents
+  ext: .jp2
+  mime: application/vnd.ms-xpsdocument
+  text: application/vnd.ms-xpsdocument
+- categories:
+  - other
+  ext: ''
+  mime: text/rdf+xml
+  text: text/rdf+xml
+- categories:
+  - other
+  ext: ''
+  mime: text/plain; charset=utf-8
+  text: text/plain; charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: appliation/zip
+  text: appliation/zip
+- categories:
+  - other
+  ext: ''
+  mime: text/wfs
+  text: text/wfs
+- categories:
+  - data
+  ext: .dta
+  mime: application/x-stata-dta
+  text: application/x-stata-dta
+- categories:
+  - images
+  ext: .ttf
+  mime: application/x-font-ttf
+  text: application/x-font-ttf
+- categories:
+  - other
+  ext: .nsf
+  mime: application/vnd.lotus-notes
+  text: application/vnd.lotus-notes
+- categories:
+  - other
+  ext: ''
+  mime: application/CDFV2
+  text: application/cdfv2
+- categories:
+  - documents
+  ext: .xht
+  mime: application/xhtml+xml
+  text: application/xhtml+xml
+- categories:
+  - video
+  ext: .wmv
+  mime: video/x-ms-wmv
+  text: video/x-ms-wmv
+- categories:
+  - documents
+  ext: .man
+  mime: application/x-troff-man
+  text: application/x-troff-man
+- categories:
+  - other
+  ext: ''
+  mime: application/pgp-keys
+  text: application/pgp-keys
+- categories:
+  - documents
+  ext: .man
+  mime: text/troff
+  text: text/troff
+- categories:
+  - data
+  ext: .rq
+  mime: application/sparql-query
+  text: application/sparql-query
+- categories:
+  - documents
+  ext: .pdf
+  mime: text/pdf
+  text: text/pdf
+- categories:
+  - other
+  ext: ''
+  mime: text/x-tex
+  text: text/x-tex
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.shp
+  text: application/vnd.shp
+- categories:
+  - other
+  ext: ''
+  mime: application/x-dbf
+  text: application/x-dbf
+- categories:
+  - other
+  ext: .dsc
+  mime: text/prs.lines.tag
+  text: text/prs.lines.tag
+- categories:
+  - other
+  ext: .qps
+  mime: application/vnd.publishare-delta-tree
+  text: application/vnd.publishare-delta-tree
+- categories:
+  - other
+  ext: ''
+  mime: application/api
+  text: application/api
+- categories:
+  - images
+  ext: .jp2
+  mime: image/jp2
+  text: image/jp2
+- categories:
+  - video
+  ext: .mkv
+  mime: video/x-matroska
+  text: video/x-matroska
+- categories:
+  - other
+  ext: ''
+  mime: application/x-iwork-keynote-sffkey
+  text: application/x-iwork-keynote-sffkey
+- categories:
+  - other
+  ext: ''
+  mime: application/x-swc
+  text: application/x-swc
+- categories:
+  - other
+  ext: .flx
+  mime: text/vnd.fmi.flexstor
+  text: text/vnd.fmi.flexstor
+- categories:
+  - other
+  ext: ''
+  mime: dwg/dxf
+  text: dwg/dxf
+- categories:
+  - other
+  ext: ''
+  mime: application/text
+  text: application/text
+- categories:
+  - other
+  ext: ''
+  mime: application/x-troff
+  text: application/x-troff
+- categories:
+  - other
+  ext: ''
+  mime: audio/x-flac
+  text: audio/x-flac
+- categories:
+  - other
+  ext: ''
+  mime: application/download
+  text: application/download
+- categories:
+  - other
+  ext: .au
+  mime: audio/basic
+  text: audio/basic
+- categories:
+  - other
+  ext: .str
+  mime: application/vnd.pg.format
+  text: application/vnd.pg.format
+- categories:
+  - documents
+  ext: .docm
+  mime: application/vnd.ms-word.document.macroenabled.12
+  text: application/vnd.ms-word.document.macroenabled.12
+- categories:
+  - code
+  ext: .tcl
+  mime: application/x-tcl
+  text: application/x-tcl
+- categories:
+  - other
+  ext: ''
+  mime: application/x-graphpad-prism-pzfx
+  text: application/x-graphpad-prism-pzfx
+- categories:
+  - other
+  ext: ''
+  mime: application/x-yaml
+  text: application/x-yaml
+- categories:
+  - other
+  ext: .nml
+  mime: application/vnd.enliven
+  text: application/vnd.enliven
+- categories:
+  - other
+  ext: ''
+  mime: application/x-matroska
+  text: application/x-matroska
+- categories:
+  - other
+  ext: ''
+  mime: text/vcard
+  text: text/vcard
+- categories:
+  - other
+  ext: .mag
+  mime: application/vnd.ecowin.chart
+  text: application/vnd.ecowin.chart
+- categories:
+  - other
+  ext: ''
+  mime: application/dat
+  text: application/dat
+- categories:
+  - other
+  ext: .acc
+  mime: application/vnd.americandynamics.acc
+  text: application/vnd.americandynamics.acc
+- categories:
+  - other
+  ext: ''
+  mime: application/pjnz
+  text: application/pjnz
+- categories:
+  - other
+  ext: ''
+  mime: text/x-comma-separated-values
+  text: text/x-comma-separated-values
+- categories:
+  - other
+  ext: ''
+  mime: application/x-sas-catalog
+  text: application/x-sas-catalog
+- categories:
+  - data
+  ext: ''
+  mime: text/tab
+  text: text/tab
+- categories:
+  - other
+  ext: ''
+  mime: application/x-fasta
+  text: application/x-fasta
+- categories:
+  - other
+  ext: .ics
+  mime: text/calendar
+  text: text/calendar
+- categories:
+  - video
+  ext: .ogv
+  mime: video/ogg
+  text: video/ogg
+- categories:
+  - other
+  ext: ''
+  mime: application/softgrid-do
+  text: application/softgrid-do
+- categories:
+  - data
+  ext: .dtd
+  mime: application/xml-dtd
+  text: application/xml-dtd
+- categories:
+  - other
+  ext: ''
+  mime: application/x-matlab-figure
+  text: application/x-matlab-figure
+- categories:
+  - documents
+  ext: .odc
+  mime: application/vnd.oasis.opendocument.chart
+  text: application/vnd.oasis.opendocument.chart
+- categories:
+  - audio
+  ext: .wma
+  mime: audio/x-ms-wma
+  text: audio/x-ms-wma
+- categories:
+  - other
+  ext: ''
+  mime: application/x-r-data
+  text: application/x-r-data
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ogc.wmc
+  text: application/vnd.ogc.wmc
+- categories:
+  - other
+  ext: ''
+  mime: application/csv; charset=utf-8
+  text: application/csv; charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: text/html; charset=UTF-8
+  text: text/html; charset=utf-8
+- categories:
+  - other
+  ext: .skd
+  mime: application/vnd.koan
+  text: application/vnd.koan
+- categories:
+  - other
+  ext: ''
+  mime: application/x-zipped-shp
+  text: application/x-zipped-shp
+- categories:
+  - other
+  ext: ''
+  mime: application/x-emf
+  text: application/x-emf
+- categories:
+  - other
+  ext: ''
+  mime: multipart/x-zip
+  text: multipart/x-zip
+- categories:
+  - other
+  ext: ''
+  mime: application/x-gameboy-rom
+  text: application/x-gameboy-rom
+- categories:
+  - other
+  ext: ''
+  mime: application/x-esri-shape
+  text: application/x-esri-shape
+- categories:
+  - other
+  ext: ''
+  mime: application/p21
+  text: application/p21
+- categories:
+  - other
+  ext: ''
+  mime: application/icms
+  text: application/icms
+- categories:
+  - other
+  ext: ''
+  mime: application/x-json-hypothesis
+  text: application/x-json-hypothesis
+- categories:
+  - other
+  ext: ''
+  mime: text/sis
+  text: text/sis
+- categories:
+  - other
+  ext: ''
+  mime: application/sla
+  text: application/sla
+- categories:
+  - images
+  ext: .fst
+  mime: image/vnd.fst
+  text: image/vnd.fst
+- categories:
+  - other
+  ext: ''
+  mime: application/xcap-diff+xml
+  text: application/xcap-diff+xml
+- categories:
+  - other
+  ext: ''
+  mime: audio/wave
+  text: audio/wave
+- categories:
+  - images
+  ext: .webp
+  mime: image/webp
+  text: image/webp
+- categories:
+  - other
+  ext: ''
+  mime: application/x-bibtex-text-file
+  text: application/x-bibtex-text-file
+- categories:
+  - other
+  ext: .res
+  mime: application/x-dtbresource+xml
+  text: application/x-dtbresource+xml
+- categories:
+  - other
+  ext: .vml
+  mime: model/vrml
+  text: model/vrml
+- categories:
+  - other
+  ext: ''
+  mime: application/shapefile
+  text: application/shapefile
+- categories:
+  - other
+  ext: ''
+  mime: application/nappdf
+  text: application/nappdf
+- categories:
+  - other
+  ext: ''
+  mime: application/x-msexcel
+  text: application/x-msexcel
+- categories:
+  - other
+  ext: ''
+  mime: application/blender
+  text: application/blender
+- categories:
+  - other
+  ext: ''
+  mime: image/x-panasonic-rw
+  text: image/x-panasonic-rw
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.openxmlformats-officedocument.presentationml.pre
+  text: application/vnd.openxmlformats-officedocument.presentationml.pre
+- categories:
+  - other
+  ext: ''
+  mime: application/x-tar-compressed
+  text: application/x-tar-compressed
+- categories:
+  - other
+  ext: .dna
+  mime: application/vnd.dna
+  text: application/vnd.dna
+- categories:
+  - other
+  ext: .gtar
+  mime: application/x-gtar
+  text: application/x-gtar
+- categories:
+  - other
+  ext: .ssf
+  mime: application/vnd.epson.ssf
+  text: application/vnd.epson.ssf
+- categories:
+  - other
+  ext: ''
+  mime: application/opensearchdescription+xml
+  text: application/opensearchdescription+xml
+- categories:
+  - other
+  ext: ''
+  mime: application/macbinary
+  text: application/macbinary
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.shx
+  text: application/vnd.shx
+- categories:
+  - other
+  ext: .sig
+  mime: application/pgp-signature
+  text: application/pgp-signature
+- categories:
+  - other
+  ext: ''
+  mime: application/x-webarchive
+  text: application/x-webarchive
+- categories:
+  - other
+  ext: ''
+  mime: application/x-aportisdoc
+  text: application/x-aportisdoc
+- categories:
+  - other
+  ext: ''
+  mime: application/WMS
+  text: application/wms
+- categories:
+  - documents
+  ext: .md
+  mime: text/x-markdown
+  text: text/x-markdown
+- categories:
+  - other
+  ext: ''
+  mime: text/x-spss-syntax; charset=UTF-8
+  text: text/x-spss-syntax; charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: text/x-web-markdown
+  text: text/x-web-markdown
+- categories:
+  - other
+  ext: ''
+  mime: application/pkix-attr-cert
+  text: application/pkix-attr-cert
+- categories:
+  - other
+  ext: ''
+  mime: audio/mod
+  text: audio/mod
+- categories:
+  - other
+  ext: ''
+  mime: application/x-ms-shortcut
+  text: application/x-ms-shortcut
+- categories:
+  - other
+  ext: ''
+  mime: xml/soap
+  text: xml/soap
+- categories:
+  - other
+  ext: .lbe
+  mime: application/vnd.llamagraphics.life-balance.exchange+xml
+  text: application/vnd.llamagraphics.life-balance.exchange+xml
+- categories:
+  - other
+  ext: .src
+  mime: application/x-wais-source
+  text: application/x-wais-source
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.openxmlformats
+  text: application/vnd.openxmlformats
+- categories:
+  - other
+  ext: ''
+  mime: image/rwl
+  text: image/rwl
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.wolfram.nb
+  text: application/vnd.wolfram.nb
+- categories:
+  - other
+  ext: .stc
+  mime: application/vnd.sun.xml.calc.template
+  text: application/vnd.sun.xml.calc.template
+- categories:
+  - other
+  ext: ''
+  mime: application/x-123
+  text: application/x-123
+- categories:
+  - other
+  ext: ''
+  mime: application/x-font-woff
+  text: application/x-font-woff
+- categories:
+  - other
+  ext: .p7s
+  mime: application/pkcs7-signature
+  text: application/pkcs7-signature
+- categories:
+  - other
+  ext: ''
+  mime: application/x-dbase
+  text: application/x-dbase
+- categories:
+  - other
+  ext: ''
+  mime: application/x-director
+  text: application/x-director
+- categories:
+  - documents
+  ext: .chm
+  mime: application/vnd.ms-htmlhelp
+  text: application/vnd.ms-htmlhelp
+- categories:
+  - documents
+  ext: .pub
+  mime: application/x-mspublisher
+  text: application/x-mspublisher
+- categories:
+  - archives
+  ext: .zip
+  mime: application/x-zip
+  text: application/x-zip
+- categories:
+  - other
+  ext: ''
+  mime: application/x-spss-sps
+  text: application/x-spss-sps
+- categories:
+  - geodata
+  ext: .wmts
+  mime: application/vnd.ogc.wmts_xml
+  text: application/vnd.ogc.wmts_xml
+- categories:
+  - documents
+  ext: .afm
+  mime: application/x-font-type1
+  text: application/x-font-type1
+- categories:
+  - data
+  ext: .yaml
+  mime: text/x-yaml
+  text: text/x-yaml
+- categories:
+  - other
+  ext: ''
+  mime: text/x-uri
+  text: text/x-uri
+- categories:
+  - other
+  ext: ''
+  mime: application/rat-file
+  text: application/rat-file
+- categories:
+  - other
+  ext: .dts
+  mime: audio/vnd.dts
+  text: audio/vnd.dts
+- categories:
+  - code
+  ext: .php
+  mime: text/php
+  text: text/php
+- categories:
+  - data
+  ext: .yaml
+  mime: application/yaml
+  text: application/yaml
+- categories:
+  - other
+  ext: ''
+  mime: application/n-triples
+  text: application/n-triples
+- categories:
+  - other
+  ext: ''
+  mime: application/json; charset=utf-8
+  text: application/json; charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: application/morphographx.mgxm
+  text: application/morphographx.mgxm
+- categories:
+  - other
+  ext: ''
+  mime: application/x-download
+  text: application/x-download
+- categories:
+  - video
+  ext: ''
+  mime: video/vnd.dlna.mpeg-tts
+  text: video/vnd.dlna.mpeg-tts
+- categories:
+  - other
+  ext: ''
+  mime: application/x-jmp-data
+  text: application/x-jmp-data
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.dynageo
+  text: application/vnd.dynageo
+- categories:
+  - video
+  ext: .mp4
+  mime: audio/mp4
+  text: audio/mp4
+- categories:
+  - other
+  ext: ''
+  mime: text/html; charset=iso-8859-1
+  text: text/html; charset=iso-8859-1
+- categories:
+  - other
+  ext: ''
+  mime: text/directory
+  text: text/directory
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd
+  text: application/vnd
+- categories:
+  - other
+  ext: ''
+  mime: application/fdt+xml
+  text: application/fdt+xml
+- categories:
+  - other
+  ext: ''
+  mime: text/x-r-doc
+  text: text/x-r-doc
+- categories:
+  - other
+  ext: ''
+  mime: text/x-c++src
+  text: text/x-c++src
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.wm.igor.pxp
+  text: application/vnd.wm.igor.pxp
+- categories:
+  - other
+  ext: ''
+  mime: application/sql
+  text: application/sql
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.google-apps.document
+  text: application/vnd.google-apps.document
+- categories:
+  - other
+  ext: ''
+  mime: application/x-sas-transport
+  text: application/x-sas-transport
+- categories:
+  - other
+  ext: ''
+  mime: application/java-serialized-object
+  text: application/java-serialized-object
+- categories:
+  - other
+  ext: ''
+  mime: text/x-bibtex
+  text: text/x-bibtex
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.d
+  text: application/vnd.openxmlformats-officedocument.wordprocessingml.d
+- categories:
+  - other
+  ext: ''
+  mime: application/x-pdf
+  text: application/x-pdf
+- categories:
+  - other
+  ext: ''
+  mime: audio/audible
+  text: audio/audible
+- categories:
+  - other
+  ext: ''
+  mime: application/wms
+  text: application/wms
+- categories:
+  - geodata
+  ext: .csw
+  mime: application/vnd.ogc.csw.capabilities.response_xml
+  text: application/vnd.ogc.csw.capabilities.response_xml
+- categories:
+  - images
+  ext: .ico
+  mime: image/vnd.microsoft.icon
+  text: image/vnd.microsoft.icon
+- categories:
+  - code
+  ext: .asm
+  mime: text/x-asm
+  text: text/x-asm
+- categories:
+  - other
+  ext: ''
+  mime: application/Groundwater Level Data Viewer
+  text: application/groundwater level data viewer
+- categories:
+  - video
+  ext: .flv
+  mime: video/x-flv
+  text: video/x-flv
+- categories:
+  - other
+  ext: .igs
+  mime: model/iges
+  text: model/iges
+- categories:
+  - code
+  ext: .pyc
+  mime: application/x-python-code
+  text: application/x-python-code
+- categories:
+  - other
+  ext: ''
+  mime: text/rdf
+  text: text/rdf
+- categories:
+  - other
+  ext: ''
+  mime: text/x-perl-script
+  text: text/x-perl-script
+- categories:
+  - other
+  ext: ''
+  mime: application/x-cfs-compressed
+  text: application/x-cfs-compressed
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-gamess-input
+  text: chemical/x-gamess-input
+- categories:
+  - other
+  ext: ''
+  mime: application/x-sas-log
+  text: application/x-sas-log
+- categories:
+  - other
+  ext: ''
+  mime: multipart/mixed
+  text: multipart/mixed
+- categories:
+  - other
+  ext: ''
+  mime: application/x-iwork-keynote-sffnumbers
+  text: application/x-iwork-keynote-sffnumbers
+- categories:
+  - other
+  ext: ''
+  mime: application/xlsx
+  text: application/xlsx
+- categories:
+  - other
+  ext: ''
+  mime: application/x-bibtex
+  text: application/x-bibtex
+- categories:
+  - other
+  ext: ''
+  mime: image/jpg
+  text: image/jpg
+- categories:
+  - other
+  ext: ''
+  mime: application/x-archive
+  text: application/x-archive
+- categories:
+  - images
+  ext: .png
+  mime: image/png;charset=UTF-8
+  text: image/png;charset=utf-8
+- categories:
+  - other
+  ext: .sit
+  mime: application/x-stuffit
+  text: application/x-stuffit
+- categories:
+  - other
+  ext: ''
+  mime: text/x-makefile
+  text: text/x-makefile
+- categories:
+  - other
+  ext: ''
+  mime: text/x-expect
+  text: text/x-expect
+- categories:
+  - other
+  ext: ''
+  mime: application/x-docker-file
+  text: application/x-docker-file
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-cdx
+  text: chemical/x-cdx
+- categories:
+  - other
+  ext: .mesh
+  mime: model/mesh
+  text: model/mesh
+- categories:
+  - images
+  ext: .svg
+  mime: image/svg
+  text: image/svg
+- categories:
+  - other
+  ext: ''
+  mime: text/x-jmp-script
+  text: text/x-jmp-script
+- categories:
+  - other
+  ext: ''
+  mime: text/html; charset="utf-8"
+  text: text/html; charset="utf-8"
+- categories:
+  - other
+  ext: ''
+  mime: application/aspx
+  text: application/aspx
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.google-earth
+  text: application/vnd.google-earth
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-mopac-input
+  text: chemical/x-mopac-input
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.snapgene.dna
+  text: application/vnd.snapgene.dna
+- categories:
+  - other
+  ext: ''
+  mime: application/x-jmp-report
+  text: application/x-jmp-report
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.wolfram.mathematica
+  text: application/vnd.wolfram.mathematica
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.Kinar
+  text: application/vnd.kinar
+- categories:
+  - other
+  ext: ''
+  mime: image/x-raw-panasonic
+  text: image/x-raw-panasonic
+- categories:
+  - images
+  ext: .ico
+  mime: image/x-icon
+  text: image/x-icon
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.lotus-organizer
+  text: application/vnd.lotus-organizer
+- categories:
+  - documents
+  ext: .xltx
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.template
+  text: application/vnd.openxmlformats-officedocument.spreadsheetml.template
+- categories:
+  - other
+  ext: ''
+  mime: text/x-stata-syntax; charset=UTF-8
+  text: text/x-stata-syntax; charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: application/tar
+  text: application/tar
+- categories:
+  - other
+  ext: ''
+  mime: application/x-wine-extension-do
+  text: application/x-wine-extension-do
+- categories:
+  - other
+  ext: ''
+  mime: audio/vnd.dlna.adts
+  text: audio/vnd.dlna.adts
+- categories:
+  - other
+  ext: ''
+  mime: application/x-ruby
+  text: application/x-ruby
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.google-earth.kmz+xml
+  text: application/vnd.google-earth.kmz+xml
+- categories:
+  - other
+  ext: ''
+  mime: application/docx
+  text: application/docx
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-fontobject
+  text: application/vnd.ms-fontobject
+- categories:
+  - images
+  ext: .tif
+  mime: image/tiff; application=geotiff
+  text: image/tiff; application=geotiff
+- categories:
+  - other
+  ext: ''
+  mime: text/html; subtype=emikat
+  text: text/html; subtype=emikat
+- categories:
+  - other
+  ext: ''
+  mime: application/jsv
+  text: application/jsv
+- categories:
+  - video
+  ext: ''
+  mime: video/x-smv
+  text: video/x-smv
+- categories:
+  - other
+  ext: ''
+  mime: audio/x-ape
+  text: audio/x-ape
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-office
+  text: application/vnd.ms-office
+- categories:
+  - other
+  ext: ''
+  mime: application/x-itunes-itlp
+  text: application/x-itunes-itlp
+- categories:
+  - other
+  ext: ''
+  mime: application/xls; charset=utf-8
+  text: application/xls; charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: application/xml;charset=UTF-8
+  text: application/xml;charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.openxmlformats-officedocument.spreadsheetml.shee
+  text: application/vnd.openxmlformats-officedocument.spreadsheetml.shee
+- categories:
+  - documents
+  ext: .xslt
+  mime: application/xslt+xml
+  text: application/xslt+xml
+- categories:
+  - other
+  ext: ''
+  mime: text/asp
+  text: text/asp
+- categories:
+  - other
+  ext: ''
+  mime: text/x-qml
+  text: text/x-qml
+- categories:
+  - other
+  ext: ''
+  mime: text/x-julia
+  text: text/x-julia
+- categories:
+  - other
+  ext: ''
+  mime: application/force-download
+  text: application/force-download
+- categories:
+  - other
+  ext: ''
+  mime: text/JSON
+  text: text/json
+- categories:
+  - other
+  ext: ''
+  mime: test/42
+  text: test/42
+- categories:
+  - other
+  ext: ''
+  mime: zip/shp
+  text: zip/shp
+- categories:
+  - other
+  ext: ''
+  mime: application/wfs
+  text: application/wfs
+- categories:
+  - other
+  ext: ''
+  mime: biosequence/fasta
+  text: biosequence/fasta
+- categories:
+  - other
+  ext: ''
+  mime: application/x-tika-ooxml
+  text: application/x-tika-ooxml
+- categories:
+  - other
+  ext: ''
+  mime: application/haansoftdocx
+  text: application/haansoftdocx
+- categories:
+  - other
+  ext: ''
+  mime: application/WMTS
+  text: application/wmts
+- categories:
+  - other
+  ext: ''
+  mime: application/xml+gml
+  text: application/xml+gml
+- categories:
+  - other
+  ext: ''
+  mime: application/PDF
+  text: application/pdf
+- categories:
+  - other
+  ext: .mbox
+  mime: application/mbox
+  text: application/mbox
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.mcd
+  text: application/vnd.mcd
+- categories:
+  - other
+  ext: ''
+  mime: text/x-common-lisp
+  text: text/x-common-lisp
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-pkistl
+  text: application/vnd.ms-pkistl
+- categories:
+  - other
+  ext: ''
+  mime: binary/octet-stream
+  text: binary/octet-stream
+- categories:
+  - other
+  ext: ''
+  mime: image/x-lwo
+  text: image/x-lwo
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.inquisit.data
+  text: application/vnd.inquisit.data
+- categories:
+  - other
+  ext: ''
+  mime: chemical/seq-na-genbank
+  text: chemical/seq-na-genbank
+- categories:
+  - other
+  ext: ''
+  mime: application/x-sas-output
+  text: application/x-sas-output
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-access
+  text: application/vnd.ms-access
+- categories:
+  - other
+  ext: ''
+  mime: image/x-eps
+  text: image/x-eps
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.proteus.magazine
+  text: application/vnd.proteus.magazine
+- categories:
+  - other
+  ext: ''
+  mime: application/>octet-stream
+  text: application/>octet-stream
+- categories:
+  - other
+  ext: ''
+  mime: application/x-apple-diskimage
+  text: application/x-apple-diskimage
+- categories:
+  - other
+  ext: ''
+  mime: image/x-hdr
+  text: image/x-hdr
+- categories:
+  - other
+  ext: ''
+  mime: application/x-javascript
+  text: application/x-javascript
+- categories:
+  - other
+  ext: ''
+  mime: application/rpki-ghostbusters
+  text: application/rpki-ghostbusters
+- categories:
+  - other
+  ext: ''
+  mime: application/mx20
+  text: application/mx20
+- categories:
+  - other
+  ext: ''
+  mime: application/nx
+  text: application/nx
+- categories:
+  - other
+  ext: .daf
+  mime: application/vnd.mobius.daf
+  text: application/vnd.mobius.daf
+- categories:
+  - data
+  ext: .sqlite
+  mime: application/vnd.sqlite3
+  text: application/vnd.sqlite3
+- categories:
+  - other
+  ext: .es3
+  mime: application/vnd.eszigno3+xml
+  text: application/vnd.eszigno3+xml
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.epson.msf
+  text: application/vnd.epson.msf
+- categories:
+  - documents
+  ext: .ppsx
+  mime: application/vnd.openxmlformats-officedocument.presentationml.slideshow
+  text: application/vnd.openxmlformats-officedocument.presentationml.slideshow
+- categories:
+  - other
+  ext: ''
+  mime: text/x-chdr
+  text: text/x-chdr
+- categories:
+  - other
+  ext: ''
+  mime: text/HTML
+  text: text/html
+- categories:
+  - other
+  ext: ''
+  mime: image/example
+  text: image/example
+- categories:
+  - other
+  ext: ''
+  mime: application/x-Research-Info-Systems
+  text: application/x-research-info-systems
+- categories:
+  - other
+  ext: ''
+  mime: application/xqgis
+  text: application/xqgis
+- categories:
+  - other
+  ext: ''
+  mime: model/example
+  text: model/example
+- categories:
+  - other
+  ext: ''
+  mime: application/tsv
+  text: application/tsv
+- categories:
+  - other
+  ext: ''
+  mime: application/kmz
+  text: application/kmz
+- categories:
+  - other
+  ext: ''
+  mime: application/x-iwork-numbers-sffnumbers
+  text: application/x-iwork-numbers-sffnumbers
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.afpc.modca-overlay
+  text: application/vnd.afpc.modca-overlay
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-embl-dl-nucleotide
+  text: chemical/x-embl-dl-nucleotide
+- categories:
+  - other
+  ext: ''
+  mime: application/WFS
+  text: application/wfs
+- categories:
+  - other
+  ext: ''
+  mime: application/x-turtle
+  text: application/x-turtle
+- categories:
+  - other
+  ext: ''
+  mime: application/7-zip
+  text: application/7-zip
+- categories:
+  - documents
+  ext: .epub
+  mime: application/epub+zip
+  text: application/epub+zip
+- categories:
+  - documents
+  ext: .odp
+  mime: application/vnd.oasis.opendocument.presentation
+  text: application/vnd.oasis.opendocument.presentation
+- categories:
+  - other
+  ext: .wmz
+  mime: application/x-ms-wmz
+  text: application/x-ms-wmz
+- categories:
+  - other
+  ext: ''
+  mime: text/x-haxe
+  text: text/x-haxe
+- categories:
+  - other
+  ext: ''
+  mime: text/xml;charset=UTF-8
+  text: text/xml;charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: application/json;charset=UTF-8
+  text: application/json;charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: image/x-tga
+  text: image/x-tga
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-officetheme
+  text: application/vnd.ms-officetheme
+- categories:
+  - other
+  ext: ''
+  mime: application/nc
+  text: application/nc
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.multiad.creator.cif
+  text: application/vnd.multiad.creator.cif
+- categories:
+  - other
+  ext: ''
+  mime: application/x-python
+  text: application/x-python
+- categories:
+  - other
+  ext: ''
+  mime: text/x-sql
+  text: text/x-sql
+- categories:
+  - other
+  ext: ''
+  mime: text/csv;charset=UTF-8
+  text: text/csv;charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: application/x-esri-crs
+  text: application/x-esri-crs
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-outlook
+  text: application/vnd.ms-outlook
+- categories:
+  - other
+  ext: ''
+  mime: application/x-gzip-compressed
+  text: application/x-gzip-compressed
+- categories:
+  - other
+  ext: ''
+  mime: application/x-rss+xml
+  text: application/x-rss+xml
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.dbf
+  text: application/vnd.dbf
+- categories:
+  - other
+  ext: ''
+  mime: application/mx22
+  text: application/mx22
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-sdlfile
+  text: chemical/x-sdlfile
+- categories:
+  - other
+  ext: ''
+  mime: application/x-stata-do
+  text: application/x-stata-do
+- categories:
+  - other
+  ext: ''
+  mime: application/x-applix-spreadsheet
+  text: application/x-applix-spreadsheet
+- categories:
+  - other
+  ext: ''
+  mime: application/x-endnote-connect
+  text: application/x-endnote-connect
+- categories:
+  - other
+  ext: ''
+  mime: application/x-r-project
+  text: application/x-r-project
+- categories:
+  - code
+  ext: .apk
+  mime: application/vnd.android.package-archive
+  text: application/vnd.android.package-archive
+- categories:
+  - code
+  ext: .csh
+  mime: application/x-csh
+  text: application/x-csh
+- categories:
+  - geodata
+  ext: .gpkg
+  mime: application/gpkg
+  text: application/gpkg
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ibm.rights-management
+  text: application/vnd.ibm.rights-management
+- categories:
+  - video
+  ext: .m3u
+  mime: audio/x-mpegurl
+  text: audio/x-mpegurl
+- categories:
+  - other
+  ext: ''
+  mime: application/x-shar
+  text: application/x-shar
+- categories:
+  - other
+  ext: ''
+  mime: text/xlsx
+  text: text/xlsx
+- categories:
+  - other
+  ext: ''
+  mime: text/SGML
+  text: text/sgml
+- categories:
+  - other
+  ext: ''
+  mime: application/x-lzh-compressed
+  text: application/x-lzh-compressed
+- categories:
+  - other
+  ext: ''
+  mime: application/viplab+json
+  text: application/viplab+json
+- categories:
+  - other
+  ext: ''
+  mime: text/x-patch
+  text: text/x-patch
+- categories:
+  - other
+  ext: ''
+  mime: application/illustrator
+  text: application/illustrator
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.arinc
+  text: application/vnd.arinc
+- categories:
+  - other
+  ext: ''
+  mime: application/x-photoshop
+  text: application/x-photoshop
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-molfile
+  text: chemical/x-molfile
+- categories:
+  - video
+  ext: ''
+  mime: video/example
+  text: video/example
+- categories:
+  - other
+  ext: ''
+  mime: document/unknown
+  text: document/unknown
+- categories:
+  - other
+  ext: ''
+  mime: text/x-perl
+  text: text/x-perl
+- categories:
+  - other
+  ext: ''
+  mime: application/xhdf5
+  text: application/xhdf5
+- categories:
+  - other
+  ext: ''
+  mime: unknown/unknown
+  text: unknown/unknown
+- categories:
+  - other
+  ext: ''
+  mime: application/x-executable
+  text: application/x-executable
+- categories:
+  - other
+  ext: ''
+  mime: application/x-sharedlib
+  text: application/x-sharedlib
+- categories:
+  - other
+  ext: ''
+  mime: application/x-ole-storage
+  text: application/x-ole-storage
+- categories:
+  - other
+  ext: ''
+  mime: application/x-ns-proxy-autoconfig
+  text: application/x-ns-proxy-autoconfig
+- categories:
+  - other
+  ext: ''
+  mime: application/vndams-excel
+  text: application/vndams-excel
+- categories:
+  - other
+  ext: ''
+  mime: application/ppt
+  text: application/ppt
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.pmi.widget
+  text: application/vnd.pmi.widget
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-cerius
+  text: chemical/x-cerius
+- categories:
+  - other
+  ext: ''
+  mime: application/x-dna
+  text: application/x-dna
+- categories:
+  - other
+  ext: ''
+  mime: application/x-fasta+txt
+  text: application/x-fasta+txt
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.chemdraw+xml
+  text: application/vnd.chemdraw+xml
+- categories:
+  - other
+  ext: ''
+  mime: image/cgm
+  text: image/cgm
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.rim.cod
+  text: application/vnd.rim.cod
+- categories:
+  - images
+  ext: .gv
+  mime: text/vnd.graphviz
+  text: text/vnd.graphviz
+- categories:
+  - other
+  ext: ''
+  mime: application/cu-seeme
+  text: application/cu-seeme
+- categories:
+  - documents
+  ext: .dotx
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.template
+  text: application/vnd.openxmlformats-officedocument.wordprocessingml.template
+- categories:
+  - other
+  ext: ''
+  mime: application/x-dvi
+  text: application/x-dvi
+- categories:
+  - documents
+  ext: .latex
+  mime: application/x-latex
+  text: application/x-latex
+- categories:
+  - other
+  ext: ''
+  mime: audio/x-matroska
+  text: audio/x-matroska
+- categories:
+  - other
+  ext: ''
+  mime: application/mxf
+  text: application/mxf
+- categories:
+  - other
+  ext: ''
+  mime: application/x-perl
+  text: application/x-perl
+- categories:
+  - images
+  ext: .png
+  mime: Image/png
+  text: image/png
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-powerpoint.presentation.macroenabled.12
+  text: application/vnd.ms-powerpoint.presentation.macroenabled.12
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.stardivision.draw
+  text: application/vnd.stardivision.draw
+- categories:
+  - code
+  ext: .wsdl
+  mime: application/wsdl+xml
+  text: application/wsdl+xml
+- categories:
+  - other
+  ext: ''
+  mime: text/x-c++hdr
+  text: text/x-c++hdr
+- categories:
+  - other
+  ext: ''
+  mime: text/zip
+  text: text/zip
+- categories:
+  - other
+  ext: ''
+  mime: application/rest
+  text: application/rest
+- categories:
+  - other
+  ext: ''
+  mime: application/x-dosexec
+  text: application/x-dosexec
+- categories:
+  - other
+  ext: ''
+  mime: text/gml+xml
+  text: text/gml+xml
+- categories:
+  - other
+  ext: ''
+  mime: application/softgrid-7z
+  text: application/softgrid-7z
+- categories:
+  - other
+  ext: ''
+  mime: application/asx
+  text: application/asx
+- categories:
+  - other
+  ext: ''
+  mime: test/csv
+  text: test/csv
+- categories:
+  - other
+  ext: ''
+  mime: application/x-octet-stream
+  text: application/x-octet-stream
+- categories:
+  - other
+  ext: ''
+  mime: text/x-sfv
+  text: text/x-sfv
+- categories:
+  - other
+  ext: ''
+  mime: application/nvivo-project
+  text: application/nvivo-project
+- categories:
+  - other
+  ext: ''
+  mime: application/x-chimera
+  text: application/x-chimera
+- categories:
+  - other
+  ext: ''
+  mime: application/a-qgis
+  text: application/a-qgis
+- categories:
+  - other
+  ext: ''
+  mime: apploication/vnd.ms-excel
+  text: apploication/vnd.ms-excel
+- categories:
+  - other
+  ext: ''
+  mime: application/text-plain:formatted
+  text: application/text-plain:formatted
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-excel.template.macroEnabled.12
+  text: application/vnd.ms-excel.template.macroenabled.12
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.google-apps.map
+  text: application/vnd.google-apps.map
+- categories:
+  - other
+  ext: ''
+  mime: application/softgrid-sps
+  text: application/softgrid-sps
+- categories:
+  - other
+  ext: ''
+  mime: tesxt/json
+  text: tesxt/json
+- categories:
+  - other
+  ext: ''
+  mime: application/Data Download
+  text: application/data download
+- categories:
+  - other
+  ext: ''
+  mime: application/png
+  text: application/png
+- categories:
+  - other
+  ext: ''
+  mime: application/x-graphpad-prism-pzf
+  text: application/x-graphpad-prism-pzf
+- categories:
+  - other
+  ext: ''
+  mime: application/haansofthwp
+  text: application/haansofthwp
+- categories:
+  - other
+  ext: ''
+  mime: application/xqis
+  text: application/xqis
+- categories:
+  - other
+  ext: ''
+  mime: application/ascii
+  text: application/ascii
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.snesdev-page-table
+  text: application/vnd.snesdev-page-table
+- categories:
+  - other
+  ext: ''
+  mime: application/shapefiles
+  text: application/shapefiles
+- categories:
+  - other
+  ext: ''
+  mime: audio/x-ms-wmv
+  text: audio/x-ms-wmv
+- categories:
+  - other
+  ext: ''
+  mime: image/x-applix-graphics
+  text: image/x-applix-graphics
+- categories:
+  - other
+  ext: ''
+  mime: application/json+gzip
+  text: application/json+gzip
+- categories:
+  - other
+  ext: ''
+  mime: application/x-msi
+  text: application/x-msi
+- categories:
+  - other
+  ext: ''
+  mime: application/dsb
+  text: application/dsb
+- categories:
+  - documents
+  ext: .abw
+  mime: application/x-abiword
+  text: application/x-abiword
+- categories:
+  - other
+  ext: ''
+  mime: application/x-ms-application
+  text: application/x-ms-application
+- categories:
+  - other
+  ext: ''
+  mime: application/applixware
+  text: application/applixware
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-pki.seccat
+  text: application/vnd.ms-pki.seccat
+- categories:
+  - other
+  ext: ''
+  mime: image/x-cmx
+  text: image/x-cmx
+- categories:
+  - documents
+  ext: .rst
+  mime: text/x-rst
+  text: text/x-rst
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.chipnuts.karaoke-mmd
+  text: application/vnd.chipnuts.karaoke-mmd
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.oasis.opendocument.database
+  text: application/vnd.oasis.opendocument.database
+- categories:
+  - other
+  ext: ''
+  mime: application/x-font-otf
+  text: application/x-font-otf
+- categories:
+  - other
+  ext: ''
+  mime: image/x-portable-graymap
+  text: image/x-portable-graymap
+- categories:
+  - other
+  ext: ''
+  mime: application/x-font-linux-psf
+  text: application/x-font-linux-psf
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.rn-realmedia
+  text: application/vnd.rn-realmedia
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.stardivision.writer
+  text: application/vnd.stardivision.writer
+- categories:
+  - other
+  ext: ''
+  mime: application/x-stuffitx
+  text: application/x-stuffitx
+- categories:
+  - other
+  ext: ''
+  mime: application/smil+xml
+  text: application/smil+xml
+- categories:
+  - other
+  ext: ''
+  mime: application/x-font-snf
+  text: application/x-font-snf
+- categories:
+  - other
+  ext: ''
+  mime: application/hyperstudio
+  text: application/hyperstudio
+- categories:
+  - other
+  ext: ''
+  mime: text/example
+  text: text/example
+- categories:
+  - other
+  ext: ''
+  mime: text/html; charset=utf-8; charset=utf-8
+  text: text/html; charset=utf-8; charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: application/example
+  text: application/example
+- categories:
+  - other
+  ext: ''
+  mime: application/x-fityk
+  text: application/x-fityk
+- categories:
+  - video
+  ext: ''
+  mime: video/vnd.dece-mp4
+  text: video/vnd.dece-mp4
+- categories:
+  - other
+  ext: ''
+  mime: application/ibooks
+  text: application/ibooks
+- categories:
+  - other
+  ext: ''
+  mime: text/x-ms-regedit
+  text: text/x-ms-regedit
+- categories:
+  - other
+  ext: ''
+  mime: application/KaluzaAnalysis
+  text: application/kaluzaanalysis
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.openxmlformats-officedocument.wordprocessingml.t
+  text: application/vnd.openxmlformats-officedocument.wordprocessingml.t
+- categories:
+  - other
+  ext: ''
+  mime: application/wps-office.docx
+  text: application/wps-office.docx
+- categories:
+  - other
+  ext: ''
+  mime: application/x-python-bytecode
+  text: application/x-python-bytecode
+- categories:
+  - other
+  ext: ''
+  mime: image/tif
+  text: image/tif
+- categories:
+  - other
+  ext: ''
+  mime: application/x-desktop
+  text: application/x-desktop
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.wolfram.player
+  text: application/vnd.wolfram.player
+- categories:
+  - other
+  ext: ''
+  mime: text/html;charset=ISO-8859-1
+  text: text/html;charset=iso-8859-1
+- categories:
+  - other
+  ext: ''
+  mime: text/nlogo
+  text: text/nlogo
+- categories:
+  - other
+  ext: ''
+  mime: text/csv; charset=utf-8
+  text: text/csv; charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: text/html;charset=UTF-8
+  text: text/html;charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: audio/mid
+  text: audio/mid
+- categories:
+  - other
+  ext: ''
+  mime: text/htm
+  text: text/htm
+- categories:
+  - other
+  ext: ''
+  mime: application/softgrid-inp
+  text: application/softgrid-inp
+- categories:
+  - other
+  ext: ''
+  mime: appplication/pdf
+  text: appplication/pdf
+- categories:
+  - other
+  ext: ''
+  mime: image/x-mrsid-image
+  text: image/x-mrsid-image
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-publisher
+  text: application/vnd.ms-publisher
+- categories:
+  - other
+  ext: ''
+  mime: text/unknown
+  text: text/unknown
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.clustal.aln
+  text: application/vnd.clustal.aln
+- categories:
+  - other
+  ext: ''
+  mime: text/vnd.dvb.subtitle
+  text: text/vnd.dvb.subtitle
+- categories:
+  - other
+  ext: ''
+  mime: application/x-rtf
+  text: application/x-rtf
+- categories:
+  - other
+  ext: ''
+  mime: text/x-tcl
+  text: text/x-tcl
+- categories:
+  - other
+  ext: ''
+  mime: image/x-emf
+  text: image/x-emf
+- categories:
+  - other
+  ext: ''
+  mime: applicaton/octet-stream
+  text: applicaton/octet-stream
+- categories:
+  - other
+  ext: ''
+  mime: image/x-wmf
+  text: image/x-wmf
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.wolfram.cdf
+  text: application/vnd.wolfram.cdf
+- categories:
+  - other
+  ext: ''
+  mime: application/rdata
+  text: application/rdata
+- categories:
+  - other
+  ext: ''
+  mime: application/htmlf
+  text: application/htmlf
+- categories:
+  - other
+  ext: ''
+  mime: text/gff3
+  text: text/gff3
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.nexus.nex
+  text: application/vnd.nexus.nex
+- categories:
+  - other
+  ext: ''
+  mime: text/vtt
+  text: text/vtt
+- categories:
+  - other
+  ext: ''
+  mime: audio/x-stm
+  text: audio/x-stm
+- categories:
+  - other
+  ext: ''
+  mime: application/x-pkcs7-crl
+  text: application/x-pkcs7-crl
+- categories:
+  - other
+  ext: ''
+  mime: text/r
+  text: text/r
+- categories:
+  - other
+  ext: ''
+  mime: application/x-tex-pk
+  text: application/x-tex-pk
+- categories:
+  - other
+  ext: ''
+  mime: application/dwg
+  text: application/dwg
+- categories:
+  - other
+  ext: ''
+  mime: application/x-trash
+  text: application/x-trash
+- categories:
+  - other
+  ext: ''
+  mime: image/jpx
+  text: image/jpx
+- categories:
+  - other
+  ext: ''
+  mime: model/stl
+  text: model/stl
+- categories:
+  - other
+  ext: ''
+  mime: text/xls
+  text: text/xls
+- categories:
+  - other
+  ext: ''
+  mime: application/twbx
+  text: application/twbx
+- categories:
+  - other
+  ext: ''
+  mime: text/x-readme
+  text: text/x-readme
+- categories:
+  - other
+  ext: ''
+  mime: biosequence/phylip
+  text: biosequence/phylip
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-word.document.12
+  text: application/vnd.ms-word.document.12
+- categories:
+  - other
+  ext: ''
+  mime: application/jpeg
+  text: application/jpeg
+- categories:
+  - other
+  ext: ''
+  mime: application/DCD
+  text: application/dcd
+- categories:
+  - other
+  ext: ''
+  mime: application/irp
+  text: application/irp
+- categories:
+  - other
+  ext: ''
+  mime: image/vnd.radiance
+  text: image/vnd.radiance
+- categories:
+  - other
+  ext: ''
+  mime: audio/x-sd2
+  text: audio/x-sd2
+- categories:
+  - other
+  ext: ''
+  mime: application/wordperfect
+  text: application/wordperfect
+- categories:
+  - other
+  ext: ''
+  mime: application/x-osptracker
+  text: application/x-osptracker
+- categories:
+  - video
+  ext: ''
+  mime: video/x-dv
+  text: video/x-dv
+- categories:
+  - other
+  ext: ''
+  mime: application/zip; charset=utf-8
+  text: application/zip; charset=utf-8
+- categories:
+  - video
+  ext: .3gp
+  mime: video/3gpp
+  text: video/3gpp
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.claymore
+  text: application/vnd.claymore
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-cml
+  text: chemical/x-cml
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.novadigm.ext
+  text: application/vnd.novadigm.ext
+- categories:
+  - other
+  ext: ''
+  mime: image/g3fax
+  text: image/g3fax
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.geogebra.file
+  text: application/vnd.geogebra.file
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.hp-hps
+  text: application/vnd.hp-hps
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.iccprofile
+  text: application/vnd.iccprofile
+- categories:
+  - other
+  ext: ''
+  mime: application/x-mobipocket-ebook
+  text: application/x-mobipocket-ebook
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.apple.installer+xml
+  text: application/vnd.apple.installer+xml
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.fdsn.mseed
+  text: application/vnd.fdsn.mseed
+- categories:
+  - other
+  ext: ''
+  mime: model/vnd.mts
+  text: model/vnd.mts
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.recordare.musicxml
+  text: application/vnd.recordare.musicxml
+- categories:
+  - other
+  ext: ''
+  mime: application/x-dtbncx+xml
+  text: application/x-dtbncx+xml
+- categories:
+  - other
+  ext: ''
+  mime: application/oebps-package+xml
+  text: application/oebps-package+xml
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.oasis.opendocument.spreadsheet-template
+  text: application/vnd.oasis.opendocument.spreadsheet-template
+- categories:
+  - other
+  ext: ''
+  mime: application/x-pkcs12
+  text: application/x-pkcs12
+- categories:
+  - other
+  ext: ''
+  mime: application/x-font-pcf
+  text: application/x-font-pcf
+- categories:
+  - other
+  ext: ''
+  mime: image/x-pict
+  text: image/x-pict
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.stardivision.impress
+  text: application/vnd.stardivision.impress
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.stardivision.math
+  text: application/vnd.stardivision.math
+- categories:
+  - other
+  ext: ''
+  mime: application/x-futuresplash
+  text: application/x-futuresplash
+- categories:
+  - other
+  ext: ''
+  mime: application/scvp-vp-request
+  text: application/scvp-vp-request
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.sun.xml.writer.template
+  text: application/vnd.sun.xml.writer.template
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.trueapp
+  text: application/vnd.trueapp
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.visio
+  text: application/vnd.visio
+- categories:
+  - data
+  ext: .xltm
+  mime: application/vnd.ms-excel.template.macroenabled.12
+  text: application/vnd.ms-excel.template.macroenabled.12
+- categories:
+  - other
+  ext: ''
+  mime: text/vnd.in3d.3dml
+  text: text/vnd.in3d.3dml
+- categories:
+  - other
+  ext: ''
+  mime: text/richtext
+  text: text/richtext
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.nitf
+  text: application/vnd.nitf
+- categories:
+  - other
+  ext: ''
+  mime: application/xhtml+xml;charset=UTF-8
+  text: application/xhtml+xml;charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: application/mipc
+  text: application/mipc
+- categories:
+  - other
+  ext: ''
+  mime: application/haansoftxls
+  text: application/haansoftxls
+- categories:
+  - other
+  ext: ''
+  mime: application/zstd
+  text: application/zstd
+- categories:
+  - other
+  ext: ''
+  mime: application/x-jdf
+  text: application/x-jdf
+- categories:
+  - other
+  ext: ''
+  mime: application/softgrid-tex
+  text: application/softgrid-tex
+- categories:
+  - other
+  ext: ''
+  mime: appication/xml
+  text: appication/xml
+- categories:
+  - other
+  ext: ''
+  mime: application/nvivo-qdpx-project
+  text: application/nvivo-qdpx-project
+- categories:
+  - other
+  ext: ''
+  mime: application/x-wine-extension-opj
+  text: application/x-wine-extension-opj
+- categories:
+  - other
+  ext: ''
+  mime: application/attachment
+  text: application/attachment
+- categories:
+  - other
+  ext: ''
+  mime: application/gxf
+  text: application/gxf
+- categories:
+  - other
+  ext: ''
+  mime: application/x-wtt
+  text: application/x-wtt
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ogc.csw_xml
+  text: application/vnd.ogc.csw_xml
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-jcamp-dx
+  text: chemical/x-jcamp-dx
+- categories:
+  - other
+  ext: ''
+  mime: application/x-qgis-project-container
+  text: application/x-qgis-project-container
+- categories:
+  - other
+  ext: ''
+  mime: text/x-emacs-lisp
+  text: text/x-emacs-lisp
+- categories:
+  - other
+  ext: ''
+  mime: application/x-qtiplot
+  text: application/x-qtiplot
+- categories:
+  - other
+  ext: ''
+  mime: application/wps-office.pdf
+  text: application/wps-office.pdf
+- categories:
+  - other
+  ext: ''
+  mime: application/x-iwork-pages-sffpages
+  text: application/x-iwork-pages-sffpages
+- categories:
+  - other
+  ext: ''
+  mime: application/x-info
+  text: application/x-info
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-molconn-Z
+  text: chemical/x-molconn-z
+- categories:
+  - other
+  ext: ''
+  mime: application/rcp
+  text: application/rcp
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.google-apps.presentation
+  text: application/vnd.google-apps.presentation
+- categories:
+  - other
+  ext: ''
+  mime: application/x-raw-disk-image
+  text: application/x-raw-disk-image
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.oma.drm.content
+  text: application/vnd.oma.drm.content
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.eln+zip
+  text: application/vnd.eln+zip
+- categories:
+  - other
+  ext: ''
+  mime: application/x-extension-fcstd
+  text: application/x-extension-fcstd
+- categories:
+  - other
+  ext: ''
+  mime: application/x-stata-15
+  text: application/x-stata-15
+- categories:
+  - other
+  ext: ''
+  mime: application/x-gtar-compressed
+  text: application/x-gtar-compressed
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-powerpoint.presentation.macroEnabled.12
+  text: application/vnd.ms-powerpoint.presentation.macroenabled.12
+- categories:
+  - other
+  ext: ''
+  mime: x-gis/x-shapefile
+  text: x-gis/x-shapefile
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-word
+  text: application/vnd.ms-word
+- categories:
+  - other
+  ext: ''
+  mime: application/x-virtualbox-ova
+  text: application/x-virtualbox-ova
+- categories:
+  - other
+  ext: ''
+  mime: application/ms-excel
+  text: application/ms-excel
+- categories:
+  - other
+  ext: ''
+  mime: text/x-maximasession
+  text: text/x-maximasession
+- categories:
+  - other
+  ext: ''
+  mime: application/font-woff
+  text: application/font-woff
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.ms-pdf
+  text: application/vnd.ms-pdf
+- categories:
+  - other
+  ext: ''
+  mime: application/x-maker
+  text: application/x-maker
+- categories:
+  - other
+  ext: ''
+  mime: application/x-ms-dos-executable
+  text: application/x-ms-dos-executable
+- categories:
+  - other
+  ext: ''
+  mime: api/json
+  text: api/json
+- categories:
+  - other
+  ext: ''
+  mime: text/x-csl
+  text: text/x-csl
+- categories:
+  - other
+  ext: ''
+  mime: application/x-troff-me
+  text: application/x-troff-me
+- categories:
+  - other
+  ext: ''
+  mime: 'text/html; charset: utf-8; charset=utf-8'
+  text: 'text/html; charset: utf-8; charset=utf-8'
+- categories:
+  - other
+  ext: ''
+  mime: text/x-moz-deleted
+  text: text/x-moz-deleted
+- categories:
+  - other
+  ext: ''
+  mime: text/html; charset=us-ascii
+  text: text/html; charset=us-ascii
+- categories:
+  - other
+  ext: ''
+  mime: application/x-lzh
+  text: application/x-lzh
+- categories:
+  - other
+  ext: ''
+  mime: image/x-xcf
+  text: image/x-xcf
+- categories:
+  - other
+  ext: ''
+  mime: application/x-bzip-compressed-tar
+  text: application/x-bzip-compressed-tar
+- categories:
+  - other
+  ext: ''
+  mime: application/haansoftpptx
+  text: application/haansoftpptx
+- categories:
+  - other
+  ext: ''
+  mime: application/msword-template
+  text: application/msword-template
+- categories:
+  - other
+  ext: ''
+  mime: application/x-wine-extension-ztt
+  text: application/x-wine-extension-ztt
+- categories:
+  - other
+  ext: ''
+  mime: image/tiff+zip
+  text: image/tiff+zip
+- categories:
+  - other
+  ext: ''
+  mime: aplication/vnd.ogc.wms_xml
+  text: aplication/vnd.ogc.wms_xml
+- categories:
+  - other
+  ext: ''
+  mime: application/x-httpd-php
+  text: application/x-httpd-php
+- categories:
+  - other
+  ext: ''
+  mime: multipart/related
+  text: multipart/related
+- categories:
+  - other
+  ext: ''
+  mime: application/x-001-compressed
+  text: application/x-001-compressed
+- categories:
+  - other
+  ext: ''
+  mime: text/calendar;charset=UTF-8
+  text: text/calendar;charset=utf-8
+- categories:
+  - other
+  ext: ''
+  mime: model/x.stl-binary
+  text: model/x.stl-binary
+- categories:
+  - other
+  ext: ''
+  mime: application/x-endnote-library
+  text: application/x-endnote-library
+- categories:
+  - other
+  ext: ''
+  mime: application/x-wine-extension-ztq
+  text: application/x-wine-extension-ztq
+- categories:
+  - other
+  ext: ''
+  mime: text/x-troff-me
+  text: text/x-troff-me
+- categories:
+  - other
+  ext: ''
+  mime: application/fits-gzipped
+  text: application/fits-gzipped
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-vmd
+  text: chemical/x-vmd
+- categories:
+  - other
+  ext: ''
+  mime: application/x-maple-worksheet
+  text: application/x-maple-worksheet
+- categories:
+  - other
+  ext: ''
+  mime: image/pdf
+  text: image/pdf
+- categories:
+  - other
+  ext: ''
+  mime: application/x-empty
+  text: application/x-empty
+- categories:
+  - other
+  ext: ''
+  mime: application/softgrid-rdata
+  text: application/softgrid-rdata
+- categories:
+  - other
+  ext: ''
+  mime: application/x-tar-gz
+  text: application/x-tar-gz
+- categories:
+  - other
+  ext: ''
+  mime: application/mspowerpoint
+  text: application/mspowerpoint
+- categories:
+  - other
+  ext: ''
+  mime: application/x-gretldata
+  text: application/x-gretldata
+- categories:
+  - other
+  ext: ''
+  mime: model/gltf-binary
+  text: model/gltf-binary
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.sun.xml.base
+  text: application/vnd.sun.xml.base
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.nokia.n-gage.ac+xml
+  text: application/vnd.nokia.n-gage.ac+xml
+- categories:
+  - other
+  ext: ''
+  mime: application/x-compress
+  text: application/x-compress
+- categories:
+  - other
+  ext: ''
+  mime: image/jpeg2000
+  text: image/jpeg2000
+- categories:
+  - other
+  ext: ''
+  mime: chemical/x-fastq
+  text: chemical/x-fastq
+- categories:
+  - other
+  ext: ''
+  mime: application/x-awk
+  text: application/x-awk
+- categories:
+  - other
+  ext: ''
+  mime: text/x-sas-syntax;charset=US-ASCII
+  text: text/x-sas-syntax;charset=us-ascii
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.hal+xml
+  text: application/vnd.hal+xml
+- categories:
+  - other
+  ext: ''
+  mime: application/zlib
+  text: application/zlib
+- categories:
+  - other
+  ext: ''
+  mime: application/vnd.openxmlformats-officedocument.word
+  text: application/vnd.openxmlformats-officedocument.word
+- categories:
+  - other
+  ext: ''
+  mime: application/oxps
+  text: application/oxps
+- categories:
+  - other
+  ext: ''
+  mime: text/x-go
+  text: text/x-go
+- categories:
+  - other
+  ext: ''
+  mime: application/mex
+  text: application/mex
+- categories:
+  - geodata
+  ext: .wcs
+  mime: application/vnd.ogc.wcs_xml
+  text: application/vnd.ogc.wcs_xml
+- categories:
+  - data
+  ext: .bson
+  mime: application/bson
+  text: application/bson
+- categories:
+  - data
+  ext: .hdt
+  mime: application/vnd.hdt
+  text: application/vnd.hdt
+- categories:
+  - data
+  ext: .jsonl
+  mime: application/jsonl
+  text: application/jsonl
+- categories:
+  - data
+  ext: .ndjson
+  mime: application/x-ndjson
+  text: application/x-ndjson
+- categories:
+  - data
+  ext: .parquet
+  mime: application/vnd.apache.parquet
+  text: application/vnd.apache.parquet

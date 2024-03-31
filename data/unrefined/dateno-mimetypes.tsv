@@ -1,4 +1,4 @@
-name	fileformat	count
+name	fileext	count
 		10924752
 image/jpeg	JPG	1636644
 text/plain	TXT	1418539
@@ -81,7 +81,7 @@ audio/midi	MIDI	26270
 application/netcdf	NetCDF	25116
 audio/prs.sid	SID	24780
 HTTP		24345
-application/msword	DOCX	23714
+application/msword	DOC	23714
 application/x-hdf	HDF	20150
 text/x-matlab	M	18691
 application/mp4	MP4	15887

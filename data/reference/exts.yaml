@@ -1,0 +1,2857 @@
+- categories: data
+  ext: .dta
+  name: Stata Data Script  
+  default_mime: application/x-stata-dta
+  mimetypes:
+  - application/x-stata-dta
+- categories: geodata
+  ext: .czml
+  name: Cesium Language (CZML)
+  default_mime: application/json
+  mimetypes:
+  - application/json
+- categories: geodata
+  ext: .dgn
+  name: MicroStation CAD Design File Format
+  default_mime: image/vnd.dgn
+  mimetypes:
+  - application/dgn
+  - image/vnd.dgn
+- categories: geodata
+  ext: .fgb
+  name: FlatGeoBuf
+  default_mime: application/flatgeobuf
+  mimetypes:
+  - application/flatgeobuf
+- categories: geodata
+  ext: .gpx
+  name: GPX Exchange Format 
+  default_mime: application/gpx+xml
+  mimetypes:
+  - application/gpx+xml
+- categories: geodata
+  ext: .wmts
+  name: WMTS
+  default_mime: application/vnd.ogc.wmts_xml
+  mimetypes:
+  - application/vnd.ogc.wmts_xml
+- categories: geodata
+  ext: .g3w
+  name: G3W
+  default_mime: application/vnd.geospace
+  mimetypes:
+  - application/vnd.geospace
+- categories: geodata
+  ext: .csw
+  name: CSW
+  default_mime: application/vnd.ogc.csw.capabilities.response_xml
+  mimetypes:
+  - application/vnd.ogc.csw.capabilities.response_xml
+- categories: geodata
+  ext: .wcs
+  name: WCS
+  default_mime: application/vnd.ogc.wcs_xml
+  mimetypes:
+  - application/vnd.ogc.wcs_xml
+- categories: geodata
+  ext: .wfs
+  name: WFS
+  default_mime: application/vnd.ogc.wfs_xml
+  mimetypes:
+  - application/vnd.ogc.wfs_xml
+- categories: geodata
+  ext: .fgdb
+  name: FileGDB (Esri File Geodatabase)
+  default_mime: application/x-filegdb
+  mimetypes:
+  - application/x-filegdb
+- categories: geodata
+  ext: .gdb
+  name: FileGDB (Esri File Geodatabase)
+  default_mime: application/x-filegdb
+  mimetypes:
+  - application/x-filegdb
+
+- categories: semweb
+  ext: .ttl
+  name: Terse RDF Triple Language (Turtle)
+  default_mime: text/turtle
+  mimetypes:
+  - text/turtle
+- categories: semweb
+  ext: .jsonld
+  name: JSON-LD (JavaScript Object Notation for Linked Data)
+  default_mime: application/ld+json
+  mimetypes:
+  - application/ld+json
+- categories: data
+  ext: .arff
+  name: Attribute-Relation File Format (ARFF)
+  default_mime: text/plain
+  mimetypes:
+  - text/plain
+- categories: data
+  ext: .tab
+  name: TAB file
+  default_mime: text/tab
+  mimetypes:
+  - text/tab
+- categories: images
+  default_mime: image/jpeg
+  ext: .jpe
+  mimetypes:
+  - image/jpeg
+  - image/pjpeg
+  name: JPEG Image
+- categories: images
+  default_mime: image/jpeg
+  ext: .jpeg
+  mimetypes:
+  - image/jpeg
+  - image/pjpeg
+  name: JPEG Image
+- categories: images
+  default_mime: image/jpeg
+  ext: .jpg
+  mimetypes:
+  - image/jpeg
+  - image/pjpeg
+  name: JPEG Image
+- categories: images
+  default_mime: image/jpeg
+  ext: .pjpg
+  mimetypes:
+  - image/jpeg
+  - image/pjpeg
+  name: JPEG Image
+- categories: images
+  default_mime: image/jpeg
+  ext: .jfif
+  mimetypes:
+  - image/jpeg
+  - image/pjpeg
+  name: JPEG Image
+- categories: images
+  default_mime: image/jpeg
+  ext: .jfif-tbnl
+  mimetypes:
+  - image/jpeg
+  - image/pjpeg
+  name: JPEG Image
+- categories: images
+  default_mime: image/jpeg
+  ext: .jif
+  mimetypes:
+  - image/jpeg
+  - image/pjpeg
+  name: JPEG Image
+- categories: documents
+  default_mime: text/plain
+  ext: .txt
+  mimetypes:
+  - text/plain
+  - text/plain; charset=US-ASCII
+  - text/plain; charset=UTF-8
+  - text/plain;charset=UTF-8
+  - text/plain;charset=US-ASCII
+  name: Plain Text
+- categories: documents
+  default_mime: text/plain
+  ext: .text
+  mimetypes:
+  - text/plain
+  - text/plain;charset=US-ASCII
+  name: Plain Text
+- categories: documents
+  default_mime: text/html
+  ext: .htm
+  mimetypes:
+  - text/html
+  name: HTML
+- categories: documents
+  default_mime: text/html
+  ext: .html
+  mimetypes:
+  - text/html
+  - text/html; subtype=openlayers
+  - text/html; subtype=openlayers3
+  - text/html; subtype=openlayers2
+  - application/html
+  - text/html; charset=utf-8
+  name: HTML
+- categories: data
+  default_mime: text/xml
+  ext: .xml
+  mimetypes:
+  - text/xml
+  - application/xml
+  - application/rss+xml
+  name: XML
+- categories: data
+  default_mime: text/csv
+  ext: .csv
+  mimetypes:
+  - text/csv
+  - application/vnd.sdmx.data+csv; charset=utf-8; labels=both
+  - text/comma-separated-values
+  - application/vnd.sdmx.data+csv; labels=both; charset=utf-8
+  - text/csv+extended
+  - application/csv
+  name: Comma Separated Values
+- categories: documents
+  default_mime: application/pdf
+  ext: .pdf
+  mimetypes:
+  - application/pdf
+  - text/pdf
+  name: Adobe PDF
+- categories: images
+  default_mime: image/tiff
+  ext: .tif
+  mimetypes:
+  - image/tiff
+  - image/geotiff8
+  - image/tiff8
+  - image/x-tiff
+  - image/tiff; application=geotiff
+  name: TIFF Image
+- categories: images
+  default_mime: image/tiff
+  ext: .tiff
+  mimetypes:
+  - image/tiff
+  - image/geotiff8
+  - image/tiff8
+  - image/x-tiff
+  - image/tiff; application=geotiff
+  name: TIFF Image
+- categories: geodata
+  default_mime: application/vnd.ogc.wms_xml
+  ext: .wms
+  mimetypes:
+  - application/vnd.ogc.wms_xml
+  - text/wms
+  name: ''
+- categories: ''
+  default_mime: application/octet-stream
+  ext: .bin
+  mimetypes:
+  - application/octet-stream
+  name: Unknown
+- categories: data
+  default_mime: application/json
+  ext: .json
+  mimetypes:
+  - application/json
+  - application/json;type=utfgrid
+  - application/stac+json
+  - application/vnd.ogc.fg+json
+  - text/json
+  name: JSON
+- categories: geodata
+  default_mime: application/vnd.google-earth.kml+xml
+  ext: .kml
+  mimetypes:
+  - application/vnd.google-earth.kml+xml
+  - application/vnd.google-earth.kml+xml;mode=networklink
+  - application/vnd.google-earth.kml xml
+  name: Keyhole Markup Language
+- categories: images
+  default_mime: image/png
+  ext: .png
+  mimetypes:
+  - image/png
+  - image/png; mode=8bit
+  - image/vnd.jpeg-png
+  - image/vnd.jpeg-png8
+  - image/png8
+  - image/x-png
+  - image/x-apple-ios-png
+  - image/png;charset=UTF-8
+  - Image/png
+  name: PNG Image
+- categories: archives
+  default_mime: application/zip
+  ext: .zip
+  mimetypes:
+  - application/zip
+  - application/x-zip-compressed
+  - application/x-zip
+  name: ZIP Archive
+- categories: data
+  default_mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+  ext: .xlsx
+  mimetypes:
+  - application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+  name: MS Excel Spreadsheet
+- categories: data
+  default_mime: text/tab-separated-values
+  ext: .tsv
+  mimetypes:
+  - text/tab-separated-values
+  - text/tsv
+  name: Tab-Delimited
+- categories: geodata
+  default_mime: text/xml; subtype=gml/3.1.1
+  ext: .gml
+  mimetypes:
+  - text/xml; subtype=gml/3.1.1
+  - text/xml; subtype=gml/2.1.2
+  - text/xml; subtype=gml/3.2
+  - application/gml+xml; version=3.2
+  - application/gml+xml
+  name: ''
+- categories: geodata
+  default_mime: application/vnd.google-earth.kml+xml
+  ext: .kmz
+  mimetypes:
+  - application/vnd.google-earth.kmz
+  name: Google Earth Archive
+- categories: images
+  default_mime: image/gif
+  ext: .gif
+  mimetypes:
+  - image/gif
+  name: GIF Image
+- categories: images
+  default_mime: image/svg+xml
+  ext: .svg
+  mimetypes:
+  - image/svg+xml
+  - image/svg
+  name: SVG Image
+- categories: images
+  default_mime: image/svg+xml
+  ext: .svgz
+  mimetypes:
+  - image/svg+xml
+  name: SVG Image
+- categories: data
+  default_mime: application/atom+xml
+  ext: .atom
+  mimetypes:
+  - application/atom+xml
+  name: ''
+- categories: geodata,images
+  default_mime: image/geotiff
+  ext: .geotiff
+  mimetypes:
+  - image/geotiff
+  name: ''
+- categories: data
+  default_mime: text/xml
+  ext: .xpdl
+  mimetypes:
+  - application/xml
+  name: XML
+- categories: data
+  default_mime: text/xml
+  ext: .xsl
+  mimetypes:
+  - application/xml
+  name: XML
+- categories: geodata
+  default_mime: application/vnd.geo+json
+  ext: .geojson
+  mimetypes:
+  - application/vnd.geo+json
+  - application/json;type=geojson
+  - application/geo+json
+  name: ''
+- categories: data
+  default_mime: application/rss+xml
+  ext: .rss
+  mimetypes:
+  - application/rss+xml
+  name: ''
+- categories: data
+  default_mime: application/vnd.ms-excel
+  ext: .xla
+  mimetypes:
+  - application/vnd.ms-excel
+  name: MS Excel Spreadsheet
+- categories: data
+  default_mime: application/vnd.ms-excel
+  ext: .xlb
+  mimetypes:
+  - application/vnd.ms-excel
+  name: MS Excel Spreadsheet
+- categories: data
+  default_mime: application/vnd.ms-excel
+  ext: .xlc
+  mimetypes:
+  - application/vnd.ms-excel
+  name: MS Excel Spreadsheet
+- categories: data
+  default_mime: application/vnd.ms-excel
+  ext: .xlm
+  mimetypes:
+  - application/vnd.ms-excel
+  name: MS Excel Spreadsheet
+- categories: data
+  default_mime: application/vnd.ms-excel
+  ext: .xls
+  mimetypes:
+  - application/vnd.ms-excel
+  - application/excel
+  name: MS Excel Spreadsheet
+- categories: data
+  default_mime: application/vnd.ms-excel
+  ext: .xlt
+  mimetypes:
+  - application/vnd.ms-excel
+  name: MS Excel Spreadsheet
+- categories: data
+  default_mime: application/vnd.ms-excel
+  ext: .xlw
+  mimetypes:
+  - application/vnd.ms-excel
+  name: MS Excel Spreadsheet
+- categories: data
+  default_mime: application/x-netcdf
+  ext: .cdf
+  mimetypes:
+  - application/x-netcdf
+  name: Network Common Data Form
+- categories: data
+  default_mime: application/x-netcdf
+  ext: .nc
+  mimetypes:
+  - application/x-netcdf
+  name: Network Common Data Form
+- categories: semweb
+  default_mime: application/rdf+xml
+  ext: .rdf
+  mimetypes:
+  - application/rdf+xml
+  name: ''
+- categories: images
+  default_mime: application/dicom
+  ext: .dcm
+  mimetypes:
+  - application/dicom
+  name: DICOM Image
+- categories: data
+  default_mime: text/x-fixed-field
+  ext: .dat
+  mimetypes:
+  - text/x-fixed-field
+  name: Fixed Field Text Data
+- categories: data
+  default_mime: application/matlab-mat
+  ext: .mat
+  mimetypes:
+  - application/matlab-mat
+  - application/x-matlab-data
+  name: MATLAB Data
+- categories: archives
+  default_mime: application/gzip
+  ext: .gz
+  mimetypes:
+  - application/gzip
+  - application/x-gzip
+  - application/x-compressed
+  name: Gzip Archive
+- categories: archives
+  default_mime: application/x-compressed-tar
+  ext: .tar.gz
+  mimetypes:
+  - application/x-compressed-tar
+  name: TAR Gzip Archive
+- categories: archives
+  default_mime: application/gzip
+  ext: .tgz
+  mimetypes:
+  - application/gzip
+  - application/x-gzip
+  name: Gzip Archive
+- categories: geodata
+  default_mime: application/json;type=topojson
+  ext: .topojson
+  mimetypes:
+  - application/json;type=topojson
+  name: ''
+- categories: geodata
+  default_mime: application/vnd.mapbox-vector-tile
+  ext: .mvt
+  mimetypes:
+  - application/vnd.mapbox-vector-tile
+  name: ''
+- categories: code
+  default_mime: application/x-stata-syntax
+  ext: .do
+  mimetypes:
+  - application/x-stata-syntax
+  - text/x-stata-syntax; charset=US-ASCII
+  - text/x-stata-syntax
+  name: Stata Syntax
+- categories: code
+  default_mime: text/javascript
+  ext: .js
+  mimetypes:
+  - text/javascript
+  - application/javascript
+  name: Javascript Code
+- categories: code
+  default_mime: type/x-r-syntax
+  ext: .r
+  mimetypes:
+  - type/x-r-syntax
+  - text/x-r-source
+  name: R Syntax
+- categories: documents
+  default_mime: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+  ext: .docx
+  mimetypes:
+  - application/vnd.openxmlformats-officedocument.wordprocessingml.document
+  name: MS Word
+- categories: images
+  default_mime: application/fits
+  ext: .fits
+  mimetypes:
+  - application/fits
+  - image/fits
+  name: FITS
+- categories: geodata
+  default_mime: application/vnd.mif
+  ext: .mif
+  mimetypes:
+  - application/vnd.mif
+  name: ''
+- categories: audio
+  default_mime: audio/midi
+  ext: .kar
+  mimetypes:
+  - audio/midi
+  name: ''
+- categories: audio
+  default_mime: audio/midi
+  ext: .mid
+  mimetypes:
+  - audio/midi
+  name: ''
+- categories: audio
+  default_mime: audio/midi
+  ext: .midi
+  mimetypes:
+  - audio/midi
+  name: ''
+- categories: audio
+  default_mime: audio/midi
+  ext: .rmi
+  mimetypes:
+  - audio/midi
+  name: ''
+- categories: data
+  default_mime: application/netcdf
+  ext: .netcdf
+  mimetypes:
+  - application/netcdf
+  name: Network Common Data Form
+- categories: geodata
+  default_mime: audio/prs.sid
+  ext: .sid
+  mimetypes:
+  - audio/prs.sid
+  name: ''
+- categories: documents
+  default_mime: application/msword
+  ext: .doc
+  mimetypes:
+  - application/msword
+  name: MS Word
+- categories: documents
+  default_mime: application/msword
+  ext: .dot
+  mimetypes:
+  - application/msword
+  name: MS Word
+- categories: documents
+  default_mime: application/msword
+  ext: .wiz
+  mimetypes:
+  - application/msword
+  name: MS Word
+- categories: data
+  default_mime: application/x-hdf
+  ext: .hdf
+  mimetypes:
+  - application/x-hdf
+  name: Hierarchical Data Format
+- categories: code
+  default_mime: text/x-matlab
+  ext: .m
+  mimetypes:
+  - text/x-matlab
+  name: MATLAB Source Code
+- categories: video
+  default_mime: application/mp4
+  ext: .mp4s
+  mimetypes:
+  - application/mp4
+  name: ''
+- categories: video
+  default_mime: application/mp4
+  ext: .mp4
+  mimetypes:
+  - application/mp4
+  - video/mp4
+  - video/mpeg4
+  - audio/mp4
+  name: ''
+- categories: geodata
+  default_mime: chemical/x-xyz
+  ext: .xyz
+  mimetypes:
+  - chemical/x-xyz
+  name: Co-Ordinate Animation
+- categories: geodata
+  default_mime: application/x-gpkg
+  ext: .gpkg
+  mimetypes:
+  - application/x-gpkg
+  - application/geopackage+sqlite3
+  - application/gpkg
+  name: ''
+- categories: images
+  default_mime: image/x-adobe-dng
+  ext: .dng
+  mimetypes:
+  - image/x-adobe-dng
+  - image/dng
+  name: ''
+- categories: video
+  default_mime: video/mp4
+  ext: .mp4v
+  mimetypes:
+  - video/mp4
+  - audio/mp4
+  name: MPEG-4 Video
+- categories: video
+  default_mime: video/mp4
+  ext: .mpg4
+  mimetypes:
+  - video/mp4
+  name: MPEG-4 Video
+- categories: geodata
+  default_mime: application/zipped-shapefile
+  ext: .shp
+  mimetypes:
+  - application/zipped-shapefile
+  - application/shp
+  - application/x-shapefile
+  name: Zipped Shapefiles
+- categories: geodata
+  default_mime: application/prj
+  ext: .prj
+  mimetypes:
+  - application/prj
+  name: ESRI Shapefile
+- categories: data
+  default_mime: application/dbf
+  ext: .dbf
+  mimetypes:
+  - application/dbf
+  name: dBASE Table for ESRI Shapefile
+- categories: archives
+  default_mime: application/x-tar
+  ext: .tar
+  mimetypes:
+  - application/x-tar
+  name: TAR Archive
+- categories: images
+  default_mime: image/x-ms-bmp
+  ext: .bmp
+  mimetypes:
+  - image/x-ms-bmp
+  - image/bmp
+  name: ''
+- categories: data
+  default_mime: application/x-rlang-transport
+  ext: .rdata
+  mimetypes:
+  - application/x-rlang-transport
+  name: R Data
+- categories: audio
+  default_mime: audio/x-wav
+  ext: .wav
+  mimetypes:
+  - audio/x-wav
+  - audio/vnd.wave
+  - audio/wav
+  - audio/x-wave
+  name: Waveform Audio
+- categories: data
+  default_mime: application/x-hdf5
+  ext: .hdf5
+  mimetypes:
+  - application/x-hdf5
+  - application/x-h5
+  name: Hierarchical Data Format
+- categories: geodata
+  default_mime: application/shx
+  ext: .shx
+  mimetypes:
+  - application/shx
+  name: Shape
+- categories: data
+  default_mime: application/vnd.oasis.opendocument.spreadsheet
+  ext: .ods
+  mimetypes:
+  - application/vnd.oasis.opendocument.spreadsheet
+  name: OpenOffice Spreadsheet
+- categories: documents
+  default_mime: application/x-tex
+  ext: .tex
+  mimetypes:
+  - application/x-tex
+  name: LaTeX
+- categories: code
+  default_mime: text/x-python
+  ext: .py
+  mimetypes:
+  - text/x-python
+  - text/x-python-script
+  name: Python Source Code
+- categories: video
+  default_mime: audio/mpeg
+  ext: .m2a
+  mimetypes:
+  - audio/mpeg
+  name: MP3 Audio
+- categories: video
+  default_mime: audio/mpeg
+  ext: .m3a
+  mimetypes:
+  - audio/mpeg
+  name: MP3 Audio
+- categories: video
+  default_mime: audio/mpeg
+  ext: .mp2
+  mimetypes:
+  - audio/mpeg
+  name: MP3 Audio
+- categories: video
+  default_mime: audio/mpeg
+  ext: .mp2a
+  mimetypes:
+  - audio/mpeg
+  name: MP3 Audio
+- categories: video
+  default_mime: audio/mpeg
+  ext: .mp3
+  mimetypes:
+  - audio/mpeg
+  name: MP3 Audio
+- categories: video
+  default_mime: audio/mpeg
+  ext: .mpga
+  mimetypes:
+  - audio/mpeg
+  name: MP3 Audio
+- categories: statistics
+  default_mime: text/pc-axis
+  ext: .px
+  mimetypes:
+  - text/pc-axis
+  - application/vnd.pc-axis
+  name: ''
+- categories: data
+  default_mime: application/x-spss-sav
+  ext: .sav
+  mimetypes:
+  - application/x-spss-sav
+  name: SPSS Binary
+- categories: data
+  default_mime: application/x-sql
+  ext: .sql
+  mimetypes:
+  - application/x-sql
+  name: SQL Code
+- categories: data
+  default_mime: application/x-sqlite3
+  ext: .db
+  mimetypes:
+  - application/x-sqlite3
+  - application/vnd.sqlite3
+  name: ''
+- categories: data
+  default_mime: application/x-sqlite3
+  ext: .sqlite
+  mimetypes:
+  - application/x-sqlite3
+  - application/vnd.sqlite3
+  name: ''
+- categories: data
+  default_mime: application/x-sqlite3
+  ext: .sqlite3
+  mimetypes:
+  - application/x-sqlite3
+  - application/vnd.sqlite3
+  name: ''
+- categories: data
+  default_mime: application/x-sqlite3
+  ext: .db-wal
+  mimetypes:
+  - application/x-sqlite3
+  - application/vnd.sqlite3
+  name: ''
+- categories: data
+  default_mime: application/x-sqlite3
+  ext: .sqlite-wal
+  mimetypes:
+  - application/x-sqlite3
+  - application/vnd.sqlite3
+  name: ''
+- categories: data
+  default_mime: application/x-sqlite3
+  ext: .db-shm
+  mimetypes:
+  - application/x-sqlite3
+  - application/vnd.sqlite3
+  name: ''
+- categories: data
+  default_mime: application/x-sqlite3
+  ext: .sqlite-shm
+  mimetypes:
+  - application/x-sqlite3
+  - application/vnd.sqlite3
+  name: ''
+- categories: images
+  default_mime: image/arw
+  ext: .arw
+  mimetypes:
+  - image/arw
+  - image/x-sony-arw
+  name: ''
+- categories: images
+  default_mime: image/nii
+  ext: .nii
+  mimetypes:
+  - image/nii
+  name: NIfTI Image
+- categories: documents
+  default_mime: application/postscript
+  ext: .ai
+  mimetypes:
+  - application/postscript
+  name: Postscript
+- categories: documents
+  default_mime: application/postscript
+  ext: .eps
+  mimetypes:
+  - application/postscript
+  name: Postscript
+- categories: documents
+  default_mime: application/postscript
+  ext: .ps
+  mimetypes:
+  - application/postscript
+  name: Postscript
+- categories: code
+  default_mime: application/x-sas-syntax
+  ext: .sas
+  mimetypes:
+  - application/x-sas-syntax
+  - text/x-sas-syntax
+  name: SAS Syntax
+- categories: other
+  default_mime: application/x-msdos-program
+  ext: .exe
+  mimetypes:
+  - application/x-msdos-program
+  - application/x-msdownload
+  name: ''
+- categories: data
+  default_mime: application/vnd.ms-pki.stl
+  ext: .stl
+  mimetypes:
+  - application/vnd.ms-pki.stl
+  name: STL Format
+- categories: data
+  default_mime: application/vnd.palm
+  ext: .oprc
+  mimetypes:
+  - application/vnd.palm
+  name: ''
+- categories: data
+  default_mime: application/vnd.palm
+  ext: .pdb
+  mimetypes:
+  - application/vnd.palm
+  name: ''
+- categories: data
+  default_mime: application/vnd.palm
+  ext: .pqa
+  mimetypes:
+  - application/vnd.palm
+  name: ''
+- categories: video
+  default_mime: video/quicktime
+  ext: .mov
+  mimetypes:
+  - video/quicktime
+  name: Quicktime Video
+- categories: video
+  default_mime: video/quicktime
+  ext: .qt
+  mimetypes:
+  - video/quicktime
+  name: Quicktime Video
+- categories: archives
+  default_mime: application/x-rar-compressed
+  ext: .rar
+  mimetypes:
+  - application/x-rar-compressed
+  - application/rar
+  - application/vnd.rar
+  - application/x-rar
+  name: RAR Archive
+- categories: archves
+  default_mime: application/x-7z-compressed
+  ext: .7z
+  mimetypes:
+  - application/x-7z-compressed
+  name: 7Z Archive
+- categories: archives
+  default_mime: application/x-bzip2
+  ext: .boz
+  mimetypes:
+  - application/x-bzip2
+  name: Bzip Archive
+- categories: archives
+  default_mime: application/x-bzip2
+  ext: .bz2
+  mimetypes:
+  - application/x-bzip2
+  name: Bzip Archive
+- categories: images
+  default_mime: application/x-stata-ado
+  ext: .ado
+  mimetypes:
+  - application/x-stata-ado
+  name: Stata Ado Script
+- categories: images
+  default_mime: image/vnd.dxf
+  ext: .dxf
+  mimetypes:
+  - image/vnd.dxf
+  name: ''
+- categories: video
+  default_mime: video/x-msvideo
+  ext: .avi
+  mimetypes:
+  - video/x-msvideo
+  - video/avi
+  name: AVI Video
+- categories: video
+  default_mime: video/x-msvideo
+  ext: .wmv
+  mimetypes:
+  - video/x-msvideo
+  - video/x-ms-wmv
+  name: AVI Video
+- categories: documents
+  default_mime: application/vnd.openxmlformats-officedocument.presentationml.presentation
+  ext: .pptx
+  mimetypes:
+  - application/vnd.openxmlformats-officedocument.presentationml.presentation
+  name: MS Powerpoint
+- categories: data
+  default_mime: application/x-spss-syntax
+  ext: .sps
+  mimetypes:
+  - application/x-spss-syntax
+  name: SPSS Syntax
+- categories: documents
+  default_mime: text/markdown
+  ext: .md
+  mimetypes:
+  - text/markdown
+  - text/x-markdown
+  name: Markdown Text
+- categories: documents
+  default_mime: text/markdown
+  ext: .markdown
+  mimetypes:
+  - text/markdown
+  - text/x-markdown
+  name: Markdown Text
+- categories: documents
+  default_mime: text/markdown
+  ext: .mdown
+  mimetypes:
+  - text/markdown
+  - text/x-markdown
+  name: Markdown Text
+- categories: documents
+  default_mime: text/markdown
+  ext: .markdn
+  mimetypes:
+  - text/markdown
+  - text/x-markdown
+  name: Markdown Text
+- categories: data
+  default_mime: application/vnd.isac.fcs
+  ext: .fcs
+  mimetypes:
+  - application/vnd.isac.fcs
+  name: FCS Data
+- categories: other
+  default_mime: application/vnd.antix.game-component
+  ext: .atx
+  mimetypes:
+  - application/vnd.antix.game-component
+  name: ATX Archive
+- categories: images
+  default_mime: application/x-xfig
+  ext: .fig
+  mimetypes:
+  - application/x-xfig
+  name: MATLAB Figure
+- categories: semweb,data
+  default_mime: text/turtle
+  ext: .turtle
+  mimetypes:
+  - text/turtle
+  name: Turtle RDF
+- categories: images
+  default_mime: application/vnd.flographit
+  ext: .gph
+  mimetypes:
+  - application/vnd.flographit
+  name: FloGraphIt Media
+- categories: images
+  default_mime: image/bil
+  ext: .bil
+  mimetypes:
+  - image/bil
+  name: ''
+- categories: images
+  default_mime: image/dds
+  ext: .dds
+  mimetypes:
+  - image/dds
+  name: ''
+- categories: geodata
+  default_mime: application/sbn
+  ext: .sbn
+  mimetypes:
+  - application/sbn
+  name: ESRI Spatial Index
+- categories: geodata
+  default_mime: application/sbx
+  ext: .sbx
+  mimetypes:
+  - application/sbx
+  name: ESRI Spatial Index
+- categories: geodata
+  default_mime: application/x-qgis
+  ext: .qgs
+  mimetypes:
+  - application/x-qgis
+  name: QGIS Project
+- categories: code
+  default_mime: text/x-c
+  ext: .c
+  mimetypes:
+  - text/x-c
+  name: C++ Source
+- categories: code
+  default_mime: text/x-c
+  ext: .cc
+  mimetypes:
+  - text/x-c
+  name: C++ Source
+- categories: code
+  default_mime: text/x-c
+  ext: .cpp
+  mimetypes:
+  - text/x-c
+  name: C++ Source
+- categories: code
+  default_mime: text/x-c
+  ext: .cxx
+  mimetypes:
+  - text/x-c
+  name: C++ Source
+- categories: code
+  default_mime: text/x-c
+  ext: .dic
+  mimetypes:
+  - text/x-c
+  name: C++ Source
+- categories: code
+  default_mime: text/x-c
+  ext: .h
+  mimetypes:
+  - text/x-c
+  name: C++ Source
+- categories: code
+  default_mime: text/x-c
+  ext: .hh
+  mimetypes:
+  - text/x-c
+  name: C++ Source
+- categories: documents
+  default_mime: application/rtf
+  ext: .rtf
+  mimetypes:
+  - application/rtf
+  - text/rtf
+  name: Rich Text Format
+- categories: data
+  default_mime: text/xml-graphml
+  ext: .graphml
+  mimetypes:
+  - text/xml-graphml
+  name: GraphML Network Data
+- categories: data
+  default_mime: application/vnd.ms-excel.sheet.macroenabled.12
+  ext: .xlsm
+  mimetypes:
+  - application/vnd.ms-excel.sheet.macroenabled.12
+  - application/vnd.ms-excel.sheet.macroEnabled.12
+  name: MS Excel Spreadsheet
+- categories: documents
+  default_mime: application/vnd.shana.informed.formtemplate
+  ext: .itp
+  mimetypes:
+  - application/vnd.shana.informed.formtemplate
+  name: ''
+- categories: audio
+  default_mime: audio/ogg
+  ext: .oga
+  mimetypes:
+  - audio/ogg
+  name: OGG Audio
+- categories: audio
+  default_mime: audio/ogg
+  ext: .ogg
+  mimetypes:
+  - audio/ogg
+  name: OGG Audio
+- categories: audio
+  default_mime: audio/ogg
+  ext: .spx
+  mimetypes:
+  - audio/ogg
+  name: OGG Audio
+- categories: code
+  default_mime: application/x-ipynb+json
+  ext: .ipynb
+  mimetypes:
+  - application/x-ipynb+json
+  name: Jupyter Notebook
+- categories: statistics
+  default_mime: application/x-beyond2020
+  ext: .ivt
+  mimetypes:
+  - application/x-beyond2020
+  name: ''
+- categories: geodata
+  default_mime: application/x-protobuf;type=mapbox-vector
+  ext: .protobud
+  mimetypes:
+  - application/x-protobuf;type=mapbox-vector
+  name: ''
+- categories: video
+  default_mime: application/x-shockwave-flash
+  ext: .swf
+  mimetypes:
+  - application/x-shockwave-flash
+  name: ''
+- categories: code
+  default_mime: text/x-java-source
+  ext: .java
+  mimetypes:
+  - text/x-java-source
+  name: Java Source Code
+- categories: data
+  default_mime: application/vnd.sun.xml.math
+  ext: .sxm
+  mimetypes:
+  - application/vnd.sun.xml.math
+  name: ''
+- categories: code
+  default_mime: text/x-fortran
+  ext: .f
+  mimetypes:
+  - text/x-fortran
+  name: Fortran Source Code
+- categories: code
+  default_mime: text/x-fortran
+  ext: .f77
+  mimetypes:
+  - text/x-fortran
+  name: Fortran Source Code
+- categories: code
+  default_mime: text/x-fortran
+  ext: .f90
+  mimetypes:
+  - text/x-fortran
+  name: Fortran Source Code
+- categories: code
+  default_mime: text/x-fortran
+  ext: .for
+  mimetypes:
+  - text/x-fortran
+  name: Fortran Source Code
+- categories: archives
+  default_mime: application/mac-compactpro
+  ext: .cpt
+  mimetypes:
+  - application/mac-compactpro
+  name: ''
+- categories: archives
+  default_mime: application/x-compressed-tar
+  ext: .tar.gz
+  mimetypes:
+  - application/x-compressed-tar
+  name: TAR Archive
+- categories: images
+  default_mime: image/jpeg
+  ext: .jfi
+  mimetypes:
+  - image/pjpeg
+  name: ''
+- categories: other
+  default_mime: text/x-vcard
+  ext: .vcf
+  mimetypes:
+  - text/x-vcard
+  name: Virtual Contact File
+- categories: archives
+  default_mime: application/x-bzip
+  ext: .bz
+  mimetypes:
+  - application/x-bzip
+  name: Bzip Archive
+- categories: other
+  default_mime: application/vnd.tcpdump.pcap
+  ext: .pcap
+  mimetypes:
+  - application/vnd.tcpdump.pcap
+  name: ''
+- categories: documents
+  default_mime: application/vnd.lotus-approach
+  ext: .apr
+  mimetypes:
+  - application/vnd.lotus-approach
+  name: ''
+- categories: software
+  default_mime: application/x-msdownload
+  ext: .bat
+  mimetypes:
+  - application/x-msdownload
+  name: Windows Executable
+- categories: software
+  default_mime: application/x-msdownload
+  ext: .com
+  mimetypes:
+  - application/x-msdownload
+  name: Windows Executable
+- categories: software
+  default_mime: application/x-msdownload
+  ext: .dll
+  mimetypes:
+  - application/x-msdownload
+  name: Windows Executable
+- categories: software
+  default_mime: application/x-msdownload
+  ext: .msi
+  mimetypes:
+  - application/x-msdownload
+  name: Windows Executable
+- categories: code
+  default_mime: application/x-sh
+  ext: .sh
+  mimetypes:
+  - application/x-sh
+  - text/x-sh
+  - application/x-shellscript
+  name: Shell Script
+- categories: other
+  default_mime: model/vnd.vtu
+  ext: .vtu
+  mimetypes:
+  - model/vnd.vtu
+  name: ''
+- categories: data
+  default_mime: application/x-msaccess
+  ext: .mdb
+  mimetypes:
+  - application/x-msaccess
+  name: MS Access
+- categories: geodata
+  default_mime: image/vnd.dwg
+  ext: .dwg
+  mimetypes:
+  - image/vnd.dwg
+  name: ''
+- categories: video
+  default_mime: video/h264
+  ext: .h264
+  mimetypes:
+  - video/h264
+  name: ''
+- categories: documents
+  default_mime: application/winhlp
+  ext: .hlp
+  mimetypes:
+  - application/winhlp
+  name: ''
+- categories: documents
+  default_mime: application/vnd.ms-powerpoint
+  ext: .pot
+  mimetypes:
+  - application/vnd.ms-powerpoint
+  name: MS Powerpoint
+- categories: documents
+  default_mime: application/vnd.ms-powerpoint
+  ext: .ppa
+  mimetypes:
+  - application/vnd.ms-powerpoint
+  name: MS Powerpoint
+- categories: documents
+  default_mime: application/vnd.ms-powerpoint
+  ext: .pps
+  mimetypes:
+  - application/vnd.ms-powerpoint
+  name: MS Powerpoint
+- categories: documents
+  default_mime: application/vnd.ms-powerpoint
+  ext: .ppt
+  mimetypes:
+  - application/vnd.ms-powerpoint
+  name: MS Powerpoint
+- categories: documents
+  default_mime: application/vnd.ms-powerpoint
+  ext: .pwz
+  mimetypes:
+  - application/vnd.ms-powerpoint
+  name: MS Powerpoint
+- categories: images
+  default_mime: image/x-freehand
+  ext: .fh
+  mimetypes:
+  - image/x-freehand
+  name: ''
+- categories: images
+  default_mime: image/x-freehand
+  ext: .fh4
+  mimetypes:
+  - image/x-freehand
+  name: ''
+- categories: images
+  default_mime: image/x-freehand
+  ext: .fh5
+  mimetypes:
+  - image/x-freehand
+  name: ''
+- categories: images
+  default_mime: image/x-freehand
+  ext: .fh7
+  mimetypes:
+  - image/x-freehand
+  name: ''
+- categories: images
+  default_mime: image/x-freehand
+  ext: .fhc
+  mimetypes:
+  - image/x-freehand
+  name: ''
+- categories: images
+  default_mime: application/x-font-bdf
+  ext: .bdf
+  mimetypes:
+  - application/x-font-bdf
+  name: ''
+- categories: code
+  default_mime: application/java-vm
+  ext: .class
+  mimetypes:
+  - application/java-vm
+  name: Java Class
+- categories: images
+  default_mime: image/raw
+  ext: .raw
+  mimetypes:
+  - image/raw
+  name: Bitmap Image
+- categories: documents
+  default_mime: application/vnd.lotus-1-2-3
+  ext: '.123'
+  mimetypes:
+  - application/vnd.lotus-1-2-3
+  name: ''
+- categories: code
+  default_mime: text/css
+  ext: .css
+  mimetypes:
+  - text/css
+  name: Cascading Style Sheet
+- categories: data
+  default_mime: application/marc
+  ext: .mrc
+  mimetypes:
+  - application/marc
+  name: ''
+- categories: semweb
+  default_mime: text/n3
+  ext: .n3
+  mimetypes:
+  - text/n3
+  name: ''
+- categories: images
+  default_mime: image/dicom-rle
+  ext: .drle
+  mimetypes:
+  - image/dicom-rle
+  name: DICOM Image
+- categories: other
+  default_mime: application/vnd.ms-ims
+  ext: .ims
+  mimetypes:
+  - application/vnd.ms-ims
+  name: ''
+- categories: archives
+  default_mime: application/x-xz
+  ext: .xz
+  mimetypes:
+  - application/x-xz
+  name: XZ Archive
+- categories: archives
+  default_mime: application/x-xz
+  ext: .tar.xz
+  mimetypes:
+  - application/x-xz
+  name: Tar XZ Archive
+- categories: archives
+  default_mime: application/x-iso9660-image
+  ext: .iso
+  mimetypes:
+  - application/x-iso9660-image
+  name: Optical Disc Image
+- categories: archives
+  default_mime: application/x-iso9660-image
+  ext: .isoimg
+  mimetypes:
+  - application/x-iso9660-image
+  name: Optical Disc Image
+- categories: archives
+  default_mime: application/x-iso9660-image
+  ext: .cdr
+  mimetypes:
+  - application/x-iso9660-image
+  name: Optical Disc Image
+- categories: data
+  default_mime: application/warc
+  ext: .warc
+  mimetypes:
+  - application/warc
+  name: Web Archive
+- categories: documents
+  default_mime: application/vnd.oasis.opendocument.text
+  ext: .odt
+  mimetypes:
+  - application/vnd.oasis.opendocument.text
+  name: ''
+- categories: images
+  default_mime: application/x-font-ghostscript
+  ext: .gsf
+  mimetypes:
+  - application/x-font-ghostscript
+  name: ''
+- categories: other
+  default_mime: application/x-pkcs7-certificates
+  ext: .p7b
+  mimetypes:
+  - application/x-pkcs7-certificates
+  name: ''
+- categories: other
+  default_mime: application/x-pkcs7-certificates
+  ext: .spc
+  mimetypes:
+  - application/x-pkcs7-certificates
+  name: ''
+- categories: audio
+  default_mime: application/x-mscardfile
+  ext: .crd
+  mimetypes:
+  - application/x-mscardfile
+  name: ''
+- categories: video
+  default_mime: video/webm
+  ext: .webm
+  mimetypes:
+  - video/webm
+  name: WebM Video
+- categories: code
+  default_mime: text/x-pascal
+  ext: .p
+  mimetypes:
+  - text/x-pascal
+  name: Pascal Source Code
+- categories: code
+  default_mime: text/x-pascal
+  ext: .pas
+  mimetypes:
+  - text/x-pascal
+  name: Pascal Source Code
+- categories: code
+  default_mime: text/x-pascal
+  ext: .pp
+  mimetypes:
+  - text/x-pascal
+  name: Pascal Source Code
+- categories: code
+  default_mime: text/x-pascal
+  ext: .inc
+  mimetypes:
+  - text/x-pascal
+  name: Pascal Source Code
+- categories: documents
+  default_mime: application/vnd.wordperfect
+  ext: .wpd
+  mimetypes:
+  - application/vnd.wordperfect
+  name: ''
+- categories: code
+  default_mime: application/mathematica
+  ext: .ma
+  mimetypes:
+  - application/mathematica
+  name: Mathematica
+- categories: code
+  default_mime: application/mathematica
+  ext: .mb
+  mimetypes:
+  - application/mathematica
+  name: Mathematica
+- categories: code
+  default_mime: application/mathematica
+  ext: .nb
+  mimetypes:
+  - application/mathematica
+  name: Mathematica
+- categories: video
+  default_mime: video/mpeg
+  ext: .m1v
+  mimetypes:
+  - video/mpeg
+  name: MPEG Video
+- categories: video
+  default_mime: video/mpeg
+  ext: .m2v
+  mimetypes:
+  - video/mpeg
+  name: MPEG Video
+- categories: video
+  default_mime: video/mpeg
+  ext: .mpa
+  mimetypes:
+  - video/mpeg
+  name: MPEG Video
+- categories: video
+  default_mime: video/mpeg
+  ext: .mpe
+  mimetypes:
+  - video/mpeg
+  name: MPEG Video
+- categories: video
+  default_mime: video/mpeg
+  ext: .mpeg
+  mimetypes:
+  - video/mpeg
+  name: MPEG Video
+- categories: video
+  default_mime: video/mpeg
+  ext: .mpg
+  mimetypes:
+  - video/mpeg
+  name: MPEG Video
+- categories: images
+  default_mime: image/emf
+  ext: .emf
+  mimetypes:
+  - image/emf
+  name: ''
+- categories: data
+  default_mime: application/vnd.ms-excel.sheet.binary.macroenabled.12
+  ext: .xlsb
+  mimetypes:
+  - application/vnd.ms-excel.sheet.binary.macroenabled.12
+  name: ''
+- categories: audio
+  default_mime: audio/x-aiff
+  ext: .aif
+  mimetypes:
+  - audio/x-aiff
+  name: AIFF Audio
+- categories: audio
+  default_mime: audio/x-aiff
+  ext: .aifc
+  mimetypes:
+  - audio/x-aiff
+  name: AIFF Audio
+- categories: audio
+  default_mime: audio/x-aiff
+  ext: .aiff
+  mimetypes:
+  - audio/x-aiff
+  name: AIFF Audio
+- categories: images
+  default_mime: image/vnd.adobe.photoshop
+  ext: .psd
+  mimetypes:
+  - image/vnd.adobe.photoshop
+  name: Photoshop Image
+- categories: data
+  default_mime: chemical/x-cif
+  ext: .cif
+  mimetypes:
+  - chemical/x-cif
+  name: ''
+- categories: images
+  default_mime: image/x-3ds
+  ext: .3ds
+  mimetypes:
+  - image/x-3ds
+  name: ''
+- categories: other
+  default_mime: application/vnd.groove-tool-template
+  ext: .tpl
+  mimetypes:
+  - application/vnd.groove-tool-template
+  name: ''
+- categories: video
+  default_mime: video/x-m4v
+  ext: .m4v
+  mimetypes:
+  - video/x-m4v
+  - audio/mp4
+  name: MPEG-4 Video
+- categories: other
+  default_mime: message/rfc822
+  ext: .eml
+  mimetypes:
+  - message/rfc822
+  name: ''
+- categories: other
+  default_mime: message/rfc822
+  ext: .mht
+  mimetypes:
+  - message/rfc822
+  name: ''
+- categories: other
+  default_mime: message/rfc822
+  ext: .mhtml
+  mimetypes:
+  - message/rfc822
+  name: ''
+- categories: other
+  default_mime: message/rfc822
+  ext: .mime
+  mimetypes:
+  - message/rfc822
+  name: ''
+- categories: other
+  default_mime: message/rfc822
+  ext: .nws
+  mimetypes:
+  - message/rfc822
+  name: ''
+- categories: archives
+  default_mime: application/java-archive
+  ext: .jar
+  mimetypes:
+  - application/java-archive
+  name: ''
+- categories: images
+  default_mime: application/x-msmetafile
+  ext: .wmf
+  mimetypes:
+  - application/x-msmetafile
+  name: Enhanced Metafile
+- categories: images
+  default_mime: image/heic
+  ext: .heif
+  mimetypes:
+  - image/heic
+  name: ''
+- categories: images
+  default_mime: image/heic
+  ext: .heic
+  mimetypes:
+  - image/heic
+  name: ''
+- categories: documents
+  default_mime: application/vnd.ms-xpsdocument
+  ext: .xps
+  mimetypes:
+  - application/vnd.ms-xpsdocument
+  name: ''
+- categories: images
+  default_mime: application/x-font-ttf
+  ext: .ttc
+  mimetypes:
+  - application/x-font-ttf
+  name: ''
+- categories: images
+  default_mime: application/x-font-ttf
+  ext: .ttf
+  mimetypes:
+  - application/x-font-ttf
+  name: ''
+- categories: other
+  default_mime: application/vnd.lotus-notes
+  ext: .nsf
+  mimetypes:
+  - application/vnd.lotus-notes
+  name: Notes Storage Facility
+- categories: documents
+  default_mime: application/xhtml+xml
+  ext: .xht
+  mimetypes:
+  - application/xhtml+xml
+  name: ''
+- categories: documents
+  default_mime: application/xhtml+xml
+  ext: .xhtml
+  mimetypes:
+  - application/xhtml+xml
+  name: ''
+- categories: documents
+  default_mime: application/x-troff-man
+  ext: .man
+  mimetypes:
+  - application/x-troff-man
+  - text/troff
+  name: ''
+- categories: documents
+  default_mime: text/troff
+  ext: .me
+  mimetypes:
+  - text/troff
+  name: ''
+- categories: documents
+  default_mime: text/troff
+  ext: .ms
+  mimetypes:
+  - text/troff
+  name: ''
+- categories: documents
+  default_mime: text/troff
+  ext: .roff
+  mimetypes:
+  - text/troff
+  name: ''
+- categories: documents
+  default_mime: text/troff
+  ext: .t
+  mimetypes:
+  - text/troff
+  name: ''
+- categories: documents
+  default_mime: text/troff
+  ext: .tr
+  mimetypes:
+  - text/troff
+  name: ''
+- categories: data
+  default_mime: application/sparql-query
+  ext: .rq
+  mimetypes:
+  - application/sparql-query
+  name: ''
+- categories: other
+  default_mime: text/prs.lines.tag
+  ext: .dsc
+  mimetypes:
+  - text/prs.lines.tag
+  name: ''
+- categories: other
+  default_mime: application/vnd.publishare-delta-tree
+  ext: .qps
+  mimetypes:
+  - application/vnd.publishare-delta-tree
+  name: ''
+- categories: images
+  default_mime: image/jp2
+  ext: .jp2
+  mimetypes:
+  - image/jp2
+  name: JPEG-2000 Image
+- categories: video
+  default_mime: video/x-matroska
+  ext: .mkv
+  mimetypes:
+  - video/x-matroska
+  name: ''
+- categories: other
+  default_mime: text/vnd.fmi.flexstor
+  ext: .flx
+  mimetypes:
+  - text/vnd.fmi.flexstor
+  name: ''
+- categories: other
+  default_mime: audio/basic
+  ext: .au
+  mimetypes:
+  - audio/basic
+  name: ''
+- categories: other
+  default_mime: audio/basic
+  ext: .snd
+  mimetypes:
+  - audio/basic
+  name: ''
+- categories: other
+  default_mime: application/vnd.pg.format
+  ext: .str
+  mimetypes:
+  - application/vnd.pg.format
+  name: ''
+- categories: documents
+  default_mime: application/vnd.ms-word.document.macroenabled.12
+  ext: .docm
+  mimetypes:
+  - application/vnd.ms-word.document.macroenabled.12
+  name: ''
+- categories: code
+  default_mime: application/x-tcl
+  ext: .tcl
+  mimetypes:
+  - application/x-tcl
+  name: ''
+- categories: other
+  default_mime: application/vnd.enliven
+  ext: .nml
+  mimetypes:
+  - application/vnd.enliven
+  name: ''
+- categories: other
+  default_mime: application/vnd.ecowin.chart
+  ext: .mag
+  mimetypes:
+  - application/vnd.ecowin.chart
+  name: ''
+- categories: other
+  default_mime: application/vnd.americandynamics.acc
+  ext: .acc
+  mimetypes:
+  - application/vnd.americandynamics.acc
+  name: ''
+- categories: other
+  default_mime: text/calendar
+  ext: .ics
+  mimetypes:
+  - text/calendar
+  name: ''
+- categories: other
+  default_mime: text/calendar
+  ext: .ifb
+  mimetypes:
+  - text/calendar
+  name: ''
+- categories: video
+  default_mime: video/ogg
+  ext: .ogv
+  mimetypes:
+  - video/ogg
+  name: OGG Video
+- categories: data
+  default_mime: application/xml-dtd
+  ext: .dtd
+  mimetypes:
+  - application/xml-dtd
+  name: ''
+- categories: documents
+  default_mime: application/vnd.oasis.opendocument.chart
+  ext: .odc
+  mimetypes:
+  - application/vnd.oasis.opendocument.chart
+  name: ''
+- categories: audio
+  default_mime: audio/x-ms-wma
+  ext: .wma
+  mimetypes:
+  - audio/x-ms-wma
+  name: ''
+- categories: other
+  default_mime: application/vnd.koan
+  ext: .skd
+  mimetypes:
+  - application/vnd.koan
+  name: ''
+- categories: other
+  default_mime: application/vnd.koan
+  ext: .skm
+  mimetypes:
+  - application/vnd.koan
+  name: ''
+- categories: other
+  default_mime: application/vnd.koan
+  ext: .skp
+  mimetypes:
+  - application/vnd.koan
+  name: ''
+- categories: other
+  default_mime: application/vnd.koan
+  ext: .skt
+  mimetypes:
+  - application/vnd.koan
+  name: ''
+- categories: images
+  default_mime: image/vnd.fst
+  ext: .fst
+  mimetypes:
+  - image/vnd.fst
+  name: ''
+- categories: images
+  default_mime: image/webp
+  ext: .webp
+  mimetypes:
+  - image/webp
+  name: ''
+- categories: other
+  default_mime: application/x-dtbresource+xml
+  ext: .res
+  mimetypes:
+  - application/x-dtbresource+xml
+  name: ''
+- categories: other
+  default_mime: model/vrml
+  ext: .vrml
+  mimetypes:
+  - model/vrml
+  name: ''
+- categories: other
+  default_mime: model/vrml
+  ext: .wrl
+  mimetypes:
+  - model/vrml
+  name: ''
+- categories: other
+  default_mime: application/vnd.dna
+  ext: .dna
+  mimetypes:
+  - application/vnd.dna
+  name: ''
+- categories: other
+  default_mime: application/x-gtar
+  ext: .gtar
+  mimetypes:
+  - application/x-gtar
+  name: ''
+- categories: other
+  default_mime: application/vnd.epson.ssf
+  ext: .ssf
+  mimetypes:
+  - application/vnd.epson.ssf
+  name: ''
+- categories: other
+  default_mime: application/pgp-signature
+  ext: .asc
+  mimetypes:
+  - application/pgp-signature
+  name: ''
+- categories: other
+  default_mime: application/pgp-signature
+  ext: .sig
+  mimetypes:
+  - application/pgp-signature
+  name: ''
+- categories: other
+  default_mime: application/vnd.llamagraphics.life-balance.exchange+xml
+  ext: .lbe
+  mimetypes:
+  - application/vnd.llamagraphics.life-balance.exchange+xml
+  name: ''
+- categories: other
+  default_mime: application/x-wais-source
+  ext: .src
+  mimetypes:
+  - application/x-wais-source
+  name: ''
+- categories: other
+  default_mime: application/vnd.sun.xml.calc.template
+  ext: .stc
+  mimetypes:
+  - application/vnd.sun.xml.calc.template
+  name: ''
+- categories: other
+  default_mime: application/pkcs7-signature
+  ext: .p7s
+  mimetypes:
+  - application/pkcs7-signature
+  name: ''
+- categories: other
+  default_mime: application/x-director
+  ext: .cct
+  mimetypes:
+  - application/x-director
+  name: ''
+- categories: other
+  default_mime: application/x-director
+  ext: .cst
+  mimetypes:
+  - application/x-director
+  name: ''
+- categories: other
+  default_mime: application/x-director
+  ext: .cxt
+  mimetypes:
+  - application/x-director
+  name: ''
+- categories: other
+  default_mime: application/x-director
+  ext: .dcr
+  mimetypes:
+  - application/x-director
+  name: ''
+- categories: other
+  default_mime: application/x-director
+  ext: .dir
+  mimetypes:
+  - application/x-director
+  name: ''
+- categories: other
+  default_mime: application/x-director
+  ext: .dxr
+  mimetypes:
+  - application/x-director
+  name: ''
+- categories: other
+  default_mime: application/x-director
+  ext: .fgd
+  mimetypes:
+  - application/x-director
+  name: ''
+- categories: other
+  default_mime: application/x-director
+  ext: .swa
+  mimetypes:
+  - application/x-director
+  name: ''
+- categories: other
+  default_mime: application/x-director
+  ext: .w3d
+  mimetypes:
+  - application/x-director
+  name: ''
+- categories: documents
+  default_mime: application/vnd.ms-htmlhelp
+  ext: .chm
+  mimetypes:
+  - application/vnd.ms-htmlhelp
+  name: ''
+- categories: documents
+  default_mime: application/x-mspublisher
+  ext: .pub
+  mimetypes:
+  - application/x-mspublisher
+  name: ''
+- categories: documents
+  default_mime: application/x-font-type1
+  ext: .afm
+  mimetypes:
+  - application/x-font-type1
+  name: ''
+- categories: documents
+  default_mime: application/x-font-type1
+  ext: .pfa
+  mimetypes:
+  - application/x-font-type1
+  name: ''
+- categories: documents
+  default_mime: application/x-font-type1
+  ext: .pfb
+  mimetypes:
+  - application/x-font-type1
+  name: ''
+- categories: documents
+  default_mime: application/x-font-type1
+  ext: .pfm
+  mimetypes:
+  - application/x-font-type1
+  name: ''
+- categories: data
+  default_mime: text/x-yaml
+  ext: .yaml
+  mimetypes:
+  - text/x-yaml
+  - application/yaml
+  name: ''
+- categories: data
+  default_mime: text/x-yaml
+  ext: .yml
+  mimetypes:
+  - text/x-yaml
+  - application/yaml
+  name: ''
+- categories: other
+  default_mime: audio/vnd.dts
+  ext: .dts
+  mimetypes:
+  - audio/vnd.dts
+  name: ''
+- categories: code
+  default_mime: text/php
+  ext: .php
+  mimetypes:
+  - text/php
+  name: PHP Source Code
+- categories: other
+  default_mime: application/vnd.dynageo
+  ext: .geo
+  mimetypes:
+  - application/vnd.dynageo
+  name: ''
+- categories: video
+  default_mime: audio/mp4
+  ext: .m4a
+  mimetypes:
+  - audio/mp4
+  name: MPEG-4 Audio
+- categories: video
+  default_mime: audio/mp4
+  ext: .m4b
+  mimetypes:
+  - audio/mp4
+  name: MPEG-4 Audio
+- categories: video
+  default_mime: audio/mp4
+  ext: .m4p
+  mimetypes:
+  - audio/mp4
+  name: MPEG-4 Audio
+- categories: video
+  default_mime: audio/mp4
+  ext: .m4r
+  mimetypes:
+  - audio/mp4
+  name: MPEG-4 Audio
+- categories: video
+  default_mime: audio/mp4
+  ext: .3gp
+  mimetypes:
+  - audio/mp4
+  - video/3gpp
+  name: MPEG-4 Audio
+- categories: video
+  default_mime: audio/mp4
+  ext: .3g2
+  mimetypes:
+  - audio/mp4
+  name: MPEG-4 Audio
+- categories: video
+  default_mime: audio/mp4
+  ext: .3ga
+  mimetypes:
+  - audio/mp4
+  name: MPEG-4 Audio
+- categories: video
+  default_mime: audio/mp4
+  ext: .3gpa
+  mimetypes:
+  - audio/mp4
+  name: MPEG-4 Audio
+- categories: video
+  default_mime: audio/mp4
+  ext: .3gpp
+  mimetypes:
+  - audio/mp4
+  name: MPEG-4 Audio
+- categories: video
+  default_mime: audio/mp4
+  ext: .3gpp2
+  mimetypes:
+  - audio/mp4
+  name: MPEG-4 Audio
+- categories: video
+  default_mime: audio/mp4
+  ext: .3gp2
+  mimetypes:
+  - audio/mp4
+  name: MPEG-4 Audio
+- categories: other
+  default_mime: application/java-serialized-object
+  ext: .ser
+  mimetypes:
+  - application/java-serialized-object
+  name: Java Serialized Object
+- categories: images
+  default_mime: image/vnd.microsoft.icon
+  ext: .ico
+  mimetypes:
+  - image/vnd.microsoft.icon
+  - image/x-icon
+  name: ''
+- categories: code
+  default_mime: text/x-asm
+  ext: .asm
+  mimetypes:
+  - text/x-asm
+  name: ''
+- categories: code
+  default_mime: text/x-asm
+  ext: .s
+  mimetypes:
+  - text/x-asm
+  name: ''
+- categories: video
+  default_mime: video/x-flv
+  ext: .flv
+  mimetypes:
+  - video/x-flv
+  name: ''
+- categories: other
+  default_mime: model/iges
+  ext: .iges
+  mimetypes:
+  - model/iges
+  name: ''
+- categories: other
+  default_mime: model/iges
+  ext: .igs
+  mimetypes:
+  - model/iges
+  name: ''
+- categories: code
+  default_mime: application/x-python-code
+  ext: .pyc
+  mimetypes:
+  - application/x-python-code
+  name: ''
+- categories: code
+  default_mime: application/x-python-code
+  ext: .pyo
+  mimetypes:
+  - application/x-python-code
+  name: ''
+- categories: other
+  default_mime: application/x-stuffit
+  ext: .sit
+  mimetypes:
+  - application/x-stuffit
+  name: ''
+- categories: other
+  default_mime: chemical/x-cdx
+  ext: .cdx
+  mimetypes:
+  - chemical/x-cdx
+  name: ''
+- categories: other
+  default_mime: model/mesh
+  ext: .mesh
+  mimetypes:
+  - model/mesh
+  name: ''
+- categories: other
+  default_mime: model/mesh
+  ext: .msh
+  mimetypes:
+  - model/mesh
+  name: ''
+- categories: other
+  default_mime: model/mesh
+  ext: .silo
+  mimetypes:
+  - model/mesh
+  name: ''
+- categories: ''
+  default_mime: application/vnd.lotus-organizer
+  ext: .org
+  mimetypes:
+  - application/vnd.lotus-organizer
+  name: ''
+- categories: documents
+  default_mime: application/vnd.openxmlformats-officedocument.spreadsheetml.template
+  ext: .xltx
+  mimetypes:
+  - application/vnd.openxmlformats-officedocument.spreadsheetml.template
+  name: ''
+- categories: ''
+  default_mime: application/vnd.ms-fontobject
+  ext: .eot
+  mimetypes:
+  - application/vnd.ms-fontobject
+  name: ''
+- categories: documents
+  default_mime: application/xslt+xml
+  ext: .xslt
+  mimetypes:
+  - application/xslt+xml
+  name: ''
+- categories: other
+  default_mime: application/mbox
+  ext: .mbox
+  mimetypes:
+  - application/mbox
+  name: ''
+- categories: ''
+  default_mime: application/vnd.mcd
+  ext: .mcd
+  mimetypes:
+  - application/vnd.mcd
+  name: ''
+- categories: ''
+  default_mime: application/vnd.proteus.magazine
+  ext: .mgz
+  mimetypes:
+  - application/vnd.proteus.magazine
+  name: ''
+- categories: ''
+  default_mime: application/vnd.mobius.daf
+  ext: .daf
+  mimetypes:
+  - application/vnd.mobius.daf
+  name: ''
+- categories: ''
+  default_mime: application/vnd.eszigno3+xml
+  ext: .es3
+  mimetypes:
+  - application/vnd.eszigno3+xml
+  name: ''
+- categories: ''
+  default_mime: application/vnd.eszigno3+xml
+  ext: .et3
+  mimetypes:
+  - application/vnd.eszigno3+xml
+  name: ''
+- categories: ''
+  default_mime: application/vnd.epson.msf
+  ext: .msf
+  mimetypes:
+  - application/vnd.epson.msf
+  name: ''
+- categories: documents
+  default_mime: application/vnd.openxmlformats-officedocument.presentationml.slideshow
+  ext: .ppsx
+  mimetypes:
+  - application/vnd.openxmlformats-officedocument.presentationml.slideshow
+  name: ''
+- categories: documents
+  default_mime: application/epub+zip
+  ext: .epub
+  mimetypes:
+  - application/epub+zip
+  name: ''
+- categories: documents
+  default_mime: application/vnd.oasis.opendocument.presentation
+  ext: .odp
+  mimetypes:
+  - application/vnd.oasis.opendocument.presentation
+  name: ''
+- categories: ''
+  default_mime: application/x-ms-wmz
+  ext: .wmz
+  mimetypes:
+  - application/x-ms-wmz
+  name: ''
+- categories: code
+  default_mime: application/vnd.android.package-archive
+  ext: .apk
+  mimetypes:
+  - application/vnd.android.package-archive
+  name: ''
+- categories: code
+  default_mime: application/x-csh
+  ext: .csh
+  mimetypes:
+  - application/x-csh
+  name: ''
+- categories: ''
+  default_mime: application/vnd.ibm.rights-management
+  ext: .irm
+  mimetypes:
+  - application/vnd.ibm.rights-management
+  name: ''
+- categories: video
+  default_mime: audio/x-mpegurl
+  ext: .m3u
+  mimetypes:
+  - audio/x-mpegurl
+  name: ''
+- categories: ''
+  default_mime: application/x-shar
+  ext: .shar
+  mimetypes:
+  - application/x-shar
+  name: ''
+- categories: ''
+  default_mime: application/vnd.chemdraw+xml
+  ext: .cdxml
+  mimetypes:
+  - application/vnd.chemdraw+xml
+  name: ''
+- categories: ''
+  default_mime: image/cgm
+  ext: .cgm
+  mimetypes:
+  - image/cgm
+  name: ''
+- categories: ''
+  default_mime: application/vnd.rim.cod
+  ext: .cod
+  mimetypes:
+  - application/vnd.rim.cod
+  name: ''
+- categories: images
+  default_mime: text/vnd.graphviz
+  ext: .gv
+  mimetypes:
+  - text/vnd.graphviz
+  name: ''
+- categories: ''
+  default_mime: application/cu-seeme
+  ext: .cu
+  mimetypes:
+  - application/cu-seeme
+  name: ''
+- categories: documents
+  default_mime: application/vnd.openxmlformats-officedocument.wordprocessingml.template
+  ext: .dotx
+  mimetypes:
+  - application/vnd.openxmlformats-officedocument.wordprocessingml.template
+  name: ''
+- categories: ''
+  default_mime: application/x-dvi
+  ext: .dvi
+  mimetypes:
+  - application/x-dvi
+  name: ''
+- categories: documents
+  default_mime: application/x-latex
+  ext: .latex
+  mimetypes:
+  - application/x-latex
+  name: ''
+- categories: ''
+  default_mime: audio/x-matroska
+  ext: .mka
+  mimetypes:
+  - audio/x-matroska
+  name: ''
+- categories: ''
+  default_mime: application/mxf
+  ext: .mxf
+  mimetypes:
+  - application/mxf
+  name: ''
+- categories: ''
+  default_mime: application/x-perl
+  ext: .pm
+  mimetypes:
+  - application/x-perl
+  name: ''
+- categories: ''
+  default_mime: application/x-perl
+  ext: .pl
+  mimetypes:
+  - application/x-perl
+  name: ''
+- categories: ''
+  default_mime: application/vnd.ms-powerpoint.presentation.macroenabled.12
+  ext: .pptm
+  mimetypes:
+  - application/vnd.ms-powerpoint.presentation.macroenabled.12
+  name: ''
+- categories: ''
+  default_mime: application/vnd.stardivision.draw
+  ext: .sda
+  mimetypes:
+  - application/vnd.stardivision.draw
+  name: ''
+- categories: code
+  default_mime: application/wsdl+xml
+  ext: .wsdl
+  mimetypes:
+  - application/wsdl+xml
+  name: ''
+- categories: documents
+  default_mime: application/x-abiword
+  ext: .abw
+  mimetypes:
+  - application/x-abiword
+  name: ''
+- categories: ''
+  default_mime: application/x-ms-application
+  ext: .application
+  mimetypes:
+  - application/x-ms-application
+  name: ''
+- categories: ''
+  default_mime: application/applixware
+  ext: .aw
+  mimetypes:
+  - application/applixware
+  name: ''
+- categories: ''
+  default_mime: application/vnd.ms-pki.seccat
+  ext: .cat
+  mimetypes:
+  - application/vnd.ms-pki.seccat
+  name: ''
+- categories: ''
+  default_mime: image/x-cmx
+  ext: .cmx
+  mimetypes:
+  - image/x-cmx
+  name: ''
+- categories: documents
+  default_mime: text/x-rst
+  ext: .rst
+  mimetypes:
+  - text/x-rst
+  name: reStructuredText
+- categories: ''
+  default_mime: application/vnd.chipnuts.karaoke-mmd
+  ext: .mmd
+  mimetypes:
+  - application/vnd.chipnuts.karaoke-mmd
+  name: ''
+- categories: ''
+  default_mime: application/vnd.oasis.opendocument.database
+  ext: .odb
+  mimetypes:
+  - application/vnd.oasis.opendocument.database
+  name: ''
+- categories: ''
+  default_mime: application/x-font-otf
+  ext: .otf
+  mimetypes:
+  - application/x-font-otf
+  name: ''
+- categories: ''
+  default_mime: image/x-portable-graymap
+  ext: .pgm
+  mimetypes:
+  - image/x-portable-graymap
+  name: Graymap Image
+- categories: ''
+  default_mime: application/x-font-linux-psf
+  ext: .psf
+  mimetypes:
+  - application/x-font-linux-psf
+  name: ''
+- categories: ''
+  default_mime: application/vnd.rn-realmedia
+  ext: .rm
+  mimetypes:
+  - application/vnd.rn-realmedia
+  name: ''
+- categories: ''
+  default_mime: application/vnd.stardivision.writer
+  ext: .sdw
+  mimetypes:
+  - application/vnd.stardivision.writer
+  name: ''
+- categories: ''
+  default_mime: application/vnd.stardivision.writer
+  ext: .vor
+  mimetypes:
+  - application/vnd.stardivision.writer
+  name: ''
+- categories: ''
+  default_mime: application/x-stuffitx
+  ext: .sitx
+  mimetypes:
+  - application/x-stuffitx
+  name: ''
+- categories: ''
+  default_mime: application/smil+xml
+  ext: .smi
+  mimetypes:
+  - application/smil+xml
+  name: ''
+- categories: ''
+  default_mime: application/smil+xml
+  ext: .smil
+  mimetypes:
+  - application/smil+xml
+  name: ''
+- categories: ''
+  default_mime: application/x-font-snf
+  ext: .snf
+  mimetypes:
+  - application/x-font-snf
+  name: ''
+- categories: ''
+  default_mime: application/hyperstudio
+  ext: .stk
+  mimetypes:
+  - application/hyperstudio
+  name: ''
+- categories: ''
+  default_mime: application/vnd.claymore
+  ext: .cla
+  mimetypes:
+  - application/vnd.claymore
+  name: ''
+- categories: ''
+  default_mime: chemical/x-cml
+  ext: .cml
+  mimetypes:
+  - chemical/x-cml
+  name: ''
+- categories: ''
+  default_mime: application/vnd.novadigm.ext
+  ext: .ext
+  mimetypes:
+  - application/vnd.novadigm.ext
+  name: ''
+- categories: ''
+  default_mime: image/g3fax
+  ext: .g3
+  mimetypes:
+  - image/g3fax
+  name: ''
+- categories: ''
+  default_mime: application/vnd.geogebra.file
+  ext: .ggb
+  mimetypes:
+  - application/vnd.geogebra.file
+  name: ''
+- categories: ''
+  default_mime: application/vnd.hp-hps
+  ext: .hps
+  mimetypes:
+  - application/vnd.hp-hps
+  name: ''
+- categories: ''
+  default_mime: application/vnd.iccprofile
+  ext: .icc
+  mimetypes:
+  - application/vnd.iccprofile
+  name: ''
+- categories: ''
+  default_mime: application/vnd.iccprofile
+  ext: .icm
+  mimetypes:
+  - application/vnd.iccprofile
+  name: ''
+- categories: ''
+  default_mime: application/x-mobipocket-ebook
+  ext: .mobi
+  mimetypes:
+  - application/x-mobipocket-ebook
+  name: ''
+- categories: ''
+  default_mime: application/x-mobipocket-ebook
+  ext: .prc
+  mimetypes:
+  - application/x-mobipocket-ebook
+  name: ''
+- categories: ''
+  default_mime: application/vnd.apple.installer+xml
+  ext: .mpkg
+  mimetypes:
+  - application/vnd.apple.installer+xml
+  name: ''
+- categories: ''
+  default_mime: application/vnd.fdsn.mseed
+  ext: .mseed
+  mimetypes:
+  - application/vnd.fdsn.mseed
+  name: ''
+- categories: ''
+  default_mime: model/vnd.mts
+  ext: .mts
+  mimetypes:
+  - model/vnd.mts
+  name: ''
+- categories: ''
+  default_mime: application/vnd.recordare.musicxml
+  ext: .mxl
+  mimetypes:
+  - application/vnd.recordare.musicxml
+  name: ''
+- categories: ''
+  default_mime: application/x-dtbncx+xml
+  ext: .ncx
+  mimetypes:
+  - application/x-dtbncx+xml
+  name: ''
+- categories: ''
+  default_mime: application/oebps-package+xml
+  ext: .opf
+  mimetypes:
+  - application/oebps-package+xml
+  name: ''
+- categories: ''
+  default_mime: application/vnd.oasis.opendocument.spreadsheet-template
+  ext: .ots
+  mimetypes:
+  - application/vnd.oasis.opendocument.spreadsheet-template
+  name: ''
+- categories: ''
+  default_mime: application/x-pkcs12
+  ext: .p12
+  mimetypes:
+  - application/x-pkcs12
+  name: ''
+- categories: ''
+  default_mime: application/x-pkcs12
+  ext: .pfx
+  mimetypes:
+  - application/x-pkcs12
+  name: ''
+- categories: ''
+  default_mime: application/x-font-pcf
+  ext: .pcf
+  mimetypes:
+  - application/x-font-pcf
+  name: ''
+- categories: ''
+  default_mime: image/x-pict
+  ext: .pct
+  mimetypes:
+  - image/x-pict
+  name: ''
+- categories: ''
+  default_mime: image/x-pict
+  ext: .pic
+  mimetypes:
+  - image/x-pict
+  name: ''
+- categories: ''
+  default_mime: application/vnd.stardivision.impress
+  ext: .sdd
+  mimetypes:
+  - application/vnd.stardivision.impress
+  name: ''
+- categories: ''
+  default_mime: application/vnd.stardivision.math
+  ext: .smf
+  mimetypes:
+  - application/vnd.stardivision.math
+  name: ''
+- categories: ''
+  default_mime: application/x-futuresplash
+  ext: .spl
+  mimetypes:
+  - application/x-futuresplash
+  name: ''
+- categories: ''
+  default_mime: application/scvp-vp-request
+  ext: .spq
+  mimetypes:
+  - application/scvp-vp-request
+  name: ''
+- categories: ''
+  default_mime: application/vnd.sun.xml.writer.template
+  ext: .stw
+  mimetypes:
+  - application/vnd.sun.xml.writer.template
+  name: ''
+- categories: ''
+  default_mime: application/vnd.trueapp
+  ext: .tra
+  mimetypes:
+  - application/vnd.trueapp
+  name: ''
+- categories: ''
+  default_mime: application/vnd.visio
+  ext: .vsd
+  mimetypes:
+  - application/vnd.visio
+  name: ''
+- categories: ''
+  default_mime: application/vnd.visio
+  ext: .vss
+  mimetypes:
+  - application/vnd.visio
+  name: ''
+- categories: ''
+  default_mime: application/vnd.visio
+  ext: .vst
+  mimetypes:
+  - application/vnd.visio
+  name: ''
+- categories: ''
+  default_mime: application/vnd.visio
+  ext: .vsw
+  mimetypes:
+  - application/vnd.visio
+  name: ''
+- categories: ''
+  default_mime: application/vnd.visio
+  ext: .vsdx
+  mimetypes:
+  - application/vnd.visio
+  name: ''
+- categories: ''
+  default_mime: application/vnd.visio
+  ext: .vssx
+  mimetypes:
+  - application/vnd.visio
+  name: ''
+- categories: ''
+  default_mime: application/vnd.visio
+  ext: .vstx
+  mimetypes:
+  - application/vnd.visio
+  name: ''
+- categories: ''
+  default_mime: application/vnd.visio
+  ext: .vssm
+  mimetypes:
+  - application/vnd.visio
+  name: ''
+- categories: ''
+  default_mime: application/vnd.visio
+  ext: .vstm
+  mimetypes:
+  - application/vnd.visio
+  name: ''
+- categories: data
+  default_mime: application/vnd.ms-excel.template.macroenabled.12
+  ext: .xltm
+  mimetypes:
+  - application/vnd.ms-excel.template.macroenabled.12
+  name: ''
+- categories: ''
+  default_mime: text/vnd.in3d.3dml
+  ext: .3dml
+  mimetypes:
+  - text/vnd.in3d.3dml
+  name: ''
+- categories: ''
+  default_mime: text/richtext
+  ext: .rtx
+  mimetypes:
+  - text/richtext
+  name: Rich Text Format
+- categories: data
+  default_mime: application/bson
+  ext: .bson
+  mimetypes:
+  - application/bson
+  name: ''
+- categories: data
+  default_mime: application/vnd.hdt
+  ext: .hdt
+  mimetypes:
+  - application/vnd.hdt
+  name: ''
+- categories: data
+  default_mime: application/jsonl
+  ext: .jsonl
+  mimetypes:
+  - application/jsonl
+  name: ''
+- categories: data
+  default_mime: application/x-ndjson
+  ext: .ndjson
+  mimetypes:
+  - application/x-ndjson
+  name: ''
+- categories: data
+  default_mime: application/vnd.apache.parquet
+  ext: .parquet
+  mimetypes:
+  - application/vnd.apache.parquet
+  name: ''

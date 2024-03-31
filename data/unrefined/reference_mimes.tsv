@@ -1,0 +1,833 @@
+mime	name	exts	default_mime	default_ext	categories	count
+image/jpeg		.jpe,.jpeg,.jpg,.pjpg,.jfif,.jfif-tbnl,.jif		.jpg	images	1636644
+text/plain		.txt,.text		.txt	documents	1418539
+text/html		.htm,.html		html	documents	1229544
+text/xml		.xml		.xml	data	991687
+application/vnd.geospace	.g3w	.g3w	geodata	
+text/csv		.csv		.csv	data	864525
+application/pdf		.pdf		.pdf	documents	799814
+image/tiff		.tif,.tiff		.tif	images	581189
+application/vnd.ogc.wms_xml		.wms		.wms	geodata	539684
+application/octet-stream		.bin				536684
+application/json		.json		.json	data	499432
+application/vnd.google-earth.kml+xml		.kml		.kml	geodata	471345
+image/png		.png		.png	images	410402
+application/zip		.zip		.zip	archives	336661
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet		.xlsx		.xlsx	data	290443
+text/tab-separated-values		.tsv		.tsv	data	224341
+text/xml; subtype=gml/3.1.1		.gml		.gml	geodata	185813
+text/xml; subtype=gml/2.1.2		.gml		.gml	geodata	175827
+text/xml; subtype=gml/3.2		.gml		.gml	geodata	175755
+application/vnd.google-earth.kmz		.kmz	application/vnd.google-earth.kml+xml	.kmz	geodata	170728
+image/gif		.gif		.gif	images	169721
+image/svg+xml		.svg,.svgz		.svg	images	165179
+application/atom+xml		.atom		.atom	data	163491
+image/geotiff		.geotiff		.geotiff	geodata,images	163399
+image/geotiff8		.tif,.tiff	image/tiff	.geotiff	geodata,images	163399
+image/tiff8		.tif,.tiff	image/tiff	.tif	images	163399
+application/xml		.xml,.xpdl,.xsl	text/xml	.xml,.xpdl,.xsl	data	156265
+application/vnd.geo+json		.geojson		.geojson	geodata	145192
+image/png; mode=8bit		.png	image/png	.png	images	133941
+application/vnd.google-earth.kml+xml;mode=networklink		.kml	application/vnd.google-earth.kml+xml	.kml	geodata	133235
+text/html; subtype=openlayers		.html	text/html	.html	documents	131902
+application/rss+xml		.rss,.xml		.rss	data	131158
+application/gml+xml; version=3.2		.gml		.gml	geodata	129421
+application/vnd.google-earth.kml xml		.kml	application/vnd.google-earth.kml+xml	.kml	geodata	125506
+application/json;type=utfgrid		.json	application/json	.json	geodata	125433
+image/vnd.jpeg-png		.png	image/png	.png	images	125174
+application/vnd.ms-excel		.xla,.xlb,.xlc,.xlm,.xls,.xlt,.xlw		.xls	data	108583
+text/html; subtype=openlayers3		.html	text/html	.html	documents	106539
+text/html; subtype=openlayers2		.html	text/html	.html	documents	106539
+application/x-netcdf		.cdf,.nc		.nc	data	101624
+image/vnd.jpeg-png8		.png	image/png	.png	images	98550
+application/rdf+xml		.rdf		.rdf	semweb	76270
+application/dicom		.dcm		.dcm	images	76032
+text/x-fixed-field		.dat		.dat	data	51869
+application/matlab-mat		.mat		.mat	data	48467
+application/gzip		.gz,.tgz		.gz	archives	47643
+text/plain; charset=US-ASCII		.txt	text/plain	.txt	documents	41229
+application/json;type=geojson		.geojson	application/vnd.geo+json	.geojson	geodata	37786
+application/json;type=topojson		.topojson		.topojson	geodata	37786
+application/vnd.mapbox-vector-tile		.mvt		.mvt	geodata	37254
+application/x-gzip		.gz,.tgz	application/gzip	.gz	archives	36908
+application/x-stata-syntax		.do		.do	code	35336
+text/javascript		.js		.js	code	31255
+application/geo+json		.geojson	application/vnd.geo+json	.geojson	geodata	30549
+image/png8		.png	image/png	.png	images	29524
+type/x-r-syntax		.r		.r	code	28725
+application/vnd.openxmlformats-officedocument.wordprocessingml.document		.docx		.docx	documents	28347
+application/fits		.fits		.fits	images	27445
+application/vnd.mif		.mif		.mif	geodata	26271
+audio/midi		.kar,.mid,.midi,.rmi		.mid	audio	26270
+application/netcdf		.netcdf		.nc	data	25116
+audio/prs.sid		.sid		.sid	geodata	24780
+application/msword		.doc,.dot,.wiz		.docx	documents	23714
+application/x-hdf		.hdf		.hdf5	data	20150
+text/x-matlab		.m		.m	code	18691
+application/mp4		.mp4s,.mp4		.mp4	video	15887
+chemical/x-xyz		.xyz		.xyz	geodata	15372
+application/x-gpkg		.gpkg		.gpkg	geodata	15241
+image/fits		.fits	application/fits	.fits	images	14334
+image/x-adobe-dng		.dng		.dng	images	13360
+video/mp4		.mp4,.mp4v,.mpg4		.mp4	video	13227
+application/stac+json		.json	application/json	.json	geodata	12857
+application/x-stata					data	12183
+application/vnd.sdmx.data+csv; charset=utf-8; labels=both		.csv	text/csv	.csv	data,statistics	12062
+application/zipped-shapefile		.shp		.shp	geodata	11835
+application/prj		.prj		.prj	geodata	11547
+application/geopackage+sqlite3		.gpkg	application/x-gpkg	.gpkg	geodata	10231
+text/comma-separated-values		.csv	text/csv	.csv	data	10038
+application/dbf		.dbf		.dbf	data	10034
+application/x-tar		.tar		.tar	archives	9645
+image/x-ms-bmp		.bmp		.bmp	images	9552
+application/x-rlang-transport		.rdata		.rdata	data	9316
+text/tsv		.tsv	text/tab-separated-values	.tsv	data	8740
+audio/x-wav		.wav		.wav	audio	8589
+application/x-hdf5		.hdf5		.hdf5	data	8454
+application/shp		.shp		.shp	geodata	8278
+application/shx		.shx		.shx	geodata	8112
+audio/vnd.wave		.wav	audio/x-wav	.wav	audio	7786
+application/vnd.oasis.opendocument.spreadsheet		.ods		.ods	data	7194
+image/bmp		.bmp		.bmp	images	7064
+application/x-tex		.tex		.tex	documents	6506
+application/gml+xml		.gml		.gml	geodata	6400
+text/x-python		.py		.py	code	6309
+audio/wav		.wav	audio/x-wav	.wav	audio	6150
+audio/mpeg		.m2a,.m3a,.mp2,.mp2a,.mp3,.mpga		.mp3	video	5921
+text/pc-axis		.px		.px	statistics	5892
+application/x-spss-sav		.sav		.sav	data	5581
+application/x-sql		.sql		.sqlite	data	5359
+application/x-sqlite3		.db,.sqlite,.sqlite3,.db-wal,.sqlite-wal,.db-shm,.sqlite-shm		.sqlite	data	5312
+image/arw		.arw	image/arw	.arw	images	5228
+image/nii		.nii		.nii	images	4908
+application/postscript		.ai,.eps,.ps		.ps	documents	4741
+application/x-sas-syntax		.sas		.sas	code	4625
+application/x-msdos-program		.exe		.exe	other	4495
+application/vnd.ms-pki.stl		.stl		.stl	data	4416
+application/vnd.palm		.oprc,.pdb,.pqa		.pdb	data	4094
+text/wms		.wms		.wms	geodata	4069
+video/quicktime		.mov,.qt		.mov	video	3990
+application/x-rar-compressed		.rar		.rar	archives	3712
+application/x-h5		.hdf5	application/x-hdf5	.hdf5	data	3623
+video/mpeg4		.mp4	video/mp4	.mp4	video	3618
+application/x-7z-compressed		.7z		.7z	archves	3361
+application/x-bzip2		.boz,.bz2		.boz,.bz2	archives	3291
+application/x-stata-ado		.ado		.ado	images	3269
+image/vnd.dxf		.dxf		.dxf	images	3256
+video/x-msvideo		.avi,.wmv		.avi	video	3096
+application/vnd.openxmlformats-officedocument.presentationml.presentation		.pptx		.pptx	documents	3033
+application/x-spss-syntax		.sps		.sps	data	3006
+application/x-zip-compressed		.zip		.zip	archives	3003
+text/x-stata-syntax; charset=US-ASCII		.do	application/x-stata-syntax	.do	code	2850
+text/markdown		.md,.markdown,.mdown,.markdn		.md	documents	2845
+application/vnd.isac.fcs		.fcs		.fcs	data	2722
+audio/x-wave		.wav	audio/x-wav	.wav	audio	2719
+application/x-matlab-data		.mat		.mat	data	2718
+application/vnd.antix.game-component		.atx		.atx	other	2562
+application/vnd.pc-axis		.px		.px	statistics,data	2504
+application/x-xfig		.fig		.fig	images	2458
+application/vnd.sdmx.data+csv; labels=both; charset=utf-8		.csv	text/csv	.csv	data	2392
+text/turtle		.turtle		.turtle	semweb,data	2366
+application/vnd.flographit		.gph		.gph	images	2255
+image/bil		.bil		.bil	images	2204
+image/dds		.dds		.dds	images	2204
+text/x-sas-syntax		.sas		.sas	code	2113
+application/sbn	ESRI Spatial Index	.sbn		.sbn	geodata	2100
+application/sbx	ESRI Spatial Index	.sbx		.sbx	geodata	2091
+application/x-qgis	QGIS Project	.qgs		.qgs	geodata	2051
+application/vnd.ogc.fg+json		.json	application/json	.json	geodata	2044
+application/x-filegdb	.gdb	.gdb	data	
+text/csv+extended		.csv	text/csv	.csv	data	1949
+text/plain; charset=UTF-8		.txt	text/plain	.txt	documents	1865
+text/x-c		.c,.cc,.cpp,.cxx,.dic,.h,.hh		.c	code	1791
+application/rtf		.rtf		.rtf	documents	1787
+text/xml-graphml	GraphML Network Data	.graphml		.graphml	data	1776
+application/vnd.ms-excel.sheet.macroenabled.12		.xlsm		.xlsm	data	1740
+application/x-stata-14						1722
+application/vnd.shana.informed.formtemplate		.itp		.itp	documents	1712
+audio/ogg		.oga,.ogg,.spx		.ogg	audio	1711
+application/x-thermo-isodat						1650
+video/avi		.avi	video/x-msvideo	.avi	video	1508
+application/x-ipynb+json		.ipynb		.ipynb	code	1496
+application/x-beyond2020		.ivt		.ivt	statistics	1405
+application/x-protobuf;type=mapbox-vector		.protobud		.protobuf	geodata	1319
+application/x-shockwave-flash		.swf		.swf	video	1310
+text/x-java-source		.java		.java	code	1260
+application/vnd.sun.xml.math		.sxm		.sxm	data	1213
+text/x-fortran		.f,.f77,.f90,.for		.f	code	1204
+application/html		.html	text/html	.html	documents	1196
+application/mac-compactpro		.cpt		.cpt	archives	1179
+application/x-compressed-tar		.tar.gz		.tar.gz	archives	1093
+text/x-spss-syntax; charset=US-ASCII						1092
+image/pjpeg		.jpe,.jpeg,.jpg,.pjpg,.jfi,.jfif,.jfif-tbnl,.jif	image/jpeg	.jpg	images	1061
+text/x-vcard		.vcf		.vcf	other	1047
+application/x-bzip		.bz		.bz	archives	1029
+application/x-compressed		.gz	application/gzip	.gz	archives	1022
+application/rar		.rar	application/x-rar-compressed	.rar	archives	1022
+application/javascript		.js	text/javascript	.js	archives	1017
+application/vnd.tcpdump.pcap		.pcap		.pcap	other	1012
+application/x-tika-msoffice						1010
+application/vnd.lotus-approach		.apr		.apr	documents	979
+application/x-msdownload		.bat,.com,.dll,.exe,.msi		.exe	software	972
+application/x-sh		.sh		.sh	code	935
+model/vnd.vtu		.vtu		.vtu	other	893
+application/x-spss-por						893
+application/x-msaccess		.mdb		.mdb	data	873
+image/vnd.dwg		.dwg		.dwg	geodata	866
+application/x-stata-smcl						858
+text/plain;charset=UTF-8		.txt	text/plain	.txt	documents	857
+video/h264		.h264		.h264	video	856
+text/x-objcsrc					code	814
+application/x-sas-system						813
+application/winhlp		.hlp		.hlp	documents	807
+image/dng		.dng	image/x-adobe-dng	.dng	images	798
+application/xls						774
+text/x-python-script		.py	text/x-python	.py	code	771
+text/rtf		.rtf		.rtf	documents	746
+application/vnd.ms-powerpoint		.pot,.ppa,.pps,.ppt,.pwz		.ppt	documents	736
+text/x-log						714
+image/x-freehand		.fh,.fh4,.fh5,.fh7,.fhc		.fh	images	707
+text/x-stata-syntax		.do	application/x-stata-syntax	.do	code	688
+text/x-r-notebook					code	665
+application/x-font-bdf		.bdf		.bdf	images	630
+application/vnd.ogc.ows						622
+application/java-vm		.class		.class	code	616
+application/x-matlab-workspace						614
+image/raw		.raw		.raw	images	612
+application/excel		.xls		.xls	data	601
+application/vnd.lotus-1-2-3		.123		.123	documents	598
+application/x-stata-13						587
+text/css		.css		.css	code	585
+application/ld+json						568
+application/marc		.mrc		.mrc	data	564
+text/n3		.n3		.n3	semweb	553
+text/x-r-source		.r	type/x-r-syntax	.r	code	534
+image/x-sony-arw		.arw		.arw	images	518
+application/x-tgif						515
+image/dicom-rle		.drle		.drle	images	512
+application/vnd.ms-ims		.ims		.ims	other	502
+application/vnd.ms-excel.sheet.macroEnabled.12		.xlsm		.xlsm	data	494
+application/vnd.ogc.wfs_xml	.wfs	.wfs	geodata			486
+application/cnt						475
+application/x-xz		.xz		.xz	archives	445
+application/x-iso9660-image		.iso,.isoimg,.cdr		.iso	archives	444
+application/warc		.warc		.warc	data	439
+application/vnd.oasis.opendocument.text		.odt		.odt	documents	413
+application/flatgeobuf						412
+application/x-font-ghostscript		.gsf		.gsf	images	406
+application/x-pkcs7-certificates		.p7b,.spc		.p7b	other	383
+application/csv		.csv	text/csv	.csv	data	365
+text/x-spss-syntax						344
+text/x-sas-syntax; charset=US-ASCII						334
+audio/x-aac						333
+application/x-mscardfile		.crd		.crd	audio	321
+video/webm		.webm		.webm	video	317
+application/vndms-excel						298
+text/x-pascal		.p,.pas,.pp,.inc		.pas	code	291
+image/x-png		.png	image/png	.png	images	282
+application/vnd.rar		.rar	application/x-rar-compressed	.rar	archives	281
+application/vnd.wordperfect		.wpd		.wpd	documents	269
+application/gpx+xml						263
+application/mathematica		.ma,.mb,.nb		.ma	code	258
+image/x-tiff		.tiff,.tif	image/tiff	.tif	images	257
+video/mpeg		.m1v,.m2v,.mpa,.mpe,.mpeg,.mpg		.mp4	video	249
+image/emf		.emf		.emf	images	231
+application/vnd.ms-excel.sheet.binary.macroenabled.12		.xlsb		.xlsb	data	230
+application/x-shapefile		.shp		.shp	geodata	222
+image/x-apple-ios-png		.png	image/png	.png	images	207
+audio/x-aiff		.aif,.aifc,.aiff		.aif	audio	185
+application/x-sas						184
+text/plain;charset=US-ASCII		.txt,.text	text/plain	.txt,.text	documents	182
+text/x-r-markdown						177
+application/unknown						176
+text/vnd.ascii-art						172
+text/html; charset=utf-8		.html		.html	documents	169
+image/vnd.adobe.photoshop		.psd		.psd	images	168
+application/x-research-info-systems						161
+application/x-rar		.rar	application/x-rar-compressed	.rar	archives	160
+application/x-sas-data						159
+application/vnd.realvnc.bed						154
+text/json		.json	application/json	.json	data	153
+application/biosequence.fasta						149
+text/x-rsrc						146
+text/x-sh		.sh		.sh	code	145
+application/txt						144
+application/vnd.ms-excel.sheet.binary.macroEnabled.12						142
+chemical/x-cif		.cif		.cif	data	139
+chemical/x-pdb						138
+application/msaccess						134
+application/vnd.shp+zip						134
+application/Data Viewer						132
+image/x-3ds		.3ds		.3ds	images	130
+application/vnd.groove-tool-template		.tpl		.tpl	other	130
+video/x-m4v		.m4v		.m4v	video	125
+application/x-shellscript		.sh		.sh	code	122
+audio/mp3						119
+application/vnd.api+json						116
+application/acad						113
+audio/x-m4a						109
+message/rfc822		.eml,.mht,.mhtml,.mime,.nws		.eml	other	107
+chemical/x-mdl-sdfile						105
+application/java-archive		.jar		.jar	archives	102
+model/x3d+xml						102
+application/vnd.wolfram.mathematica.package						102
+text/html;charset=utf-8						100
+application/x-msmetafile		.wmf		.wmf	images	99
+image/heic		.heif,.heic		.heif,.heic	images	98
+application/vnd.ms-xpsdocument		.xps		.jp2	documents	96
+text/rdf+xml						94
+text/plain; charset=utf-8						94
+appliation/zip						94
+text/wfs						93
+application/x-stata-dta						92
+application/x-font-ttf		.ttc,.ttf		.ttf	images	90
+application/vnd.lotus-notes		.nsf		.nsf	other	89
+application/CDFV2						89
+application/xhtml+xml		.xht,.xhtml		.xht	documents	87
+video/x-ms-wmv		.wmv		.wmv	video	84
+application/x-troff-man		.man		.man	documents	81
+application/pgp-keys						78
+text/troff		.man,.me,.ms,.roff,.t,.tr		.man	documents	76
+application/sparql-query		.rq		.rq	data	76
+text/pdf		.pdf		.pdf	documents	75
+text/x-tex						73
+application/vnd.shp						72
+application/x-dbf						70
+text/prs.lines.tag		.dsc		.dsc	other	69
+application/vnd.publishare-delta-tree		.qps		.qps	other	66
+application/api						66
+image/jp2		.jp2		.jp2	images	65
+video/x-matroska		.mkv		.mkv	video	65
+application/x-iwork-keynote-sffkey						63
+application/x-swc						63
+text/vnd.fmi.flexstor		.flx		.flx	other	62
+dwg/dxf						61
+application/text						61
+application/x-troff						60
+audio/x-flac						60
+application/download						59
+audio/basic		.au,.snd		.au	other	58
+application/vnd.pg.format		.str		.str	other	58
+application/vnd.ms-word.document.macroenabled.12		.docm		.docm	documents	57
+application/x-tcl		.tcl		.tcl	code	56
+application/x-graphpad-prism-pzfx						56
+application/x-yaml						56
+application/vnd.enliven		.nml		.nml	other	54
+application/x-matroska						54
+text/vcard						53
+application/vnd.ecowin.chart		.mag		.mag	other	52
+application/dat						52
+application/vnd.americandynamics.acc		.acc		.acc	other	51
+application/pjnz						51
+text/x-comma-separated-values						50
+application/x-sas-catalog						50
+text/tab	.tab	.tab	data			48
+application/x-fasta						48
+text/calendar		.ics,.ifb		.ics	other	47
+video/ogg		.ogv		.ogv	video	46
+application/softgrid-do						46
+application/xml-dtd		.dtd		.dtd	data	45
+application/x-matlab-figure						45
+application/vnd.oasis.opendocument.chart		.odc		.odc	documents	43
+audio/x-ms-wma		.wma		.wma	audio	43
+application/x-r-data						43
+application/vnd.ogc.wmc						43
+application/csv; charset=utf-8						43
+text/html; charset=UTF-8						42
+application/vnd.koan		.skd,.skm,.skp,.skt		.skd	other	41
+application/x-zipped-shp						41
+application/x-emf						41
+multipart/x-zip						40
+application/x-gameboy-rom						40
+application/x-esri-shape						40
+application/p21						39
+application/icms						39
+application/x-json-hypothesis						38
+text/sis						37
+application/sla						37
+image/vnd.fst		.fst		.fst	images	36
+application/xcap-diff+xml						36
+audio/wave						35
+image/webp		.webp		.webp	images	34
+application/x-bibtex-text-file						34
+application/x-dtbresource+xml		.res		.res	other	33
+model/vrml		.vrml,.wrl		.vml	other	33
+application/shapefile						33
+application/nappdf						33
+application/x-msexcel						33
+application/blender						32
+image/x-panasonic-rw						32
+application/vnd.openxmlformats-officedocument.presentationml.pre						32
+application/x-tar-compressed						32
+application/vnd.dna		.dna		.dna	other	30
+application/x-gtar		.gtar		.gtar	other	30
+application/vnd.epson.ssf		.ssf		.ssf	other	30
+application/opensearchdescription+xml						30
+application/macbinary						29
+application/vnd.shx						29
+application/pgp-signature		.asc,.sig		.sig	other	27
+application/x-webarchive						27
+application/x-aportisdoc						27
+application/WMS						27
+text/x-markdown		.md,.markdown,.mdown,.markdn	text/markdown	.md	documents	26
+text/x-spss-syntax; charset=UTF-8						26
+text/x-web-markdown						26
+application/pkix-attr-cert						26
+audio/mod						26
+application/x-ms-shortcut						25
+xml/soap						25
+application/vnd.llamagraphics.life-balance.exchange+xml		.lbe		.lbe	other	24
+application/x-wais-source		.src		.src	other	24
+application/vnd.openxmlformats						24
+image/rwl						24
+application/vnd.wolfram.nb						24
+application/vnd.sun.xml.calc.template		.stc		.stc	other	23
+application/x-123						23
+application/x-font-woff						23
+application/pkcs7-signature		.p7s		.p7s	other	22
+application/x-dbase						22
+application/x-director		.cct,.cst,.cxt,.dcr,.dir,.dxr,.fgd,.swa,.w3d			other	21
+application/vnd.ms-htmlhelp		.chm		.chm	documents	21
+application/x-mspublisher		.pub		.pub	documents	21
+application/x-zip		.zip		.zip	archives	21
+application/x-spss-sps						21
+application/vnd.ogc.wmts_xml	.wmts	.wmts	geodata			21
+application/x-font-type1		.afm,.pfa,.pfb,.pfm		.afm	documents	20
+text/x-yaml		.yaml,.yml		.yaml	data	20
+text/x-uri						20
+application/rat-file						20
+audio/vnd.dts		.dts		.dts	other	19
+text/php		.php		.php	code	19
+application/yaml		.yaml,.yml		.yaml	data	19
+application/n-triples						19
+application/json; charset=utf-8						19
+application/morphographx.mgxm						19
+application/x-download						19
+video/vnd.dlna.mpeg-tts					video	19
+application/x-jmp-data						19
+application/vnd.dynageo		.geo			other	18
+audio/mp4		.mp4,.m4a,.m4b,.m4p,.m4r,.m4v,.mp4v,.3gp,.3g2,.3ga,.3gpa,.3gpp,.3gpp2,.3gp2		.mp4	video	18
+text/html; charset=iso-8859-1						18
+text/directory						18
+application/vnd						18
+application/fdt+xml						18
+text/x-r-doc						17
+text/x-c++src						17
+application/vnd.wm.igor.pxp						17
+application/sql						17
+application/vnd.google-apps.document						17
+application/x-sas-transport						17
+application/java-serialized-object		.ser			other	16
+text/x-bibtex						16
+application/vnd.openxmlformats-officedocument.wordprocessingml.d						16
+application/x-pdf						16
+audio/audible						16
+application/wms						16
+application/vnd.ogc.csw.capabilities.response_xml	.csw	.csw	geodata			16
+image/vnd.microsoft.icon		.ico		.ico	images	15
+text/x-asm		.asm,.s		.asm	code	15
+application/Groundwater Level Data Viewer						15
+video/x-flv		.flv		.flv	video	14
+model/iges		.iges,.igs		.igs	other	14
+application/x-python-code		.pyc,.pyo		.pyc	code	14
+text/rdf						14
+text/x-perl-script						14
+application/x-cfs-compressed						14
+chemical/x-gamess-input						14
+application/x-sas-log						14
+multipart/mixed						14
+application/x-iwork-keynote-sffnumbers						14
+application/xlsx						14
+application/x-bibtex						14
+image/jpg						14
+application/x-archive						14
+image/png;charset=UTF-8		.png	image/png	.png	images	13
+application/x-stuffit		.sit		.sit	other	13
+text/x-makefile						13
+text/x-expect						13
+application/x-docker-file						13
+chemical/x-cdx		.cdx			other	12
+model/mesh		.mesh,.msh,.silo		.mesh	other	12
+image/svg		.svg		.svg	images	12
+text/x-jmp-script						12
+text/html; charset="utf-8"						12
+application/aspx						12
+application/vnd.google-earth						12
+chemical/x-mopac-input						12
+application/vnd.snapgene.dna						12
+application/x-jmp-report						12
+application/vnd.wolfram.mathematica						12
+application/vnd.Kinar						12
+image/x-raw-panasonic						12
+image/x-icon		.ico		.ico	images	11
+application/vnd.lotus-organizer		.org				11
+application/vnd.openxmlformats-officedocument.spreadsheetml.template		.xltx		.xltx	documents	11
+text/x-stata-syntax; charset=UTF-8						11
+application/tar						11
+application/x-wine-extension-do						11
+audio/vnd.dlna.adts						11
+application/x-ruby						11
+application/vnd.google-earth.kmz+xml						11
+application/docx						11
+application/vnd.ms-fontobject		.eot				10
+image/tiff; application=geotiff		.tif,.tiff	image/tiff	.tif	images	10
+text/html; subtype=emikat						10
+application/jsv						10
+video/x-smv					video	10
+audio/x-ape						10
+application/vnd.ms-office						10
+application/x-itunes-itlp						10
+application/xls; charset=utf-8						10
+application/xml;charset=UTF-8						10
+application/vnd.openxmlformats-officedocument.spreadsheetml.shee						10
+application/xslt+xml		.xslt		.xslt	documents	9
+text/asp						9
+text/x-qml						9
+text/x-julia						9
+application/force-download						9
+text/JSON						9
+test/42						9
+zip/shp						9
+application/wfs						9
+biosequence/fasta						9
+application/x-tika-ooxml						9
+application/haansoftdocx						9
+application/WMTS						9
+application/xml+gml						9
+application/PDF						9
+application/mbox		.mbox		.mbox	other	8
+application/vnd.mcd		.mcd				8
+text/x-common-lisp						8
+application/vnd.ms-pkistl						8
+binary/octet-stream						8
+image/x-lwo						8
+application/vnd.inquisit.data						8
+chemical/seq-na-genbank						8
+application/x-sas-output						8
+application/vnd.ms-access						8
+image/x-eps						8
+application/vnd.proteus.magazine		.mgz				7
+application/>octet-stream						7
+application/x-apple-diskimage						7
+image/x-hdr						7
+application/x-javascript						7
+application/rpki-ghostbusters						7
+application/mx20						7
+application/nx						7
+application/vnd.mobius.daf		.daf		.daf		6
+application/vnd.sqlite3		.db,.sqlite,.sqlite3,.db-wal,.sqlite-wal,.db-shm,.sqlite-shm	application/x-sqlite3	.sqlite	data	6
+application/vnd.eszigno3+xml		.es3,.et3		.es3		6
+application/vnd.epson.msf		.msf				6
+application/vnd.openxmlformats-officedocument.presentationml.slideshow		.ppsx		.ppsx	documents	6
+text/x-chdr						6
+text/HTML						6
+image/example						6
+application/x-Research-Info-Systems						6
+application/xqgis						6
+model/example						6
+application/tsv						6
+application/kmz						6
+application/x-iwork-numbers-sffnumbers						6
+application/vnd.afpc.modca-overlay						6
+chemical/x-embl-dl-nucleotide						6
+application/WFS						6
+application/x-turtle						6
+application/7-zip						6
+application/epub+zip		.epub		.epub	documents	5
+application/vnd.oasis.opendocument.presentation		.odp		.odp	documents	5
+application/x-ms-wmz		.wmz		.wmz		5
+text/x-haxe						5
+text/xml;charset=UTF-8						5
+application/json;charset=UTF-8						5
+image/x-tga						5
+application/vnd.ms-officetheme						5
+application/nc						5
+application/vnd.multiad.creator.cif						5
+application/x-python						5
+text/x-sql						5
+text/csv;charset=UTF-8						5
+application/x-esri-crs						5
+application/vnd.ms-outlook						5
+application/x-gzip-compressed						5
+application/x-rss+xml						5
+application/vnd.dbf						5
+application/mx22						5
+chemical/x-sdlfile						5
+application/x-stata-do						5
+application/x-applix-spreadsheet						5
+application/x-endnote-connect						5
+application/x-r-project						5
+application/vnd.android.package-archive		.apk		.apk	code	4
+application/x-csh		.csh		.csh	code	4
+application/gpkg		.gpkg	application/x-gpkg	.gpkg	geodata	4
+application/vnd.ibm.rights-management		.irm				4
+audio/x-mpegurl		.m3u		.m3u	video	4
+application/x-shar		.shar				4
+text/xlsx						4
+text/SGML						4
+application/x-lzh-compressed						4
+application/viplab+json						4
+text/x-patch						4
+application/illustrator						4
+application/vnd.arinc						4
+application/x-photoshop						4
+chemical/x-molfile						4
+video/example					video	4
+document/unknown						4
+text/x-perl						4
+application/xhdf5						4
+unknown/unknown						4
+application/x-executable						4
+application/x-sharedlib						4
+application/x-ole-storage						4
+application/x-ns-proxy-autoconfig						4
+application/vndams-excel						4
+application/ppt						4
+application/vnd.pmi.widget						4
+chemical/x-cerius						4
+application/x-dna						4
+application/x-fasta+txt						4
+application/vnd.chemdraw+xml		.cdxml				3
+image/cgm		.cgm				3
+application/vnd.rim.cod		.cod				3
+text/vnd.graphviz		.gv		.gv	images	3
+application/cu-seeme		.cu				3
+application/vnd.openxmlformats-officedocument.wordprocessingml.template		.dotx		.dotx	documents	3
+application/x-dvi		.dvi				3
+application/x-latex		.latex		.latex	documents	3
+audio/x-matroska		.mka				3
+application/mxf		.mxf				3
+application/x-perl		.pm,.pl				3
+Image/png		.png	image/png	.png	images	3
+application/vnd.ms-powerpoint.presentation.macroenabled.12		.pptm				3
+application/vnd.stardivision.draw		.sda				3
+application/wsdl+xml		.wsdl		.wsdl	code	3
+text/x-c++hdr						3
+text/zip						3
+application/rest						3
+application/x-dosexec						3
+text/gml+xml						3
+application/softgrid-7z						3
+application/asx						3
+test/csv						3
+application/x-octet-stream						3
+text/x-sfv						3
+application/nvivo-project						3
+application/x-chimera						3
+application/a-qgis						3
+apploication/vnd.ms-excel						3
+application/text-plain:formatted						3
+application/vnd.ms-excel.template.macroEnabled.12						3
+application/vnd.google-apps.map						3
+application/softgrid-sps						3
+tesxt/json						3
+application/Data Download						3
+application/png						3
+application/x-graphpad-prism-pzf						3
+application/haansofthwp						3
+application/xqis						3
+application/ascii						3
+application/vnd.snesdev-page-table						3
+application/shapefiles						3
+audio/x-ms-wmv						3
+image/x-applix-graphics						3
+application/json+gzip						3
+application/x-msi						3
+application/dsb						3
+application/x-abiword		.abw		.abw	documents	2
+application/x-ms-application		.application				2
+application/applixware		.aw				2
+application/vnd.ms-pki.seccat		.cat				2
+image/x-cmx		.cmx				2
+text/x-rst		.rst		.rst	documents	2
+application/vnd.chipnuts.karaoke-mmd		.mmd				2
+application/vnd.oasis.opendocument.database		.odb				2
+application/x-font-otf		.otf				2
+image/x-portable-graymap		.pgm				2
+application/x-font-linux-psf		.psf				2
+application/vnd.rn-realmedia		.rm				2
+application/vnd.stardivision.writer		.sdw,.vor				2
+application/x-stuffitx		.sitx				2
+application/smil+xml		.smi,.smil				2
+application/x-font-snf		.snf				2
+application/hyperstudio		.stk				2
+text/example						2
+text/html; charset=utf-8; charset=utf-8						2
+application/example						2
+application/x-fityk						2
+video/vnd.dece-mp4					video	2
+application/ibooks						2
+text/x-ms-regedit						2
+application/KaluzaAnalysis						2
+application/vnd.openxmlformats-officedocument.wordprocessingml.t						2
+application/wps-office.docx						2
+application/x-python-bytecode						2
+image/tif						2
+application/x-desktop						2
+application/vnd.wolfram.player						2
+text/html;charset=ISO-8859-1						2
+text/nlogo						2
+text/csv; charset=utf-8						2
+text/html;charset=UTF-8						2
+audio/mid						2
+text/htm						2
+application/softgrid-inp						2
+appplication/pdf						2
+image/x-mrsid-image						2
+application/vnd.ms-publisher						2
+text/unknown						2
+application/vnd.clustal.aln						2
+text/vnd.dvb.subtitle						2
+application/x-rtf						2
+text/x-tcl						2
+image/x-emf						2
+applicaton/octet-stream						2
+image/x-wmf						2
+application/vnd.wolfram.cdf						2
+application/rdata						2
+application/htmlf						2
+text/gff3						2
+application/vnd.nexus.nex						2
+text/vtt						2
+audio/x-stm						2
+application/x-pkcs7-crl						2
+text/r						2
+application/x-tex-pk						2
+application/dwg						2
+application/x-trash						2
+image/jpx						2
+model/stl						2
+text/xls						2
+application/twbx						2
+text/x-readme						2
+biosequence/phylip						2
+application/vnd.ms-word.document.12						2
+application/jpeg						2
+application/DCD						2
+application/irp						2
+image/vnd.radiance						2
+audio/x-sd2						2
+application/wordperfect						2
+application/x-osptracker						2
+video/x-dv					video	2
+application/zip; charset=utf-8						2
+video/3gpp		.3gp		.3gp	video	1
+application/vnd.claymore		.cla				1
+chemical/x-cml		.cml				1
+application/vnd.novadigm.ext		.ext				1
+image/g3fax		.g3				1
+application/vnd.geogebra.file		.ggb				1
+application/vnd.hp-hps		.hps				1
+application/vnd.iccprofile		.icc,.icm				1
+application/x-mobipocket-ebook		.mobi,.prc				1
+application/vnd.apple.installer+xml		.mpkg				1
+application/vnd.fdsn.mseed		.mseed				1
+model/vnd.mts		.mts				1
+application/vnd.recordare.musicxml		.mxl				1
+application/x-dtbncx+xml		.ncx				1
+application/oebps-package+xml		.opf				1
+application/vnd.oasis.opendocument.spreadsheet-template		.ots				1
+application/x-pkcs12		.p12,.pfx				1
+application/x-font-pcf		.pcf				1
+image/x-pict		.pct,.pic				1
+application/vnd.stardivision.impress		.sdd				1
+application/vnd.stardivision.math		.smf				1
+application/x-futuresplash		.spl				1
+application/scvp-vp-request		.spq				1
+application/vnd.sun.xml.writer.template		.stw				1
+application/vnd.trueapp		.tra				1
+application/vnd.visio		.vsd,.vss,.vst,.vsw,.vsdx,.vssx,.vstx,.vssm,.vstm				1
+application/vnd.ms-excel.template.macroenabled.12		.xltm		.xltm	data	1
+text/vnd.in3d.3dml		.3dml				1
+text/richtext		.rtx				1
+application/vnd.nitf						1
+application/xhtml+xml;charset=UTF-8						1
+application/mipc						1
+application/haansoftxls						1
+application/zstd						1
+application/x-jdf						1
+application/softgrid-tex						1
+appication/xml						1
+application/nvivo-qdpx-project						1
+application/x-wine-extension-opj						1
+application/attachment						1
+application/gxf						1
+application/x-wtt						1
+application/vnd.ogc.csw_xml						1
+chemical/x-jcamp-dx						1
+application/x-qgis-project-container						1
+text/x-emacs-lisp						1
+application/x-qtiplot						1
+application/wps-office.pdf						1
+application/x-iwork-pages-sffpages						1
+application/x-info						1
+chemical/x-molconn-Z						1
+application/rcp						1
+application/vnd.google-apps.presentation						1
+application/x-raw-disk-image						1
+application/vnd.oma.drm.content						1
+application/vnd.eln+zip						1
+application/x-extension-fcstd						1
+application/x-stata-15						1
+application/x-gtar-compressed						1
+application/vnd.ms-powerpoint.presentation.macroEnabled.12						1
+x-gis/x-shapefile						1
+application/vnd.ms-word						1
+application/x-virtualbox-ova						1
+application/ms-excel						1
+text/x-maximasession						1
+application/font-woff						1
+application/vnd.ms-pdf						1
+application/x-maker						1
+application/x-ms-dos-executable						1
+api/json						1
+text/x-csl						1
+application/x-troff-me						1
+text/html; charset: utf-8; charset=utf-8						1
+text/x-moz-deleted						1
+text/html; charset=us-ascii						1
+application/x-lzh						1
+image/x-xcf						1
+application/x-bzip-compressed-tar						1
+application/haansoftpptx						1
+application/msword-template						1
+application/x-wine-extension-ztt						1
+image/tiff+zip						1
+aplication/vnd.ogc.wms_xml						1
+application/x-httpd-php						1
+multipart/related						1
+application/x-001-compressed						1
+text/calendar;charset=UTF-8						1
+model/x.stl-binary						1
+application/x-endnote-library						1
+application/x-wine-extension-ztq						1
+text/x-troff-me						1
+application/fits-gzipped						1
+chemical/x-vmd						1
+application/x-maple-worksheet						1
+image/pdf						1
+application/x-empty						1
+application/softgrid-rdata						1
+application/x-tar-gz						1
+application/mspowerpoint						1
+application/x-gretldata						1
+model/gltf-binary						1
+application/vnd.sun.xml.base						1
+application/vnd.nokia.n-gage.ac+xml						1
+application/x-compress						1
+image/jpeg2000						1
+chemical/x-fastq						1
+application/x-awk						1
+text/x-sas-syntax;charset=US-ASCII						1
+application/vnd.hal+xml						1
+application/zlib						1
+application/vnd.openxmlformats-officedocument.word						1
+application/oxps						1
+text/x-go						1
+application/mex						1
+application/vnd.ogc.wcs_xml	.wcs	.wcs	geodata			1
+application/bson		.bson		.bson	data	
+application/vnd.hdt		.hdt		.hdt	data	
+application/jsonl		.jsonl		.jsonl	data	
+application/x-ndjson		.ndjson		.ndjson	data	
+application/vnd.apache.parquet		.parquet		.parquet	data	
