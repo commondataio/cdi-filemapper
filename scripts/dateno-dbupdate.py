@@ -56,7 +56,7 @@ class Identifier:
 
 
 def update_by_source(db, uid, identifier):    
-    datasets = db['fulldb'].find({'source.uid' : uid}, {'dataset.id' : 1, 'dataset.formats' : 1, 'resources' : 1, 'source.id' : 1})
+    datasets = db['fulldb'].find({'source.uid' : uid}, {'id' : 1, 'dataset.formats' : 1, 'resources' : 1, 'source.id' : 1})
     n = 0
     identified = 0
     for item in datasets:
@@ -88,7 +88,8 @@ def update_by_source(db, uid, identifier):
                       do_update = True
              out_res.append(r)
         if do_update: 
-            db.fulldb.update_one({'dataset.id': item['dataset']['id']}, {'$set': {'resources': out_res, 'dataset.formats' : formats, 'dataset.datatypes' : datatypes}, }, upsert=False)
+            db.fulldb.update_one({'id': item['id']}, {'$set': {'resources': out_res, 'dataset.formats' : formats, 'dataset.datatypes' : datatypes}, }, upsert=False)
+            print(item['id'])
             print(formats, datatypes) 
 
     print('UID %s, total %d, identified %d' % (uid, n, identified))

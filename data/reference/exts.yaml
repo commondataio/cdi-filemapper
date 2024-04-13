@@ -71,7 +71,6 @@
   default_mime: application/x-filegdb
   mimetypes:
   - application/x-filegdb
-
 - categories: semweb
   ext: .ttl
   name: Terse RDF Triple Language (Turtle)
